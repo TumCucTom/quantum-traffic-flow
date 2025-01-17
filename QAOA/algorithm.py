@@ -62,7 +62,7 @@ def solve_with_qaoa(qp):
 def main():
     # Load the graphs
     mini_graph = load_graph("mini_graph.pkl")
-    max_graph = load_graph("max_graph.pkl")
+    max_graph = load_graph("../graph-prep/max_graph.pkl")
 
     # Ensure both graphs share the same edges for the subset problem
     for u, v in mini_graph.edges:
