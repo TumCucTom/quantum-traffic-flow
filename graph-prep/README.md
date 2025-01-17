@@ -45,7 +45,7 @@ The minor roads CSV should have similar columns, but the coordinates may need to
 
    Example:
    ```bash
-   python create_road_network_graph.py
+   python max-graph-creation.py
    ```
 
 3. **Graph Summary**:
@@ -65,7 +65,7 @@ The minor roads CSV should have similar columns, but the coordinates may need to
 ## File Paths
 Make sure to update the file paths in the script for your specific data files. The paths are set to:
 - `major_roads_csv = "../data/DFT Counts 21-02-2017(MajorRoads).csv"`
-- `minor_roads_csv = "../data/MinorRoads.csv"`
+- `minor_roads_csv = "../data/DFT Counts 21-02-2017(MinorRoads).csv"`
 
 Adjust them based on the actual location of your CSV files.
 

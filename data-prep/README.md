@@ -5,8 +5,8 @@ This script processes two CSV files containing data about major and minor roads.
 ## How It Works
 
 1. **Input Files**: The script expects two CSV files:
-    - `MajorRoads.csv` for major roads data
-    - `MinorRoads.csv` for minor roads data
+    - `../data/DFT Counts 21-02-2017(MajorRoads).csv` for major roads data
+    - `../data/DFT Counts 21-02-2017(MinorRoads).csv` for minor roads data
 
 2. **Data Grouping**: The script combines data from both files based on the `dCount` (date) and `Hour` (time).
 
@@ -23,7 +23,7 @@ This script processes two CSV files containing data about major and minor roads.
     - Make sure the script is in the same directory as the CSV files, or modify the file paths accordingly.
     - Run the script in Python:
       ```bash
-      python process_csv.py
+      python create-time-distinct-data.py
       ```
 
 3. **Output**: The script will create a new directory called `time-date-organised` and store the processed files there. Each file will be named by its unique date and time, e.g., `2003-04-08 7.csv`.
