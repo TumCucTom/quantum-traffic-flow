@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000024,170000,29,North Somerset,3,55,B3130 Barrow Street,PR,7,5,6/26/2000,18,352100,530,13,2,E,LA Boundary,2,434,356290,2000,3,169290,171360,,,354900,47034,A370,1
+1,South West,E06000024,170000,39,North Somerset,3,67,B3130 Barrow Street,PR,5,3,6/26/2000,25,352100,625,13,1,W,LA Boundary,0,511,356290,2000,5,169290,171360,,,354900,47034,A370,4
+0,South West,E06000023,174140,9,"Bristol, City of",0,85,,BU,9,9,6/26/2000,6,,534,13,2,E,,2,422,,2000,0,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,1
+0,South West,E06000023,174140,13,"Bristol, City of",0,87,,BU,14,8,6/26/2000,9,,546,13,2,W,,4,424,,2000,1,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,1

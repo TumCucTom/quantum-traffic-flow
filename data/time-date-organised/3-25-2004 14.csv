@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+13,South West,E06000025,177600,93,South Gloucestershire,10,174,A432,PU,5,6,3/25/2004,45,366070,1225,14,9,N,Emersons Way roundabout,2,947,367460,2004,10,178610,177080,,,367000,99051,A4174,6
+6,South West,E06000025,177600,70,South Gloucestershire,5,139,A432,PU,6,8,3/25/2004,36,366070,1138,14,10,S,Emersons Way roundabout,0,915,367460,2004,10,178610,177080,,,367000,99051,A4174,3
+0,South West,E06000023,176318,1,"Bristol, City of",0,3,,UU,3,0,3/25/2004,1,,61,14,0,N,,1,54,,2004,0,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+0,South West,E06000023,176318,0,"Bristol, City of",0,3,,UU,0,0,3/25/2004,0,,81,14,0,S,,3,78,,2004,0,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0

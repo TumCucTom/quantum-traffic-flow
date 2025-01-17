@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000024,168100,9,North Somerset,1,54,B3130 Barrow Lane,PR,9,8,3/23/2007,3,353281,754,18,1,N,LA Boundary,1,674,356110,2007,2,167124,169240,,,355000,56376,A38,1
+2,South West,E06000024,168100,13,North Somerset,2,53,B3130 Barrow Lane,PR,7,11,3/23/2007,4,353281,791,18,3,S,LA Boundary,0,707,356110,2007,0,167124,169240,,,355000,56376,A38,2
+0,South West,E06000025,182301,1,South Gloucestershire,0,16,,UU,9,3,3/23/2007,1,,470,18,0,N,,0,441,,2007,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0
+0,South West,E06000025,182301,0,South Gloucestershire,0,16,,UU,5,6,3/23/2007,0,,460,18,0,S,,2,433,,2007,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0

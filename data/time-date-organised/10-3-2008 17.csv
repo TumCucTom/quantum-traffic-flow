@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,170000,4,"Bristol, City of",1,45,Kings Head Lane roundabout,PU,5,6,10/3/2008,2,356330,607,17,0,N,Bedminster Rd,12,547,357556,2008,1,169370,170467,,,357200,36410,A38,0
+1,South West,E06000023,170000,9,"Bristol, City of",4,64,Kings Head Lane roundabout,PU,8,14,10/3/2008,4,356330,906,17,0,S,Bedminster Rd,4,811,357556,2008,0,169370,170467,,,357200,36410,A38,0
+0,South West,E06000024,160997,1,North Somerset,0,22,,CU,16,6,10/3/2008,1,,269,17,0,N,,4,224,,2008,0,,,Walliscote Road,,332035,965114,C,0
+0,South West,E06000024,160997,0,North Somerset,0,19,,CU,14,3,10/3/2008,0,,274,17,0,S,,11,238,,2008,0,,,Walliscote Road,,332035,965114,C,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+15,South West,E06000023,172567,40,"Bristol, City of",3,59,Merchants Rd,PU,23,5,5/4/2005,19,357170,492,14,2,E,A38/A4108,5,365,358510,2005,1,172520,172750,,,358000,56135,A4,0
+6,South West,E06000023,172567,19,"Bristol, City of",0,69,Merchants Rd,PU,30,12,5/4/2005,8,357170,513,14,3,W,A38/A4108,8,383,358510,2005,2,172520,172750,,,358000,56135,A4,0
+0,South West,E06000024,163780,1,North Somerset,0,8,,UR,0,3,5/4/2005,1,,50,14,0,E,,0,38,,2005,0,,,Lower Norton Lane,"North of Kewside, Kewstoke",333810,952398,U,0
+0,South West,E06000024,163780,0,North Somerset,0,8,,UR,0,1,5/4/2005,0,,44,14,0,W,,0,35,,2005,0,,,Lower Norton Lane,"North of Kewside, Kewstoke",333810,952398,U,0

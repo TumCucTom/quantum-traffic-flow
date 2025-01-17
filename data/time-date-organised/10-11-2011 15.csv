@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+14,South West,E06000023,172360,73,"Bristol, City of",10,288,A3029 Brunel Lock Road/McAdam Way,PU,30,15,10/11/2011,29,356790,1629,15,3,N,A4 midpoint,3,1223,356860,2011,14,172270,172400,,,356840,58285,A3029,3
+16,South West,E06000023,172360,100,"Bristol, City of",11,263,A3029 Brunel Lock Road/McAdam Way,PU,5,21,10/11/2011,58,356790,1919,15,5,S,A4 midpoint,1,1530,356860,2011,10,172270,172400,,,356840,58285,A3029,0
+0,South West,E06000022,169664,2,Bath and North East Somerset,0,76,,CR,5,4,10/11/2011,2,,510,15,0,N,,0,423,,2011,0,,,LANSDOWN ROAD,"Lansdown, between Hamilton road and college road junctions",372226,946664,C,0
+0,South West,E06000022,169664,1,Bath and North East Somerset,0,48,,CR,2,1,10/11/2011,1,,400,15,0,S,,2,348,,2011,0,,,LANSDOWN ROAD,"Lansdown, between Hamilton road and college road junctions",372226,946664,C,0
+0,South West,E06000023,170896,0,"Bristol, City of",0,1,,UU,0,0,10/11/2011,0,,44,15,0,N,,1,43,,2011,0,,,GORE'S MARSH ROAD,South of Deep Combe Road,357338,946770,U,0
+0,South West,E06000023,170896,0,"Bristol, City of",0,6,,UU,0,0,10/11/2011,0,,38,15,0,S,,0,32,,2011,0,,,GORE'S MARSH ROAD,South of Deep Combe Road,357338,946770,U,0

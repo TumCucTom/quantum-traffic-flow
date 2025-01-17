@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,169310,8,"Bristol, City of",0,75,UU,11,6,4/24/2009,4,456,8,2,N,6,356,2009,1,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0
+1,South West,E06000023,169310,7,"Bristol, City of",0,72,UU,7,1,4/24/2009,5,426,8,1,S,3,339,2009,0,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0
+0,South West,E06000025,190000,1,South Gloucestershire,0,9,CU,1,0,4/24/2009,1,75,8,0,E,1,64,2009,0,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0
+0,South West,E06000025,190000,2,South Gloucestershire,0,1,CU,0,0,4/24/2009,1,71,8,1,W,2,68,2009,0,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0

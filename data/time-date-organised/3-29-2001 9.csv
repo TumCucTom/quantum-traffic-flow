@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000024,169360,37,North Somerset,2,60,Station Road Backwell,PR,13,8,3/29/2001,23,348690,660,9,3,E,B3130,2,542,352100,2001,5,168590,169290,,,351500,27028,A370,0
+9,South West,E06000024,169360,55,North Somerset,7,90,Station Road Backwell,PR,4,3,3/29/2001,25,348690,378,9,3,W,B3130,0,226,352100,2001,6,168590,169290,,,351500,27028,A370,5
+0,South West,E06000023,176318,2,"Bristol, City of",0,4,,UU,0,0,3/29/2001,1,,47,9,0,N,,2,41,,2001,1,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+0,South West,E06000023,176318,0,"Bristol, City of",0,3,,UU,1,0,3/29/2001,0,,32,9,0,S,,0,28,,2001,0,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,182520,31,South Gloucestershire,4,76,roundabout leading to Woodward Avenue,PU,4,4,10/16/2002,21,369600,649,12,0,E,B4060,2,534,371080,2002,5,182440,182520,,,370400,78067,A432,1
+0,South West,E06000025,182520,17,South Gloucestershire,1,89,roundabout leading to Woodward Avenue,PU,6,5,10/16/2002,11,369600,660,12,3,W,B4060,1,543,371080,2002,1,182440,182520,,,370400,78067,A432,1
+0,South West,E06000022,159140,1,Bath and North East Somerset,0,6,,BR,2,0,10/16/2002,1,,39,12,0,E,,0,30,,2002,0,,,Hayeswood Road,,365480,990073,B3115,0
+0,South West,E06000022,159140,2,Bath and North East Somerset,0,12,,BR,2,1,10/16/2002,2,,60,12,0,W,,0,43,,2002,0,,,Hayeswood Road,,365480,990073,B3115,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,161000,8,Bath and North East Somerset,0,21,B3114,PR,2,1,5/6/2003,7,356190,175,11,0,E,A37,2,143,362468,2003,1,156840,161884,,,360000,27026,A368,0
+0,South West,E06000022,161000,8,Bath and North East Somerset,0,35,B3114,PR,0,3,5/6/2003,6,356190,164,11,1,W,A37,0,118,362468,2003,0,156840,161884,,,360000,27026,A368,1
+0,South West,E06000022,161220,3,Bath and North East Somerset,0,14,,CR,0,0,5/6/2003,3,,77,11,0,E,,1,60,,2003,0,,,Walley Lane,Chew Magna - please find a safe place to park,357650,990295,C,0
+1,South West,E06000022,161220,5,Bath and North East Somerset,1,13,,CR,0,0,5/6/2003,3,,76,11,0,W,,3,58,,2003,0,,,Walley Lane,Chew Magna - please find a safe place to park,357650,990295,C,0

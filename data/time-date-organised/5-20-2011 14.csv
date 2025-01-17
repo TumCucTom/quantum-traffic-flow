@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000025,178500,5,South Gloucestershire,0,80,LA Boundary,PU,8,15,5/20/2011,1,359900,690,14,2,N,A4174,27,582,360131,2011,1,178150,178978,,,360000,46407,A38,0
+0,South West,E06000025,178500,18,South Gloucestershire,2,69,LA Boundary,PU,7,15,5/20/2011,7,359900,642,14,3,S,A4174,13,533,360131,2011,2,178150,178978,,,360000,46407,A38,4
+1,South West,E06000025,176130,15,South Gloucestershire,1,30,,BR,0,1,5/20/2011,12,,245,14,1,E,,0,199,,2011,0,,,Shortwood Hill,east of Cattybrook Road,367977,947492,B4465,0
+2,South West,E06000025,176130,26,South Gloucestershire,2,26,,BR,0,2,5/20/2011,14,,280,14,3,W,,1,226,,2011,1,,,Shortwood Hill,east of Cattybrook Road,367977,947492,B4465,4

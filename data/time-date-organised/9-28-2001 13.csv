@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,166610,27,Bath and North East Somerset,0,87,A46,TR,7,6,9/28/2001,20,376670,603,13,2,E,A363,0,476,378540,2001,1,166670,167100,,,377610,99383,A4,3
+2,South West,E06000022,166610,47,Bath and North East Somerset,4,96,A46,TR,5,12,9/28/2001,26,376670,578,13,6,W,A363,0,418,378540,2001,5,166670,167100,,,377610,99383,A4,4
+0,South West,E06000023,176956,0,"Bristol, City of",0,0,,UU,0,2,9/28/2001,0,,16,13,0,E,,1,14,,2001,0,,,Hill Grove,West of the Crescent,358333,966008,U,0
+0,South West,E06000023,176956,0,"Bristol, City of",0,2,,UU,0,2,9/28/2001,0,,23,13,0,W,,0,19,,2001,0,,,Hill Grove,West of the Crescent,358333,966008,U,0

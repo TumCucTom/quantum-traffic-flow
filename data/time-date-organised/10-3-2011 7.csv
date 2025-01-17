@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,162853,25,Bath and North East Somerset,1,135,CU,10,9,10/3/2011,21,688,7,2,E,11,509,2011,0,RUSH HILL,"Rush Hill, Bath",372990,946669,C,0
+0,South West,E06000022,162853,10,Bath and North East Somerset,0,181,CU,7,15,10/3/2011,8,751,7,2,W,3,538,2011,0,RUSH HILL,"Rush Hill, Bath",372990,946669,C,0
+1,South West,E06000025,189580,3,South Gloucestershire,0,23,CU,0,2,10/3/2011,2,183,7,0,E,3,155,2011,0,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,0
+0,South West,E06000025,189580,2,South Gloucestershire,0,15,CU,1,0,10/3/2011,1,98,7,0,W,0,80,2011,0,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,1

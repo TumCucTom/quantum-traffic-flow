@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+9,South West,E06000023,170000,33,"Bristol, City of",1,64,Kings Head Lane roundabout,PU,9,1,5/22/2002,10,356330,487,10,10,E,Bedminster Rd,0,380,357556,2002,1,169370,170467,,,357200,36410,A38,2
+4,South West,E06000023,170000,36,"Bristol, City of",3,55,Kings Head Lane roundabout,PU,11,1,5/22/2002,15,356330,400,10,10,W,Bedminster Rd,1,297,357556,2002,3,169370,170467,,,357200,36410,A38,1
+3,South West,E06000023,172567,29,"Bristol, City of",1,84,Merchants Rd,PU,32,5,5/22/2002,17,357170,545,10,1,E,A38/A4108,3,395,358510,2002,5,172520,172750,,,358000,56135,A4,2
+1,South West,E06000023,172567,30,"Bristol, City of",2,74,Merchants Rd,PU,25,6,5/22/2002,20,357170,428,10,4,W,A38/A4108,8,293,358510,2002,1,172520,172750,,,358000,56135,A4,2
+0,South West,E06000025,177735,0,South Gloucestershire,0,5,,UU,0,0,5/22/2002,0,,30,10,0,E,,0,25,,2002,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0
+0,South West,E06000025,177735,1,South Gloucestershire,0,7,,UU,0,0,5/22/2002,1,,38,10,0,W,,0,30,,2002,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0

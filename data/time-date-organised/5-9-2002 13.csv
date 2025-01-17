@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,172000,9,South Gloucestershire,0,87,A4174,PU,10,10,5/9/2002,9,365520,777,13,0,E,LA Boundary,5,661,363920,2002,0,171490,172570,,,364850,37184,A431,0
+0,South West,E06000025,172000,9,South Gloucestershire,0,69,A4174,PU,9,6,5/9/2002,6,365520,688,13,0,W,LA Boundary,8,595,363920,2002,3,171490,172570,,,364850,37184,A431,0
+0,South West,E06000025,181368,0,South Gloucestershire,0,11,,CU,3,1,5/9/2002,0,,84,13,0,E,,0,69,,2002,0,,,Heron Way,"east of Scott Way, Yate",371737,966016,C,0
+0,South West,E06000025,181368,0,South Gloucestershire,0,14,,CU,3,1,5/9/2002,0,,155,13,0,W,,0,137,,2002,0,,,Heron Way,"east of Scott Way, Yate",371737,966016,C,0

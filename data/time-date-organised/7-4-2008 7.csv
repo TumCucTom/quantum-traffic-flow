@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000025,181600,72,South Gloucestershire,7,93,"B4060 Horse St, Chipping Sodbury",PR,6,10,7/4/2008,43,373410,575,7,7,E,A46,5,394,376289,2008,6,181750,181174,,,375000,57129,A432,3
+3,South West,E06000025,181600,30,South Gloucestershire,6,50,"B4060 Horse St, Chipping Sodbury",PR,2,3,7/4/2008,11,373410,294,7,2,W,A46,1,209,376289,2008,6,181750,181174,,,375000,57129,A432,2
+0,South West,E06000025,178425,0,South Gloucestershire,0,1,,UR,0,0,7/4/2008,0,,6,7,0,N,,0,5,,2008,0,,,CHURCH LANE,south of Moorend Road,365168,947514,U,0
+0,South West,E06000025,178425,0,South Gloucestershire,0,0,,UR,0,0,7/4/2008,0,,1,7,0,S,,0,1,,2008,0,,,CHURCH LANE,south of Moorend Road,365168,947514,U,0
+0,South West,E06000022,159220,2,Bath and North East Somerset,0,15,,UR,0,1,7/4/2008,2,,48,7,0,E,,1,30,,2008,0,,,Station Road,"Clutton, East of A37",362400,952442,U,0
+0,South West,E06000022,159220,1,Bath and North East Somerset,0,20,,UR,0,4,7/4/2008,1,,78,7,0,W,,0,53,,2008,0,,,Station Road,"Clutton, East of A37",362400,952442,U,0

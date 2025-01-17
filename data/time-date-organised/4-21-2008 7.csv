@@ -1,0 +1,11 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,174360,3,"Bristol, City of",0,76,UU,3,9,4/21/2008,1,450,7,2,N,5,359,2008,0,CHARLTON ROAD,North of Ingleside Road,363890,930423,U,0
+0,South West,E06000023,174360,4,"Bristol, City of",1,75,UU,2,4,4/21/2008,1,350,7,2,S,4,265,2008,0,CHARLTON ROAD,North of Ingleside Road,363890,930423,U,0
+0,South West,E06000023,175137,0,"Bristol, City of",0,3,UU,1,0,4/21/2008,0,13,7,0,E,2,9,2008,0,WESTMORELAND ROAD,West of Redland Road,357522,946814,U,0
+0,South West,E06000023,175137,0,"Bristol, City of",0,4,UU,0,0,4/21/2008,0,12,7,0,W,1,8,2008,0,WESTMORELAND ROAD,West of Redland Road,357522,946814,U,0
+0,South West,E06000024,174099,0,North Somerset,0,0,CR,0,0,4/21/2008,0,4,7,0,N,0,4,2008,0,COMMON LANE,Lower Failand,351828,947254,C,0
+0,South West,E06000024,174099,0,North Somerset,0,0,CR,0,0,4/21/2008,0,3,7,0,S,0,3,2008,0,COMMON LANE,Lower Failand,351828,947254,C,0
+0,South West,E06000024,163592,1,North Somerset,0,3,UU,0,1,4/21/2008,1,31,7,0,N,0,26,2008,0,LADYE WAKE,"South of St Marks Road, Worle",335959,947282,U,0
+0,South West,E06000024,163592,1,North Somerset,0,0,UU,1,0,4/21/2008,1,11,7,0,S,0,9,2008,0,LADYE WAKE,"South of St Marks Road, Worle",335959,947282,U,0
+0,South West,E06000025,174897,0,South Gloucestershire,0,0,UU,0,0,4/21/2008,0,7,7,0,E,1,7,2008,0,HILLTOP ROAD,"west of St Stephens Road, Soundwell",364948,947530,U,0
+0,South West,E06000025,174897,0,South Gloucestershire,0,1,UU,0,0,4/21/2008,0,5,7,0,W,3,4,2008,0,HILLTOP ROAD,"west of St Stephens Road, Soundwell",364948,947530,U,0

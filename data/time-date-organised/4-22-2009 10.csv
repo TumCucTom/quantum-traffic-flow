@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,168000,1,"Bristol, City of",0,17,CU,2,0,4/22/2009,0,128,10,1,N,1,108,2009,0,Stockwood Road,,362000,963478,C,0
+0,South West,E06000023,168000,3,"Bristol, City of",0,22,CU,3,0,4/22/2009,2,161,10,1,S,0,133,2009,0,Stockwood Road,,362000,963478,C,0
+0,South West,E06000023,178000,1,"Bristol, City of",0,11,UU,0,0,4/22/2009,1,88,10,0,N,3,76,2009,0,Broadlands Drive,,354100,968103,U,0
+0,South West,E06000023,178000,2,"Bristol, City of",0,8,UU,0,0,4/22/2009,2,73,10,0,S,4,63,2009,0,Broadlands Drive,,354100,968103,U,0

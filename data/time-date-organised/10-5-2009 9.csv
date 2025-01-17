@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,173530,31,"Bristol, City of",1,118,B4467,PU,25,10,10/5/2009,28,361620,740,9,2,E,A431,25,556,362360,2009,0,173530,173630,,,362000,47131,A420,0
+0,South West,E06000023,173530,16,"Bristol, City of",2,106,B4467,PU,16,5,10/5/2009,10,361620,451,9,3,W,A431,6,308,362360,2009,1,173530,173630,,,362000,47131,A420,0
+0,South West,E06000025,193657,1,South Gloucestershire,0,4,,CR,0,0,10/5/2009,0,,19,9,0,E,,0,14,,2009,0,,,N/A,"west of Sundayshill Lane, Rockhampton",365455,979247,C,1
+0,South West,E06000025,193657,1,South Gloucestershire,0,5,,CR,0,0,10/5/2009,1,,22,9,0,W,,0,16,,2009,0,,,N/A,"west of Sundayshill Lane, Rockhampton",365455,979247,C,0

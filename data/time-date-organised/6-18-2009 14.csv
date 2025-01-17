@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,174760,19,South Gloucestershire,0,58,A4175 Station Rd,PR,7,5,6/18/2009,11,366240,487,14,8,E,A4174 Avon Ring Rd,0,398,366580,2009,0,174720,174740,,,366400,77053,A4175,0
+0,South West,E06000025,174760,10,South Gloucestershire,0,79,A4175 Station Rd,PR,3,6,6/18/2009,7,366240,582,14,2,W,A4174 Avon Ring Rd,0,484,366580,2009,1,174720,174740,,,366400,77053,A4175,0
+0,South West,E06000024,161714,3,North Somerset,0,36,,CR,6,2,6/18/2009,2,,230,14,0,N,,0,183,,2009,0,,,Churchland Way,"West of Summer Lane, W-s-M",337333,930447,C,1
+0,South West,E06000024,161714,1,North Somerset,0,15,,CR,2,1,6/18/2009,0,,199,14,0,S,,1,180,,2009,0,,,Churchland Way,"West of Summer Lane, W-s-M",337333,930447,C,1

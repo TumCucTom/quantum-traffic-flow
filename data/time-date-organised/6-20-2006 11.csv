@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,171526,0,North Somerset,0,9,UU,0,0,6/20/2006,0,112,11,0,N,0,103,2006,0,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0
+0,South West,E06000024,171526,0,North Somerset,0,8,UU,0,1,6/20/2006,0,80,11,0,S,0,71,2006,0,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0
+1,South West,E06000025,179740,2,South Gloucestershire,0,30,UU,0,2,6/20/2006,1,171,11,0,N,1,137,2006,0,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,1,South Gloucestershire,0,16,UU,0,0,6/20/2006,1,98,11,0,S,1,81,2006,0,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0

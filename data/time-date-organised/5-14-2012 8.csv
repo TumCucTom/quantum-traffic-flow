@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000024,157500,220,North Somerset,73,326,LA Boundary,TM,5,8,5/14/2012,54,337520,2426,8,13,N,21,0,1867,337878,2012,63,155010,162596,,,338400,16021,M5,11
+6,South West,E06000024,157500,299,North Somerset,103,440,LA Boundary,TM,10,7,5/14/2012,68,337520,2277,8,21,S,21,0,1521,337878,2012,82,155010,162596,,,338400,16021,M5,19
+0,South West,E06000022,169217,0,Bath and North East Somerset,0,1,,CR,0,0,5/14/2012,0,,9,8,0,E,,0,8,,2012,0,,,Lanridge Lane,Langridge (north of Bath),372710,946675,C,0
+0,South West,E06000022,169217,0,Bath and North East Somerset,0,0,,CR,0,0,5/14/2012,0,,12,8,0,W,,0,12,,2012,0,,,Lanridge Lane,Langridge (north of Bath),372710,946675,C,0
+0,South West,E06000025,188491,10,South Gloucestershire,0,82,,BU,9,13,5/14/2012,9,,971,8,0,N,,1,857,,2012,0,,,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,1
+0,South West,E06000025,188491,2,South Gloucestershire,0,35,,BU,8,6,5/14/2012,0,,443,8,1,S,,2,392,,2012,1,,,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,0

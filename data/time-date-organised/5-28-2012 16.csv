@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,177022,5,"Bristol, City of",0,36,BR,5,4,5/28/2012,5,340,16,0,E,7,290,2012,0,SHIREHAMPTON ROAD,South of Penpole Lane,353795,946742,B4054,0
+0,South West,E06000023,177022,0,"Bristol, City of",0,31,BR,5,8,5/28/2012,0,332,16,0,W,7,288,2012,0,SHIREHAMPTON ROAD,South of Penpole Lane,353795,946742,B4054,0
+0,South West,E06000023,175722,0,"Bristol, City of",0,0,UU,0,0,5/28/2012,0,5,16,0,E,1,5,2012,0,BROOK ROAD,East of New Station Road,363408,946772,U,0
+0,South West,E06000023,175722,0,"Bristol, City of",0,0,UU,0,0,5/28/2012,0,8,16,0,W,1,8,2012,0,BROOK ROAD,East of New Station Road,363408,946772,U,0
+0,South West,E06000025,174897,0,South Gloucestershire,0,1,UU,0,0,5/28/2012,0,6,16,0,E,0,5,2012,0,HILLTOP ROAD,"west of St Stephens Road, Soundwell",364948,947530,U,0
+0,South West,E06000025,174897,0,South Gloucestershire,0,0,UU,0,0,5/28/2012,0,7,16,0,W,0,7,2012,0,HILLTOP ROAD,"west of St Stephens Road, Soundwell",364948,947530,U,0

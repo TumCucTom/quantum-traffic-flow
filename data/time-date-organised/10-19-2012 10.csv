@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,167016,1,"Bristol, City of",0,2,UU,4,0,10/19/2012,1,25,10,0,E,0,18,2012,0,LONGACRE ROAD,East of Kilbirnie Road,360307,946792,U,0
+0,South West,E06000023,167016,0,"Bristol, City of",0,1,UU,2,0,10/19/2012,0,21,10,0,W,0,18,2012,0,LONGACRE ROAD,East of Kilbirnie Road,360307,946792,U,0
+0,South West,E06000025,191351,8,South Gloucestershire,2,16,BR,1,1,10/19/2012,6,128,10,0,E,1,102,2012,0,GLOUCESTER ROAD,"west of Crossways Lane, Upper Morton",365225,947488,B4061,0
+0,South West,E06000025,191351,6,South Gloucestershire,0,11,BR,1,0,10/19/2012,5,110,10,0,W,1,92,2012,0,GLOUCESTER ROAD,"west of Crossways Lane, Upper Morton",365225,947488,B4061,1
+10,South West,E06000025,192648,15,South Gloucestershire,0,22,BR,0,0,10/19/2012,1,118,10,0,E,0,81,2012,3,B4059,layby north of B4058 Wotton Road,370402,947489,B4509,1
+14,South West,E06000025,192648,31,South Gloucestershire,3,41,BR,1,0,10/19/2012,7,271,10,3,W,0,198,2012,1,B4059,layby north of B4058 Wotton Road,370402,947489,B4509,3

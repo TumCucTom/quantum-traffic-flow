@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,166250,6,North Somerset,0,26,B3133 Smallways,PR,3,6,6/21/2004,5,343792,476,18,0,N,"Chelvey Rd, Backwell",0,435,347970,2004,1,164091,167990,,,346160,6994,A370,0
+0,South West,E06000024,166250,7,North Somerset,0,58,B3133 Smallways,PR,9,19,6/21/2004,4,343792,1011,18,0,S,"Chelvey Rd, Backwell",3,918,347970,2004,3,164091,167990,,,346160,6994,A370,0
+0,South West,E06000023,174140,2,"Bristol, City of",0,54,,BU,11,19,6/21/2004,2,,655,18,0,E,,3,569,,2004,0,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,0
+0,South West,E06000023,174140,4,"Bristol, City of",0,41,,BU,11,5,6/21/2004,3,,475,18,0,W,,5,414,,2004,1,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,0

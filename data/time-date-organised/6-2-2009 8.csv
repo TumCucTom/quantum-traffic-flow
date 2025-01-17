@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,165500,35,Bath and North East Somerset,3,166,A39,PR,16,33,6/2/2009,26,370150,1022,8,2,E,A36,9,772,371367,2009,1,165330,165575,,,371000,46133,A4,2
+5,South West,E06000022,165500,28,Bath and North East Somerset,1,86,A39,PR,13,25,6/2/2009,15,370150,865,8,4,W,A36,4,713,371367,2009,2,165330,165575,,,371000,46133,A4,1
+2,South West,E06000023,176670,9,"Bristol, City of",0,27,,BU,4,12,6/2/2009,7,,571,8,0,N,,60,519,,2009,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0
+3,South West,E06000023,176670,6,"Bristol, City of",0,53,,BU,6,9,6/2/2009,0,,659,8,3,S,,29,585,,2009,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0

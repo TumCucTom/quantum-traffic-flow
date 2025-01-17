@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,176600,3,South Gloucestershire,0,45,LA Boundary,PU,12,9,4/19/2002,3,364240,639,17,0,E,A4017,11,570,365092,2002,0,176310,176659,,,365000,7130,A432,0
+0,South West,E06000025,176600,1,South Gloucestershire,0,42,LA Boundary,PU,10,13,4/19/2002,1,364240,406,17,0,W,A4017,5,340,365092,2002,0,176310,176659,,,365000,7130,A432,0
+0,South West,E06000022,164000,1,Bath and North East Somerset,0,12,A36 roundabout,PU,8,4,4/19/2002,1,375490,221,17,0,N,North Rd/The Avenue,3,196,376054,2002,0,164250,162640,,,375630,17552,A3062,0
+0,South West,E06000022,164000,0,Bath and North East Somerset,0,12,A36 roundabout,PU,7,6,4/19/2002,0,375490,282,17,0,S,North Rd/The Avenue,5,257,376054,2002,0,164250,162640,,,375630,17552,A3062,0
+0,South West,E06000025,190000,0,South Gloucestershire,0,5,,CU,0,3,4/19/2002,0,,97,17,0,E,,0,89,,2002,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0
+0,South West,E06000025,190000,1,South Gloucestershire,0,3,,CU,1,0,4/19/2002,0,,41,17,1,W,,0,36,,2002,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0

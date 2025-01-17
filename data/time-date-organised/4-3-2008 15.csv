@@ -1,0 +1,13 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000024,159400,29,North Somerset,3,61,LA Boundary,PR,2,4,4/3/2008,16,344510,436,15,4,N,A368,3,340,344800,2008,3,158940,159810,,,344700,28545,A38,2
+0,South West,E06000024,159400,36,North Somerset,5,50,LA Boundary,PR,4,6,4/3/2008,20,344510,503,15,1,S,A368,4,407,344800,2008,7,158940,159810,,,344700,28545,A38,3
+0,South West,E06000023,176318,0,"Bristol, City of",0,3,,UU,2,1,4/3/2008,0,,57,15,0,N,,6,51,,2008,0,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+0,South West,E06000023,176318,0,"Bristol, City of",0,3,,UU,1,1,4/3/2008,0,,41,15,0,S,,3,36,,2008,0,,,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+1,South West,E06000023,172619,1,"Bristol, City of",0,20,,UU,4,2,4/3/2008,0,,202,15,0,E,,8,175,,2008,0,,,ST GEORGE'S ROAD,West of York Place,357986,946804,U,0
+1,South West,E06000023,172619,2,"Bristol, City of",0,19,,UU,1,2,4/3/2008,0,,183,15,1,W,,7,159,,2008,0,,,ST GEORGE'S ROAD,West of York Place,357986,946804,U,0
+1,South West,E06000024,163585,13,North Somerset,5,41,,BU,5,6,4/3/2008,5,,374,15,0,N,,2,309,,2008,1,,,High Street,"South of Mill Lane, Congresbury",343914,947250,B3133,1
+2,South West,E06000024,163585,22,North Somerset,5,38,,BU,3,1,4/3/2008,9,,447,15,1,S,,3,383,,2008,2,,,High Street,"South of Mill Lane, Congresbury",343914,947250,B3133,3
+0,South West,E06000025,181683,0,South Gloucestershire,0,2,,UU,0,0,4/3/2008,0,,15,15,0,E,,0,13,,2008,0,,,GAUNTS ROAD,junction with Kingrove Lane,373035,947538,U,0
+0,South West,E06000025,181683,0,South Gloucestershire,0,1,,UU,0,0,4/3/2008,0,,16,15,0,W,,0,15,,2008,0,,,GAUNTS ROAD,junction with Kingrove Lane,373035,947538,U,0
+0,South West,E06000023,174898,1,"Bristol, City of",0,11,,UU,1,2,4/3/2008,1,,129,15,0,E,,0,114,,2008,0,,,East Park,North of east Park Drive,361318,966011,U,0
+2,South West,E06000023,174898,4,"Bristol, City of",0,4,,UU,0,0,4/3/2008,2,,95,15,0,W,,1,87,,2008,0,,,East Park,North of east Park Drive,361318,966011,U,0

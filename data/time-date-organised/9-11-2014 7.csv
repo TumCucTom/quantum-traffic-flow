@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,168275,0,Bath and North East Somerset,0,3,UU,0,0,9/11/2014,0,28,7,0,N,2,25,2014,0,LOCKINGWELL ROAD,"Keynsham, 50m north of Westfield close jcn",364510,946678,U,0
+0,South West,E06000022,168275,0,Bath and North East Somerset,0,6,UU,0,1,9/11/2014,0,38,7,0,S,2,31,2014,0,LOCKINGWELL ROAD,"Keynsham, 50m north of Westfield close jcn",364510,946678,U,0
+0,South West,E06000025,183295,2,South Gloucestershire,0,10,UU,0,0,9/11/2014,2,60,7,0,N,2,48,2014,0,WELLINGTON ROAD,"n/o Cambrian Drive, Yate",371200,947534,U,0
+0,South West,E06000025,183295,2,South Gloucestershire,0,8,UU,1,0,9/11/2014,2,50,7,0,S,4,39,2014,0,WELLINGTON ROAD,"n/o Cambrian Drive, Yate",371200,947534,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+7,South West,E06000023,170690,47,"Bristol, City of",4,184,Water Lane,PU,24,18,9/23/2002,0,361690,1106,10,32,N,A4174,4,833,362180,2002,2,170730,170450,,,362000,18376,A4,2
+7,South West,E06000023,170690,60,"Bristol, City of",4,220,Water Lane,PU,24,13,9/23/2002,0,361690,1031,10,45,S,A4174,1,714,362180,2002,1,170730,170450,,,362000,18376,A4,3
+0,South West,E06000025,181243,1,South Gloucestershire,0,5,,UU,0,1,9/23/2002,1,,44,10,0,E,,0,37,,2002,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0
+0,South West,E06000025,181243,0,South Gloucestershire,0,4,,UU,0,1,9/23/2002,0,,28,10,0,W,,0,23,,2002,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0

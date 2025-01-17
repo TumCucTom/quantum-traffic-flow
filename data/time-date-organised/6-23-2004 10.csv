@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,173400,31,"Bristol, City of",1,106,Trinity Rd,PU,41,3,6/23/2004,24,360045,577,10,3,E,Easton Way roundabout,9,396,360440,2004,3,173344,173463,,,360200,8391,A420,0
+0,South West,E06000023,173400,34,"Bristol, City of",1,158,Trinity Rd,PU,41,12,6/23/2004,32,360045,945,10,0,W,Easton Way roundabout,13,700,360440,2004,0,173344,173463,,,360200,8391,A420,1
+0,South West,E06000025,180790,11,South Gloucestershire,0,52,,UU,4,0,6/23/2004,7,,1321,10,2,E,,0,1254,,2004,1,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,1
+0,South West,E06000025,180790,15,South Gloucestershire,3,39,,UU,0,2,6/23/2004,10,,493,10,1,W,,0,437,,2004,0,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,1

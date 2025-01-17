@@ -1,0 +1,3 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,169000,19,Bath and North East Somerset,0,48,A4174 roundabout,PR,5,2,4/27/2001,17,364160,340,10,0,E,road from Stockwood Hill,4,266,364790,2001,0,169700,168950,364728,57290,A4175,2
+0,South West,E06000022,169000,22,Bath and North East Somerset,2,46,A4174 roundabout,PR,6,3,4/27/2001,16,364160,353,10,1,W,road from Stockwood Hill,4,276,364790,2001,3,169700,168950,364728,57290,A4175,0

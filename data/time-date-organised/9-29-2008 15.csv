@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+5,South West,E06000022,165500,28,Bath and North East Somerset,5,89,A39,PR,15,20,9/29/2008,8,370150,688,15,3,E,A36,5,536,371367,2008,5,165330,165575,,,371000,46133,A4,2
+9,South West,E06000022,165500,37,Bath and North East Somerset,1,146,A39,PR,16,14,9/29/2008,20,370150,1039,15,3,W,A36,1,826,371367,2008,3,165330,165575,,,371000,46133,A4,1
+0,South West,E06000025,189580,3,South Gloucestershire,0,22,,CU,3,1,9/29/2008,2,,156,15,1,E,,0,127,,2008,0,,,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,0
+0,South West,E06000025,189580,1,South Gloucestershire,0,10,,CU,3,3,9/29/2008,1,,181,15,0,W,,2,164,,2008,0,,,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,0
+0,South West,E06000025,178882,0,South Gloucestershire,0,5,,UR,0,0,9/29/2008,0,,55,15,0,E,,0,50,,2008,0,,,N/A,"south of Compass Inn, Tormarton",376465,979270,U,0
+0,South West,E06000025,178882,0,South Gloucestershire,0,10,,UR,0,0,9/29/2008,0,,37,15,0,W,,0,27,,2008,0,,,N/A,"south of Compass Inn, Tormarton",376465,979270,U,0

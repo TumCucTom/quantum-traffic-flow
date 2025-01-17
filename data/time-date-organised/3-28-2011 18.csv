@@ -1,0 +1,4 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,173300,1,"Bristol, City of",0,36,Midland Rd,PU,22,8,3/28/2011,1,359806,484,18,0,E,Trinity Rd,14,417,360045,2011,0,173224,173344,,,360000,7097,A420,0
+0,South West,E06000024,170158,0,North Somerset,0,10,,UU,1,0,3/28/2011,0,,95,18,0,N,,2,84,,2011,0,,,Mill Cross,Clevedon,340398,947287,U,0
+0,South West,E06000024,170158,1,North Somerset,0,11,,UU,1,0,3/28/2011,0,,148,18,0,S,,2,135,,2011,1,,,Mill Cross,Clevedon,340398,947287,U,0

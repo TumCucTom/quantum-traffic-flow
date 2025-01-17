@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000023,180000,103,"Bristol, City of",26,62,Kings Road Avenue,PU,3,4,10/2/2000,31,351640,424,17,2,N,Unclassified Road,3,252,354680,2000,28,178510,184270,,,352000,7046,A403,13
+0,South West,E06000023,180000,72,"Bristol, City of",9,85,Kings Road Avenue,PU,3,10,10/2/2000,29,351640,632,17,5,S,Unclassified Road,5,462,354680,2000,25,178510,184270,,,352000,7046,A403,4
+0,South West,E06000025,178882,1,South Gloucestershire,0,9,,UR,0,3,10/2/2000,1,,124,17,0,E,,0,111,,2000,0,,,Unamed,"south of Compass Inn, Tormarton",376465,979270,U,0
+0,South West,E06000025,178882,0,South Gloucestershire,0,14,,UR,0,0,10/2/2000,0,,115,17,0,W,,0,101,,2000,0,,,Unamed,"south of Compass Inn, Tormarton",376465,979270,U,0

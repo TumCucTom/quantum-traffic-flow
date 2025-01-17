@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,177052,0,South Gloucestershire,0,3,UU,0,0,10/6/2008,0,29,17,0,N,1,26,2008,0,ROCKLAND ROAD,"s/o Amberley Way, Downend",364564,947546,U,0
+0,South West,E06000025,177052,1,South Gloucestershire,0,16,UU,0,3,10/6/2008,0,305,17,0,S,2,285,2008,0,ROCKLAND ROAD,"s/o Amberley Way, Downend",364564,947546,U,1
+0,South West,E06000025,193657,0,South Gloucestershire,0,8,CR,0,2,10/6/2008,0,44,17,0,E,2,34,2008,0,N/A,"west of Sundayshill Lane, Rockhampton",365455,979247,C,0
+0,South West,E06000025,193657,4,South Gloucestershire,0,4,CR,0,0,10/6/2008,4,43,17,0,W,2,35,2008,0,N/A,"west of Sundayshill Lane, Rockhampton",365455,979247,C,0
+0,South West,E06000024,174773,2,North Somerset,0,22,BR,2,5,10/6/2008,1,342,17,0,N,2,311,2008,1,Clevedon Road,"East of Valley Road, North Weston",346012,990021,B3124,0
+0,South West,E06000024,174773,1,North Somerset,0,38,BR,1,1,10/6/2008,1,502,17,0,S,1,461,2008,0,Clevedon Road,"East of Valley Road, North Weston",346012,990021,B3124,0

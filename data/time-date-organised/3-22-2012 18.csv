@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,178790,1,"Bristol, City of",0,40,A4162,PU,7,4,3/22/2012,1,356940,983,18,0,N,LA Boundary,3,931,357050,2012,0,177550,179720,,,357330,73295,A4018,0
+0,South West,E06000023,178790,0,"Bristol, City of",0,28,A4162,PU,8,7,3/22/2012,0,356940,1132,18,0,S,LA Boundary,5,1089,357050,2012,0,177550,179720,,,357330,73295,A4018,0
+1,South West,E06000024,163585,5,North Somerset,1,29,,BU,0,0,3/22/2012,3,,356,18,0,N,,4,322,,2012,0,,,High Street,"South of Mill Lane, Congresbury",343914,947250,B3133,0
+0,South West,E06000024,163585,3,North Somerset,0,19,,BU,0,4,3/22/2012,2,,345,18,0,S,,3,319,,2012,1,,,High Street,"South of Mill Lane, Congresbury",343914,947250,B3133,0

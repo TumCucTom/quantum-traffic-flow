@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,178790,3,"Bristol, City of",0,23,A4162,PU,6,5,3/23/2006,2,356940,511,17,0,N,LA Boundary,3,474,357050,2006,0,177550,179720,,,357330,73295,A4018,0
+0,South West,E06000023,178790,1,"Bristol, City of",0,14,A4162,PU,10,6,3/23/2006,1,356940,1059,17,0,S,LA Boundary,5,1028,357050,2006,0,177550,179720,,,357330,73295,A4018,0
+0,South West,E06000023,174898,2,"Bristol, City of",0,7,,UU,0,1,3/23/2006,2,,105,17,0,E,,1,95,,2006,0,,,East Park,North of east Park Drive,361318,966011,U,0
+0,South West,E06000023,174898,2,"Bristol, City of",0,12,,UU,0,2,3/23/2006,2,,124,17,0,W,,4,108,,2006,0,,,East Park,North of east Park Drive,361318,966011,U,0

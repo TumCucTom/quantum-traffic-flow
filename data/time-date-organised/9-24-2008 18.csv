@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,154900,7,Bath and North East Somerset,1,34,A37,PR,1,0,9/24/2008,4,362907,337,18,1,E,B3355,1,295,365728,2008,1,155448,155025,,,365000,47026,A362,0
+0,South West,E06000022,154900,4,Bath and North East Somerset,3,54,A37,PR,2,4,9/24/2008,0,362907,415,18,0,W,B3355,1,351,365728,2008,1,155448,155025,,,365000,47026,A362,0
+0,South West,E06000023,176860,0,"Bristol, City of",0,15,,UU,3,2,9/24/2008,0,,156,18,0,E,,11,136,,2008,0,,,LOCKLEAZE ROAD,East of Wordsworth Road,360450,930424,U,0
+0,South West,E06000023,176860,1,"Bristol, City of",0,8,,UU,2,2,9/24/2008,1,,133,18,0,W,,26,120,,2008,0,,,LOCKLEAZE ROAD,East of Wordsworth Road,360450,930424,U,0
+0,South West,E06000022,163256,0,Bath and North East Somerset,0,1,,UR,0,0,9/24/2008,0,,3,18,0,E,,0,2,,2008,0,,,HILLCREST,"Outside property number 12b, top of the triangle",362025,946674,U,0
+0,South West,E06000022,163256,0,Bath and North East Somerset,0,1,,UR,0,0,9/24/2008,0,,4,18,0,W,,0,3,,2008,0,,,HILLCREST,"Outside property number 12b, top of the triangle",362025,946674,U,0
+0,South West,E06000025,176252,0,South Gloucestershire,0,0,,UU,0,0,9/24/2008,0,,1,18,0,N,,0,1,,2008,0,,,FERN ROAD,"north of Pleasant Road, Staple Hill",364861,947548,U,0
+0,South West,E06000025,176252,0,South Gloucestershire,0,1,,UU,0,0,9/24/2008,0,,7,18,0,S,,1,6,,2008,0,,,FERN ROAD,"north of Pleasant Road, Staple Hill",364861,947548,U,0

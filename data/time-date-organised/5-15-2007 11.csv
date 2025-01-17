@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,175000,30,"Bristol, City of",1,92,A4176,PU,25,8,5/15/2007,26,357330,675,11,0,N,B4056 Henleaze Rd,7,520,357280,2007,1,174840,176130,,,357340,27678,A4018,1
+3,South West,E06000023,175000,31,"Bristol, City of",2,94,A4176,PU,22,1,5/15/2007,20,357330,796,11,5,S,B4056 Henleaze Rd,3,648,357280,2007,0,174840,176130,,,357340,27678,A4018,1
+2,South West,E06000022,154759,17,Bath and North East Somerset,0,77,B3355,PU,3,6,5/15/2007,10,366767,476,11,2,E,A367,1,373,368884,2007,2,154617,154946,,,368000,56952,A362,1
+5,South West,E06000022,154759,29,Bath and North East Somerset,2,44,B3355,PU,3,5,5/15/2007,17,366767,546,11,1,W,A367,1,465,368884,2007,3,154617,154946,,,368000,56952,A362,1
+0,South West,E06000022,164204,2,Bath and North East Somerset,0,32,,CU,13,1,5/15/2007,1,,198,11,1,E,,2,150,,2007,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0
+0,South West,E06000022,164204,2,Bath and North East Somerset,0,24,,CU,8,1,5/15/2007,2,,152,11,0,W,,0,117,,2007,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0

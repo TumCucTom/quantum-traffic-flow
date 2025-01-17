@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000022,156000,49,Bath and North East Somerset,5,88,A362,PR,3,3,4/2/2009,20,362907,482,12,7,N,A39,1,339,362935,2009,9,155448,156853,,,362930,46389,A37,6
+2,South West,E06000022,156000,39,Bath and North East Somerset,9,91,A362,PR,3,3,4/2/2009,15,362907,454,12,4,S,A39,0,318,362935,2009,6,155448,156853,,,362930,46389,A37,3
+0,South West,E06000024,166350,0,North Somerset,0,8,,UR,0,0,4/2/2009,0,,62,12,0,E,,0,54,,2009,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+0,South West,E06000024,166350,2,North Somerset,1,10,,UR,0,0,4/2/2009,1,,70,12,0,W,,0,58,,2009,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0

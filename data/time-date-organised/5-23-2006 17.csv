@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,166250,7,North Somerset,0,25,B3133 Smallways,PR,6,3,5/23/2006,4,343792,579,17,0,E,"Chelvey Rd, Backwell",4,538,347970,2006,2,164091,167990,,,346160,6994,A370,1
+0,South West,E06000024,166250,11,North Somerset,2,11,B3133 Smallways,PR,4,19,5/23/2006,6,343792,788,17,0,W,"Chelvey Rd, Backwell",3,743,347970,2006,3,164091,167990,,,346160,6994,A370,0
+0,South West,E06000023,173293,0,"Bristol, City of",0,0,,UU,0,1,5/23/2006,0,,3,17,0,E,,14,2,,2006,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+0,South West,E06000023,173293,1,"Bristol, City of",0,3,,UU,0,0,5/23/2006,1,,77,17,0,W,,7,73,,2006,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0

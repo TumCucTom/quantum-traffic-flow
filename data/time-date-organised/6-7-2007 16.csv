@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+10,South West,E06000025,177750,330,South Gloucestershire,96,394,Junction 19 M4,TM,16,43,6/7/2007,54,364185,3840,16,9,E,Junction 18 M4,0,3057,375767,2007,132,179458,178163,,,370000,36016,M4,29
+6,South West,E06000025,177750,342,South Gloucestershire,73,609,Junction 19 M4,TM,29,47,6/7/2007,97,364185,3390,16,7,W,Junction 18 M4,0,2363,375767,2007,130,179458,178163,,,370000,36016,M4,29
+0,South West,E06000025,181780,6,South Gloucestershire,0,66,,UU,4,12,6/7/2007,5,,610,16,1,E,,7,522,,2007,0,,,CHURCH ROAD,"west of Ryecroft Road, Frampton Cotterell",367030,930453,U,0
+0,South West,E06000025,181780,4,South Gloucestershire,0,18,,UU,6,5,6/7/2007,2,,263,16,2,W,,0,230,,2007,0,,,CHURCH ROAD,"west of Ryecroft Road, Frampton Cotterell",367030,930453,U,0

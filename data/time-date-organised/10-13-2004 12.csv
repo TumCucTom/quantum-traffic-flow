@@ -1,0 +1,3 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,182520,30,South Gloucestershire,1,77,roundabout leading to Woodward Avenue,PU,5,4,10/13/2004,17,369600,520,12,2,E,B4060,3,404,371080,2004,8,182440,182520,370400,78067,A432,2
+0,South West,E06000025,182520,25,South Gloucestershire,2,94,roundabout leading to Woodward Avenue,PU,8,2,10/13/2004,17,369600,604,12,1,W,B4060,1,475,371080,2004,5,182440,182520,370400,78067,A432,0

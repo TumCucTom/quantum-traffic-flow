@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,173000,14,"Bristol, City of",4,46,A4176 Bridge Valley road,PU,16,14,5/5/2010,7,356400,758,18,0,N,A3029 Brunel Way,27,668,356860,2010,1,173275,172400,,,356540,36133,A4,2
+0,South West,E06000023,173000,17,"Bristol, City of",9,62,A4176 Bridge Valley road,PU,14,11,5/5/2010,4,356400,839,18,1,S,A3029 Brunel Way,11,735,356860,2010,1,173275,172400,,,356540,36133,A4,2
+0,South West,E06000023,171411,0,"Bristol, City of",0,25,,CU,3,1,5/5/2010,0,,249,18,0,N,,7,220,,2010,0,,,WICK ROAD,North of Sandy Park Road,361749,946754,C,0
+0,South West,E06000023,171411,0,"Bristol, City of",0,36,,CU,4,4,5/5/2010,0,,285,18,0,S,,4,241,,2010,0,,,WICK ROAD,North of Sandy Park Road,361749,946754,C,0

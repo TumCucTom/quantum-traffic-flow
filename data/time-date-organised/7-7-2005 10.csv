@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,174260,1,"Bristol, City of",0,31,UU,0,1,7/7/2005,1,234,10,0,N,3,201,2005,0,HAMPTON ROAD,North of Waverley Road,357950,930430,U,0
+0,South West,E06000023,174260,1,"Bristol, City of",0,23,UU,0,2,7/7/2005,1,189,10,0,S,6,163,2005,0,HAMPTON ROAD,North of Waverley Road,357950,930430,U,0
+0,South West,E06000025,181980,4,South Gloucestershire,0,44,UU,1,1,7/7/2005,4,350,10,0,N,1,300,2005,0,WESTERLEIGH ROAD,"south of Stanshawes Drive, Yate",370620,930460,C,0
+0,South West,E06000025,181980,8,South Gloucestershire,0,25,UU,3,4,7/7/2005,7,334,10,1,S,2,294,2005,0,WESTERLEIGH ROAD,"south of Stanshawes Drive, Yate",370620,930460,C,0

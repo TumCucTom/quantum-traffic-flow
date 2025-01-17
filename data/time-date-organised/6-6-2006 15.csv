@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+5,South West,E06000023,169000,65,"Bristol, City of",10,86,LA boundary,PU,10,10,6/6/2006,37,361230,645,15,6,N,A4174,2,474,360895,2006,5,168170,169989,,,361100,17817,A37,2
+9,South West,E06000023,169000,44,"Bristol, City of",8,59,LA boundary,PU,12,15,6/6/2006,15,361230,510,15,1,S,A4174,1,380,360895,2006,8,168170,169989,,,361100,17817,A37,3
+2,South West,E06000023,176670,5,"Bristol, City of",0,61,,BU,5,10,6/6/2006,3,,416,15,0,N,,4,335,,2006,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0
+3,South West,E06000023,176670,6,"Bristol, City of",0,45,,BU,6,3,6/6/2006,2,,547,15,1,S,,8,487,,2006,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0

@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,154759,19,Bath and North East Somerset,3,97,B3355,PU,1,4,5/15/2003,11,366767,495,10,4,E,A367,2,374,368884,2003,0,154617,154946,,,368000,56952,A362,0
+2,South West,E06000022,154759,27,Bath and North East Somerset,2,89,B3355,PU,7,5,5/15/2003,17,366767,566,10,3,W,A367,0,438,368884,2003,2,154617,154946,,,368000,56952,A362,1
+0,South West,E06000022,164870,4,Bath and North East Somerset,0,13,,CR,0,0,5/15/2003,3,,125,10,1,N,,0,108,,2003,0,,,WELLS ROAD,North of Chew Magna - please find a safe place to park,356770,930444,C,0
+0,South West,E06000022,164870,3,Bath and North East Somerset,0,7,,CR,2,2,5/15/2003,2,,90,10,1,S,,0,76,,2003,0,,,WELLS ROAD,North of Chew Magna - please find a safe place to park,356770,930444,C,0
+1,South West,E06000025,182100,4,South Gloucestershire,0,9,,BR,1,1,5/15/2003,2,,96,10,1,E,,0,81,,2003,0,,,Over Lane,,358200,964289,B4055,0
+0,South West,E06000025,182100,4,South Gloucestershire,1,21,,BR,0,0,5/15/2003,2,,125,10,1,W,,0,100,,2003,0,,,Over Lane,,358200,964289,B4055,0

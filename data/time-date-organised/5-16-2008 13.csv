@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,175150,3,"Bristol, City of",0,54,UU,8,4,5/16/2008,3,417,13,0,E,20,348,2008,0,STOKE ROAD,East of Saville Road,356840,930426,U,0
+0,South West,E06000023,175150,7,"Bristol, City of",0,44,UU,5,2,5/16/2008,7,351,13,0,W,7,293,2008,0,STOKE ROAD,East of Saville Road,356840,930426,U,0
+0,South West,E06000022,167543,0,Bath and North East Somerset,0,1,UU,0,0,5/16/2008,0,3,13,0,E,0,2,2008,0,WALNUT CLOSE,"south west corner of Kensham, off charlton road",364217,946687,U,0
+0,South West,E06000022,167543,0,Bath and North East Somerset,0,0,UU,0,0,5/16/2008,0,1,13,0,W,0,1,2008,0,WALNUT CLOSE,"south west corner of Kensham, off charlton road",364217,946687,U,0
+1,South West,E06000025,176130,12,South Gloucestershire,0,16,BR,0,3,5/16/2008,3,265,13,3,E,0,234,2008,3,Shortwood Hill,east of Cattybrook Road,367977,947492,B4465,2
+1,South West,E06000025,176130,9,South Gloucestershire,0,27,BR,2,2,5/16/2008,5,228,13,0,W,0,188,2008,2,Shortwood Hill,east of Cattybrook Road,367977,947492,B4465,1

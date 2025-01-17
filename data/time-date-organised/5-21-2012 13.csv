@@ -1,0 +1,6 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+25,South West,E06000023,170660,113,"Bristol, City of",5,241,A3029,PU,18,19,5/21/2012,65,357680,1717,13,9,E,A38 West street,11,1326,357810,2012,5,170620,170690,,,357750,74625,A38,4
+0,South West,E06000022,161887,1,Bath and North East Somerset,0,5,,CR,0,0,5/21/2012,1,,42,13,0,N,,1,36,,2012,0,,,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000022,161887,1,Bath and North East Somerset,0,6,,CR,0,1,5/21/2012,1,,44,13,0,S,,0,36,,2012,0,,,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000025,180939,2,South Gloucestershire,0,11,,BR,0,1,5/21/2012,2,,46,13,0,N,,1,32,,2012,0,,,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0
+0,South West,E06000025,180939,2,South Gloucestershire,0,16,,BR,0,0,5/21/2012,2,,64,13,0,S,,0,46,,2012,0,,,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0

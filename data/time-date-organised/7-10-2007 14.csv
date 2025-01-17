@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,179740,4,South Gloucestershire,0,11,UU,2,2,7/10/2007,4,123,14,0,N,0,104,2007,0,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,6,South Gloucestershire,0,17,UU,2,2,7/10/2007,6,124,14,0,S,1,97,2007,0,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,183390,25,South Gloucestershire,3,62,BU,1,1,7/10/2007,13,503,14,5,N,0,414,2007,4,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,0
+2,South West,E06000025,183390,26,South Gloucestershire,7,54,BU,2,2,7/10/2007,10,556,14,3,S,0,472,2007,4,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000024,157000,32,North Somerset,3,36, Winscombe Hill,PR,0,3,6/24/2002,19,342266,361,11,3,N,A371 Sidcot Lane,0,290,342640,2002,5,156073,157350,,,342550,17977,A38,0
+7,South West,E06000024,157000,40,North Somerset,1,52, Winscombe Hill,PR,7,3,6/24/2002,24,342266,484,11,2,S,A371 Sidcot Lane,0,382,342640,2002,6,156073,157350,,,342550,17977,A38,0
+0,South West,E06000023,174140,16,"Bristol, City of",1,92,,BU,12,7,6/24/2002,10,,499,11,5,N,,4,372,,2002,0,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,0
+1,South West,E06000023,174140,16,"Bristol, City of",0,93,,BU,12,3,6/24/2002,8,,487,11,2,S,,3,363,,2002,3,,,Whitehall Road,West of Whitehall Avenue,362200,990068,B4465,2

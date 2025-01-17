@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+5,South West,E06000025,172380,23,South Gloucestershire,2,44,Bath Road,PR,1,2,5/14/2003,9,371023,365,16,3,E,A46(T),0,295,374452,2003,4,172645,172774,,,372000,57126,A420,0
+4,South West,E06000025,172380,26,South Gloucestershire,2,145,Bath Road,PR,1,7,5/14/2003,17,371023,546,16,3,W,A46(T),2,367,374452,2003,0,172645,172774,,,372000,57126,A420,0
+0,South West,E06000024,171190,3,North Somerset,1,5,,BR,1,0,5/14/2003,1,,75,16,0,N,,2,66,,2003,0,,,Weston Road,"South of B3128 Clevedon Road, Failand",352050,940260,B3129,1
+0,South West,E06000024,171190,2,North Somerset,0,16,,BR,0,0,5/14/2003,2,,130,16,0,S,,2,112,,2003,0,,,Weston Road,"South of B3128 Clevedon Road, Failand",352050,940260,B3129,0

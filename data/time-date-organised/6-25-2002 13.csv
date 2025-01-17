@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+10,South West,E06000025,188200,448,South Gloucestershire,87,264,M4 (15),TM,7,6,6/25/2002,170,361812,2113,13,30,N,14,0,1388,368807,2002,112,183775,193200,,,366000,26020,M5,39
+15,South West,E06000025,188200,328,South Gloucestershire,71,202,M4 (15),TM,6,5,6/25/2002,117,361812,1841,13,16,S,14,0,1300,368807,2002,82,183775,193200,,,366000,26020,M5,27
+0,South West,E06000024,175587,5,North Somerset,0,14,,UU,2,1,6/25/2002,4,,100,13,1,N,,1,78,,2002,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0
+0,South West,E06000024,175587,4,North Somerset,0,10,,UU,2,2,6/25/2002,3,,77,13,1,S,,0,59,,2002,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0

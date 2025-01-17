@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,165300,13,Bath and North East Somerset,0,45,A368,PR,4,1,6/20/2000,10,366380,361,10,1,E,A4,0,298,370150,2000,2,162120,165330,,,370000,36423,A39,0
+0,South West,E06000022,165300,18,Bath and North East Somerset,0,32,A368,PR,7,3,6/20/2000,15,366380,244,10,2,W,A4,3,184,370150,2000,1,162120,165330,,,370000,36423,A39,0
+0,South West,E06000024,171526,0,North Somerset,0,11,,UU,0,0,6/20/2000,0,,114,10,0,N,,0,103,,2000,0,,,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0
+0,South West,E06000024,171526,2,North Somerset,0,5,,UU,2,12,6/20/2000,2,,148,10,0,S,,1,127,,2000,0,,,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0

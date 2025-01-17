@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+10,South West,E06000023,173000,107,"Bristol, City of",10,153,A4176 Bridge Valley road,PU,6,4,10/4/2001,53,356400,790,11,8,N,A3029 Brunel Way,3,520,356860,2001,16,173275,172400,,,356540,36133,A4,10
+6,South West,E06000023,173000,93,"Bristol, City of",12,126,A4176 Bridge Valley road,PU,2,6,10/4/2001,45,356400,690,11,6,S,A3029 Brunel Way,0,463,356860,2001,16,173275,172400,,,356540,36133,A4,8
+0,South West,E06000022,166650,5,Bath and North East Somerset,0,37,,UR,0,1,10/4/2001,4,,226,11,1,N,,1,183,,2001,0,,,Charlton Road,Keynsham,364000,952452,U,0
+0,South West,E06000022,166650,6,Bath and North East Somerset,0,29,,UR,2,5,10/4/2001,5,,237,11,1,S,,0,195,,2001,0,,,Charlton Road,Keynsham,364000,952452,U,0

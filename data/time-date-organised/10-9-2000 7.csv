@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,173000,36,South Gloucestershire,3,190,A4174 spur,PU,2,13,10/9/2000,24,365420,1054,7,6,N,A420,1,813,366590,2000,2,172170,173540,,,366460,99052,A4174,1
+0,South West,E06000025,173000,24,South Gloucestershire,5,114,A4174 spur,PU,6,11,10/9/2000,11,365420,692,7,0,S,A420,2,537,366590,2000,5,172170,173540,,,366460,99052,A4174,3
+0,South West,E06000025,193657,1,South Gloucestershire,0,4,,CR,0,0,10/9/2000,0,,17,7,1,E,,0,12,,2000,0,,,Sundayshill Lane,"west of Sundayshill Lane, Rockhampton",365455,979247,C,0
+0,South West,E06000025,193657,0,South Gloucestershire,0,1,,CR,0,0,10/9/2000,0,,15,7,0,W,,1,14,,2000,0,,,Sundayshill Lane,"west of Sundayshill Lane, Rockhampton",365455,979247,C,0

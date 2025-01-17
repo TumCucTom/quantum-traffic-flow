@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+5,South West,E06000022,165000,19,Bath and North East Somerset,1,95,A4,PU,10,7,9/7/2010,8,373520,594,12,5,N,A36,0,463,373570,2010,0,165123,164850,,,373580,47897,A3604,0
+5,South West,E06000022,165000,17,Bath and North East Somerset,0,121,A4,PU,5,1,9/7/2010,6,373520,568,12,5,S,A36,3,424,373570,2010,1,165123,164850,,,373580,47897,A3604,0
+0,South West,E06000025,173516,0,South Gloucestershire,0,3,,UU,0,0,9/7/2010,0,,10,12,0,N,,0,7,,2010,0,,,WOODSTOCK ROAD,"south of Orchard Vale, Kingswood",365723,947542,U,0
+0,South West,E06000025,173516,0,South Gloucestershire,0,2,,UU,0,0,9/7/2010,0,,17,12,0,S,,0,15,,2010,0,,,WOODSTOCK ROAD,"south of Orchard Vale, Kingswood",365723,947542,U,0

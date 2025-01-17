@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,158278,0,North Somerset,0,0,UU,0,1,9/22/2008,0,11,15,0,E,0,10,2008,0,BROCKLEY CRESCENT,"East of Burrington Avenue, Bleadon Hill",333059,947272,U,0
+0,South West,E06000024,158278,0,North Somerset,0,1,UU,0,0,9/22/2008,0,11,15,0,W,0,10,2008,0,BROCKLEY CRESCENT,"East of Burrington Avenue, Bleadon Hill",333059,947272,U,0
+0,South West,E06000025,181243,0,South Gloucestershire,0,5,UU,0,4,9/22/2008,0,79,15,0,E,1,70,2008,0,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0
+0,South West,E06000025,181243,1,South Gloucestershire,0,1,UU,0,1,9/22/2008,0,28,15,0,W,1,25,2008,0,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,1

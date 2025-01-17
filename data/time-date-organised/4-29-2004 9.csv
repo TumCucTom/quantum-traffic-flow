@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,160820,14,Bath and North East Somerset,0,63,B3115,PR,9,9,4/29/2004,12,371980,772,9,0,N,Sulis Manor Rd roundabout,0,677,373350,2004,2,160780,161640,,,372050,16957,A367,0
+1,South West,E06000022,160820,26,Bath and North East Somerset,5,77,B3115,PR,7,2,4/29/2004,18,371980,427,9,0,S,Sulis Manor Rd roundabout,1,315,373350,2004,1,160780,161640,,,372050,16957,A367,1
+1,South West,E06000025,182100,2,South Gloucestershire,1,14,,BR,0,0,4/29/2004,0,,74,9,0,N,,0,58,,2004,0,,,Over Lane,,358200,964289,B4055,0
+0,South West,E06000025,182100,5,South Gloucestershire,1,13,,BR,1,2,4/29/2004,0,,192,9,4,S,,0,171,,2004,0,,,Over Lane,,358200,964289,B4055,0

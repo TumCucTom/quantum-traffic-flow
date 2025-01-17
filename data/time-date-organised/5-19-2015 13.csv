@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+7,South West,E06000023,171880,33,"Bristol, City of",1,90,A3029 Brunel Road,PU,4,7,5/19/2015,18,356820,549,13,4,E,A370,1,415,357230,2015,1,171860,171890,,,357050,74765,A3029,2
+9,South West,E06000023,171880,36,"Bristol, City of",4,127,A3029 Brunel Road,PU,0,11,5/19/2015,15,356820,771,13,3,W,A370,6,597,357230,2015,3,171860,171890,,,357050,74765,A3029,2
+0,South West,E06000024,168941,0,North Somerset,0,2,,CU,0,0,5/19/2015,0,,14,13,0,N,,0,12,,2015,0,,,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000024,168941,0,North Somerset,0,2,,CU,0,0,5/19/2015,0,,17,13,0,S,,1,15,,2015,0,,,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000025,183516,0,South Gloucestershire,0,4,,UU,1,0,5/19/2015,0,,29,13,0,E,,0,24,,2015,0,,,HALIFAX ROAD,"east of Greenways Road, Yate",370712,947531,U,0
+0,South West,E06000025,183516,0,South Gloucestershire,0,4,,UU,1,0,5/19/2015,0,,41,13,0,W,,0,36,,2015,0,,,HALIFAX ROAD,"east of Greenways Road, Yate",370712,947531,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,1,,UU,0,0,5/19/2015,0,,8,13,0,N,,0,7,,2015,0,,,Claverham Road,North of Manor Road,363128,951879,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,1,,UU,0,0,5/19/2015,0,,13,13,0,S,,1,12,,2015,0,,,Claverham Road,North of Manor Road,363128,951879,U,0

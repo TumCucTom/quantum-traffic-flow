@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,166350,2,North Somerset,1,14,UR,0,4,4/27/2006,1,127,7,0,E,1,107,2006,0,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+0,South West,E06000024,166350,0,North Somerset,0,11,UR,0,3,4/27/2006,0,34,7,0,W,0,20,2006,0,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+2,South West,E06000024,176146,82,North Somerset,22,81,CU,0,19,4/27/2006,12,711,7,1,N,6,529,2006,38,Royal Portlebury Dock Road,,350602,996472,C,7
+3,South West,E06000024,176146,98,North Somerset,32,42,CU,0,4,4/27/2006,27,259,7,0,S,0,115,2006,26,Royal Portlebury Dock Road,,350602,996472,C,10

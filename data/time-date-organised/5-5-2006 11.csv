@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,162710,0,North Somerset,0,6,UU,1,2,5/5/2006,0,72,11,0,E,2,63,2006,0,KEWSTOKE ROAD,"East of Beach Road, Kewstoke",331430,930449,U,0
+0,South West,E06000024,162710,1,North Somerset,0,9,UU,1,2,5/5/2006,1,76,11,0,W,0,63,2006,0,KEWSTOKE ROAD,"East of Beach Road, Kewstoke",331430,930449,U,0
+2,South West,E06000025,179850,11,South Gloucestershire,0,79,UU,15,5,5/5/2006,8,688,11,1,N,2,578,2006,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0
+0,South West,E06000025,179850,5,South Gloucestershire,0,52,UU,15,4,5/5/2006,4,571,11,1,S,2,495,2006,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0

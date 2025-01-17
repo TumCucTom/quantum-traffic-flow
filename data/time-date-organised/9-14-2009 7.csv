@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000025,174400,69,South Gloucestershire,7,280,Station Road Link,PR,5,39,9/14/2009,34,366580,1629,7,19,N,A420,1,1236,366590,2009,3,174740,173540,,,366590,77051,A4174,0
+7,South West,E06000025,174400,50,South Gloucestershire,0,275,Station Road Link,PR,7,24,9/14/2009,24,366580,1350,7,13,S,A420,0,994,366590,2009,5,174740,173540,,,366590,77051,A4174,1
+1,South West,E06000024,174773,4,North Somerset,0,43,,BR,1,4,9/14/2009,2,,355,7,1,N,,8,303,,2009,0,,,Clevedon Road,"East of Valley Road, North Weston",346012,990021,B3124,0
+1,South West,E06000024,174773,8,North Somerset,0,31,,BR,0,10,9/14/2009,7,,353,7,0,S,,2,304,,2009,0,,,Clevedon Road,"East of Valley Road, North Weston",346012,990021,B3124,0

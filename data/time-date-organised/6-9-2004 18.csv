@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164300,3,Bath and North East Somerset,1,40,A3062,PU,25,3,6/9/2004,2,373913,616,18,0,N,A36/A3064 roundabout,2,545,375000,2004,0,162211,164300,,,374800,37050,A367,0
+0,South West,E06000022,164300,4,Bath and North East Somerset,0,34,A3062,PU,30,16,6/9/2004,4,373913,837,18,0,S,A36/A3064 roundabout,3,753,375000,2004,0,162211,164300,,,374800,37050,A367,0
+0,South West,E06000025,184220,0,South Gloucestershire,0,1,,UR,0,0,6/9/2004,0,,36,18,0,E,,0,35,,2004,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000025,184220,0,South Gloucestershire,0,2,,UR,1,0,6/9/2004,0,,30,18,0,W,,0,27,,2004,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0

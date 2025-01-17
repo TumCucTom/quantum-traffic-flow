@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,170000,11,North Somerset,1,56,B3130 Barrow Street,PR,5,10,6/18/2001,6,352100,592,17,2,E,LA Boundary,0,510,356290,2001,2,169290,171360,,,354900,47034,A370,0
+1,South West,E06000024,170000,21,North Somerset,1,49,B3130 Barrow Street,PR,9,44,6/18/2001,11,352100,1753,17,1,W,LA Boundary,5,1630,356290,2001,5,169290,171360,,,354900,47034,A370,2
+0,South West,E06000023,171123,0,"Bristol, City of",0,3,,UU,0,2,6/18/2001,0,,41,17,0,N,,2,36,,2001,0,,,British Road,South of South Road,358020,966007,U,0
+0,South West,E06000023,171123,0,"Bristol, City of",0,4,,UU,0,3,6/18/2001,0,,32,17,0,S,,9,25,,2001,0,,,British Road,South of South Road,358020,966007,U,0

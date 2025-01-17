@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+45,South West,E06000023,177000,173,"Bristol, City of",19,311,Junction 2 M32,TM,13,24,6/22/2006,66,361150,2085,13,13,N,LA Boundary,0,1564,363010,2006,25,175250,177670,,,362200,26043,M32,5
+24,South West,E06000023,177000,192,"Bristol, City of",18,319,Junction 2 M32,TM,5,24,6/22/2006,89,361150,1964,13,15,S,LA Boundary,0,1424,363010,2006,31,175250,177670,,,362200,26043,M32,15
+0,South West,E06000024,161770,2,North Somerset,0,13,,CR,0,4,6/22/2006,2,,117,13,0,N,,0,98,,2006,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0
+0,South West,E06000024,161770,3,North Somerset,0,12,,CR,4,2,6/22/2006,3,,163,13,0,S,,0,142,,2006,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0

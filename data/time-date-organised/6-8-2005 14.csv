@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+9,South West,E06000024,166250,35,North Somerset,3,46,B3133 Smallways,PR,7,6,6/8/2005,14,343792,488,14,5,E,"Chelvey Rd, Backwell",0,394,347970,2005,2,164091,167990,,,346160,6994,A370,2
+8,South West,E06000024,166250,38,North Somerset,2,68,B3133 Smallways,PR,9,5,6/8/2005,20,343792,569,14,0,W,"Chelvey Rd, Backwell",0,449,347970,2005,5,164091,167990,,,346160,6994,A370,3
+0,South West,E06000025,184220,0,South Gloucestershire,0,1,,UR,4,0,6/8/2005,0,,30,14,0,E,,0,25,,2005,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000025,184220,1,South Gloucestershire,0,2,,UR,4,2,6/8/2005,1,,26,14,0,W,,0,17,,2005,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0

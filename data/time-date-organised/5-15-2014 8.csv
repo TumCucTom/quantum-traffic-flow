@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,157772,0,Bath and North East Somerset,0,1,CU,0,0,5/15/2014,0,26,8,0,E,0,25,2014,0,ECKWEEK ROAD,"Peasedown st john, 100m west of Gordon road jcn",370812,946670,C,0
+0,South West,E06000022,157772,0,Bath and North East Somerset,0,1,CU,0,0,5/15/2014,0,39,8,0,W,1,38,2014,0,ECKWEEK ROAD,"Peasedown st john, 100m west of Gordon road jcn",370812,946670,C,0
+0,South West,E06000023,174504,2,"Bristol, City of",0,24,CU,1,9,5/15/2014,1,258,8,1,E,32,222,2014,0,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+0,South West,E06000023,174504,1,"Bristol, City of",0,17,CU,0,2,5/15/2014,1,113,8,0,W,20,93,2014,0,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+1,South West,E06000024,166588,22,North Somerset,4,61,BU,3,0,5/15/2014,16,420,8,1,E,3,334,2014,0,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,0
+0,South West,E06000024,166588,11,North Somerset,3,68,BU,1,5,5/15/2014,7,448,8,1,W,3,363,2014,0,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,0

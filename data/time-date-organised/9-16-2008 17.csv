@@ -1,0 +1,10 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000023,170660,24,"Bristol, City of",4,186,A3029,PU,10,55,9/16/2008,12,357680,1598,17,2,E,A38 West street,27,1323,357810,2008,4,170620,170690,,,357750,74625,A38,0
+0,South West,E06000025,176630,2,South Gloucestershire,0,6,,CR,0,0,9/16/2008,2,,58,17,0,E,,4,50,,2008,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,0
+0,South West,E06000025,176630,7,South Gloucestershire,1,21,,CR,1,0,9/16/2008,5,,121,17,1,W,,1,92,,2008,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,0
+0,South West,E06000023,167742,0,"Bristol, City of",0,3,,UU,0,0,9/16/2008,0,,15,17,0,E,,1,12,,2008,0,,,VOWELL CLOSE,East of Fair Furlong,357522,946766,U,0
+0,South West,E06000023,167742,0,"Bristol, City of",0,1,,UU,0,1,9/16/2008,0,,12,17,0,W,,4,10,,2008,0,,,VOWELL CLOSE,East of Fair Furlong,357522,946766,U,0
+0,South West,E06000025,173516,0,South Gloucestershire,0,0,,UU,0,1,9/16/2008,0,,24,17,0,N,,2,23,,2008,0,,,WOODSTOCK ROAD,"south of Orchard Vale, Kingswood",365723,947542,U,0
+0,South West,E06000025,173516,0,South Gloucestershire,0,7,,UU,0,4,9/16/2008,0,,53,17,0,S,,1,42,,2008,0,,,WOODSTOCK ROAD,"south of Orchard Vale, Kingswood",365723,947542,U,0
+0,South West,E06000022,164020,0,Bath and North East Somerset,0,23,,BU,2,6,9/16/2008,0,,219,17,0,E,,8,188,,2008,0,,,Oldfield Road B3111,Park in a safe location,374270,990072,B3111,0
+0,South West,E06000022,164020,1,Bath and North East Somerset,0,29,,BU,2,9,9/16/2008,1,,348,17,0,W,,10,307,,2008,0,,,Oldfield Road B3111,Park in a safe location,374270,990072,B3111,0

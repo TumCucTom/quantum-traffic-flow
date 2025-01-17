@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000024,159160,9,North Somerset,0,24,A38 churchill,PR,3,0,4/5/2001,8,344800,110,10,0,E,LA Boundary,2,74,351780,2001,0,159810,158360,,,350000,6992,A368,0
+0,South West,E06000024,159160,9,North Somerset,1,32,A38 churchill,PR,0,1,4/5/2001,4,344800,129,10,0,W,LA Boundary,1,87,351780,2001,1,159810,158360,,,350000,6992,A368,3
+0,South West,E06000024,166350,9,North Somerset,1,8,,UR,0,0,4/5/2001,4,,56,10,0,E,,0,39,,2001,2,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,2
+0,South West,E06000024,166350,4,North Somerset,2,10,,UR,2,0,4/5/2001,2,,47,10,0,W,,1,31,,2001,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0

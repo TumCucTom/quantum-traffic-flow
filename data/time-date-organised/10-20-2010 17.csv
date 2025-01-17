@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000023,170600,20,"Bristol, City of",3,237,Bedminster Down Rd,PU,16,36,10/20/2010,7,357950,1961,17,3,N,Bedminster Rd,37,1652,357810,2010,2,170530,170690,,,357900,8390,A38,3
+0,South West,E06000023,170600,0,"Bristol, City of",0,0,Bedminster Down Rd,PU,0,0,10/20/2010,0,357950,0,17,0,S,Bedminster Rd,2,0,357810,2010,0,170530,170690,,,357900,8390,A38,0
+0,South West,E06000023,174951,0,"Bristol, City of",0,0,,BU,0,0,10/20/2010,0,,31,17,0,N,,9,31,,2010,0,,,DURDHAM PARK,South of Iddesleigh Road,357503,946746,B4468,0
+0,South West,E06000023,174951,0,"Bristol, City of",0,2,,BU,0,2,10/20/2010,0,,90,17,0,S,,20,86,,2010,0,,,DURDHAM PARK,South of Iddesleigh Road,357503,946746,B4468,0
+0,South West,E06000025,193200,1,South Gloucestershire,0,2,,UR,0,0,10/20/2010,1,,105,17,0,N,,1,102,,2010,0,,,CHURCH AVENUE,south of Sundayshill Lane,368226,947513,U,0
+0,South West,E06000025,193200,3,South Gloucestershire,0,2,,UR,0,0,10/20/2010,2,,19,17,0,S,,0,14,,2010,1,,,CHURCH AVENUE,south of Sundayshill Lane,368226,947513,U,0

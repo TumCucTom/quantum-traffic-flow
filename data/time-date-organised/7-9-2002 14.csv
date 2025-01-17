@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000022,167630,19,Bath and North East Somerset,1,46,A363,PR,9,4,7/9/2002,15,378540,391,14,1,E,LA Boundary,0,313,380200,2002,0,167100,167680,,,380000,56111,A4,0
+3,South West,E06000022,167630,33,Bath and North East Somerset,0,57,A363,PR,7,0,7/9/2002,25,378540,359,14,4,W,LA Boundary,0,262,380200,2002,1,167100,167680,,,380000,56111,A4,0
+0,South West,E06000025,183390,17,South Gloucestershire,0,54,,BU,4,0,7/9/2002,9,,420,14,5,N,,0,345,,2002,3,,,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,0
+1,South West,E06000025,183390,24,South Gloucestershire,8,48,,BU,3,1,7/9/2002,9,,510,14,5,S,,0,434,,2002,0,,,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,1

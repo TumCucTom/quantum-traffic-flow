@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,160000,41,Bath and North East Somerset,3,62,A39,PR,2,1,7/7/2000,21,362935,363,11,3,N,A368,0,257,362468,2000,9,156853,161884,,,361900,16354,A37,5
+2,South West,E06000022,160000,50,Bath and North East Somerset,9,65,A39,PR,2,2,7/7/2000,18,362935,368,11,2,S,A368,0,249,362468,2000,15,156853,161884,,,361900,16354,A37,4
+0,South West,E06000022,159220,0,Bath and North East Somerset,0,12,,UR,0,0,7/7/2000,0,,43,11,0,E,,0,31,,2000,0,,,Station Road,"Clutton, East of A37",362400,952442,U,0
+0,South West,E06000022,159220,1,Bath and North East Somerset,0,11,,UR,0,0,7/7/2000,1,,47,11,0,W,,0,35,,2000,0,,,Station Road,"Clutton, East of A37",362400,952442,U,0

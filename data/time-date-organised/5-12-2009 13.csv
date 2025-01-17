@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000023,170000,47,"Bristol, City of",8,168,Emery Rd,PR,13,22,5/12/2009,23,362650,1175,13,2,E,LA Boundary,5,925,363720,2009,5,170180,169810,,,363100,36132,A4,3
+8,South West,E06000023,170000,70,"Bristol, City of",4,180,Emery Rd,PR,14,13,5/12/2009,39,362650,1175,13,8,W,LA Boundary,7,898,363720,2009,6,170180,169810,,,363100,36132,A4,5
+0,South West,E06000022,164166,3,Bath and North East Somerset,0,21,,CU,1,0,5/12/2009,3,,88,13,0,E,,0,63,,2009,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373543,966018,C,0
+0,South West,E06000022,164166,1,Bath and North East Somerset,0,3,,CU,0,2,5/12/2009,1,,33,13,0,W,,0,27,,2009,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373543,966018,C,0

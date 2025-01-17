@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000025,182000,72,South Gloucestershire,15,117,LA Boundary,TM,1,2,7/1/2008,15,354580,642,15,5,N,M4 (22),0,450,354450,2008,27,180880,185800,,,355500,99170,M49,9
+4,South West,E06000025,182000,105,South Gloucestershire,24,88,LA Boundary,TM,6,4,7/1/2008,30,354580,586,15,7,S,M4 (22),0,383,354450,2008,31,180880,185800,,,355500,99170,M49,9
+0,South West,E06000023,177930,0,"Bristol, City of",0,2,,UU,0,0,7/1/2008,0,,5,15,0,E,,0,3,,2008,0,,,DAVIS STREET,West of Collins Street,351877,946819,U,0
+0,South West,E06000023,177930,0,"Bristol, City of",0,1,,UU,0,0,7/1/2008,0,,6,15,0,W,,0,5,,2008,0,,,DAVIS STREET,West of Collins Street,351877,946819,U,0
+0,South West,E06000023,173974,0,"Bristol, City of",0,1,,UU,0,0,7/1/2008,0,,5,15,0,E,,0,4,,2008,0,,,HOWARD AVENUE,East of Howard Road,362237,946822,U,0
+0,South West,E06000023,173974,0,"Bristol, City of",0,0,,UU,0,0,7/1/2008,0,,3,15,0,W,,0,3,,2008,0,,,HOWARD AVENUE,East of Howard Road,362237,946822,U,0
+0,South West,E06000025,179740,2,South Gloucestershire,0,14,,UU,2,1,7/1/2008,2,,142,15,0,N,,0,123,,2008,0,,,Dragon Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,3,South Gloucestershire,0,22,,UU,3,6,7/1/2008,3,,199,15,0,S,,0,165,,2008,0,,,Dragon Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0

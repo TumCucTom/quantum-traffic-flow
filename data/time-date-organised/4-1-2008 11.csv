@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+12,South West,E06000025,178700,38,South Gloucestershire,0,119,A38,PU,3,6,4/1/2008,22,360131,783,11,3,E,M32,0,617,363490,2008,0,178978,178640,,,363000,37768,A4174,1
+8,South West,E06000025,178700,20,South Gloucestershire,1,126,A38,PU,4,5,4/1/2008,9,360131,817,11,2,W,M32,3,662,363490,2008,0,178978,178640,,,363000,37768,A4174,0
+0,South West,E06000023,176850,0,"Bristol, City of",0,14,,UU,4,0,4/1/2008,0,,139,11,0,N,,4,121,,2008,0,,,COOMBE LANE,West of West Dene,356050,930425,U,0
+0,South West,E06000023,176850,1,"Bristol, City of",0,12,,UU,3,1,4/1/2008,0,,161,11,1,S,,4,144,,2008,0,,,COOMBE LANE,West of West Dene,356050,930425,U,0
+0,South West,E06000025,181173,0,South Gloucestershire,0,0,,CR,0,0,4/1/2008,0,,1,11,0,E,,0,1,,2008,0,,,HILL LANE,west of A46,376093,947500,C,0
+0,South West,E06000025,181173,0,South Gloucestershire,0,1,,CR,0,0,4/1/2008,0,,2,11,0,W,,0,1,,2008,0,,,HILL LANE,west of A46,376093,947500,C,0
+0,South West,E06000023,170795,0,"Bristol, City of",0,2,,UU,0,0,4/1/2008,0,,20,11,0,N,,0,18,,2008,0,,,Wingfield Road,North of Wedmore Vale,359399,979124,U,0
+0,South West,E06000023,170795,0,"Bristol, City of",0,6,,UU,0,1,4/1/2008,0,,23,11,0,S,,0,16,,2008,0,,,Wingfield Road,North of Wedmore Vale,359399,979124,U,0

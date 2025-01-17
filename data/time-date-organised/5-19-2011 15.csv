@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000023,172050,56,"Bristol, City of",3,40,A38,PU,9,6,5/19/2011,40,359017,460,15,6,N,A4,15,349,359621,2011,2,172014,172220,,,359400,74492,A370,1
+1,South West,E06000023,172050,18,"Bristol, City of",0,15,A38,PU,2,4,5/19/2011,15,359017,260,15,1,S,A4,16,221,359621,2011,1,172014,172220,,,359400,74492,A370,0
+0,South West,E06000022,157772,0,Bath and North East Somerset,0,2,,CU,0,0,5/19/2011,0,,28,15,0,E,,0,26,,2011,0,,,ECKWEEK ROAD,"Peasedown st john, 100m west of Gordon road jcn",370812,946670,C,0
+0,South West,E06000022,157772,0,Bath and North East Somerset,0,8,,CU,0,0,5/19/2011,0,,24,15,0,W,,0,16,,2011,0,,,ECKWEEK ROAD,"Peasedown st john, 100m west of Gordon road jcn",370812,946670,C,0
+0,South West,E06000023,174504,3,"Bristol, City of",0,24,,CU,0,1,5/19/2011,3,,176,15,0,E,,13,148,,2011,0,,,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+0,South West,E06000023,174504,1,"Bristol, City of",0,7,,CU,0,1,5/19/2011,1,,97,15,0,W,,16,88,,2011,0,,,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+0,South West,E06000023,177176,0,"Bristol, City of",0,4,,UU,0,0,5/19/2011,0,,27,15,0,N,,2,23,,2011,0,,,ABBEY ROAD,East of Lyndhurst Road,356700,946767,U,0
+0,South West,E06000023,177176,1,"Bristol, City of",0,2,,UU,0,0,5/19/2011,1,,24,15,0,S,,2,21,,2011,0,,,ABBEY ROAD,East of Lyndhurst Road,356700,946767,U,0

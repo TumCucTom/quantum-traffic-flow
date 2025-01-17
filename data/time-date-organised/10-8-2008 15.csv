@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,178961,6,"Bristol, City of",1,73,BU,15,6,10/8/2008,2,556,15,2,N,2,456,2008,0,HALLEN ROAD,South of Hallen Close,356015,946744,B4057,1
+0,South West,E06000023,178961,0,"Bristol, City of",0,0,BU,0,0,10/8/2008,0,0,15,0,S,0,0,2008,0,HALLEN ROAD,South of Hallen Close,356015,946744,B4057,0
+0,South West,E06000025,181662,1,South Gloucestershire,0,5,UU,4,0,10/8/2008,1,52,15,0,E,4,42,2008,0,RODWAY ROAD,"east of Thirlmere Road, Patchway",360310,947544,U,0
+0,South West,E06000025,181662,0,South Gloucestershire,0,8,UU,6,1,10/8/2008,0,53,15,0,W,1,38,2008,0,RODWAY ROAD,"east of Thirlmere Road, Patchway",360310,947544,U,0

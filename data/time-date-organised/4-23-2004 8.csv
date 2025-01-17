@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+16,South West,E06000023,180000,121,"Bristol, City of",14,128,Kings Road Avenue,PU,5,12,4/23/2004,42,351640,645,8,12,N,Unclassified Road,4,379,353500,2004,32,178510,182910,,,352000,7046,A403,5
+15,South West,E06000023,180000,142,"Bristol, City of",35,142,Kings Road Avenue,PU,2,7,4/23/2004,53,351640,485,8,15,S,Unclassified Road,0,192,353500,2004,18,178510,182910,,,352000,7046,A403,6
+1,South West,E06000023,169310,14,"Bristol, City of",0,70,,UU,11,8,4/23/2004,12,,538,8,0,N,,3,435,,2004,0,,,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,1
+0,South West,E06000023,169310,8,"Bristol, City of",0,52,,UU,8,3,4/23/2004,7,,430,8,1,S,,0,359,,2004,0,,,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0

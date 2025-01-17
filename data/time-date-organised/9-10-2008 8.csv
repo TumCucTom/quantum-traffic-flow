@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,162717,0,North Somerset,0,22,CU,4,1,9/10/2008,0,100,8,0,N,2,73,2008,0,SILVER STREET,"South of Lawrence Road, Wrington",347016,947258,C,0
+0,South West,E06000024,162717,1,North Somerset,0,14,CU,0,2,9/10/2008,1,67,8,0,S,4,50,2008,0,SILVER STREET,"South of Lawrence Road, Wrington",347016,947258,C,0
+0,South West,E06000025,171226,0,South Gloucestershire,0,0,UU,0,0,9/10/2008,0,7,8,0,E,0,7,2008,0,COMMON ROAD,"west of Riverside Way, Hanham",363922,947522,U,0
+0,South West,E06000025,171226,0,South Gloucestershire,0,1,UU,0,0,9/10/2008,0,5,8,0,W,0,4,2008,0,COMMON ROAD,"west of Riverside Way, Hanham",363922,947522,U,0
+0,South West,E06000023,175210,0,"Bristol, City of",0,1,UU,1,0,9/10/2008,0,53,8,0,N,3,51,2008,0,Effingham Road,North of Grenville Road,359243,969256,U,0
+0,South West,E06000023,175210,0,"Bristol, City of",0,2,UU,0,1,9/10/2008,0,58,8,0,S,3,55,2008,0,Effingham Road,North of Grenville Road,359243,969256,U,0

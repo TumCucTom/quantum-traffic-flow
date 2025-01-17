@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000023,180000,81,"Bristol, City of",13,15,Kings Road Avenue,PU,2,7,9/27/2006,33,351640,249,18,6,N,Unclassified Road,1,144,353500,2006,24,178510,182910,,,352000,7046,A403,1
+0,South West,E06000023,180000,53,"Bristol, City of",20,64,Kings Road Avenue,PU,0,11,9/27/2006,9,351640,401,18,2,S,Unclassified Road,5,273,353500,2006,20,178510,182910,,,352000,7046,A403,2
+0,South West,E06000023,176860,0,"Bristol, City of",0,12,,UU,0,6,9/27/2006,0,,149,18,0,E,,7,131,,2006,0,,,LOCKLEAZE ROAD,East of Wordsworth Road,360450,930424,U,0
+0,South West,E06000023,176860,0,"Bristol, City of",0,10,,UU,2,6,9/27/2006,0,,126,18,0,W,,14,108,,2006,0,,,LOCKLEAZE ROAD,East of Wordsworth Road,360450,930424,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000024,166250,9,North Somerset,0,111,B3133 Smallways,PR,9,20,6/19/2003,6,343792,880,7,1,E,"Chelvey Rd, Backwell",3,731,347970,2003,0,164091,167990,,,346160,6994,A370,1
+8,South West,E06000024,166250,38,North Somerset,4,78,B3133 Smallways,PR,7,7,6/19/2003,21,343792,352,7,4,W,"Chelvey Rd, Backwell",0,222,347970,2003,1,164091,167990,,,346160,6994,A370,0
+0,South West,E06000024,161770,2,North Somerset,0,2,,CR,0,1,6/19/2003,1,,68,7,1,N,,1,63,,2003,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0
+0,South West,E06000024,161770,1,North Somerset,0,42,,CR,1,4,6/19/2003,0,,214,7,1,S,,1,166,,2003,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0

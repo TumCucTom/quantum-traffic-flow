@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,165100,3,Bath and North East Somerset,0,60,A431,PU,21,3,7/6/2009,2,373200,533,10,1,E,A3604,2,446,373520,2009,0,165120,165123,,,373300,56445,A4,0
+0,South West,E06000022,165100,14,Bath and North East Somerset,0,52,A431,PU,36,4,7/6/2009,13,373200,593,10,0,W,A3604,6,487,373520,2009,1,165120,165123,,,373300,56445,A4,0
+0,South West,E06000024,162853,0,North Somerset,0,4,,CR,0,1,7/6/2009,0,,35,10,0,E,,0,30,,2009,0,,,Long Lane,"East of School Lane, Wrington",348438,945731,C,0
+0,South West,E06000024,162853,0,North Somerset,0,3,,CR,0,1,7/6/2009,0,,37,10,0,W,,0,33,,2009,0,,,Long Lane,"East of School Lane, Wrington",348438,945731,C,0

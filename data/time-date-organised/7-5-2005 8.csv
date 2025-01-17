@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,175000,8,"Bristol, City of",0,51,St James Barton,PU,24,7,7/5/2005,6,359050,418,8,1,N,Muller Road,58,328,359480,2005,1,173550,176900,,,359000,26403,A38,0
+0,South West,E06000023,175000,17,"Bristol, City of",0,71,St James Barton,PU,22,37,7/5/2005,17,359050,703,8,0,S,Muller Road,176,556,359480,2005,0,173550,176900,,,359000,26403,A38,0
+2,South West,E06000025,183390,26,South Gloucestershire,2,73,,BU,7,3,7/5/2005,14,,596,8,4,N,,2,487,,2005,1,,,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,3
+1,South West,E06000025,183390,25,South Gloucestershire,3,71,,BU,3,3,7/5/2005,12,,664,8,1,S,,20,562,,2005,4,,,Goose Green Way,"S/O B4060 Peg Hill, Yate",371670,990070,B4059,4

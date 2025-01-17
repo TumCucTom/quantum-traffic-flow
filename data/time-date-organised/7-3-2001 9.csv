@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,172000,12,South Gloucestershire,0,43,A431,PU,11,2,7/3/2001,10,367246,320,9,1,N,A420,1,252,367961,2001,0,170119,173307,,,367940,47725,A4175,1
+1,South West,E06000025,172000,15,South Gloucestershire,1,56,A431,PU,5,2,7/3/2001,7,367246,361,9,1,S,A420,4,283,367961,2001,1,170119,173307,,,367940,47725,A4175,4
+0,South West,E06000024,175587,2,North Somerset,0,15,,UU,3,0,7/3/2001,2,,86,9,0,N,,0,66,,2001,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0
+0,South West,E06000024,175587,4,North Somerset,0,12,,UU,4,0,7/3/2001,3,,142,9,1,S,,1,122,,2001,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0
+1,South West,E06000025,179740,1,South Gloucestershire,0,13,,UU,0,0,7/3/2001,0,,147,9,0,N,,1,133,,2001,0,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,1,South Gloucestershire,0,12,,UU,1,0,7/3/2001,1,,85,9,0,S,,1,71,,2001,0,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0

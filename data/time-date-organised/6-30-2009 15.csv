@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,171700,26,"Bristol, City of",4,120,A370,PU,14,12,6/30/2009,11,356530,1684,15,4,N,A369,5,1512,356820,2009,6,171490,171860,,,356780,48003,A3029,0
+16,South West,E06000023,171700,66,"Bristol, City of",7,345,A370,PU,28,56,6/30/2009,23,356530,2460,15,8,S,A369,9,1965,356820,2009,7,171490,171860,,,356780,48003,A3029,5
+1,South West,E06000025,179740,3,South Gloucestershire,0,17,,UU,0,3,6/30/2009,2,,137,15,0,N,,0,114,,2009,0,,,Dragon Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,1,South Gloucestershire,0,15,,UU,3,3,6/30/2009,1,,169,15,0,S,,0,147,,2009,0,,,Dragon Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
