@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+10,7,E06000024,,343792,2,915,South West,,B3133 Smallways,167990,North Somerset,1,6994,1,18,E,89,6/8/2005,2005,166250,30,1,771,A370,347970,3,PR,346160,6,164091,"Chelvey Rd, Backwell",7
+18,14,E06000024,,343792,10,804,South West,,B3133 Smallways,167990,North Somerset,0,6994,1,37,E,72,6/8/2005,2005,166250,25,2,656,A370,347970,6,PR,346160,8,164091,"Chelvey Rd, Backwell",8
+16,10,E06000024,,343792,7,592,South West,,B3133 Smallways,167990,North Somerset,0,6994,0,26,E,61,6/8/2005,2005,166250,4,1,491,A370,347970,2,PR,346160,1,164091,"Chelvey Rd, Backwell",9
+17,4,E06000024,,343792,3,431,South West,,B3133 Smallways,167990,North Somerset,2,6994,3,29,E,63,6/8/2005,2005,166250,4,3,331,A370,347970,1,PR,346160,1,164091,"Chelvey Rd, Backwell",10
+14,4,E06000024,,343792,5,418,South West,,B3133 Smallways,167990,North Somerset,6,6994,1,29,E,56,6/8/2005,2005,166250,3,3,326,A370,347970,0,PR,346160,1,164091,"Chelvey Rd, Backwell",11
+11,3,E06000024,,343792,3,403,South West,,B3133 Smallways,167990,North Somerset,2,6994,0,24,E,41,6/8/2005,2005,166250,4,2,331,A370,347970,6,PR,346160,0,164091,"Chelvey Rd, Backwell",12
+11,4,E06000024,,343792,5,510,South West,,B3133 Smallways,167990,North Somerset,0,6994,6,25,E,70,6/8/2005,2005,166250,9,1,402,A370,347970,2,PR,346160,2,164091,"Chelvey Rd, Backwell",13
+14,7,E06000024,,343792,9,488,South West,,B3133 Smallways,167990,North Somerset,2,6994,3,35,E,46,6/8/2005,2005,166250,6,2,394,A370,347970,5,PR,346160,0,164091,"Chelvey Rd, Backwell",14
+14,14,E06000024,,343792,0,620,South West,,B3133 Smallways,167990,North Somerset,2,6994,0,19,E,83,6/8/2005,2005,166250,5,3,499,A370,347970,0,PR,346160,1,164091,"Chelvey Rd, Backwell",15
+10,10,E06000024,,343792,3,572,South West,,B3133 Smallways,167990,North Somerset,1,6994,0,21,E,60,6/8/2005,2005,166250,4,5,477,A370,347970,2,PR,346160,1,164091,"Chelvey Rd, Backwell",16
+2,9,E06000024,,343792,2,547,South West,,B3133 Smallways,167990,North Somerset,0,6994,0,5,E,43,6/8/2005,2005,166250,11,1,479,A370,347970,0,PR,346160,4,164091,"Chelvey Rd, Backwell",17
+0,5,E06000024,,343792,0,429,South West,,B3133 Smallways,167990,North Somerset,0,6994,0,3,E,34,6/8/2005,2005,166250,4,3,383,A370,347970,0,PR,346160,3,164091,"Chelvey Rd, Backwell",18
+24,9,E06000024,,343792,6,441,South West,,B3133 Smallways,167990,North Somerset,1,6994,4,42,W,89,6/8/2005,2005,166250,7,1,294,A370,347970,6,PR,346160,1,164091,"Chelvey Rd, Backwell",7
+19,16,E06000024,,343792,6,573,South West,,B3133 Smallways,167990,North Somerset,0,6994,1,32,W,62,6/8/2005,2005,166250,6,2,457,A370,347970,4,PR,346160,0,164091,"Chelvey Rd, Backwell",8
+22,5,E06000024,,343792,3,419,South West,,B3133 Smallways,167990,North Somerset,1,6994,3,38,W,44,6/8/2005,2005,166250,3,6,329,A370,347970,3,PR,346160,0,164091,"Chelvey Rd, Backwell",9
+14,8,E06000024,,343792,1,560,South West,,B3133 Smallways,167990,North Somerset,5,6994,7,33,W,71,6/8/2005,2005,166250,0,4,448,A370,347970,2,PR,346160,0,164091,"Chelvey Rd, Backwell",10
+12,3,E06000024,,343792,4,514,South West,,B3133 Smallways,167990,North Somerset,1,6994,7,30,W,59,6/8/2005,2005,166250,2,1,420,A370,347970,5,PR,346160,1,164091,"Chelvey Rd, Backwell",11
+13,5,E06000024,,343792,3,538,South West,,B3133 Smallways,167990,North Somerset,2,6994,7,33,W,61,6/8/2005,2005,166250,5,7,434,A370,347970,1,PR,346160,0,164091,"Chelvey Rd, Backwell",12
+19,6,E06000024,,343792,3,548,South West,,B3133 Smallways,167990,North Somerset,0,6994,2,30,W,59,6/8/2005,2005,166250,3,2,450,A370,347970,4,PR,346160,2,164091,"Chelvey Rd, Backwell",13
+20,9,E06000024,,343792,8,569,South West,,B3133 Smallways,167990,North Somerset,3,6994,2,38,W,68,6/8/2005,2005,166250,5,5,449,A370,347970,0,PR,346160,0,164091,"Chelvey Rd, Backwell",14
+17,20,E06000024,,343792,4,650,South West,,B3133 Smallways,167990,North Somerset,2,6994,0,28,W,69,6/8/2005,2005,166250,8,3,525,A370,347970,2,PR,346160,2,164091,"Chelvey Rd, Backwell",15
+5,5,E06000024,,343792,2,892,South West,,B3133 Smallways,167990,North Somerset,0,6994,6,16,W,111,6/8/2005,2005,166250,20,3,740,A370,347970,0,PR,346160,2,164091,"Chelvey Rd, Backwell",16
+4,8,E06000024,,343792,0,1054,South West,,B3133 Smallways,167990,North Somerset,0,6994,4,9,W,85,6/8/2005,2005,166250,30,1,922,A370,347970,0,PR,346160,7,164091,"Chelvey Rd, Backwell",17
+3,6,E06000024,,343792,1,897,South West,,B3133 Smallways,167990,North Somerset,0,6994,1,7,W,58,6/8/2005,2005,166250,24,1,802,A370,347970,1,PR,346160,3,164091,"Chelvey Rd, Backwell",18
+0,4,E06000025,Horton Hill,,0,33,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,0,6/8/2005,2005,184220,0,0,29,U,,0,UR,376450,0,,,7
+0,7,E06000025,Horton Hill,,0,43,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,0,6/8/2005,2005,184220,0,0,36,U,,0,UR,376450,0,,,8
+0,5,E06000025,Horton Hill,,0,17,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,0,6/8/2005,2005,184220,0,0,12,U,,0,UR,376450,0,,,9
+0,6,E06000025,Horton Hill,,0,22,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,1,6/8/2005,2005,184220,0,0,15,U,,0,UR,376450,0,,,10
+0,9,E06000025,Horton Hill,,0,32,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,1,942481,0,1,E,0,6/8/2005,2005,184220,0,0,22,U,,0,UR,376450,2,,,11
+0,11,E06000025,Horton Hill,,0,38,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,1,942481,1,2,E,1,6/8/2005,2005,184220,0,0,24,U,,0,UR,376450,0,,,12
+2,3,E06000025,Horton Hill,,0,27,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,E,0,6/8/2005,2005,184220,0,0,22,U,,0,UR,376450,0,,,13
+0,4,E06000025,Horton Hill,,0,30,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,1,6/8/2005,2005,184220,0,0,25,U,,0,UR,376450,0,,,14
+0,6,E06000025,Horton Hill,,0,41,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,1,6/8/2005,2005,184220,1,0,32,U,,1,UR,376450,0,,,15
+0,9,E06000025,Horton Hill,,0,60,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,1,6/8/2005,2005,184220,4,0,46,U,,0,UR,376450,3,,,16
+1,10,E06000025,Horton Hill,,0,43,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,0,6/8/2005,2005,184220,1,0,31,U,,0,UR,376450,2,,,17
+0,4,E06000025,Horton Hill,,0,28,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,0,6/8/2005,2005,184220,1,0,23,U,,0,UR,376450,3,,,18
+0,7,E06000025,Horton Hill,,0,36,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,0,6/8/2005,2005,184220,1,0,28,U,,0,UR,376450,0,,,7
+0,6,E06000025,Horton Hill,,0,54,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,2,6/8/2005,2005,184220,1,0,45,U,,0,UR,376450,0,,,8
+1,5,E06000025,Horton Hill,,0,23,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,0,6/8/2005,2005,184220,0,0,17,U,,0,UR,376450,0,,,9
+1,6,E06000025,Horton Hill,,0,27,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,1,6/8/2005,2005,184220,0,0,19,U,,0,UR,376450,0,,,10
+0,6,E06000025,Horton Hill,,0,22,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,0,6/8/2005,2005,184220,0,0,16,U,,0,UR,376450,0,,,11
+0,7,E06000025,Horton Hill,,0,27,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,2,6/8/2005,2005,184220,1,0,17,U,,0,UR,376450,2,,,12
+1,3,E06000025,Horton Hill,,0,19,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,0,6/8/2005,2005,184220,1,0,14,U,,0,UR,376450,0,,,13
+1,4,E06000025,Horton Hill,,0,26,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,2,6/8/2005,2005,184220,2,0,17,U,,0,UR,376450,0,,,14
+0,6,E06000025,Horton Hill,,0,31,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,1,1,W,2,6/8/2005,2005,184220,1,0,21,U,,0,UR,376450,1,,,15
+0,11,E06000025,Horton Hill,,0,50,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,1,6/8/2005,2005,184220,2,0,36,U,,0,UR,376450,5,,,16
+0,11,E06000025,Horton Hill,,0,52,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,1,6/8/2005,2005,184220,3,0,37,U,,0,UR,376450,3,,,17
+0,7,E06000025,Horton Hill,,0,53,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,0,6/8/2005,2005,184220,3,0,43,U,,0,UR,376450,6,,,18

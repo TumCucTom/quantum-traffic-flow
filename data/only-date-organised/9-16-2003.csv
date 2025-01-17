@@ -1,0 +1,37 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+25,23,E06000023,,357100,3,1098,South West,,A3029,172520,"Bristol, City of",1,8599,1,36,S,124,9/16/2003,2003,172436,26,2,889,A4,357170,4,PU,357134,17,172340,Hotwells Rd,7
+12,39,E06000023,,357100,7,1589,South West,,A3029,172520,"Bristol, City of",0,8599,0,22,S,121,9/16/2003,2003,172436,22,2,1385,A4,357170,1,PU,357134,19,172340,Hotwells Rd,8
+37,26,E06000023,,357100,9,1188,South West,,A3029,172520,"Bristol, City of",2,8599,0,54,S,166,9/16/2003,2003,172436,10,2,932,A4,357170,4,PU,357134,9,172340,Hotwells Rd,9
+32,30,E06000023,,357100,2,1118,South West,,A3029,172520,"Bristol, City of",1,8599,2,40,S,181,9/16/2003,2003,172436,14,1,853,A4,357170,2,PU,357134,3,172340,Hotwells Rd,10
+31,27,E06000023,,357100,4,1194,South West,,A3029,172520,"Bristol, City of",2,8599,1,43,S,173,9/16/2003,2003,172436,20,0,931,A4,357170,5,PU,357134,5,172340,Hotwells Rd,11
+28,29,E06000023,,357100,4,1233,South West,,A3029,172520,"Bristol, City of",2,8599,4,44,S,175,9/16/2003,2003,172436,28,1,957,A4,357170,5,PU,357134,3,172340,Hotwells Rd,12
+31,36,E06000023,,357100,3,1221,South West,,A3029,172520,"Bristol, City of",0,8599,0,39,S,154,9/16/2003,2003,172436,27,2,965,A4,357170,3,PU,357134,7,172340,Hotwells Rd,13
+22,21,E06000023,,357100,4,1087,South West,,A3029,172520,"Bristol, City of",1,8599,0,32,S,140,9/16/2003,2003,172436,18,1,876,A4,357170,4,PU,357134,3,172340,Hotwells Rd,14
+26,53,E06000023,,357100,4,1398,South West,,A3029,172520,"Bristol, City of",0,8599,0,41,S,170,9/16/2003,2003,172436,32,2,1102,A4,357170,9,PU,357134,13,172340,Hotwells Rd,15
+12,36,E06000023,,357100,3,1833,South West,,A3029,172520,"Bristol, City of",0,8599,2,20,S,155,9/16/2003,2003,172436,57,2,1565,A4,357170,1,PU,357134,13,172340,Hotwells Rd,16
+9,36,E06000023,,357100,1,1916,South West,,A3029,172520,"Bristol, City of",0,8599,0,11,S,86,9/16/2003,2003,172436,63,1,1720,A4,357170,0,PU,357134,31,172340,Hotwells Rd,17
+5,31,E06000023,,357100,0,1489,South West,,A3029,172520,"Bristol, City of",0,8599,0,7,S,83,9/16/2003,2003,172436,33,0,1335,A4,357170,2,PU,357134,14,172340,Hotwells Rd,18
+0,1,E06000025,FELTHAM ROAD,,0,112,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,E,21,9/16/2003,2003,176630,2,0,88,C,,0,CR,370520,0,,,7
+1,0,E06000025,FELTHAM ROAD,,1,69,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,12,9/16/2003,2003,176630,1,0,54,C,,0,CR,370520,2,,,8
+1,0,E06000025,FELTHAM ROAD,,0,34,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,4,9/16/2003,2003,176630,2,0,27,C,,0,CR,370520,1,,,9
+2,0,E06000025,FELTHAM ROAD,,0,38,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,10,9/16/2003,2003,176630,1,0,25,C,,0,CR,370520,0,,,10
+2,0,E06000025,FELTHAM ROAD,,0,40,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,4,9/16/2003,2003,176630,0,0,34,C,,0,CR,370520,0,,,11
+2,0,E06000025,FELTHAM ROAD,,0,35,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,1,9/16/2003,2003,176630,1,0,31,C,,0,CR,370520,0,,,12
+3,0,E06000025,FELTHAM ROAD,,0,35,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,4,E,2,9/16/2003,2003,176630,0,0,29,C,,1,CR,370520,0,,,13
+1,0,E06000025,FELTHAM ROAD,,0,26,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,3,9/16/2003,2003,176630,0,0,22,C,,0,CR,370520,0,,,14
+0,1,E06000025,FELTHAM ROAD,,0,36,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,1,2,E,7,9/16/2003,2003,176630,2,1,24,C,,0,CR,370520,0,,,15
+0,0,E06000025,FELTHAM ROAD,,0,42,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,3,9/16/2003,2003,176630,0,0,37,C,,2,CR,370520,1,,,16
+0,0,E06000025,FELTHAM ROAD,,0,49,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,1,1,E,6,9/16/2003,2003,176630,0,0,42,C,,0,CR,370520,1,,,17
+0,0,E06000025,FELTHAM ROAD,,2,41,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,1,9/16/2003,2003,176630,2,0,36,C,,0,CR,370520,0,,,18
+0,0,E06000025,FELTHAM ROAD,,0,26,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,4,9/16/2003,2003,176630,1,0,21,C,,0,CR,370520,0,,,7
+0,2,E06000025,FELTHAM ROAD,,0,37,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,4,9/16/2003,2003,176630,0,0,31,C,,0,CR,370520,0,,,8
+2,0,E06000025,FELTHAM ROAD,,1,49,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,4,W,5,9/16/2003,2003,176630,0,0,40,C,,1,CR,370520,0,,,9
+3,0,E06000025,FELTHAM ROAD,,0,34,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,4,W,2,9/16/2003,2003,176630,0,0,28,C,,1,CR,370520,0,,,10
+3,0,E06000025,FELTHAM ROAD,,0,34,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,3,W,6,9/16/2003,2003,176630,0,0,25,C,,0,CR,370520,0,,,11
+4,0,E06000025,FELTHAM ROAD,,0,30,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,4,W,5,9/16/2003,2003,176630,1,0,20,C,,0,CR,370520,0,,,12
+1,0,E06000025,FELTHAM ROAD,,0,24,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,W,3,9/16/2003,2003,176630,0,0,20,C,,0,CR,370520,0,,,13
+0,0,E06000025,FELTHAM ROAD,,0,48,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,8,9/16/2003,2003,176630,0,0,40,C,,0,CR,370520,0,,,14
+1,1,E06000025,FELTHAM ROAD,,0,47,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,W,5,9/16/2003,2003,176630,2,0,38,C,,0,CR,370520,0,,,15
+1,0,E06000025,FELTHAM ROAD,,0,68,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,W,12,9/16/2003,2003,176630,1,0,54,C,,0,CR,370520,2,,,16
+0,0,E06000025,FELTHAM ROAD,,0,86,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,15,9/16/2003,2003,176630,0,0,71,C,,0,CR,370520,4,,,17
+0,0,E06000025,FELTHAM ROAD,,0,69,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,6,9/16/2003,2003,176630,2,0,61,C,,0,CR,370520,3,,,18

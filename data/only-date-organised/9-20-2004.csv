@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+1,0,E06000025,0,39,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,E,6,9/20/2004,2004,181243,0,0,32,U,0,UU,359427,0,Sycamore Drive,7
+1,1,E06000025,0,35,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,E,4,9/20/2004,2004,181243,0,0,29,U,0,UU,359427,2,Sycamore Drive,8
+0,0,E06000025,0,34,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,2,9/20/2004,2004,181243,0,0,32,U,0,UU,359427,0,Sycamore Drive,9
+2,0,E06000025,0,41,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,2,E,5,9/20/2004,2004,181243,2,0,32,U,0,UU,359427,0,Sycamore Drive,10
+1,0,E06000025,0,50,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,E,5,9/20/2004,2004,181243,1,0,43,U,0,UU,359427,0,Sycamore Drive,11
+1,0,E06000025,0,54,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,E,5,9/20/2004,2004,181243,0,0,48,U,0,UU,359427,0,Sycamore Drive,12
+0,0,E06000025,0,72,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,6,9/20/2004,2004,181243,0,0,66,U,0,UU,359427,1,Sycamore Drive,13
+0,0,E06000025,0,68,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,10,9/20/2004,2004,181243,1,0,57,U,0,UU,359427,0,Sycamore Drive,14
+0,0,E06000025,0,101,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,2,9/20/2004,2004,181243,1,0,98,U,0,UU,359427,0,Sycamore Drive,15
+5,2,E06000025,0,86,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,5,E,8,9/20/2004,2004,181243,2,0,69,U,0,UU,359427,0,Sycamore Drive,16
+0,1,E06000025,0,145,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,7,9/20/2004,2004,181243,2,0,135,U,0,UU,359427,2,Sycamore Drive,17
+0,0,E06000025,0,93,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,E,12,9/20/2004,2004,181243,1,0,80,U,0,UU,359427,0,Sycamore Drive,18
+0,0,E06000025,0,31,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,5,9/20/2004,2004,181243,0,0,26,U,0,UU,359427,0,Sycamore Drive,7
+2,0,E06000025,0,48,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,2,W,4,9/20/2004,2004,181243,0,0,42,U,0,UU,359427,0,Sycamore Drive,8
+0,0,E06000025,0,20,South West,"west of Birch Close, Patchway,",South Gloucestershire,1,952434,0,1,W,1,9/20/2004,2004,181243,0,0,18,U,0,UU,359427,0,Sycamore Drive,9
+1,0,E06000025,0,26,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,W,4,9/20/2004,2004,181243,0,0,21,U,0,UU,359427,0,Sycamore Drive,10
+1,0,E06000025,0,35,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,W,4,9/20/2004,2004,181243,0,0,30,U,0,UU,359427,0,Sycamore Drive,11
+0,0,E06000025,0,22,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,2,9/20/2004,2004,181243,0,0,20,U,0,UU,359427,0,Sycamore Drive,12
+0,0,E06000025,0,30,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,2,9/20/2004,2004,181243,0,0,28,U,0,UU,359427,0,Sycamore Drive,13
+0,1,E06000025,0,31,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,2,9/20/2004,2004,181243,0,0,28,U,0,UU,359427,0,Sycamore Drive,14
+0,0,E06000025,0,25,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,0,9/20/2004,2004,181243,0,0,25,U,0,UU,359427,0,Sycamore Drive,15
+0,1,E06000025,0,23,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,2,9/20/2004,2004,181243,0,0,20,U,0,UU,359427,0,Sycamore Drive,16
+1,0,E06000025,0,33,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,1,W,2,9/20/2004,2004,181243,0,0,30,U,0,UU,359427,0,Sycamore Drive,17
+0,0,E06000025,0,39,South West,"west of Birch Close, Patchway,",South Gloucestershire,0,952434,0,0,W,2,9/20/2004,2004,181243,0,0,37,U,0,UU,359427,0,Sycamore Drive,18

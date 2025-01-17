@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+162,5,E06000025,,360686,29,3836,South West,,16,183775,South Gloucestershire,36,99607,102,457,E,681,9/28/2006,2006,183482,20,92,2673,M5,361812,36,TM,361000,0,183284,15 / M4,7
+135,6,E06000025,,360686,17,3400,South West,,16,183775,South Gloucestershire,22,99607,89,417,E,473,9/28/2006,2006,183482,20,128,2484,M5,361812,26,TM,361000,0,183284,15 / M4,8
+134,9,E06000025,,360686,35,3142,South West,,16,183775,South Gloucestershire,34,99607,88,425,E,462,9/28/2006,2006,183482,6,114,2240,M5,361812,20,TM,361000,0,183284,15 / M4,9
+111,11,E06000025,,360686,39,3570,South West,,16,183775,South Gloucestershire,47,99607,109,464,E,457,9/28/2006,2006,183482,13,138,2625,M5,361812,20,TM,361000,0,183284,15 / M4,10
+125,55,E06000025,,360686,34,4607,South West,,16,183775,South Gloucestershire,66,99607,102,478,E,518,9/28/2006,2006,183482,14,133,3542,M5,361812,18,TM,361000,0,183284,15 / M4,11
+186,33,E06000025,,360686,19,4804,South West,,16,183775,South Gloucestershire,37,99607,90,481,E,606,9/28/2006,2006,183482,48,117,3636,M5,361812,32,TM,361000,0,183284,15 / M4,12
+107,17,E06000025,,360686,32,4881,South West,,16,183775,South Gloucestershire,26,99607,97,382,E,500,9/28/2006,2006,183482,32,102,3950,M5,361812,18,TM,361000,0,183284,15 / M4,13
+151,17,E06000025,,360686,25,4897,South West,,16,183775,South Gloucestershire,30,99607,90,413,E,456,9/28/2006,2006,183482,29,95,3982,M5,361812,22,TM,361000,0,183284,15 / M4,14
+93,17,E06000025,,360686,13,5252,South West,,16,183775,South Gloucestershire,16,99607,64,279,E,615,9/28/2006,2006,183482,33,79,4308,M5,361812,14,TM,361000,1,183284,15 / M4,15
+73,13,E06000025,,360686,22,5706,South West,,16,183775,South Gloucestershire,26,99607,69,282,E,447,9/28/2006,2006,183482,36,76,4928,M5,361812,16,TM,361000,1,183284,15 / M4,16
+62,15,E06000025,,360686,9,5797,South West,,16,183775,South Gloucestershire,33,99607,54,253,E,446,9/28/2006,2006,183482,41,84,5042,M5,361812,11,TM,361000,0,183284,15 / M4,17
+50,13,E06000025,,360686,1,4481,South West,,16,183775,South Gloucestershire,20,99607,62,209,E,269,9/28/2006,2006,183482,32,66,3958,M5,361812,10,TM,361000,0,183284,15 / M4,18
+133,5,E06000025,,360686,18,4554,South West,,16,183775,South Gloucestershire,33,99607,127,472,W,674,9/28/2006,2006,183482,56,134,3347,M5,361812,27,TM,361000,0,183284,15 / M4,7
+158,4,E06000025,,360686,41,4811,South West,,16,183775,South Gloucestershire,17,99607,121,468,W,459,9/28/2006,2006,183482,44,107,3836,M5,361812,24,TM,361000,0,183284,15 / M4,8
+126,11,E06000025,,360686,34,3908,South West,,16,183775,South Gloucestershire,38,99607,78,403,W,405,9/28/2006,2006,183482,24,111,3065,M5,361812,16,TM,361000,0,183284,15 / M4,9
+101,12,E06000025,,360686,38,3962,South West,,16,183775,South Gloucestershire,17,99607,74,391,W,448,9/28/2006,2006,183482,24,143,3087,M5,361812,18,TM,361000,0,183284,15 / M4,10
+90,16,E06000025,,360686,35,4461,South West,,16,183775,South Gloucestershire,33,99607,60,371,W,426,9/28/2006,2006,183482,43,132,3605,M5,361812,21,TM,361000,0,183284,15 / M4,11
+119,13,E06000025,,360686,29,4289,South West,,16,183775,South Gloucestershire,28,99607,82,409,W,453,9/28/2006,2006,183482,10,122,3404,M5,361812,29,TM,361000,0,183284,15 / M4,12
+135,15,E06000025,,360686,28,4666,South West,,16,183775,South Gloucestershire,33,99607,95,420,W,504,9/28/2006,2006,183482,14,102,3713,M5,361812,27,TM,361000,0,183284,15 / M4,13
+111,12,E06000025,,360686,27,4400,South West,,16,183775,South Gloucestershire,20,99607,60,346,W,483,9/28/2006,2006,183482,20,106,3539,M5,361812,22,TM,361000,0,183284,15 / M4,14
+87,22,E06000025,,360686,24,4060,South West,,16,183775,South Gloucestershire,15,99607,62,282,W,463,9/28/2006,2006,183482,21,80,3272,M5,361812,14,TM,361000,0,183284,15 / M4,15
+115,9,E06000025,,360686,10,4717,South West,,16,183775,South Gloucestershire,23,99607,53,289,W,428,9/28/2006,2006,183482,23,66,3968,M5,361812,22,TM,361000,0,183284,15 / M4,16
+74,3,E06000025,,360686,6,4342,South West,,16,183775,South Gloucestershire,10,99607,45,197,W,380,9/28/2006,2006,183482,34,57,3728,M5,361812,5,TM,361000,0,183284,15 / M4,17
+54,13,E06000025,,360686,1,4271,South West,,16,183775,South Gloucestershire,14,99607,33,170,W,266,9/28/2006,2006,183482,28,63,3794,M5,361812,5,TM,361000,0,183284,15 / M4,18
+2,3,E06000022,Paulton Road,,0,234,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,2,N,52,9/28/2006,2006,154069,4,0,173,U,,0,UU,365838,4,,,7
+0,2,E06000022,Paulton Road,,1,291,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,1,952454,0,2,N,31,9/28/2006,2006,154069,2,0,254,U,,0,UU,365838,1,,,8
+1,2,E06000022,Paulton Road,,1,219,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,1,5,N,20,9/28/2006,2006,154069,1,2,191,U,,0,UU,365838,1,,,9
+2,3,E06000022,Paulton Road,,0,170,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,2,N,16,9/28/2006,2006,154069,0,0,149,U,,0,UU,365838,0,,,10
+3,2,E06000022,Paulton Road,,2,204,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,5,N,29,9/28/2006,2006,154069,0,0,168,U,,0,UU,365838,0,,,11
+2,2,E06000022,Paulton Road,,0,173,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,2,N,17,9/28/2006,2006,154069,1,0,151,U,,0,UU,365838,1,,,12
+0,2,E06000022,Paulton Road,,0,180,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,N,10,9/28/2006,2006,154069,1,0,166,U,,1,UU,365838,4,,,13
+4,5,E06000022,Paulton Road,,0,239,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,4,N,32,9/28/2006,2006,154069,2,0,196,U,,0,UU,365838,0,,,14
+2,4,E06000022,Paulton Road,,0,258,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,2,N,19,9/28/2006,2006,154069,2,0,231,U,,0,UU,365838,1,,,15
+1,3,E06000022,Paulton Road,,0,200,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,N,30,9/28/2006,2006,154069,5,0,161,U,,0,UU,365838,3,,,16
+3,1,E06000022,Paulton Road,,0,265,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,3,N,41,9/28/2006,2006,154069,5,0,215,U,,0,UU,365838,1,,,17
+1,2,E06000022,Paulton Road,,0,257,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,N,30,9/28/2006,2006,154069,3,0,221,U,,0,UU,365838,1,,,18
+0,1,E06000022,Paulton Road,,1,120,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,S,32,9/28/2006,2006,154069,2,0,84,U,,0,UU,365838,5,,,7
+1,4,E06000022,Paulton Road,,0,250,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,S,20,9/28/2006,2006,154069,2,0,223,U,,0,UU,365838,0,,,8
+2,1,E06000022,Paulton Road,,2,150,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,2,7,S,21,9/28/2006,2006,154069,1,0,120,U,,1,UU,365838,0,,,9
+4,2,E06000022,Paulton Road,,0,133,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,4,S,17,9/28/2006,2006,154069,1,0,109,U,,0,UU,365838,0,,,10
+3,4,E06000022,Paulton Road,,0,164,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,4,S,26,9/28/2006,2006,154069,0,0,130,U,,1,UU,365838,0,,,11
+2,2,E06000022,Paulton Road,,0,160,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,3,S,25,9/28/2006,2006,154069,1,1,129,U,,0,UU,365838,0,,,12
+2,3,E06000022,Paulton Road,,0,189,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,3,S,21,9/28/2006,2006,154069,1,0,161,U,,1,UU,365838,1,,,13
+2,3,E06000022,Paulton Road,,1,188,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,3,S,21,9/28/2006,2006,154069,1,0,160,U,,0,UU,365838,3,,,14
+1,2,E06000022,Paulton Road,,0,206,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,1,S,27,9/28/2006,2006,154069,1,0,175,U,,0,UU,365838,2,,,15
+0,3,E06000022,Paulton Road,,0,259,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,0,S,47,9/28/2006,2006,154069,6,0,203,U,,0,UU,365838,2,,,16
+4,3,E06000022,Paulton Road,,0,300,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,4,S,31,9/28/2006,2006,154069,5,0,257,U,,0,UU,365838,2,,,17
+0,1,E06000022,Paulton Road,,0,272,South West,Midsomer Norton. Park in a safe location,,,Bath and North East Somerset,0,952454,0,0,S,25,9/28/2006,2006,154069,1,0,245,U,,0,UU,365838,1,,,18

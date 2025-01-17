@@ -1,0 +1,145 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+76,21,E06000023,,361100,7,1295,South West,,A4,173463,"Bristol, City of",2,99507,13,116,N,293,5/20/2008,2008,173000,19,1,846,A4320,360440,17,PU,360500,9,171600,A420,7
+49,16,E06000023,,361100,4,1118,South West,,A4,173463,"Bristol, City of",2,99507,13,83,N,241,5/20/2008,2008,173000,21,5,757,A4320,360440,10,PU,360500,12,171600,A420,8
+51,6,E06000023,,361100,11,921,South West,,A4,173463,"Bristol, City of",3,99507,14,95,N,224,5/20/2008,2008,173000,12,2,584,A4320,360440,14,PU,360500,1,171600,A420,9
+54,10,E06000023,,361100,2,841,South West,,A4,173463,"Bristol, City of",1,99507,13,93,N,204,5/20/2008,2008,173000,7,6,527,A4320,360440,17,PU,360500,0,171600,A420,10
+54,10,E06000023,,361100,2,841,South West,,A4,173463,"Bristol, City of",1,99507,13,93,N,204,5/20/2008,2008,173000,7,6,527,A4320,360440,17,PU,360500,0,171600,A420,11
+46,6,E06000023,,361100,6,833,South West,,A4,173463,"Bristol, City of",1,99507,11,76,N,195,5/20/2008,2008,173000,8,2,548,A4320,360440,10,PU,360500,5,171600,A420,12
+39,8,E06000023,,361100,3,973,South West,,A4,173463,"Bristol, City of",5,99507,9,73,N,169,5/20/2008,2008,173000,7,8,716,A4320,360440,9,PU,360500,4,171600,A420,13
+34,11,E06000023,,361100,6,950,South West,,A4,173463,"Bristol, City of",3,99507,9,65,N,212,5/20/2008,2008,173000,13,7,649,A4320,360440,6,PU,360500,4,171600,A420,14
+25,8,E06000023,,361100,6,998,South West,,A4,173463,"Bristol, City of",3,99507,4,47,N,196,5/20/2008,2008,173000,21,4,726,A4320,360440,5,PU,360500,5,171600,A420,15
+17,9,E06000023,,361100,2,1241,South West,,A4,173463,"Bristol, City of",0,99507,8,36,N,177,5/20/2008,2008,173000,18,6,1001,A4320,360440,3,PU,360500,8,171600,A420,16
+17,8,E06000023,,361100,1,1395,South West,,A4,173463,"Bristol, City of",0,99507,1,21,N,134,5/20/2008,2008,173000,20,1,1212,A4320,360440,1,PU,360500,10,171600,A420,17
+11,13,E06000023,,361100,0,974,South West,,A4,173463,"Bristol, City of",0,99507,1,15,N,88,5/20/2008,2008,173000,19,3,839,A4320,360440,0,PU,360500,17,171600,A420,18
+26,14,E06000023,,361100,4,1201,South West,,A4,173463,"Bristol, City of",6,99507,4,48,S,244,5/20/2008,2008,173000,9,5,886,A4320,360440,3,PU,360500,4,171600,A420,7
+48,8,E06000023,,361100,0,1008,South West,,A4,173463,"Bristol, City of",13,99507,9,86,S,253,5/20/2008,2008,173000,6,10,655,A4320,360440,6,PU,360500,1,171600,A420,8
+44,12,E06000023,,361100,2,946,South West,,A4,173463,"Bristol, City of",7,99507,8,83,S,253,5/20/2008,2008,173000,7,7,591,A4320,360440,15,PU,360500,0,171600,A420,9
+37,11,E06000023,,361100,3,893,South West,,A4,173463,"Bristol, City of",6,99507,6,72,S,222,5/20/2008,2008,173000,3,5,585,A4320,360440,15,PU,360500,0,171600,A420,10
+43,11,E06000023,,361100,5,875,South West,,A4,173463,"Bristol, City of",2,99507,11,78,S,237,5/20/2008,2008,173000,7,5,542,A4320,360440,12,PU,360500,1,171600,A420,11
+40,10,E06000023,,361100,5,876,South West,,A4,173463,"Bristol, City of",9,99507,6,80,S,191,5/20/2008,2008,173000,2,8,593,A4320,360440,12,PU,360500,2,171600,A420,12
+40,11,E06000023,,361100,5,1060,South West,,A4,173463,"Bristol, City of",6,99507,10,78,S,227,5/20/2008,2008,173000,13,5,731,A4320,360440,12,PU,360500,1,171600,A420,13
+54,10,E06000023,,361100,10,1093,South West,,A4,173463,"Bristol, City of",1,99507,12,93,S,239,5/20/2008,2008,173000,16,6,735,A4320,360440,10,PU,360500,2,171600,A420,14
+53,15,E06000023,,361100,9,1144,South West,,A4,173463,"Bristol, City of",1,99507,7,84,S,268,5/20/2008,2008,173000,21,4,756,A4320,360440,10,PU,360500,5,171600,A420,15
+23,18,E06000023,,361100,4,1308,South West,,A4,173463,"Bristol, City of",2,99507,3,42,S,257,5/20/2008,2008,173000,32,7,959,A4320,360440,3,PU,360500,11,171600,A420,16
+18,14,E06000023,,361100,0,1276,South West,,A4,173463,"Bristol, City of",1,99507,2,24,S,161,5/20/2008,2008,173000,32,1,1045,A4320,360440,2,PU,360500,11,171600,A420,17
+9,8,E06000023,,361100,0,1014,South West,,A4,173463,"Bristol, City of",3,99507,3,21,S,94,5/20/2008,2008,173000,15,5,876,A4320,360440,1,PU,360500,7,171600,A420,18
+1,1,E06000024,OLD CHURCH ROAD,,0,65,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,N,9,5/20/2008,2008,158816,1,0,52,C,,1,CU,331739,2,,,7
+0,4,E06000024,OLD CHURCH ROAD,,0,142,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,21,5/20/2008,2008,158816,1,0,116,C,,0,CU,331739,11,,,8
+0,3,E06000024,OLD CHURCH ROAD,,0,93,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,12,5/20/2008,2008,158816,0,0,78,C,,0,CU,331739,4,,,9
+0,4,E06000024,OLD CHURCH ROAD,,0,103,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,11,5/20/2008,2008,158816,0,0,88,C,,0,CU,331739,2,,,10
+1,4,E06000024,OLD CHURCH ROAD,,0,85,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,1,N,12,5/20/2008,2008,158816,2,0,66,C,,0,CU,331739,0,,,11
+1,5,E06000024,OLD CHURCH ROAD,,0,95,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,1,N,14,5/20/2008,2008,158816,0,0,75,C,,0,CU,331739,4,,,12
+5,4,E06000024,OLD CHURCH ROAD,,0,90,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,5,N,11,5/20/2008,2008,158816,0,0,70,C,,0,CU,331739,6,,,13
+0,3,E06000024,OLD CHURCH ROAD,,0,94,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,10,5/20/2008,2008,158816,2,0,79,C,,0,CU,331739,5,,,14
+2,4,E06000024,OLD CHURCH ROAD,,0,123,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,N,9,5/20/2008,2008,158816,0,0,108,C,,0,CU,331739,11,,,15
+0,5,E06000024,OLD CHURCH ROAD,,0,132,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,7,5/20/2008,2008,158816,2,0,118,C,,0,CU,331739,5,,,16
+0,5,E06000024,OLD CHURCH ROAD,,0,102,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,6,5/20/2008,2008,158816,2,0,89,C,,0,CU,331739,3,,,17
+0,3,E06000024,OLD CHURCH ROAD,,0,71,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,N,7,5/20/2008,2008,158816,0,0,61,C,,0,CU,331739,12,,,18
+0,2,E06000024,OLD CHURCH ROAD,,0,39,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,S,5,5/20/2008,2008,158816,0,0,30,C,,2,CU,331739,1,,,7
+1,4,E06000024,OLD CHURCH ROAD,,0,156,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,1,S,14,5/20/2008,2008,158816,0,0,137,C,,0,CU,331739,20,,,8
+0,4,E06000024,OLD CHURCH ROAD,,0,87,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,14,5/20/2008,2008,158816,0,0,69,C,,0,CU,331739,5,,,9
+0,5,E06000024,OLD CHURCH ROAD,,0,92,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,11,5/20/2008,2008,158816,2,0,74,C,,0,CU,331739,3,,,10
+2,4,E06000024,OLD CHURCH ROAD,,0,82,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,S,15,5/20/2008,2008,158816,0,0,61,C,,0,CU,331739,6,,,11
+2,4,E06000024,OLD CHURCH ROAD,,0,96,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,S,13,5/20/2008,2008,158816,0,0,77,C,,0,CU,331739,3,,,12
+1,5,E06000024,OLD CHURCH ROAD,,0,89,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,1,S,10,5/20/2008,2008,158816,0,0,73,C,,0,CU,331739,2,,,13
+2,4,E06000024,OLD CHURCH ROAD,,0,108,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,2,S,7,5/20/2008,2008,158816,1,0,94,C,,0,CU,331739,3,,,14
+0,4,E06000024,OLD CHURCH ROAD,,0,108,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,10,5/20/2008,2008,158816,2,0,92,C,,0,CU,331739,5,,,15
+0,5,E06000024,OLD CHURCH ROAD,,0,106,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,9,5/20/2008,2008,158816,1,0,91,C,,0,CU,331739,3,,,16
+0,5,E06000024,OLD CHURCH ROAD,,0,117,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,17,5/20/2008,2008,158816,0,0,95,C,,0,CU,331739,5,,,17
+0,2,E06000024,OLD CHURCH ROAD,,0,85,South West,"South of Wingard Close, Clevedon",,,North Somerset,0,947259,0,0,S,7,5/20/2008,2008,158816,1,0,75,C,,0,CU,331739,10,,,18
+0,1,E06000024,CHURCH LANE,,0,36,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,0,5/20/2008,2008,168941,0,0,35,C,,0,CU,349549,0,,,7
+0,1,E06000024,CHURCH LANE,,0,164,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,12,5/20/2008,2008,168941,0,0,151,C,,0,CU,349549,1,,,8
+0,0,E06000024,CHURCH LANE,,0,40,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,5,5/20/2008,2008,168941,0,0,35,C,,0,CU,349549,1,,,9
+0,0,E06000024,CHURCH LANE,,0,17,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,1,5/20/2008,2008,168941,0,0,16,C,,0,CU,349549,0,,,10
+0,0,E06000024,CHURCH LANE,,0,13,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,4,5/20/2008,2008,168941,0,0,9,C,,0,CU,349549,2,,,11
+0,0,E06000024,CHURCH LANE,,0,22,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,2,5/20/2008,2008,168941,0,0,20,C,,0,CU,349549,0,,,12
+0,0,E06000024,CHURCH LANE,,0,16,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,0,5/20/2008,2008,168941,0,0,16,C,,0,CU,349549,0,,,13
+0,0,E06000024,CHURCH LANE,,0,16,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,1,5/20/2008,2008,168941,0,0,15,C,,0,CU,349549,1,,,14
+0,1,E06000024,CHURCH LANE,,0,64,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,0,5/20/2008,2008,168941,0,0,63,C,,0,CU,349549,1,,,15
+0,0,E06000024,CHURCH LANE,,0,31,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,0,5/20/2008,2008,168941,0,0,31,C,,0,CU,349549,0,,,16
+0,0,E06000024,CHURCH LANE,,0,22,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,1,5/20/2008,2008,168941,0,0,21,C,,0,CU,349549,2,,,17
+0,0,E06000024,CHURCH LANE,,0,5,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,N,0,5/20/2008,2008,168941,0,0,5,C,,0,CU,349549,0,,,18
+0,0,E06000024,CHURCH LANE,,0,11,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,0,5/20/2008,2008,168941,0,0,11,C,,0,CU,349549,1,,,7
+0,2,E06000024,CHURCH LANE,,0,36,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,3,5/20/2008,2008,168941,0,0,31,C,,0,CU,349549,0,,,8
+0,0,E06000024,CHURCH LANE,,0,11,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,0,5/20/2008,2008,168941,0,0,11,C,,0,CU,349549,0,,,9
+1,0,E06000024,CHURCH LANE,,0,8,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,1,S,1,5/20/2008,2008,168941,0,0,6,C,,0,CU,349549,0,,,10
+0,0,E06000024,CHURCH LANE,,0,11,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,1,5/20/2008,2008,168941,0,0,10,C,,0,CU,349549,0,,,11
+0,0,E06000024,CHURCH LANE,,0,22,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,1,5/20/2008,2008,168941,0,0,21,C,,0,CU,349549,0,,,12
+0,0,E06000024,CHURCH LANE,,0,13,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,3,5/20/2008,2008,168941,0,0,10,C,,0,CU,349549,0,,,13
+0,0,E06000024,CHURCH LANE,,0,16,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,0,5/20/2008,2008,168941,0,0,16,C,,0,CU,349549,1,,,14
+0,1,E06000024,CHURCH LANE,,0,36,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,2,5/20/2008,2008,168941,0,0,33,C,,0,CU,349549,0,,,15
+0,0,E06000024,CHURCH LANE,,0,32,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,0,5/20/2008,2008,168941,0,0,32,C,,0,CU,349549,0,,,16
+0,0,E06000024,CHURCH LANE,,0,98,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,6,5/20/2008,2008,168941,1,0,91,C,,0,CU,349549,1,,,17
+0,0,E06000024,CHURCH LANE,,0,53,South West,"South of Uncombe Close, Backwell Farleigh",,,North Somerset,0,947262,0,0,S,0,5/20/2008,2008,168941,0,0,53,C,,0,CU,349549,2,,,18
+0,0,E06000025,KENDALL ROAD,,0,5,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,0,5/20/2008,2008,175822,0,0,5,U,,0,UU,364710,1,,,7
+0,0,E06000025,KENDALL ROAD,,0,9,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,0,5/20/2008,2008,175822,0,0,9,U,,0,UU,364710,0,,,8
+0,0,E06000025,KENDALL ROAD,,0,19,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,1,5/20/2008,2008,175822,0,0,18,U,,0,UU,364710,0,,,9
+0,0,E06000025,KENDALL ROAD,,0,17,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,1,5/20/2008,2008,175822,0,0,16,U,,0,UU,364710,0,,,10
+2,0,E06000025,KENDALL ROAD,,0,16,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,2,N,1,5/20/2008,2008,175822,0,0,13,U,,0,UU,364710,0,,,11
+1,0,E06000025,KENDALL ROAD,,0,16,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,1,N,3,5/20/2008,2008,175822,0,0,12,U,,0,UU,364710,0,,,12
+0,0,E06000025,KENDALL ROAD,,0,15,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,6,5/20/2008,2008,175822,1,0,8,U,,0,UU,364710,0,,,13
+0,0,E06000025,KENDALL ROAD,,0,16,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,3,5/20/2008,2008,175822,0,0,13,U,,0,UU,364710,0,,,14
+0,0,E06000025,KENDALL ROAD,,0,25,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,2,5/20/2008,2008,175822,0,0,23,U,,0,UU,364710,0,,,15
+0,0,E06000025,KENDALL ROAD,,0,10,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,1,5/20/2008,2008,175822,0,0,9,U,,0,UU,364710,0,,,16
+0,0,E06000025,KENDALL ROAD,,0,7,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,1,5/20/2008,2008,175822,0,0,6,U,,0,UU,364710,0,,,17
+0,0,E06000025,KENDALL ROAD,,0,6,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,N,0,5/20/2008,2008,175822,0,0,6,U,,0,UU,364710,0,,,18
+0,0,E06000025,KENDALL ROAD,,0,5,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,0,5/20/2008,2008,175822,0,0,5,U,,0,UU,364710,0,,,7
+0,0,E06000025,KENDALL ROAD,,0,12,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,2,5/20/2008,2008,175822,0,0,10,U,,0,UU,364710,1,,,8
+0,0,E06000025,KENDALL ROAD,,0,16,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,1,5/20/2008,2008,175822,0,0,15,U,,0,UU,364710,0,,,9
+1,0,E06000025,KENDALL ROAD,,0,12,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,1,S,0,5/20/2008,2008,175822,0,0,11,U,,0,UU,364710,2,,,10
+1,0,E06000025,KENDALL ROAD,,0,17,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,1,S,2,5/20/2008,2008,175822,0,0,14,U,,0,UU,364710,1,,,11
+1,0,E06000025,KENDALL ROAD,,0,24,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,1,S,3,5/20/2008,2008,175822,1,0,19,U,,0,UU,364710,1,,,12
+0,0,E06000025,KENDALL ROAD,,0,13,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,3,5/20/2008,2008,175822,0,0,10,U,,0,UU,364710,0,,,13
+0,0,E06000025,KENDALL ROAD,,0,28,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,5,5/20/2008,2008,175822,0,0,23,U,,0,UU,364710,2,,,14
+0,0,E06000025,KENDALL ROAD,,0,20,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,0,5/20/2008,2008,175822,1,0,19,U,,0,UU,364710,2,,,15
+0,0,E06000025,KENDALL ROAD,,0,14,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,1,5/20/2008,2008,175822,0,0,13,U,,0,UU,364710,0,,,16
+0,0,E06000025,KENDALL ROAD,,0,13,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,2,5/20/2008,2008,175822,0,0,11,U,,0,UU,364710,1,,,17
+0,0,E06000025,KENDALL ROAD,,0,13,South West,Kendall Road/Upper Station Road junction,,,South Gloucestershire,0,947518,0,0,S,0,5/20/2008,2008,175822,0,0,13,U,,0,UU,364710,2,,,18
+0,0,E06000023,Claverham Road,,0,9,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,9,U,,0,UU,363128,1,,,7
+0,0,E06000023,Claverham Road,,0,15,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,4,5/20/2008,2008,176155,0,0,11,U,,0,UU,363128,2,,,8
+0,0,E06000023,Claverham Road,,0,12,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,12,U,,0,UU,363128,1,,,9
+0,0,E06000023,Claverham Road,,0,7,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,1,5/20/2008,2008,176155,0,0,6,U,,0,UU,363128,0,,,10
+0,0,E06000023,Claverham Road,,0,9,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,9,U,,0,UU,363128,0,,,11
+0,0,E06000023,Claverham Road,,0,12,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,12,U,,0,UU,363128,1,,,12
+0,0,E06000023,Claverham Road,,0,13,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,13,U,,0,UU,363128,0,,,13
+0,0,E06000023,Claverham Road,,0,4,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,1,5/20/2008,2008,176155,0,0,3,U,,0,UU,363128,0,,,14
+0,0,E06000023,Claverham Road,,0,14,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,14,U,,0,UU,363128,0,,,15
+0,0,E06000023,Claverham Road,,0,10,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,1,5/20/2008,2008,176155,0,0,9,U,,0,UU,363128,0,,,16
+0,0,E06000023,Claverham Road,,0,10,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,2,5/20/2008,2008,176155,0,0,8,U,,0,UU,363128,0,,,17
+0,0,E06000023,Claverham Road,,0,12,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,N,0,5/20/2008,2008,176155,0,0,12,U,,0,UU,363128,0,,,18
+0,0,E06000023,Claverham Road,,0,11,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,2,5/20/2008,2008,176155,0,0,9,U,,0,UU,363128,1,,,7
+0,0,E06000023,Claverham Road,,0,9,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,2,5/20/2008,2008,176155,0,0,7,U,,0,UU,363128,1,,,8
+0,0,E06000023,Claverham Road,,0,11,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,1,5/20/2008,2008,176155,0,0,10,U,,0,UU,363128,0,,,9
+0,0,E06000023,Claverham Road,,0,8,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,1,5/20/2008,2008,176155,0,0,7,U,,0,UU,363128,0,,,10
+0,0,E06000023,Claverham Road,,0,8,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,1,5/20/2008,2008,176155,0,0,7,U,,0,UU,363128,0,,,11
+0,0,E06000023,Claverham Road,,0,13,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,1,5/20/2008,2008,176155,0,0,12,U,,0,UU,363128,0,,,12
+0,0,E06000023,Claverham Road,,0,10,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,0,5/20/2008,2008,176155,0,0,10,U,,0,UU,363128,0,,,13
+0,0,E06000023,Claverham Road,,0,11,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,0,5/20/2008,2008,176155,0,0,11,U,,0,UU,363128,0,,,14
+0,0,E06000023,Claverham Road,,0,28,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,2,5/20/2008,2008,176155,0,0,26,U,,0,UU,363128,2,,,15
+0,0,E06000023,Claverham Road,,0,35,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,3,5/20/2008,2008,176155,0,0,32,U,,0,UU,363128,1,,,16
+0,0,E06000023,Claverham Road,,0,20,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,1,5/20/2008,2008,176155,0,0,19,U,,0,UU,363128,1,,,17
+0,0,E06000023,Claverham Road,,0,9,South West,North of Manor Road,,,"Bristol, City of",0,951879,0,0,S,0,5/20/2008,2008,176155,0,0,9,U,,0,UU,363128,2,,,18
+0,0,E06000023,Victoria Avenue,,0,1,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,1,U,,0,UU,361294,0,,,7
+0,0,E06000023,Victoria Avenue,,0,4,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/20/2008,2008,173293,0,0,3,U,,0,UU,361294,1,,,8
+0,0,E06000023,Victoria Avenue,,0,2,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/20/2008,2008,173293,0,0,1,U,,0,UU,361294,0,,,9
+0,0,E06000023,Victoria Avenue,,0,2,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,2,U,,0,UU,361294,0,,,10
+0,0,E06000023,Victoria Avenue,,0,1,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,1,U,,0,UU,361294,1,,,11
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,0,U,,0,UU,361294,0,,,12
+0,0,E06000023,Victoria Avenue,,0,2,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,1,0,1,U,,0,UU,361294,3,,,13
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,0,U,,0,UU,361294,2,,,14
+0,0,E06000023,Victoria Avenue,,0,3,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,3,U,,0,UU,361294,7,,,15
+0,0,E06000023,Victoria Avenue,,0,3,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,3,U,,0,UU,361294,11,,,16
+0,0,E06000023,Victoria Avenue,,0,1,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/20/2008,2008,173293,0,0,1,U,,0,UU,361294,16,,,17
+0,0,E06000023,Victoria Avenue,,0,7,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/20/2008,2008,173293,0,0,6,U,,0,UU,361294,10,,,18
+0,0,E06000023,Victoria Avenue,,0,258,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,31,5/20/2008,2008,173293,6,0,221,U,,0,UU,361294,15,,,7
+0,0,E06000023,Victoria Avenue,,0,311,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,24,5/20/2008,2008,173293,1,0,286,U,,0,UU,361294,28,,,8
+0,0,E06000023,Victoria Avenue,,0,125,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,12,5/20/2008,2008,173293,1,0,112,U,,0,UU,361294,4,,,9
+0,0,E06000023,Victoria Avenue,,0,60,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,8,5/20/2008,2008,173293,0,0,52,U,,0,UU,361294,1,,,10
+0,0,E06000023,Victoria Avenue,,0,60,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,8,5/20/2008,2008,173293,0,0,52,U,,0,UU,361294,1,,,11
+3,0,E06000023,Victoria Avenue,,0,51,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,3,W,10,5/20/2008,2008,173293,2,0,36,U,,0,UU,361294,1,,,12
+2,0,E06000023,Victoria Avenue,,0,52,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,3,W,6,5/20/2008,2008,173293,0,0,43,U,,1,UU,361294,5,,,13
+0,0,E06000023,Victoria Avenue,,0,44,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,7,5/20/2008,2008,173293,0,0,37,U,,0,UU,361294,2,,,14
+0,0,E06000023,Victoria Avenue,,0,55,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,7,5/20/2008,2008,173293,3,0,45,U,,0,UU,361294,6,,,15
+0,0,E06000023,Victoria Avenue,,0,68,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,8,5/20/2008,2008,173293,0,0,60,U,,0,UU,361294,1,,,16
+0,0,E06000023,Victoria Avenue,,0,91,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,11,5/20/2008,2008,173293,1,0,79,U,,0,UU,361294,3,,,17
+0,0,E06000023,Victoria Avenue,,0,53,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,3,5/20/2008,2008,173293,1,0,49,U,,0,UU,361294,2,,,18

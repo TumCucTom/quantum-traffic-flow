@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+0,7,E06000023,,357950,0,15,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,1,N,0,7/4/2005,2005,170600,0,0,7,A38,357810,1,PU,357900,36,170530,Bedminster Rd,7
+0,5,E06000023,,357950,0,9,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,4,A38,357810,0,PU,357900,16,170530,Bedminster Rd,8
+0,6,E06000023,,357950,0,8,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,1,7/4/2005,2005,170600,0,0,1,A38,357810,0,PU,357900,3,170530,Bedminster Rd,9
+1,5,E06000023,,357950,0,7,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,1,2,N,0,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,2,170530,Bedminster Rd,10
+0,6,E06000023,,357950,0,6,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,3,170530,Bedminster Rd,11
+1,6,E06000023,,357950,0,7,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,1,N,0,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,1,170530,Bedminster Rd,12
+0,7,E06000023,,357950,0,8,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,1,A38,357810,0,PU,357900,5,170530,Bedminster Rd,13
+0,5,E06000023,,357950,0,5,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,0,170530,Bedminster Rd,14
+0,9,E06000023,,357950,0,10,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,1,A38,357810,0,PU,357900,1,170530,Bedminster Rd,15
+0,5,E06000023,,357950,0,7,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,1,7/4/2005,2005,170600,1,0,0,A38,357810,0,PU,357900,5,170530,Bedminster Rd,16
+0,6,E06000023,,357950,0,7,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,1,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,0,170530,Bedminster Rd,17
+0,4,E06000023,,357950,0,4,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,0,0,N,0,7/4/2005,2005,170600,0,0,0,A38,357810,0,PU,357900,11,170530,Bedminster Rd,18
+39,20,E06000023,,357950,4,1144,South West,,Bedminster Down Rd,170690,"Bristol, City of",1,8390,9,62,S,193,7/4/2005,2005,170600,14,6,855,A38,357810,3,PU,357900,11,170530,Bedminster Rd,7
+42,16,E06000023,,357950,9,1512,South West,,Bedminster Down Rd,170690,"Bristol, City of",3,8390,6,73,S,233,7/4/2005,2005,170600,18,8,1172,A38,357810,5,PU,357900,15,170530,Bedminster Rd,8
+63,40,E06000023,,357950,9,1365,South West,,Bedminster Down Rd,170690,"Bristol, City of",5,8390,10,100,S,220,7/4/2005,2005,170600,10,5,995,A38,357810,8,PU,357900,4,170530,Bedminster Rd,9
+59,34,E06000023,,357950,11,1293,South West,,Bedminster Down Rd,170690,"Bristol, City of",10,8390,10,109,S,224,7/4/2005,2005,170600,8,9,918,A38,357810,10,PU,357900,2,170530,Bedminster Rd,10
+52,24,E06000023,,357950,11,1535,South West,,Bedminster Down Rd,170690,"Bristol, City of",3,8390,10,94,S,287,7/4/2005,2005,170600,7,11,1123,A38,357810,7,PU,357900,5,170530,Bedminster Rd,11
+56,31,E06000023,,357950,5,1627,South West,,Bedminster Down Rd,170690,"Bristol, City of",3,8390,8,87,S,260,7/4/2005,2005,170600,17,7,1232,A38,357810,8,PU,357900,11,170530,Bedminster Rd,12
+57,26,E06000023,,357950,11,1719,South West,,Bedminster Down Rd,170690,"Bristol, City of",2,8390,9,93,S,247,7/4/2005,2005,170600,11,7,1342,A38,357810,7,PU,357900,4,170530,Bedminster Rd,13
+51,21,E06000023,,357950,13,1758,South West,,Bedminster Down Rd,170690,"Bristol, City of",2,8390,14,104,S,255,7/4/2005,2005,170600,17,13,1361,A38,357810,11,PU,357900,10,170530,Bedminster Rd,14
+71,34,E06000023,,357950,10,1958,South West,,Bedminster Down Rd,170690,"Bristol, City of",4,8390,5,105,S,276,7/4/2005,2005,170600,24,7,1519,A38,357810,8,PU,357900,14,170530,Bedminster Rd,15
+46,27,E06000023,,357950,6,2042,South West,,Bedminster Down Rd,170690,"Bristol, City of",2,8390,2,65,S,376,7/4/2005,2005,170600,63,6,1511,A38,357810,3,PU,357900,23,170530,Bedminster Rd,16
+10,23,E06000023,,357950,2,2173,South West,,Bedminster Down Rd,170690,"Bristol, City of",3,8390,3,23,S,279,7/4/2005,2005,170600,46,4,1802,A38,357810,1,PU,357900,31,170530,Bedminster Rd,17
+11,33,E06000023,,357950,0,1784,South West,,Bedminster Down Rd,170690,"Bristol, City of",0,8390,3,22,S,182,7/4/2005,2005,170600,28,6,1519,A38,357810,2,PU,357900,12,170530,Bedminster Rd,18
+0,1,E06000024,Long Lane,,0,60,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,3,7/4/2005,2005,162853,1,0,55,C,,0,CR,348438,0,,,7
+0,2,E06000024,Long Lane,,0,79,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,12,7/4/2005,2005,162853,2,0,63,C,,0,CR,348438,0,,,8
+2,2,E06000024,Long Lane,,0,62,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,2,E,5,7/4/2005,2005,162853,0,0,53,C,,0,CR,348438,0,,,9
+0,1,E06000024,Long Lane,,0,32,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,6,7/4/2005,2005,162853,0,0,25,C,,0,CR,348438,0,,,10
+0,1,E06000024,Long Lane,,0,29,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,3,7/4/2005,2005,162853,0,0,25,C,,0,CR,348438,0,,,11
+1,1,E06000024,Long Lane,,0,35,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,1,E,3,7/4/2005,2005,162853,2,0,28,C,,0,CR,348438,0,,,12
+0,1,E06000024,Long Lane,,0,41,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,3,7/4/2005,2005,162853,1,0,36,C,,0,CR,348438,0,,,13
+1,1,E06000024,Long Lane,,0,43,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,1,E,2,7/4/2005,2005,162853,1,0,38,C,,0,CR,348438,0,,,14
+0,2,E06000024,Long Lane,,0,43,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,4,7/4/2005,2005,162853,0,0,37,C,,0,CR,348438,1,,,15
+0,1,E06000024,Long Lane,,0,51,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,7,7/4/2005,2005,162853,0,0,43,C,,0,CR,348438,0,,,16
+0,1,E06000024,Long Lane,,0,66,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,8,7/4/2005,2005,162853,0,0,57,C,,0,CR,348438,1,,,17
+0,0,E06000024,Long Lane,,0,46,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,E,3,7/4/2005,2005,162853,0,0,43,C,,0,CR,348438,1,,,18
+0,0,E06000024,Long Lane,,0,37,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,4,7/4/2005,2005,162853,0,0,33,C,,0,CR,348438,0,,,7
+0,1,E06000024,Long Lane,,0,53,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,9,7/4/2005,2005,162853,0,0,43,C,,0,CR,348438,0,,,8
+2,1,E06000024,Long Lane,,0,36,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,2,W,10,7/4/2005,2005,162853,0,0,23,C,,0,CR,348438,0,,,9
+0,1,E06000024,Long Lane,,0,28,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,6,7/4/2005,2005,162853,0,0,21,C,,0,CR,348438,0,,,10
+1,1,E06000024,Long Lane,,0,36,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,1,W,4,7/4/2005,2005,162853,0,0,30,C,,0,CR,348438,0,,,11
+0,1,E06000024,Long Lane,,0,29,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,4,7/4/2005,2005,162853,0,0,24,C,,0,CR,348438,1,,,12
+0,1,E06000024,Long Lane,,0,75,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,6,7/4/2005,2005,162853,2,0,66,C,,0,CR,348438,0,,,13
+1,2,E06000024,Long Lane,,0,43,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,1,W,0,7/4/2005,2005,162853,0,0,40,C,,0,CR,348438,0,,,14
+1,2,E06000024,Long Lane,,0,51,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,1,W,4,7/4/2005,2005,162853,0,0,44,C,,0,CR,348438,0,,,15
+0,0,E06000024,Long Lane,,0,65,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,6,7/4/2005,2005,162853,1,0,58,C,,0,CR,348438,0,,,16
+0,1,E06000024,Long Lane,,0,74,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,5,7/4/2005,2005,162853,4,0,64,C,,0,CR,348438,1,,,17
+0,0,E06000024,Long Lane,,0,54,South West,"East of School Lane, Wrington",,,North Somerset,0,945731,0,0,W,4,7/4/2005,2005,162853,0,0,50,C,,0,CR,348438,1,,,18

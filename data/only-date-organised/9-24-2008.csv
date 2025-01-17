@@ -1,0 +1,97 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+8,5,E06000022,,362907,1,516,South West,,A37,155025,Bath and North East Somerset,0,47026,1,15,E,92,9/24/2008,2008,154900,11,1,393,A362,365728,4,PR,365000,2,155448,B3355,7
+7,2,E06000022,,362907,1,458,South West,,A37,155025,Bath and North East Somerset,2,47026,3,23,E,93,9/24/2008,2008,154900,10,3,330,A362,365728,7,PR,365000,1,155448,B3355,8
+16,4,E06000022,,362907,2,398,South West,,A37,155025,Bath and North East Somerset,1,47026,5,32,E,58,9/24/2008,2008,154900,2,1,302,A362,365728,7,PR,365000,0,155448,B3355,9
+10,1,E06000022,,362907,1,342,South West,,A37,155025,Bath and North East Somerset,2,47026,2,20,E,51,9/24/2008,2008,154900,2,2,268,A362,365728,3,PR,365000,0,155448,B3355,10
+14,3,E06000022,,362907,2,383,South West,,A37,155025,Bath and North East Somerset,1,47026,8,31,E,51,9/24/2008,2008,154900,0,2,298,A362,365728,4,PR,365000,0,155448,B3355,11
+14,3,E06000022,,362907,1,399,South West,,A37,155025,Bath and North East Somerset,1,47026,2,21,E,61,9/24/2008,2008,154900,1,0,313,A362,365728,3,PR,365000,1,155448,B3355,12
+17,2,E06000022,,362907,1,379,South West,,A37,155025,Bath and North East Somerset,2,47026,5,31,E,59,9/24/2008,2008,154900,2,5,285,A362,365728,1,PR,365000,0,155448,B3355,13
+12,3,E06000022,,362907,3,379,South West,,A37,155025,Bath and North East Somerset,1,47026,2,23,E,50,9/24/2008,2008,154900,1,0,302,A362,365728,5,PR,365000,0,155448,B3355,14
+14,10,E06000022,,362907,1,404,South West,,A37,155025,Bath and North East Somerset,0,47026,2,25,E,57,9/24/2008,2008,154900,4,3,308,A362,365728,5,PR,365000,13,155448,B3355,15
+9,2,E06000022,,362907,3,488,South West,,A37,155025,Bath and North East Somerset,1,47026,4,20,E,68,9/24/2008,2008,154900,1,2,397,A362,365728,1,PR,365000,4,155448,B3355,16
+7,0,E06000022,,362907,0,514,South West,,A37,155025,Bath and North East Somerset,0,47026,2,13,E,71,9/24/2008,2008,154900,3,4,427,A362,365728,0,PR,365000,1,155448,B3355,17
+4,1,E06000022,,362907,0,337,South West,,A37,155025,Bath and North East Somerset,0,47026,1,7,E,34,9/24/2008,2008,154900,0,1,295,A362,365728,1,PR,365000,1,155448,B3355,18
+11,2,E06000022,,362907,1,306,South West,,A37,155025,Bath and North East Somerset,1,47026,1,17,W,70,9/24/2008,2008,154900,2,0,215,A362,365728,3,PR,365000,3,155448,B3355,7
+14,6,E06000022,,362907,3,511,South West,,A37,155025,Bath and North East Somerset,1,47026,2,25,W,79,9/24/2008,2008,154900,9,2,392,A362,365728,3,PR,365000,1,155448,B3355,8
+15,2,E06000022,,362907,0,390,South West,,A37,155025,Bath and North East Somerset,1,47026,2,27,W,68,9/24/2008,2008,154900,2,2,291,A362,365728,7,PR,365000,1,155448,B3355,9
+12,4,E06000022,,362907,3,351,South West,,A37,155025,Bath and North East Somerset,1,47026,3,26,W,71,9/24/2008,2008,154900,1,4,249,A362,365728,3,PR,365000,0,155448,B3355,10
+4,2,E06000022,,362907,1,363,South West,,A37,155025,Bath and North East Somerset,1,47026,3,14,W,63,9/24/2008,2008,154900,2,3,282,A362,365728,2,PR,365000,1,155448,B3355,11
+14,1,E06000022,,362907,2,347,South West,,A37,155025,Bath and North East Somerset,2,47026,2,27,W,54,9/24/2008,2008,154900,2,2,263,A362,365728,5,PR,365000,0,155448,B3355,12
+8,1,E06000022,,362907,1,369,South West,,A37,155025,Bath and North East Somerset,2,47026,1,18,W,57,9/24/2008,2008,154900,5,5,288,A362,365728,1,PR,365000,2,155448,B3355,13
+19,91,E06000022,,362907,2,539,South West,,A37,155025,Bath and North East Somerset,0,47026,3,35,W,57,9/24/2008,2008,154900,3,5,353,A362,365728,6,PR,365000,1,155448,B3355,14
+8,3,E06000022,,362907,3,424,South West,,A37,155025,Bath and North East Somerset,1,47026,2,22,W,77,9/24/2008,2008,154900,3,4,319,A362,365728,4,PR,365000,3,155448,B3355,15
+10,4,E06000022,,362907,1,524,South West,,A37,155025,Bath and North East Somerset,1,47026,1,16,W,97,9/24/2008,2008,154900,9,2,398,A362,365728,1,PR,365000,4,155448,B3355,16
+4,3,E06000022,,362907,0,677,South West,,A37,155025,Bath and North East Somerset,0,47026,3,10,W,101,9/24/2008,2008,154900,15,3,548,A362,365728,0,PR,365000,2,155448,B3355,17
+0,2,E06000022,,362907,0,415,South West,,A37,155025,Bath and North East Somerset,0,47026,3,4,W,54,9/24/2008,2008,154900,4,1,351,A362,365728,0,PR,365000,1,155448,B3355,18
+0,2,E06000023,LOCKLEAZE ROAD,,0,115,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,E,19,9/24/2008,2008,176860,1,0,93,U,,0,UU,360450,6,,,7
+1,5,E06000023,LOCKLEAZE ROAD,,0,217,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,E,18,9/24/2008,2008,176860,1,0,192,U,,0,UU,360450,21,,,8
+4,6,E06000023,LOCKLEAZE ROAD,,0,154,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,5,E,22,9/24/2008,2008,176860,2,0,119,U,,1,UU,360450,13,,,9
+2,1,E06000023,LOCKLEAZE ROAD,,0,94,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,2,E,16,9/24/2008,2008,176860,0,0,75,U,,0,UU,360450,4,,,10
+4,2,E06000023,LOCKLEAZE ROAD,,0,156,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,4,E,35,9/24/2008,2008,176860,3,0,112,U,,0,UU,360450,3,,,11
+0,1,E06000023,LOCKLEAZE ROAD,,1,132,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,E,22,9/24/2008,2008,176860,2,0,106,U,,0,UU,360450,4,,,12
+2,3,E06000023,LOCKLEAZE ROAD,,0,123,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,3,E,21,9/24/2008,2008,176860,1,0,95,U,,1,UU,360450,6,,,13
+1,8,E06000023,LOCKLEAZE ROAD,,0,159,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,E,20,9/24/2008,2008,176860,5,0,125,U,,0,UU,360450,4,,,14
+0,10,E06000023,LOCKLEAZE ROAD,,0,261,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,E,33,9/24/2008,2008,176860,4,0,213,U,,1,UU,360450,15,,,15
+1,5,E06000023,LOCKLEAZE ROAD,,0,269,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,E,41,9/24/2008,2008,176860,2,0,220,U,,0,UU,360450,7,,,16
+0,3,E06000023,LOCKLEAZE ROAD,,0,239,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,E,17,9/24/2008,2008,176860,4,0,215,U,,0,UU,360450,10,,,17
+0,3,E06000023,LOCKLEAZE ROAD,,0,156,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,E,15,9/24/2008,2008,176860,2,0,136,U,,0,UU,360450,11,,,18
+5,7,E06000023,LOCKLEAZE ROAD,,0,111,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,5,W,16,9/24/2008,2008,176860,4,0,79,U,,0,UU,360450,5,,,7
+2,7,E06000023,LOCKLEAZE ROAD,,3,168,South West,East of Wordsworth Road,,,"Bristol, City of",1,930424,1,9,W,19,9/24/2008,2008,176860,5,1,128,U,,1,UU,360450,4,,,8
+1,8,E06000023,LOCKLEAZE ROAD,,0,104,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,2,W,17,9/24/2008,2008,176860,3,0,74,U,,1,UU,360450,1,,,9
+0,2,E06000023,LOCKLEAZE ROAD,,0,100,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,W,16,9/24/2008,2008,176860,0,0,82,U,,0,UU,360450,2,,,10
+2,2,E06000023,LOCKLEAZE ROAD,,0,99,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,2,W,17,9/24/2008,2008,176860,1,0,77,U,,0,UU,360450,2,,,11
+0,2,E06000023,LOCKLEAZE ROAD,,0,104,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,W,25,9/24/2008,2008,176860,3,0,74,U,,0,UU,360450,2,,,12
+2,2,E06000023,LOCKLEAZE ROAD,,0,115,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,2,W,20,9/24/2008,2008,176860,2,0,89,U,,0,UU,360450,5,,,13
+0,6,E06000023,LOCKLEAZE ROAD,,0,146,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,0,W,20,9/24/2008,2008,176860,2,0,118,U,,0,UU,360450,8,,,14
+3,5,E06000023,LOCKLEAZE ROAD,,0,176,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,3,W,25,9/24/2008,2008,176860,4,0,139,U,,0,UU,360450,12,,,15
+1,5,E06000023,LOCKLEAZE ROAD,,0,150,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,W,20,9/24/2008,2008,176860,0,0,124,U,,0,UU,360450,7,,,16
+1,2,E06000023,LOCKLEAZE ROAD,,0,163,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,W,18,9/24/2008,2008,176860,1,0,141,U,,0,UU,360450,36,,,17
+1,2,E06000023,LOCKLEAZE ROAD,,0,133,South West,East of Wordsworth Road,,,"Bristol, City of",0,930424,0,1,W,8,9/24/2008,2008,176860,2,0,120,U,,0,UU,360450,26,,,18
+0,0,E06000022,HILLCREST,,0,9,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,1,E,4,9/24/2008,2008,163256,0,0,4,U,,1,UR,362025,0,,,7
+0,0,E06000022,HILLCREST,,0,3,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,8
+0,0,E06000022,HILLCREST,,0,1,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,1,U,,0,UR,362025,0,,,9
+0,0,E06000022,HILLCREST,,0,5,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,2,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,10
+0,0,E06000022,HILLCREST,,0,10,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,3,9/24/2008,2008,163256,0,0,7,U,,0,UR,362025,0,,,11
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,4,U,,0,UR,362025,0,,,12
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,1,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,13
+0,0,E06000022,HILLCREST,,0,0,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,0,U,,0,UR,362025,0,,,14
+0,0,E06000022,HILLCREST,,0,10,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,10,U,,0,UR,362025,0,,,15
+0,0,E06000022,HILLCREST,,0,2,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,0,9/24/2008,2008,163256,0,0,2,U,,0,UR,362025,0,,,16
+0,0,E06000022,HILLCREST,,0,5,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,2,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,17
+0,0,E06000022,HILLCREST,,0,3,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,E,1,9/24/2008,2008,163256,0,0,2,U,,0,UR,362025,0,,,18
+0,0,E06000022,HILLCREST,,0,3,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,1,9/24/2008,2008,163256,0,0,2,U,,0,UR,362025,0,,,7
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,2,9/24/2008,2008,163256,0,0,2,U,,0,UR,362025,0,,,8
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,1,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,9
+0,0,E06000022,HILLCREST,,0,3,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,0,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,10
+0,0,E06000022,HILLCREST,,0,6,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,3,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,11
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,2,9/24/2008,2008,163256,0,0,2,U,,0,UR,362025,0,,,12
+0,0,E06000022,HILLCREST,,0,2,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,1,9/24/2008,2008,163256,0,0,1,U,,0,UR,362025,0,,,13
+0,0,E06000022,HILLCREST,,0,1,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,0,9/24/2008,2008,163256,0,0,1,U,,0,UR,362025,0,,,14
+0,0,E06000022,HILLCREST,,0,0,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,0,9/24/2008,2008,163256,0,0,0,U,,0,UR,362025,0,,,15
+0,0,E06000022,HILLCREST,,0,0,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,0,9/24/2008,2008,163256,0,0,0,U,,0,UR,362025,0,,,16
+0,0,E06000022,HILLCREST,,0,6,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,1,9/24/2008,2008,163256,0,0,5,U,,0,UR,362025,0,,,17
+0,0,E06000022,HILLCREST,,0,4,South West,"Outside property number 12b, top of the triangle",,,Bath and North East Somerset,0,946674,0,0,W,1,9/24/2008,2008,163256,0,0,3,U,,0,UR,362025,0,,,18
+0,0,E06000025,FERN ROAD,,0,2,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,7
+0,0,E06000025,FERN ROAD,,0,4,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,4,U,,0,UU,364861,0,,,8
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,9
+0,0,E06000025,FERN ROAD,,0,2,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,1,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,10
+0,0,E06000025,FERN ROAD,,0,2,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,11
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,12
+0,0,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,1,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,13
+0,0,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,3,U,,0,UU,364861,0,,,14
+0,0,E06000025,FERN ROAD,,0,4,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,4,U,,0,UU,364861,0,,,15
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,16
+0,0,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,3,U,,0,UU,364861,0,,,17
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,N,0,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,18
+0,1,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,7
+0,0,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,3,U,,0,UU,364861,0,,,8
+0,0,E06000025,FERN ROAD,,0,4,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,1,9/24/2008,2008,176252,0,0,3,U,,0,UU,364861,0,,,9
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,1,U,,0,UU,364861,0,,,10
+0,0,E06000025,FERN ROAD,,0,2,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,11
+0,0,E06000025,FERN ROAD,,0,2,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,1,,,12
+0,0,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,3,U,,0,UU,364861,0,,,13
+0,0,E06000025,FERN ROAD,,0,1,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,1,9/24/2008,2008,176252,0,0,0,U,,0,UU,364861,0,,,14
+0,0,E06000025,FERN ROAD,,0,4,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,4,U,,0,UU,364861,0,,,15
+0,1,E06000025,FERN ROAD,,0,3,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,0,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,1,,,16
+0,0,E06000025,FERN ROAD,,0,5,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,3,9/24/2008,2008,176252,0,0,2,U,,0,UU,364861,0,,,17
+0,0,E06000025,FERN ROAD,,0,7,South West,"north of Pleasant Road, Staple Hill",,,South Gloucestershire,0,947548,0,0,S,1,9/24/2008,2008,176252,0,0,6,U,,0,UU,364861,1,,,18

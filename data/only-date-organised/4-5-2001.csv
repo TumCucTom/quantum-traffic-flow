@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+4,2,E06000024,,344800,0,153,South West,,A38 churchill,158360,North Somerset,0,6992,1,7,E,32,4/5/2001,2001,159160,2,1,110,A368,351780,1,PR,350000,0,159810,LA Boundary,7
+7,5,E06000024,,344800,0,214,South West,,A38 churchill,158360,North Somerset,1,6992,0,9,E,33,4/5/2001,2001,159160,2,0,165,A368,351780,1,PR,350000,0,159810,LA Boundary,8
+7,0,E06000024,,344800,1,139,South West,,A38 churchill,158360,North Somerset,0,6992,2,11,E,17,4/5/2001,2001,159160,0,0,111,A368,351780,1,PR,350000,0,159810,LA Boundary,9
+8,3,E06000024,,344800,1,110,South West,,A38 churchill,158360,North Somerset,0,6992,0,9,E,24,4/5/2001,2001,159160,0,0,74,A368,351780,0,PR,350000,2,159810,LA Boundary,10
+8,2,E06000024,,344800,0,128,South West,,A38 churchill,158360,North Somerset,1,6992,1,10,E,28,4/5/2001,2001,159160,0,0,88,A368,351780,0,PR,350000,0,159810,LA Boundary,11
+5,0,E06000024,,344800,0,130,South West,,A38 churchill,158360,North Somerset,0,6992,0,5,E,30,4/5/2001,2001,159160,1,0,94,A368,351780,0,PR,350000,0,159810,LA Boundary,12
+7,1,E06000024,,344800,1,154,South West,,A38 churchill,158360,North Somerset,0,6992,0,11,E,24,4/5/2001,2001,159160,0,2,118,A368,351780,1,PR,350000,0,159810,LA Boundary,13
+7,2,E06000024,,344800,1,139,South West,,A38 churchill,158360,North Somerset,0,6992,1,10,E,21,4/5/2001,2001,159160,1,0,105,A368,351780,1,PR,350000,0,159810,LA Boundary,14
+4,0,E06000024,,344800,1,136,South West,,A38 churchill,158360,North Somerset,0,6992,0,6,E,18,4/5/2001,2001,159160,0,1,112,A368,351780,0,PR,350000,0,159810,LA Boundary,15
+4,4,E06000024,,344800,0,146,South West,,A38 churchill,158360,North Somerset,0,6992,1,7,E,18,4/5/2001,2001,159160,0,2,117,A368,351780,0,PR,350000,0,159810,LA Boundary,16
+3,2,E06000024,,344800,0,191,South West,,A38 churchill,158360,North Somerset,0,6992,0,4,E,20,4/5/2001,2001,159160,2,0,163,A368,351780,1,PR,350000,1,159810,LA Boundary,17
+0,0,E06000024,,344800,0,162,South West,,A38 churchill,158360,North Somerset,0,6992,0,0,E,13,4/5/2001,2001,159160,3,0,146,A368,351780,0,PR,350000,0,159810,LA Boundary,18
+2,2,E06000024,,344800,0,175,South West,,A38 churchill,158360,North Somerset,0,6992,0,2,W,28,4/5/2001,2001,159160,2,0,141,A368,351780,0,PR,350000,0,159810,LA Boundary,7
+4,1,E06000024,,344800,0,246,South West,,A38 churchill,158360,North Somerset,0,6992,3,9,W,30,4/5/2001,2001,159160,1,0,205,A368,351780,2,PR,350000,2,159810,LA Boundary,8
+5,2,E06000024,,344800,0,141,South West,,A38 churchill,158360,North Somerset,0,6992,0,7,W,15,4/5/2001,2001,159160,0,0,117,A368,351780,2,PR,350000,2,159810,LA Boundary,9
+4,0,E06000024,,344800,0,129,South West,,A38 churchill,158360,North Somerset,3,6992,1,9,W,32,4/5/2001,2001,159160,1,1,87,A368,351780,0,PR,350000,1,159810,LA Boundary,10
+5,1,E06000024,,344800,0,137,South West,,A38 churchill,158360,North Somerset,1,6992,0,8,W,25,4/5/2001,2001,159160,0,1,103,A368,351780,1,PR,350000,0,159810,LA Boundary,11
+7,1,E06000024,,344800,0,119,South West,,A38 churchill,158360,North Somerset,0,6992,1,8,W,31,4/5/2001,2001,159160,0,0,79,A368,351780,0,PR,350000,0,159810,LA Boundary,12
+9,1,E06000024,,344800,0,125,South West,,A38 churchill,158360,North Somerset,0,6992,0,10,W,24,4/5/2001,2001,159160,0,0,90,A368,351780,1,PR,350000,0,159810,LA Boundary,13
+2,4,E06000024,,344800,0,145,South West,,A38 churchill,158360,North Somerset,0,6992,1,5,W,23,4/5/2001,2001,159160,0,2,113,A368,351780,0,PR,350000,0,159810,LA Boundary,14
+8,3,E06000024,,344800,1,135,South West,,A38 churchill,158360,North Somerset,0,6992,2,13,W,18,4/5/2001,2001,159160,0,1,101,A368,351780,1,PR,350000,1,159810,LA Boundary,15
+2,1,E06000024,,344800,0,160,South West,,A38 churchill,158360,North Somerset,1,6992,0,4,W,29,4/5/2001,2001,159160,0,1,126,A368,351780,0,PR,350000,0,159810,LA Boundary,16
+1,3,E06000024,,344800,0,187,South West,,A38 churchill,158360,North Somerset,0,6992,1,2,W,26,4/5/2001,2001,159160,1,0,155,A368,351780,0,PR,350000,0,159810,LA Boundary,17
+1,0,E06000024,,344800,0,156,South West,,A38 churchill,158360,North Somerset,0,6992,0,1,W,17,4/5/2001,2001,159160,1,0,137,A368,351780,0,PR,350000,0,159810,LA Boundary,18
+0,0,E06000024,Wemberham Lane,,0,112,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,1,1,E,17,4/5/2001,2001,166350,4,0,90,U,,0,UR,342400,0,,,7
+1,3,E06000024,Wemberham Lane,,0,198,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,1,E,21,4/5/2001,2001,166350,2,0,171,U,,0,UR,342400,1,,,8
+5,1,E06000024,Wemberham Lane,,0,88,South West,"East of North Lane, Yatton",,,North Somerset,1,966003,1,7,E,10,4/5/2001,2001,166350,2,0,68,U,,0,UR,342400,1,,,9
+4,0,E06000024,Wemberham Lane,,0,56,South West,"East of North Lane, Yatton",,,North Somerset,2,966003,1,9,E,8,4/5/2001,2001,166350,0,2,39,U,,0,UR,342400,0,,,10
+7,1,E06000024,Wemberham Lane,,0,77,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,8,E,8,4/5/2001,2001,166350,0,1,60,U,,0,UR,342400,0,,,11
+7,0,E06000024,Wemberham Lane,,0,79,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,7,E,16,4/5/2001,2001,166350,1,0,55,U,,0,UR,342400,0,,,12
+2,0,E06000024,Wemberham Lane,,0,69,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,2,E,10,4/5/2001,2001,166350,0,0,57,U,,0,UR,342400,0,,,13
+1,0,E06000024,Wemberham Lane,,0,71,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,1,E,6,4/5/2001,2001,166350,0,0,64,U,,0,UR,342400,0,,,14
+1,3,E06000024,Wemberham Lane,,0,77,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,1,2,E,8,4/5/2001,2001,166350,0,0,64,U,,0,UR,342400,1,,,15
+0,1,E06000024,Wemberham Lane,,0,92,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,1,2,E,12,4/5/2001,2001,166350,2,1,75,U,,0,UR,342400,0,,,16
+1,0,E06000024,Wemberham Lane,,0,128,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,3,E,8,4/5/2001,2001,166350,1,2,116,U,,0,UR,342400,2,,,17
+0,1,E06000024,Wemberham Lane,,0,105,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,0,E,14,4/5/2001,2001,166350,0,0,90,U,,0,UR,342400,1,,,18
+1,0,E06000024,Wemberham Lane,,1,50,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,2,W,6,4/5/2001,2001,166350,1,0,41,U,,0,UR,342400,2,,,7
+1,1,E06000024,Wemberham Lane,,0,85,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,1,2,W,12,4/5/2001,2001,166350,0,0,70,U,,0,UR,342400,2,,,8
+3,0,E06000024,Wemberham Lane,,0,78,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,5,W,15,4/5/2001,2001,166350,0,1,58,U,,1,UR,342400,1,,,9
+2,2,E06000024,Wemberham Lane,,0,47,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,2,4,W,10,4/5/2001,2001,166350,0,0,31,U,,0,UR,342400,1,,,10
+6,0,E06000024,Wemberham Lane,,0,66,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,3,11,W,8,4/5/2001,2001,166350,0,0,47,U,,2,UR,342400,0,,,11
+6,0,E06000024,Wemberham Lane,,0,77,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,7,W,12,4/5/2001,2001,166350,0,1,58,U,,0,UR,342400,0,,,12
+2,0,E06000024,Wemberham Lane,,0,102,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,2,W,16,4/5/2001,2001,166350,0,0,84,U,,0,UR,342400,0,,,13
+0,0,E06000024,Wemberham Lane,,0,50,South West,"East of North Lane, Yatton",,,North Somerset,1,966003,0,1,W,7,4/5/2001,2001,166350,0,0,42,U,,0,UR,342400,0,,,14
+1,3,E06000024,Wemberham Lane,,0,122,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,1,2,W,10,4/5/2001,2001,166350,0,0,107,U,,0,UR,342400,0,,,15
+2,1,E06000024,Wemberham Lane,,0,119,South West,"East of North Lane, Yatton",,,North Somerset,1,966003,0,5,W,14,4/5/2001,2001,166350,3,2,96,U,,0,UR,342400,0,,,16
+0,0,E06000024,Wemberham Lane,,0,146,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,0,W,18,4/5/2001,2001,166350,1,0,127,U,,0,UR,342400,2,,,17
+0,1,E06000024,Wemberham Lane,,0,119,South West,"East of North Lane, Yatton",,,North Somerset,0,966003,0,0,W,15,4/5/2001,2001,166350,0,0,103,U,,0,UR,342400,1,,,18

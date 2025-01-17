@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+21,0,E06000022,,376670,5,1031,South West,,A4,170910,Bath and North East Somerset,4,56503,9,44,N,102,5/8/2002,2002,170000,9,4,876,A46,374510,1,TR,375273,0,166670,LA Boundary,7
+29,5,E06000022,,376670,3,761,South West,,A4,170910,Bath and North East Somerset,4,56503,9,61,N,80,5/8/2002,2002,170000,10,12,605,A46,374510,4,TR,375273,0,166670,LA Boundary,8
+29,11,E06000022,,376670,3,663,South West,,A4,170910,Bath and North East Somerset,10,56503,15,77,N,70,5/8/2002,2002,170000,2,15,503,A46,374510,5,TR,375273,0,166670,LA Boundary,9
+35,5,E06000022,,376670,1,498,South West,,A4,170910,Bath and North East Somerset,5,56503,8,71,N,72,5/8/2002,2002,170000,6,12,344,A46,374510,10,TR,375273,0,166670,LA Boundary,10
+21,0,E06000022,,376670,3,465,South West,,A4,170910,Bath and North East Somerset,9,56503,6,53,N,66,5/8/2002,2002,170000,1,10,345,A46,374510,4,TR,375273,0,166670,LA Boundary,11
+31,0,E06000022,,376670,6,483,South West,,A4,170910,Bath and North East Somerset,4,56503,12,63,N,61,5/8/2002,2002,170000,2,6,357,A46,374510,4,TR,375273,0,166670,LA Boundary,12
+32,3,E06000022,,376670,2,487,South West,,A4,170910,Bath and North East Somerset,2,56503,6,55,N,65,5/8/2002,2002,170000,1,9,363,A46,374510,4,TR,375273,0,166670,LA Boundary,13
+32,3,E06000022,,376670,4,523,South West,,A4,170910,Bath and North East Somerset,3,56503,6,64,N,73,5/8/2002,2002,170000,7,10,376,A46,374510,9,TR,375273,0,166670,LA Boundary,14
+31,5,E06000022,,376670,3,553,South West,,A4,170910,Bath and North East Somerset,4,56503,6,58,N,97,5/8/2002,2002,170000,3,11,390,A46,374510,3,TR,375273,0,166670,LA Boundary,15
+33,3,E06000022,,376670,7,738,South West,,A4,170910,Bath and North East Somerset,3,56503,10,64,N,109,5/8/2002,2002,170000,6,3,556,A46,374510,8,TR,375273,0,166670,LA Boundary,16
+21,7,E06000022,,376670,3,744,South West,,A4,170910,Bath and North East Somerset,1,56503,5,41,N,86,5/8/2002,2002,170000,8,10,602,A46,374510,1,TR,375273,0,166670,LA Boundary,17
+20,1,E06000022,,376670,0,609,South West,,A4,170910,Bath and North East Somerset,3,56503,14,45,N,45,5/8/2002,2002,170000,4,6,514,A46,374510,2,TR,375273,0,166670,LA Boundary,18
+44,4,E06000022,,376670,9,666,South West,,A4,170910,Bath and North East Somerset,9,56503,15,100,S,149,5/8/2002,2002,170000,6,11,407,A46,374510,12,TR,375273,0,166670,LA Boundary,7
+41,3,E06000022,,376670,1,752,South West,,A4,170910,Bath and North East Somerset,7,56503,12,71,S,115,5/8/2002,2002,170000,10,4,553,A46,374510,6,TR,375273,0,166670,LA Boundary,8
+25,2,E06000022,,376670,3,573,South West,,A4,170910,Bath and North East Somerset,4,56503,7,53,S,97,5/8/2002,2002,170000,0,9,421,A46,374510,5,TR,375273,0,166670,LA Boundary,9
+28,10,E06000022,,376670,5,568,South West,,A4,170910,Bath and North East Somerset,6,56503,14,65,S,71,5/8/2002,2002,170000,1,10,421,A46,374510,2,TR,375273,0,166670,LA Boundary,10
+27,4,E06000022,,376670,3,446,South West,,A4,170910,Bath and North East Somerset,2,56503,10,52,S,63,5/8/2002,2002,170000,1,8,326,A46,374510,2,TR,375273,0,166670,LA Boundary,11
+22,3,E06000022,,376670,5,458,South West,,A4,170910,Bath and North East Somerset,3,56503,11,51,S,71,5/8/2002,2002,170000,3,8,330,A46,374510,2,TR,375273,0,166670,LA Boundary,12
+26,1,E06000022,,376670,3,434,South West,,A4,170910,Bath and North East Somerset,3,56503,8,54,S,49,5/8/2002,2002,170000,4,9,326,A46,374510,5,TR,375273,0,166670,LA Boundary,13
+30,1,E06000022,,376670,3,446,South West,,A4,170910,Bath and North East Somerset,7,56503,9,72,S,56,5/8/2002,2002,170000,6,12,311,A46,374510,11,TR,375273,0,166670,LA Boundary,14
+25,1,E06000022,,376670,12,527,South West,,A4,170910,Bath and North East Somerset,1,56503,3,56,S,66,5/8/2002,2002,170000,4,8,400,A46,374510,7,TR,375273,0,166670,LA Boundary,15
+34,2,E06000022,,376670,7,638,South West,,A4,170910,Bath and North East Somerset,4,56503,9,68,S,57,5/8/2002,2002,170000,6,7,505,A46,374510,7,TR,375273,1,166670,LA Boundary,16
+28,4,E06000022,,376670,5,834,South West,,A4,170910,Bath and North East Somerset,1,56503,9,51,S,91,5/8/2002,2002,170000,9,8,679,A46,374510,0,TR,375273,0,166670,LA Boundary,17
+8,4,E06000022,,376670,0,832,South West,,A4,170910,Bath and North East Somerset,3,56503,9,31,S,47,5/8/2002,2002,170000,8,9,742,A46,374510,2,TR,375273,0,166670,LA Boundary,18
+0,0,E06000024,Lower Norton Lane,,0,48,South West,"North of Kewside, Kewstoke",,,North Somerset,1,952398,0,1,E,10,5/8/2002,2002,163780,1,0,36,U,,0,UR,333810,0,,,7
+0,0,E06000024,Lower Norton Lane,,0,68,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,0,E,3,5/8/2002,2002,163780,2,0,63,U,,0,UR,333810,0,,,8
+2,0,E06000024,Lower Norton Lane,,0,47,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,2,E,5,5/8/2002,2002,163780,0,0,40,U,,0,UR,333810,5,,,9
+0,1,E06000024,Lower Norton Lane,,0,48,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,0,E,4,5/8/2002,2002,163780,0,0,43,U,,0,UR,333810,0,,,10
+1,0,E06000024,Lower Norton Lane,,0,49,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,E,5,5/8/2002,2002,163780,0,0,43,U,,0,UR,333810,1,,,11
+0,0,E06000024,Lower Norton Lane,,0,60,South West,"North of Kewside, Kewstoke",,,North Somerset,1,952398,0,1,E,2,5/8/2002,2002,163780,0,0,57,U,,0,UR,333810,0,,,12
+1,0,E06000024,Lower Norton Lane,,0,41,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,E,6,5/8/2002,2002,163780,0,0,34,U,,0,UR,333810,0,,,13
+3,1,E06000024,Lower Norton Lane,,0,59,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,3,E,2,5/8/2002,2002,163780,0,0,53,U,,0,UR,333810,3,,,14
+1,2,E06000024,Lower Norton Lane,,0,52,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,E,1,5/8/2002,2002,163780,0,0,48,U,,0,UR,333810,0,,,15
+1,1,E06000024,Lower Norton Lane,,0,56,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,E,7,5/8/2002,2002,163780,0,0,47,U,,0,UR,333810,1,,,16
+1,0,E06000024,Lower Norton Lane,,0,49,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,E,3,5/8/2002,2002,163780,0,0,45,U,,0,UR,333810,7,,,17
+0,0,E06000024,Lower Norton Lane,,0,48,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,0,E,5,5/8/2002,2002,163780,0,0,43,U,,0,UR,333810,3,,,18
+1,0,E06000024,Lower Norton Lane,,0,25,South West,"North of Kewside, Kewstoke",,,North Somerset,1,952398,0,2,W,4,5/8/2002,2002,163780,0,0,19,U,,0,UR,333810,2,,,7
+0,0,E06000024,Lower Norton Lane,,0,61,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,0,W,4,5/8/2002,2002,163780,0,0,57,U,,0,UR,333810,1,,,8
+2,0,E06000024,Lower Norton Lane,,0,53,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,2,W,4,5/8/2002,2002,163780,1,0,46,U,,0,UR,333810,2,,,9
+1,0,E06000024,Lower Norton Lane,,0,45,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,0,5/8/2002,2002,163780,1,0,43,U,,0,UR,333810,2,,,10
+1,0,E06000024,Lower Norton Lane,,0,45,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,0,5/8/2002,2002,163780,0,0,44,U,,0,UR,333810,0,,,11
+2,0,E06000024,Lower Norton Lane,,0,54,South West,"North of Kewside, Kewstoke",,,North Somerset,1,952398,0,3,W,5,5/8/2002,2002,163780,0,0,46,U,,0,UR,333810,0,,,12
+1,0,E06000024,Lower Norton Lane,,0,35,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,3,5/8/2002,2002,163780,0,0,31,U,,0,UR,333810,1,,,13
+2,0,E06000024,Lower Norton Lane,,0,49,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,2,W,5,5/8/2002,2002,163780,0,0,42,U,,0,UR,333810,1,,,14
+4,0,E06000024,Lower Norton Lane,,0,51,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,4,W,2,5/8/2002,2002,163780,0,0,45,U,,0,UR,333810,3,,,15
+1,3,E06000024,Lower Norton Lane,,0,61,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,6,5/8/2002,2002,163780,0,0,51,U,,0,UR,333810,7,,,16
+1,0,E06000024,Lower Norton Lane,,0,73,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,7,5/8/2002,2002,163780,1,0,64,U,,0,UR,333810,1,,,17
+1,0,E06000024,Lower Norton Lane,,0,61,South West,"North of Kewside, Kewstoke",,,North Somerset,0,952398,0,1,W,6,5/8/2002,2002,163780,0,0,54,U,,0,UR,333810,0,,,18

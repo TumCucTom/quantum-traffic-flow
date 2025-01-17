@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,1,E06000023,0,62,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,8,3/20/2003,2003,174898,0,0,53,U,0,UU,361318,0,East Park,7
+0,2,E06000023,0,158,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,12,3/20/2003,2003,174898,0,0,144,U,0,UU,361318,5,East Park,8
+0,1,E06000023,0,63,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,10,3/20/2003,2003,174898,0,0,52,U,0,UU,361318,2,East Park,9
+0,0,E06000023,0,51,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,E,12,3/20/2003,2003,174898,0,0,38,U,1,UU,361318,0,East Park,10
+1,0,E06000023,0,79,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,E,10,3/20/2003,2003,174898,1,0,67,U,0,UU,361318,1,East Park,11
+1,0,E06000023,0,89,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,E,9,3/20/2003,2003,174898,0,0,79,U,0,UU,361318,1,East Park,12
+0,0,E06000023,0,80,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,5,3/20/2003,2003,174898,2,0,73,U,0,UU,361318,1,East Park,13
+1,0,E06000023,0,77,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,E,2,3/20/2003,2003,174898,0,0,74,U,0,UU,361318,4,East Park,14
+1,0,E06000023,0,123,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,E,5,3/20/2003,2003,174898,0,0,117,U,0,UU,361318,2,East Park,15
+0,3,E06000023,0,110,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,11,3/20/2003,2003,174898,1,0,95,U,0,UU,361318,1,East Park,16
+0,1,E06000023,0,120,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,11,3/20/2003,2003,174898,4,0,104,U,0,UU,361318,3,East Park,17
+0,0,E06000023,0,80,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,E,2,3/20/2003,2003,174898,1,0,77,U,0,UU,361318,0,East Park,18
+0,3,E06000023,2,56,South West,North of east Park Drive,"Bristol, City of",0,966011,0,2,W,13,3/20/2003,2003,174898,6,0,32,U,0,UU,361318,8,East Park,7
+0,2,E06000023,0,87,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,10,3/20/2003,2003,174898,0,0,75,U,0,UU,361318,2,East Park,8
+0,2,E06000023,0,55,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,7,3/20/2003,2003,174898,0,0,46,U,0,UU,361318,0,East Park,9
+0,2,E06000023,0,42,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,6,3/20/2003,2003,174898,0,0,34,U,0,UU,361318,0,East Park,10
+0,0,E06000023,0,54,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,7,3/20/2003,2003,174898,0,0,47,U,0,UU,361318,0,East Park,11
+0,0,E06000023,0,66,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,5,3/20/2003,2003,174898,1,0,60,U,0,UU,361318,0,East Park,12
+0,1,E06000023,0,67,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,5,3/20/2003,2003,174898,1,0,60,U,0,UU,361318,1,East Park,13
+0,0,E06000023,0,71,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,2,3/20/2003,2003,174898,1,0,68,U,0,UU,361318,1,East Park,14
+1,1,E06000023,0,116,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,W,5,3/20/2003,2003,174898,1,0,108,U,0,UU,361318,0,East Park,15
+1,0,E06000023,0,86,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,W,6,3/20/2003,2003,174898,2,0,77,U,0,UU,361318,4,East Park,16
+0,0,E06000023,0,114,South West,North of east Park Drive,"Bristol, City of",0,966011,0,0,W,9,3/20/2003,2003,174898,0,0,105,U,0,UU,361318,2,East Park,17
+1,1,E06000023,0,72,South West,North of east Park Drive,"Bristol, City of",0,966011,0,1,W,5,3/20/2003,2003,174898,1,0,64,U,0,UU,361318,5,East Park,18

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+24,2,E06000025,,365420,0,1054,South West,,A4174 spur,173540,South Gloucestershire,1,99052,3,36,N,190,10/9/2000,2000,173000,13,2,813,A4174,366590,6,PU,366460,1,172170,A420,7
+39,7,E06000025,,365420,3,1116,South West,,A4174 spur,173540,South Gloucestershire,3,99052,2,53,N,155,10/9/2000,2000,173000,13,4,888,A4174,366590,2,PU,366460,0,172170,A420,8
+49,5,E06000025,,365420,2,978,South West,,A4174 spur,173540,South Gloucestershire,2,99052,7,66,N,120,10/9/2000,2000,173000,2,5,785,A4174,366590,1,PU,366460,0,172170,A420,9
+35,4,E06000025,,365420,2,748,South West,,A4174 spur,173540,South Gloucestershire,1,99052,4,58,N,112,10/9/2000,2000,173000,3,9,571,A4174,366590,7,PU,366460,0,172170,A420,10
+26,4,E06000025,,365420,2,731,South West,,A4174 spur,173540,South Gloucestershire,6,99052,0,45,N,118,10/9/2000,2000,173000,1,6,563,A4174,366590,5,PU,366460,1,172170,A420,11
+26,1,E06000025,,365420,0,680,South West,,A4174 spur,173540,South Gloucestershire,1,99052,3,40,N,104,10/9/2000,2000,173000,4,5,531,A4174,366590,5,PU,366460,1,172170,A420,12
+36,4,E06000025,,365420,6,785,South West,,A4174 spur,173540,South Gloucestershire,5,99052,6,61,N,101,10/9/2000,2000,173000,1,4,618,A4174,366590,4,PU,366460,0,172170,A420,13
+31,4,E06000025,,365420,3,712,South West,,A4174 spur,173540,South Gloucestershire,0,99052,5,42,N,107,10/9/2000,2000,173000,6,2,553,A4174,366590,1,PU,366460,0,172170,A420,14
+29,4,E06000025,,365420,2,772,South West,,A4174 spur,173540,South Gloucestershire,2,99052,6,47,N,121,10/9/2000,2000,173000,3,4,597,A4174,366590,4,PU,366460,0,172170,A420,15
+23,7,E06000025,,365420,1,849,South West,,A4174 spur,173540,South Gloucestershire,0,99052,5,37,N,102,10/9/2000,2000,173000,15,5,688,A4174,366590,3,PU,366460,1,172170,A420,16
+14,2,E06000025,,365420,0,1043,South West,,A4174 spur,173540,South Gloucestershire,2,99052,4,25,N,106,10/9/2000,2000,173000,9,3,901,A4174,366590,2,PU,366460,3,172170,A420,17
+7,0,E06000025,,365420,0,835,South West,,A4174 spur,173540,South Gloucestershire,3,99052,1,14,N,65,10/9/2000,2000,173000,6,3,750,A4174,366590,0,PU,366460,1,172170,A420,18
+11,6,E06000025,,365420,0,692,South West,,A4174 spur,173540,South Gloucestershire,3,99052,5,24,S,114,10/9/2000,2000,173000,11,5,537,A4174,366590,0,PU,366460,2,172170,A420,7
+26,4,E06000025,,365420,1,938,South West,,A4174 spur,173540,South Gloucestershire,1,99052,7,42,S,117,10/9/2000,2000,173000,9,6,766,A4174,366590,1,PU,366460,0,172170,A420,8
+37,5,E06000025,,365420,4,732,South West,,A4174 spur,173540,South Gloucestershire,6,99052,2,57,S,134,10/9/2000,2000,173000,5,8,531,A4174,366590,0,PU,366460,0,172170,A420,9
+30,4,E06000025,,365420,2,602,South West,,A4174 spur,173540,South Gloucestershire,3,99052,4,46,S,105,10/9/2000,2000,173000,4,5,443,A4174,366590,2,PU,366460,0,172170,A420,10
+29,4,E06000025,,365420,5,648,South West,,A4174 spur,173540,South Gloucestershire,3,99052,5,44,S,137,10/9/2000,2000,173000,3,2,460,A4174,366590,0,PU,366460,0,172170,A420,11
+28,1,E06000025,,365420,0,702,South West,,A4174 spur,173540,South Gloucestershire,0,99052,4,36,S,113,10/9/2000,2000,173000,5,3,547,A4174,366590,1,PU,366460,0,172170,A420,12
+33,3,E06000025,,365420,2,674,South West,,A4174 spur,173540,South Gloucestershire,1,99052,6,55,S,101,10/9/2000,2000,173000,4,3,511,A4174,366590,10,PU,366460,0,172170,A420,13
+33,4,E06000025,,365420,0,712,South West,,A4174 spur,173540,South Gloucestershire,3,99052,4,47,S,98,10/9/2000,2000,173000,2,3,561,A4174,366590,4,PU,366460,0,172170,A420,14
+30,6,E06000025,,365420,5,742,South West,,A4174 spur,173540,South Gloucestershire,1,99052,6,52,S,115,10/9/2000,2000,173000,1,3,568,A4174,366590,7,PU,366460,0,172170,A420,15
+17,1,E06000025,,365420,4,987,South West,,A4174 spur,173540,South Gloucestershire,1,99052,4,35,S,147,10/9/2000,2000,173000,8,3,796,A4174,366590,6,PU,366460,0,172170,A420,16
+16,1,E06000025,,365420,2,1085,South West,,A4174 spur,173540,South Gloucestershire,1,99052,6,31,S,135,10/9/2000,2000,173000,24,0,894,A4174,366590,6,PU,366460,1,172170,A420,17
+4,1,E06000025,,365420,1,964,South West,,A4174 spur,173540,South Gloucestershire,3,99052,3,17,S,86,10/9/2000,2000,173000,9,2,851,A4174,366590,4,PU,366460,1,172170,A420,18
+0,0,E06000025,Sundayshill Lane,,0,17,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,E,4,10/9/2000,2000,193657,0,0,12,C,,1,CR,365455,0,,,7
+0,1,E06000025,Sundayshill Lane,,0,55,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,E,5,10/9/2000,2000,193657,1,0,47,C,,1,CR,365455,3,,,8
+0,0,E06000025,Sundayshill Lane,,0,20,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,5,10/9/2000,2000,193657,0,0,15,C,,0,CR,365455,1,,,9
+0,0,E06000025,Sundayshill Lane,,0,25,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,5,10/9/2000,2000,193657,0,0,20,C,,0,CR,365455,0,,,10
+1,0,E06000025,Sundayshill Lane,,0,23,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,E,2,10/9/2000,2000,193657,0,0,20,C,,0,CR,365455,0,,,11
+0,0,E06000025,Sundayshill Lane,,0,21,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,5,10/9/2000,2000,193657,0,0,16,C,,0,CR,365455,0,,,12
+0,0,E06000025,Sundayshill Lane,,0,13,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,6,10/9/2000,2000,193657,0,0,7,C,,0,CR,365455,2,,,13
+0,0,E06000025,Sundayshill Lane,,0,18,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,2,10/9/2000,2000,193657,0,0,16,C,,0,CR,365455,0,,,14
+0,0,E06000025,Sundayshill Lane,,0,20,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,7,10/9/2000,2000,193657,0,0,13,C,,0,CR,365455,0,,,15
+0,0,E06000025,Sundayshill Lane,,0,32,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,2,10/9/2000,2000,193657,0,0,30,C,,0,CR,365455,2,,,16
+0,1,E06000025,Sundayshill Lane,,0,33,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,E,2,10/9/2000,2000,193657,1,0,28,C,,1,CR,365455,0,,,17
+0,0,E06000025,Sundayshill Lane,,0,16,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,E,1,10/9/2000,2000,193657,0,0,15,C,,0,CR,365455,2,,,18
+0,0,E06000025,Sundayshill Lane,,0,15,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,1,10/9/2000,2000,193657,0,0,14,C,,0,CR,365455,1,,,7
+1,0,E06000025,Sundayshill Lane,,0,44,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,W,5,10/9/2000,2000,193657,0,0,38,C,,0,CR,365455,2,,,8
+0,0,E06000025,Sundayshill Lane,,0,17,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,1,10/9/2000,2000,193657,0,0,16,C,,0,CR,365455,0,,,9
+0,0,E06000025,Sundayshill Lane,,0,22,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,6,10/9/2000,2000,193657,0,0,16,C,,0,CR,365455,0,,,10
+0,0,E06000025,Sundayshill Lane,,0,14,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,3,10/9/2000,2000,193657,0,0,11,C,,0,CR,365455,0,,,11
+0,0,E06000025,Sundayshill Lane,,0,20,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,4,10/9/2000,2000,193657,0,0,16,C,,0,CR,365455,0,,,12
+0,0,E06000025,Sundayshill Lane,,0,17,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,3,10/9/2000,2000,193657,0,0,14,C,,0,CR,365455,1,,,13
+1,0,E06000025,Sundayshill Lane,,0,22,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,1,W,5,10/9/2000,2000,193657,1,0,15,C,,0,CR,365455,0,,,14
+0,1,E06000025,Sundayshill Lane,,0,23,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,8,10/9/2000,2000,193657,0,0,14,C,,0,CR,365455,0,,,15
+0,0,E06000025,Sundayshill Lane,,0,34,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,6,10/9/2000,2000,193657,0,0,28,C,,0,CR,365455,0,,,16
+0,0,E06000025,Sundayshill Lane,,0,41,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,2,10/9/2000,2000,193657,0,0,39,C,,0,CR,365455,4,,,17
+0,0,E06000025,Sundayshill Lane,,0,27,South West,"west of Sundayshill Lane, Rockhampton",,,South Gloucestershire,0,979247,0,0,W,2,10/9/2000,2000,193657,2,0,23,C,,0,CR,365455,0,,,18

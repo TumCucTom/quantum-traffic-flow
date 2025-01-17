@@ -1,0 +1,109 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+26,19,E06000023,,357680,17,1424,South West,,A3029,170690,"Bristol, City of",2,74625,5,64,E,278,9/16/2008,2008,170660,27,4,1036,A38,357810,10,PU,357750,20,170620,A38 West street,7
+41,36,E06000023,,357680,10,1688,South West,,A3029,170690,"Bristol, City of",4,74625,4,76,E,218,9/16/2008,2008,170660,39,4,1319,A38,357810,13,PU,357750,21,170620,A38 West street,8
+60,29,E06000023,,357680,22,1437,South West,,A3029,170690,"Bristol, City of",0,74625,4,109,E,250,9/16/2008,2008,170660,6,10,1043,A38,357810,13,PU,357750,12,170620,A38 West street,9
+45,27,E06000023,,357680,17,1292,South West,,A3029,170690,"Bristol, City of",0,74625,11,88,E,244,9/16/2008,2008,170660,11,7,922,A38,357810,8,PU,357750,2,170620,A38 West street,10
+37,20,E06000023,,357680,17,1382,South West,,A3029,170690,"Bristol, City of",3,74625,11,88,E,220,9/16/2008,2008,170660,9,9,1045,A38,357810,11,PU,357750,4,170620,A38 West street,11
+38,21,E06000023,,357680,10,1332,South West,,A3029,170690,"Bristol, City of",1,74625,8,73,E,222,9/16/2008,2008,170660,18,8,998,A38,357810,8,PU,357750,3,170620,A38 West street,12
+29,21,E06000023,,357680,19,1578,South West,,A3029,170690,"Bristol, City of",1,74625,12,74,E,275,9/16/2008,2008,170660,17,4,1191,A38,357810,9,PU,357750,12,170620,A38 West street,13
+39,51,E06000023,,357680,17,1489,South West,,A3029,170690,"Bristol, City of",3,74625,10,81,E,264,9/16/2008,2008,170660,15,3,1078,A38,357810,9,PU,357750,3,170620,A38 West street,14
+33,21,E06000023,,357680,12,1605,South West,,A3029,170690,"Bristol, City of",2,74625,5,66,E,289,9/16/2008,2008,170660,27,4,1202,A38,357810,10,PU,357750,12,170620,A38 West street,15
+35,30,E06000023,,357680,4,1912,South West,,A3029,170690,"Bristol, City of",0,74625,2,48,E,271,9/16/2008,2008,170660,59,4,1504,A38,357810,3,PU,357750,45,170620,A38 West street,16
+12,10,E06000023,,357680,2,1598,South West,,A3029,170690,"Bristol, City of",0,74625,4,24,E,186,9/16/2008,2008,170660,55,4,1323,A38,357810,2,PU,357750,27,170620,A38 West street,17
+3,20,E06000023,,357680,1,1441,South West,,A3029,170690,"Bristol, City of",0,74625,2,7,E,130,9/16/2008,2008,170660,24,1,1260,A38,357810,0,PU,357750,8,170620,A38 West street,18
+1,0,E06000025,FELTHAM ROAD,,0,150,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,34,9/16/2008,2008,176630,1,0,114,C,,0,CR,370520,1,,,7
+1,3,E06000025,FELTHAM ROAD,,0,118,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,19,9/16/2008,2008,176630,0,0,95,C,,0,CR,370520,0,,,8
+0,0,E06000025,FELTHAM ROAD,,0,45,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,E,3,9/16/2008,2008,176630,1,0,41,C,,0,CR,370520,0,,,9
+0,0,E06000025,FELTHAM ROAD,,0,39,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,0,1,E,5,9/16/2008,2008,176630,0,0,33,C,,0,CR,370520,3,,,10
+0,0,E06000025,FELTHAM ROAD,,1,37,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,8,9/16/2008,2008,176630,0,0,28,C,,0,CR,370520,1,,,11
+2,0,E06000025,FELTHAM ROAD,,0,35,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,5,9/16/2008,2008,176630,0,0,28,C,,0,CR,370520,1,,,12
+1,1,E06000025,FELTHAM ROAD,,0,37,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,E,4,9/16/2008,2008,176630,0,0,31,C,,0,CR,370520,2,,,13
+0,0,E06000025,FELTHAM ROAD,,0,35,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,E,9,9/16/2008,2008,176630,0,0,26,C,,0,CR,370520,0,,,14
+0,1,E06000025,FELTHAM ROAD,,0,48,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,1,3,E,6,9/16/2008,2008,176630,1,1,37,C,,0,CR,370520,0,,,15
+2,0,E06000025,FELTHAM ROAD,,0,56,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,0,3,E,7,9/16/2008,2008,176630,1,0,45,C,,0,CR,370520,0,,,16
+2,0,E06000025,FELTHAM ROAD,,0,58,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,E,6,9/16/2008,2008,176630,0,0,50,C,,0,CR,370520,4,,,17
+0,0,E06000025,FELTHAM ROAD,,0,46,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,2,930458,0,2,E,0,9/16/2008,2008,176630,0,0,44,C,,0,CR,370520,1,,,18
+0,0,E06000025,FELTHAM ROAD,,0,32,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,1,2,W,8,9/16/2008,2008,176630,0,1,22,C,,0,CR,370520,2,,,7
+0,0,E06000025,FELTHAM ROAD,,0,63,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,1,4,W,7,9/16/2008,2008,176630,1,0,51,C,,2,CR,370520,1,,,8
+1,1,E06000025,FELTHAM ROAD,,0,43,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,4,W,10,9/16/2008,2008,176630,0,2,28,C,,1,CR,370520,0,,,9
+2,0,E06000025,FELTHAM ROAD,,0,38,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,W,7,9/16/2008,2008,176630,0,0,29,C,,0,CR,370520,1,,,10
+1,0,E06000025,FELTHAM ROAD,,1,34,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,2,W,4,9/16/2008,2008,176630,0,0,28,C,,0,CR,370520,0,,,11
+0,0,E06000025,FELTHAM ROAD,,0,41,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,0,1,W,8,9/16/2008,2008,176630,0,0,32,C,,0,CR,370520,0,,,12
+0,0,E06000025,FELTHAM ROAD,,0,45,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,9,9/16/2008,2008,176630,0,0,36,C,,0,CR,370520,0,,,13
+3,0,E06000025,FELTHAM ROAD,,0,42,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,1,930458,0,5,W,4,9/16/2008,2008,176630,0,1,33,C,,0,CR,370520,4,,,14
+1,1,E06000025,FELTHAM ROAD,,0,45,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,1,W,9,9/16/2008,2008,176630,0,0,34,C,,0,CR,370520,0,,,15
+0,0,E06000025,FELTHAM ROAD,,0,91,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,0,0,W,27,9/16/2008,2008,176630,2,0,62,C,,0,CR,370520,0,,,16
+5,1,E06000025,FELTHAM ROAD,,0,121,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,0,930458,1,7,W,21,9/16/2008,2008,176630,0,0,92,C,,1,CR,370520,1,,,17
+0,0,E06000025,FELTHAM ROAD,,0,84,South West,"east of Castle Road, Pucklechurch",,,South Gloucestershire,2,930458,0,2,W,5,9/16/2008,2008,176630,0,0,77,C,,0,CR,370520,1,,,18
+0,0,E06000023,VOWELL CLOSE,,0,18,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,2,9/16/2008,2008,167742,0,0,16,U,,0,UU,357522,1,,,7
+0,0,E06000023,VOWELL CLOSE,,0,45,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,2,9/16/2008,2008,167742,0,0,43,U,,0,UU,357522,2,,,8
+0,0,E06000023,VOWELL CLOSE,,0,17,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,1,9/16/2008,2008,167742,0,0,16,U,,0,UU,357522,2,,,9
+0,0,E06000023,VOWELL CLOSE,,0,13,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,1,E,3,9/16/2008,2008,167742,0,0,9,U,,1,UU,357522,0,,,10
+0,0,E06000023,VOWELL CLOSE,,0,6,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,1,9/16/2008,2008,167742,0,0,5,U,,0,UU,357522,1,,,11
+0,0,E06000023,VOWELL CLOSE,,0,8,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,2,9/16/2008,2008,167742,0,0,6,U,,0,UU,357522,0,,,12
+0,0,E06000023,VOWELL CLOSE,,0,13,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,1,9/16/2008,2008,167742,1,0,11,U,,0,UU,357522,0,,,13
+0,1,E06000023,VOWELL CLOSE,,0,22,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,3,9/16/2008,2008,167742,0,0,18,U,,0,UU,357522,1,,,14
+0,0,E06000023,VOWELL CLOSE,,0,42,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,0,9/16/2008,2008,167742,1,0,41,U,,0,UU,357522,1,,,15
+1,0,E06000023,VOWELL CLOSE,,0,19,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,1,E,2,9/16/2008,2008,167742,0,0,16,U,,0,UU,357522,4,,,16
+0,0,E06000023,VOWELL CLOSE,,0,15,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,3,9/16/2008,2008,167742,0,0,12,U,,0,UU,357522,1,,,17
+0,0,E06000023,VOWELL CLOSE,,0,14,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,E,1,9/16/2008,2008,167742,0,0,13,U,,0,UU,357522,5,,,18
+0,0,E06000023,VOWELL CLOSE,,0,9,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,2,9/16/2008,2008,167742,0,0,7,U,,0,UU,357522,0,,,7
+0,0,E06000023,VOWELL CLOSE,,0,32,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,4,9/16/2008,2008,167742,0,0,28,U,,0,UU,357522,1,,,8
+0,0,E06000023,VOWELL CLOSE,,0,24,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,0,9/16/2008,2008,167742,0,0,24,U,,0,UU,357522,0,,,9
+0,0,E06000023,VOWELL CLOSE,,0,13,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,1,W,1,9/16/2008,2008,167742,0,0,11,U,,1,UU,357522,0,,,10
+0,0,E06000023,VOWELL CLOSE,,0,19,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,3,9/16/2008,2008,167742,0,0,16,U,,0,UU,357522,1,,,11
+0,0,E06000023,VOWELL CLOSE,,0,16,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,1,9/16/2008,2008,167742,0,0,15,U,,0,UU,357522,0,,,12
+0,0,E06000023,VOWELL CLOSE,,0,16,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,0,9/16/2008,2008,167742,1,0,15,U,,0,UU,357522,0,,,13
+0,1,E06000023,VOWELL CLOSE,,0,26,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,3,9/16/2008,2008,167742,0,0,22,U,,0,UU,357522,1,,,14
+0,0,E06000023,VOWELL CLOSE,,0,38,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,0,9/16/2008,2008,167742,3,0,35,U,,0,UU,357522,5,,,15
+1,0,E06000023,VOWELL CLOSE,,0,23,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,1,W,0,9/16/2008,2008,167742,1,0,21,U,,0,UU,357522,1,,,16
+0,0,E06000023,VOWELL CLOSE,,0,12,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,1,9/16/2008,2008,167742,1,0,10,U,,0,UU,357522,4,,,17
+0,0,E06000023,VOWELL CLOSE,,0,22,South West,East of Fair Furlong,,,"Bristol, City of",0,946766,0,0,W,1,9/16/2008,2008,167742,0,0,21,U,,0,UU,357522,5,,,18
+0,0,E06000025,WOODSTOCK ROAD,,0,38,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,8,9/16/2008,2008,173516,1,0,29,U,,0,UU,365723,1,,,7
+0,0,E06000025,WOODSTOCK ROAD,,0,30,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,6,9/16/2008,2008,173516,0,0,24,U,,0,UU,365723,0,,,8
+0,0,E06000025,WOODSTOCK ROAD,,0,19,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,2,9/16/2008,2008,173516,0,0,17,U,,0,UU,365723,0,,,9
+0,0,E06000025,WOODSTOCK ROAD,,0,23,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,3,9/16/2008,2008,173516,0,0,20,U,,0,UU,365723,0,,,10
+0,0,E06000025,WOODSTOCK ROAD,,0,10,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,0,9/16/2008,2008,173516,0,0,10,U,,0,UU,365723,0,,,11
+1,0,E06000025,WOODSTOCK ROAD,,0,25,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,1,N,1,9/16/2008,2008,173516,0,0,23,U,,0,UU,365723,0,,,12
+0,0,E06000025,WOODSTOCK ROAD,,0,18,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,3,9/16/2008,2008,173516,2,0,13,U,,0,UU,365723,0,,,13
+0,0,E06000025,WOODSTOCK ROAD,,0,26,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,3,9/16/2008,2008,173516,0,0,23,U,,0,UU,365723,0,,,14
+0,0,E06000025,WOODSTOCK ROAD,,0,25,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,2,9/16/2008,2008,173516,0,0,23,U,,0,UU,365723,1,,,15
+0,0,E06000025,WOODSTOCK ROAD,,0,18,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,3,9/16/2008,2008,173516,0,0,15,U,,0,UU,365723,0,,,16
+0,0,E06000025,WOODSTOCK ROAD,,0,24,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,0,9/16/2008,2008,173516,1,0,23,U,,0,UU,365723,2,,,17
+0,0,E06000025,WOODSTOCK ROAD,,0,26,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,N,2,9/16/2008,2008,173516,0,0,24,U,,0,UU,365723,0,,,18
+0,0,E06000025,WOODSTOCK ROAD,,0,4,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,0,9/16/2008,2008,173516,0,0,4,U,,0,UU,365723,1,,,7
+1,0,E06000025,WOODSTOCK ROAD,,0,20,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,1,S,6,9/16/2008,2008,173516,0,0,13,U,,0,UU,365723,0,,,8
+0,0,E06000025,WOODSTOCK ROAD,,0,23,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,2,9/16/2008,2008,173516,0,0,21,U,,0,UU,365723,1,,,9
+0,0,E06000025,WOODSTOCK ROAD,,0,16,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,1,947542,0,1,S,1,9/16/2008,2008,173516,0,0,14,U,,0,UU,365723,0,,,10
+1,0,E06000025,WOODSTOCK ROAD,,0,27,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,1,S,1,9/16/2008,2008,173516,0,0,25,U,,0,UU,365723,0,,,11
+1,0,E06000025,WOODSTOCK ROAD,,0,13,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,1,S,3,9/16/2008,2008,173516,0,0,9,U,,0,UU,365723,0,,,12
+0,0,E06000025,WOODSTOCK ROAD,,0,27,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,5,9/16/2008,2008,173516,0,0,22,U,,0,UU,365723,0,,,13
+0,0,E06000025,WOODSTOCK ROAD,,0,24,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,1,947542,0,1,S,3,9/16/2008,2008,173516,0,0,20,U,,0,UU,365723,1,,,14
+0,0,E06000025,WOODSTOCK ROAD,,0,40,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,3,9/16/2008,2008,173516,1,0,36,U,,0,UU,365723,1,,,15
+0,0,E06000025,WOODSTOCK ROAD,,0,34,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,8,9/16/2008,2008,173516,0,0,26,U,,0,UU,365723,1,,,16
+0,0,E06000025,WOODSTOCK ROAD,,0,53,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,7,9/16/2008,2008,173516,4,0,42,U,,0,UU,365723,1,,,17
+0,0,E06000025,WOODSTOCK ROAD,,0,23,South West,"south of Orchard Vale, Kingswood",,,South Gloucestershire,0,947542,0,0,S,1,9/16/2008,2008,173516,2,0,20,U,,0,UU,365723,1,,,18
+2,0,E06000022,Oldfield Road B3111,,0,147,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,E,13,9/16/2008,2008,164020,5,0,125,B3111,,2,BU,374270,4,,,7
+4,3,E06000022,Oldfield Road B3111,,0,242,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,E,28,9/16/2008,2008,164020,5,0,202,B3111,,0,BU,374270,8,,,8
+1,3,E06000022,Oldfield Road B3111,,1,186,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,E,28,9/16/2008,2008,164020,1,0,152,B3111,,0,BU,374270,4,,,9
+3,2,E06000022,Oldfield Road B3111,,0,170,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,3,E,23,9/16/2008,2008,164020,6,0,136,B3111,,0,BU,374270,3,,,10
+4,2,E06000022,Oldfield Road B3111,,0,190,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,E,29,9/16/2008,2008,164020,1,0,154,B3111,,0,BU,374270,2,,,11
+3,2,E06000022,Oldfield Road B3111,,0,202,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,3,E,69,9/16/2008,2008,164020,0,0,128,B3111,,0,BU,374270,1,,,12
+4,2,E06000022,Oldfield Road B3111,,0,203,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,E,21,9/16/2008,2008,164020,2,0,174,B3111,,0,BU,374270,3,,,13
+0,18,E06000022,Oldfield Road B3111,,0,203,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,1,E,18,9/16/2008,2008,164020,2,0,164,B3111,,1,BU,374270,3,,,14
+2,2,E06000022,Oldfield Road B3111,,0,227,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,E,14,9/16/2008,2008,164020,5,0,204,B3111,,0,BU,374270,5,,,15
+1,2,E06000022,Oldfield Road B3111,,0,231,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,1,E,31,9/16/2008,2008,164020,4,0,193,B3111,,0,BU,374270,6,,,16
+0,2,E06000022,Oldfield Road B3111,,0,219,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,0,E,23,9/16/2008,2008,164020,6,0,188,B3111,,0,BU,374270,8,,,17
+0,2,E06000022,Oldfield Road B3111,,0,158,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,1,E,9,9/16/2008,2008,164020,1,0,145,B3111,,1,BU,374270,5,,,18
+2,1,E06000022,Oldfield Road B3111,,1,140,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,W,21,9/16/2008,2008,164020,6,0,108,B3111,,1,BU,374270,5,,,7
+1,2,E06000022,Oldfield Road B3111,,0,292,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,W,24,9/16/2008,2008,164020,6,0,258,B3111,,1,BU,374270,8,,,8
+2,2,E06000022,Oldfield Road B3111,,0,186,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,W,32,9/16/2008,2008,164020,1,0,149,B3111,,0,BU,374270,3,,,9
+2,2,E06000022,Oldfield Road B3111,,0,145,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,W,27,9/16/2008,2008,164020,1,0,113,B3111,,0,BU,374270,1,,,10
+2,2,E06000022,Oldfield Road B3111,,0,140,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,2,W,32,9/16/2008,2008,164020,1,0,103,B3111,,0,BU,374270,2,,,11
+3,2,E06000022,Oldfield Road B3111,,0,169,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,3,W,18,9/16/2008,2008,164020,1,0,145,B3111,,0,BU,374270,0,,,12
+3,2,E06000022,Oldfield Road B3111,,0,180,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,3,W,22,9/16/2008,2008,164020,7,0,146,B3111,,0,BU,374270,0,,,13
+3,2,E06000022,Oldfield Road B3111,,0,195,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,4,W,26,9/16/2008,2008,164020,0,0,163,B3111,,1,BU,374270,2,,,14
+0,3,E06000022,Oldfield Road B3111,,0,283,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,0,W,24,9/16/2008,2008,164020,1,0,255,B3111,,0,BU,374270,0,,,15
+1,2,E06000022,Oldfield Road B3111,,0,315,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,1,W,25,9/16/2008,2008,164020,5,0,282,B3111,,0,BU,374270,0,,,16
+1,2,E06000022,Oldfield Road B3111,,0,348,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,1,W,29,9/16/2008,2008,164020,9,0,307,B3111,,0,BU,374270,10,,,17
+0,2,E06000022,Oldfield Road B3111,,0,201,South West,Park in a safe location,,,Bath and North East Somerset,0,990072,0,0,W,10,9/16/2008,2008,164020,0,0,189,B3111,,0,BU,374270,7,,,18

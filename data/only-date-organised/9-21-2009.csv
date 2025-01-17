@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+10,3,E06000025,,367961,4,879,South West,,A4175,172645,South Gloucestershire,0,37151,3,21,E,190,9/21/2009,2009,172870,10,2,655,A420,371023,2,PR,370000,1,173307,Bath Road,7
+15,3,E06000025,,367961,2,774,South West,,A4175,172645,South Gloucestershire,0,37151,1,22,E,150,9/21/2009,2009,172870,10,2,589,A420,371023,2,PR,370000,3,173307,Bath Road,8
+10,4,E06000025,,367961,6,411,South West,,A4175,172645,South Gloucestershire,2,37151,7,30,E,91,9/21/2009,2009,172870,1,2,285,A420,371023,3,PR,370000,0,173307,Bath Road,9
+8,0,E06000025,,367961,0,277,South West,,A4175,172645,South Gloucestershire,0,37151,0,12,E,52,9/21/2009,2009,172870,1,2,212,A420,371023,2,PR,370000,0,173307,Bath Road,10
+9,1,E06000025,,367961,1,343,South West,,A4175,172645,South Gloucestershire,1,37151,3,25,E,66,9/21/2009,2009,172870,1,1,250,A420,371023,10,PR,370000,1,173307,Bath Road,11
+5,2,E06000025,,367961,2,296,South West,,A4175,172645,South Gloucestershire,1,37151,2,20,E,57,9/21/2009,2009,172870,9,4,208,A420,371023,6,PR,370000,0,173307,Bath Road,12
+16,1,E06000025,,367961,4,352,South West,,A4175,172645,South Gloucestershire,1,37151,2,28,E,72,9/21/2009,2009,172870,6,2,245,A420,371023,3,PR,370000,0,173307,Bath Road,13
+11,1,E06000025,,367961,2,393,South West,,A4175,172645,South Gloucestershire,1,37151,3,20,E,82,9/21/2009,2009,172870,1,1,289,A420,371023,2,PR,370000,0,173307,Bath Road,14
+8,3,E06000025,,367961,4,389,South West,,A4175,172645,South Gloucestershire,3,37151,5,29,E,85,9/21/2009,2009,172870,3,4,269,A420,371023,5,PR,370000,0,173307,Bath Road,15
+7,2,E06000025,,367961,5,526,South West,,A4175,172645,South Gloucestershire,1,37151,0,15,E,87,9/21/2009,2009,172870,13,2,409,A420,371023,0,PR,370000,0,173307,Bath Road,16
+2,3,E06000025,,367961,0,515,South West,,A4175,172645,South Gloucestershire,1,37151,0,6,E,54,9/21/2009,2009,172870,13,1,439,A420,371023,2,PR,370000,1,173307,Bath Road,17
+2,0,E06000025,,367961,0,401,South West,,A4175,172645,South Gloucestershire,0,37151,0,3,E,48,9/21/2009,2009,172870,7,1,343,A420,371023,0,PR,370000,3,173307,Bath Road,18
+10,2,E06000025,,367961,2,493,South West,,A4175,172645,South Gloucestershire,1,37151,2,24,W,67,9/21/2009,2009,172870,8,3,392,A420,371023,6,PR,370000,0,173307,Bath Road,7
+8,7,E06000025,,367961,1,597,South West,,A4175,172645,South Gloucestershire,1,37151,1,19,W,75,9/21/2009,2009,172870,9,3,487,A420,371023,5,PR,370000,0,173307,Bath Road,8
+10,0,E06000025,,367961,1,399,South West,,A4175,172645,South Gloucestershire,0,37151,4,22,W,63,9/21/2009,2009,172870,13,2,301,A420,371023,5,PR,370000,0,173307,Bath Road,9
+17,2,E06000025,,367961,0,325,South West,,A4175,172645,South Gloucestershire,0,37151,4,24,W,60,9/21/2009,2009,172870,3,2,236,A420,371023,1,PR,370000,0,173307,Bath Road,10
+16,0,E06000025,,367961,3,325,South West,,A4175,172645,South Gloucestershire,0,37151,1,29,W,73,9/21/2009,2009,172870,5,4,218,A420,371023,5,PR,370000,1,173307,Bath Road,11
+17,3,E06000025,,367961,6,389,South West,,A4175,172645,South Gloucestershire,1,37151,1,32,W,81,9/21/2009,2009,172870,4,1,269,A420,371023,6,PR,370000,0,173307,Bath Road,12
+10,0,E06000025,,367961,2,359,South West,,A4175,172645,South Gloucestershire,0,37151,2,21,W,89,9/21/2009,2009,172870,3,2,246,A420,371023,5,PR,370000,1,173307,Bath Road,13
+16,1,E06000025,,367961,5,445,South West,,A4175,172645,South Gloucestershire,3,37151,3,33,W,114,9/21/2009,2009,172870,4,2,293,A420,371023,4,PR,370000,0,173307,Bath Road,14
+11,3,E06000025,,367961,6,529,South West,,A4175,172645,South Gloucestershire,1,37151,2,27,W,117,9/21/2009,2009,172870,8,4,374,A420,371023,3,PR,370000,1,173307,Bath Road,15
+8,2,E06000025,,367961,4,541,South West,,A4175,172645,South Gloucestershire,0,37151,3,18,W,126,9/21/2009,2009,172870,18,0,377,A420,371023,3,PR,370000,1,173307,Bath Road,16
+3,0,E06000025,,367961,0,512,South West,,A4175,172645,South Gloucestershire,1,37151,3,9,W,96,9/21/2009,2009,172870,6,0,401,A420,371023,2,PR,370000,3,173307,Bath Road,17
+4,0,E06000025,,367961,0,591,South West,,A4175,172645,South Gloucestershire,2,37151,3,11,W,61,9/21/2009,2009,172870,9,1,510,A420,371023,1,PR,370000,0,173307,Bath Road,18
+0,0,E06000025,Sycamore Drive,,0,22,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,6,9/21/2009,2009,181243,0,0,16,U,,0,UU,359427,0,,,7
+1,0,E06000025,Sycamore Drive,,0,44,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,1,E,8,9/21/2009,2009,181243,0,0,35,U,,0,UU,359427,1,,,8
+0,1,E06000025,Sycamore Drive,,0,41,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,6,9/21/2009,2009,181243,0,0,34,U,,0,UU,359427,0,,,9
+1,0,E06000025,Sycamore Drive,,0,37,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,1,E,6,9/21/2009,2009,181243,0,0,30,U,,0,UU,359427,0,,,10
+0,0,E06000025,Sycamore Drive,,0,48,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,7,9/21/2009,2009,181243,0,0,41,U,,0,UU,359427,0,,,11
+0,0,E06000025,Sycamore Drive,,0,47,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,5,9/21/2009,2009,181243,2,0,40,U,,0,UU,359427,1,,,12
+0,0,E06000025,Sycamore Drive,,0,40,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,5,9/21/2009,2009,181243,0,0,35,U,,0,UU,359427,0,,,13
+0,0,E06000025,Sycamore Drive,,0,61,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,8,9/21/2009,2009,181243,0,0,53,U,,0,UU,359427,0,,,14
+0,1,E06000025,Sycamore Drive,,0,78,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,5,9/21/2009,2009,181243,2,0,70,U,,0,UU,359427,0,,,15
+0,2,E06000025,Sycamore Drive,,0,85,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,10,9/21/2009,2009,181243,0,0,73,U,,0,UU,359427,1,,,16
+1,0,E06000025,Sycamore Drive,,0,93,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,1,E,6,9/21/2009,2009,181243,2,0,84,U,,0,UU,359427,0,,,17
+0,0,E06000025,Sycamore Drive,,0,83,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,E,7,9/21/2009,2009,181243,1,0,75,U,,0,UU,359427,1,,,18
+0,0,E06000025,Sycamore Drive,,0,30,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,4,9/21/2009,2009,181243,1,0,25,U,,0,UU,359427,1,,,7
+1,0,E06000025,Sycamore Drive,,0,46,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,1,W,3,9/21/2009,2009,181243,0,0,42,U,,0,UU,359427,3,,,8
+0,0,E06000025,Sycamore Drive,,0,19,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,0,9/21/2009,2009,181243,0,0,19,U,,0,UU,359427,1,,,9
+0,0,E06000025,Sycamore Drive,,0,20,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,3,9/21/2009,2009,181243,0,0,17,U,,0,UU,359427,1,,,10
+0,0,E06000025,Sycamore Drive,,0,27,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,4,9/21/2009,2009,181243,0,0,23,U,,0,UU,359427,0,,,11
+0,0,E06000025,Sycamore Drive,,0,17,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,4,9/21/2009,2009,181243,1,0,12,U,,0,UU,359427,0,,,12
+0,0,E06000025,Sycamore Drive,,0,33,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,5,9/21/2009,2009,181243,0,0,28,U,,0,UU,359427,1,,,13
+0,0,E06000025,Sycamore Drive,,0,26,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,4,9/21/2009,2009,181243,0,0,22,U,,0,UU,359427,0,,,14
+0,0,E06000025,Sycamore Drive,,0,25,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,3,9/21/2009,2009,181243,0,0,22,U,,0,UU,359427,0,,,15
+1,2,E06000025,Sycamore Drive,,0,37,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,1,W,1,9/21/2009,2009,181243,0,0,33,U,,0,UU,359427,0,,,16
+0,0,E06000025,Sycamore Drive,,0,34,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,2,9/21/2009,2009,181243,2,0,30,U,,0,UU,359427,1,,,17
+0,0,E06000025,Sycamore Drive,,0,25,South West,"west of Birch Close, Patchway,",,,South Gloucestershire,0,952434,0,0,W,4,9/21/2009,2009,181243,0,0,21,U,,0,UU,359427,0,,,18

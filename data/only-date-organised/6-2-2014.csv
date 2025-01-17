@@ -1,0 +1,73 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,11,E06000023,0,338,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,1,E,70,6/2/2014,2014,177022,3,1,253,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,7
+2,8,E06000023,0,438,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,E,74,6/2/2014,2014,177022,6,0,347,B4054,1,BR,353795,3,SHIREHAMPTON ROAD,8
+3,7,E06000023,0,293,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,E,48,6/2/2014,2014,177022,2,0,233,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,9
+3,10,E06000023,0,272,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,4,E,44,6/2/2014,2014,177022,2,0,212,B4054,1,BR,353795,2,SHIREHAMPTON ROAD,10
+4,8,E06000023,0,284,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,4,E,34,6/2/2014,2014,177022,2,0,236,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,11
+3,7,E06000023,0,295,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,E,34,6/2/2014,2014,177022,1,0,250,B4054,0,BR,353795,2,SHIREHAMPTON ROAD,12
+1,9,E06000023,0,296,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,1,E,42,6/2/2014,2014,177022,3,0,241,B4054,0,BR,353795,0,SHIREHAMPTON ROAD,13
+2,7,E06000023,0,327,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,2,E,50,6/2/2014,2014,177022,2,0,266,B4054,0,BR,353795,2,SHIREHAMPTON ROAD,14
+0,10,E06000023,0,323,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,0,E,47,6/2/2014,2014,177022,2,0,264,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,15
+0,8,E06000023,0,333,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,2,E,42,6/2/2014,2014,177022,4,2,277,B4054,0,BR,353795,0,SHIREHAMPTON ROAD,16
+0,7,E06000023,0,414,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,0,E,24,6/2/2014,2014,177022,9,0,374,B4054,0,BR,353795,4,SHIREHAMPTON ROAD,17
+0,8,E06000023,0,339,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,0,E,37,6/2/2014,2014,177022,2,0,292,B4054,0,BR,353795,2,SHIREHAMPTON ROAD,18
+3,8,E06000023,0,233,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,W,32,6/2/2014,2014,177022,8,0,182,B4054,0,BR,353795,2,SHIREHAMPTON ROAD,7
+2,9,E06000023,0,394,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,W,43,6/2/2014,2014,177022,5,0,334,B4054,1,BR,353795,7,SHIREHAMPTON ROAD,8
+5,8,E06000023,0,242,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,6,W,43,6/2/2014,2014,177022,5,0,180,B4054,1,BR,353795,3,SHIREHAMPTON ROAD,9
+2,8,E06000023,0,183,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,W,20,6/2/2014,2014,177022,2,0,150,B4054,1,BR,353795,2,SHIREHAMPTON ROAD,10
+1,8,E06000023,0,278,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,2,W,37,6/2/2014,2014,177022,1,0,230,B4054,1,BR,353795,0,SHIREHAMPTON ROAD,11
+1,8,E06000023,0,276,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,1,W,25,6/2/2014,2014,177022,1,0,241,B4054,0,BR,353795,0,SHIREHAMPTON ROAD,12
+6,9,E06000023,0,269,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,6,W,30,6/2/2014,2014,177022,6,0,218,B4054,0,BR,353795,4,SHIREHAMPTON ROAD,13
+3,8,E06000023,0,256,South West,South of Penpole Lane,"Bristol, City of",0,946742,1,4,W,27,6/2/2014,2014,177022,1,0,216,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,14
+0,9,E06000023,0,348,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,0,W,55,6/2/2014,2014,177022,0,0,284,B4054,0,BR,353795,1,SHIREHAMPTON ROAD,15
+2,7,E06000023,0,318,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,3,W,51,6/2/2014,2014,177022,5,0,252,B4054,1,BR,353795,2,SHIREHAMPTON ROAD,16
+1,8,E06000023,0,330,South West,South of Penpole Lane,"Bristol, City of",0,946742,1,2,W,36,6/2/2014,2014,177022,8,0,276,B4054,0,BR,353795,8,SHIREHAMPTON ROAD,17
+1,8,E06000023,0,270,South West,South of Penpole Lane,"Bristol, City of",0,946742,0,1,W,22,6/2/2014,2014,177022,8,0,231,B4054,0,BR,353795,4,SHIREHAMPTON ROAD,18
+0,0,E06000023,0,3,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,1,6/2/2014,2014,175722,0,0,2,U,0,UU,363408,2,BROOK ROAD,7
+1,0,E06000023,0,14,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,E,1,6/2/2014,2014,175722,0,0,12,U,0,UU,363408,0,BROOK ROAD,8
+0,0,E06000023,0,7,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,4,6/2/2014,2014,175722,0,0,3,U,0,UU,363408,0,BROOK ROAD,9
+1,0,E06000023,0,11,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,E,4,6/2/2014,2014,175722,0,0,6,U,0,UU,363408,1,BROOK ROAD,10
+0,0,E06000023,0,14,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,E,3,6/2/2014,2014,175722,0,0,10,U,1,UU,363408,0,BROOK ROAD,11
+0,0,E06000023,0,11,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,E,2,6/2/2014,2014,175722,0,0,8,U,1,UU,363408,0,BROOK ROAD,12
+0,0,E06000023,0,6,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,1,6/2/2014,2014,175722,0,0,5,U,0,UU,363408,0,BROOK ROAD,13
+0,0,E06000023,0,9,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,1,6/2/2014,2014,175722,0,0,8,U,0,UU,363408,3,BROOK ROAD,14
+0,0,E06000023,0,11,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,2,6/2/2014,2014,175722,1,0,8,U,0,UU,363408,2,BROOK ROAD,15
+0,0,E06000023,0,7,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,1,6/2/2014,2014,175722,0,0,6,U,0,UU,363408,1,BROOK ROAD,16
+0,0,E06000023,0,12,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,2,6/2/2014,2014,175722,1,0,9,U,0,UU,363408,3,BROOK ROAD,17
+0,0,E06000023,0,10,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,E,0,6/2/2014,2014,175722,0,0,10,U,0,UU,363408,2,BROOK ROAD,18
+0,0,E06000023,0,4,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,0,6/2/2014,2014,175722,0,0,4,U,0,UU,363408,3,BROOK ROAD,7
+0,0,E06000023,0,16,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,3,6/2/2014,2014,175722,1,0,12,U,0,UU,363408,5,BROOK ROAD,8
+1,0,E06000023,0,13,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,W,2,6/2/2014,2014,175722,0,0,10,U,0,UU,363408,0,BROOK ROAD,9
+1,0,E06000023,0,8,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,W,2,6/2/2014,2014,175722,0,0,5,U,0,UU,363408,0,BROOK ROAD,10
+0,0,E06000023,0,11,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,4,6/2/2014,2014,175722,0,0,7,U,0,UU,363408,1,BROOK ROAD,11
+0,0,E06000023,0,13,South West,East of New Station Road,"Bristol, City of",0,946772,0,1,W,2,6/2/2014,2014,175722,0,0,10,U,1,UU,363408,0,BROOK ROAD,12
+0,0,E06000023,0,8,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,4,6/2/2014,2014,175722,0,0,4,U,0,UU,363408,0,BROOK ROAD,13
+0,0,E06000023,0,9,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,1,6/2/2014,2014,175722,0,0,8,U,0,UU,363408,0,BROOK ROAD,14
+0,0,E06000023,0,6,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,1,6/2/2014,2014,175722,2,0,3,U,0,UU,363408,0,BROOK ROAD,15
+0,0,E06000023,0,6,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,1,6/2/2014,2014,175722,0,0,5,U,0,UU,363408,0,BROOK ROAD,16
+0,0,E06000023,0,14,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,3,6/2/2014,2014,175722,1,0,10,U,0,UU,363408,2,BROOK ROAD,17
+0,0,E06000023,0,3,South West,East of New Station Road,"Bristol, City of",0,946772,0,0,W,1,6/2/2014,2014,175722,0,0,2,U,0,UU,363408,0,BROOK ROAD,18
+0,0,E06000025,0,7,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,3,6/2/2014,2014,174897,0,0,4,U,0,UU,364948,0,HILLTOP ROAD,7
+0,0,E06000025,0,17,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,2,6/2/2014,2014,174897,0,0,15,U,0,UU,364948,1,HILLTOP ROAD,8
+0,0,E06000025,0,25,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,2,6/2/2014,2014,174897,0,0,23,U,0,UU,364948,1,HILLTOP ROAD,9
+0,1,E06000025,0,13,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,1,6/2/2014,2014,174897,0,0,11,U,0,UU,364948,1,HILLTOP ROAD,10
+0,0,E06000025,0,5,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,2,6/2/2014,2014,174897,0,0,3,U,0,UU,364948,1,HILLTOP ROAD,11
+0,0,E06000025,0,13,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,0,6/2/2014,2014,174897,0,0,13,U,0,UU,364948,2,HILLTOP ROAD,12
+0,0,E06000025,0,13,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,1,6/2/2014,2014,174897,0,0,12,U,0,UU,364948,1,HILLTOP ROAD,13
+0,0,E06000025,0,10,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,2,6/2/2014,2014,174897,0,0,8,U,0,UU,364948,0,HILLTOP ROAD,14
+0,0,E06000025,0,14,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,0,6/2/2014,2014,174897,0,0,14,U,0,UU,364948,0,HILLTOP ROAD,15
+0,0,E06000025,0,6,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,1,6/2/2014,2014,174897,0,0,5,U,0,UU,364948,1,HILLTOP ROAD,16
+0,0,E06000025,0,15,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,2,6/2/2014,2014,174897,0,0,13,U,0,UU,364948,1,HILLTOP ROAD,17
+0,0,E06000025,0,10,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,E,0,6/2/2014,2014,174897,0,0,10,U,0,UU,364948,0,HILLTOP ROAD,18
+0,0,E06000025,0,10,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,8,U,0,UU,364948,1,HILLTOP ROAD,7
+0,1,E06000025,0,24,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,0,6/2/2014,2014,174897,0,0,23,U,0,UU,364948,1,HILLTOP ROAD,8
+0,0,E06000025,0,7,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,1,6/2/2014,2014,174897,0,0,6,U,0,UU,364948,0,HILLTOP ROAD,9
+0,0,E06000025,0,8,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,1,6/2/2014,2014,174897,0,0,7,U,0,UU,364948,0,HILLTOP ROAD,10
+0,0,E06000025,0,8,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,6,U,0,UU,364948,0,HILLTOP ROAD,11
+0,0,E06000025,0,11,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,9,U,0,UU,364948,0,HILLTOP ROAD,12
+0,0,E06000025,0,13,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,11,U,0,UU,364948,1,HILLTOP ROAD,13
+0,0,E06000025,0,8,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,0,6/2/2014,2014,174897,0,0,8,U,0,UU,364948,2,HILLTOP ROAD,14
+0,0,E06000025,0,27,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,1,6/2/2014,2014,174897,0,0,26,U,0,UU,364948,1,HILLTOP ROAD,15
+0,0,E06000025,0,12,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,10,U,0,UU,364948,0,HILLTOP ROAD,16
+0,0,E06000025,0,22,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,2,6/2/2014,2014,174897,0,0,20,U,0,UU,364948,3,HILLTOP ROAD,17
+0,0,E06000025,0,8,South West,"west of St Stephens Road, Soundwell",South Gloucestershire,0,947530,0,0,W,0,6/2/2014,2014,174897,0,0,8,U,0,UU,364948,0,HILLTOP ROAD,18

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+5,3,E06000024,,350670,4,944,South West,,M5 J 19,173120,North Somerset,0,56993,0,11,E,5,5/9/2000,2000,173270,12,2,913,A369,355220,0,PR,355000,6,175620,B3129,7
+11,13,E06000024,,350670,8,1158,South West,,M5 J 19,173120,North Somerset,0,56993,1,25,E,11,5/9/2000,2000,173270,11,1,1098,A369,355220,4,PR,355000,1,175620,B3129,8
+15,2,E06000024,,350670,5,1284,South West,,M5 J 19,173120,North Somerset,0,56993,1,24,E,2,5/9/2000,2000,173270,7,0,1249,A369,355220,3,PR,355000,0,175620,B3129,9
+7,5,E06000024,,350670,8,511,South West,,M5 J 19,173120,North Somerset,0,56993,0,22,E,7,5/9/2000,2000,173270,3,2,474,A369,355220,5,PR,355000,1,175620,B3129,10
+7,2,E06000024,,350670,5,666,South West,,M5 J 19,173120,North Somerset,1,56993,2,18,E,5,5/9/2000,2000,173270,3,3,638,A369,355220,0,PR,355000,0,175620,B3129,11
+21,4,E06000024,,350670,6,627,South West,,M5 J 19,173120,North Somerset,1,56993,2,35,E,20,5/9/2000,2000,173270,6,3,562,A369,355220,2,PR,355000,0,175620,B3129,12
+11,2,E06000024,,350670,5,490,South West,,M5 J 19,173120,North Somerset,1,56993,0,22,E,74,5/9/2000,2000,173270,4,1,388,A369,355220,4,PR,355000,1,175620,B3129,13
+8,6,E06000024,,350670,5,559,South West,,M5 J 19,173120,North Somerset,2,56993,0,17,E,67,5/9/2000,2000,173270,7,1,462,A369,355220,1,PR,355000,0,175620,B3129,14
+18,11,E06000024,,350670,1,616,South West,,M5 J 19,173120,North Somerset,0,56993,2,25,E,81,5/9/2000,2000,173270,5,4,494,A369,355220,0,PR,355000,3,175620,B3129,15
+13,15,E06000024,,350670,0,793,South West,,M5 J 19,173120,North Somerset,0,56993,0,14,E,130,5/9/2000,2000,173270,5,1,629,A369,355220,0,PR,355000,1,175620,B3129,16
+13,9,E06000024,,350670,0,845,South West,,M5 J 19,173120,North Somerset,0,56993,2,15,E,82,5/9/2000,2000,173270,20,0,719,A369,355220,0,PR,355000,4,175620,B3129,17
+6,5,E06000024,,350670,1,719,South West,,M5 J 19,173120,North Somerset,1,56993,0,8,E,42,5/9/2000,2000,173270,12,0,652,A369,355220,0,PR,355000,5,175620,B3129,18
+6,4,E06000024,,350670,17,601,South West,,M5 J 19,173120,North Somerset,1,56993,1,30,W,63,5/9/2000,2000,173270,8,0,496,A369,355220,5,PR,355000,0,175620,B3129,7
+14,8,E06000024,,350670,9,870,South West,,M5 J 19,173120,North Somerset,2,56993,2,30,W,56,5/9/2000,2000,173270,7,1,769,A369,355220,2,PR,355000,4,175620,B3129,8
+15,6,E06000024,,350670,6,711,South West,,M5 J 19,173120,North Somerset,2,56993,2,32,W,37,5/9/2000,2000,173270,1,6,635,A369,355220,1,PR,355000,0,175620,B3129,9
+8,3,E06000024,,350670,7,413,South West,,M5 J 19,173120,North Somerset,2,56993,1,20,W,35,5/9/2000,2000,173270,0,1,355,A369,355220,1,PR,355000,1,175620,B3129,10
+9,6,E06000024,,350670,5,414,South West,,M5 J 19,173120,North Somerset,1,56993,1,18,W,27,5/9/2000,2000,173270,3,1,360,A369,355220,1,PR,355000,0,175620,B3129,11
+16,3,E06000024,,350670,2,498,South West,,M5 J 19,173120,North Somerset,1,56993,2,24,W,38,5/9/2000,2000,173270,4,2,429,A369,355220,1,PR,355000,2,175620,B3129,12
+10,4,E06000024,,350670,3,503,South West,,M5 J 19,173120,North Somerset,0,56993,1,21,W,51,5/9/2000,2000,173270,4,2,423,A369,355220,5,PR,355000,3,175620,B3129,13
+10,15,E06000024,,350670,2,544,South West,,M5 J 19,173120,North Somerset,1,56993,3,22,W,71,5/9/2000,2000,173270,2,2,434,A369,355220,4,PR,355000,1,175620,B3129,14
+15,9,E06000024,,350670,1,588,South West,,M5 J 19,173120,North Somerset,0,56993,0,17,W,65,5/9/2000,2000,173270,4,1,493,A369,355220,0,PR,355000,2,175620,B3129,15
+7,13,E06000024,,350670,0,855,South West,,M5 J 19,173120,North Somerset,1,56993,1,11,W,59,5/9/2000,2000,173270,11,2,761,A369,355220,0,PR,355000,7,175620,B3129,16
+3,5,E06000024,,350670,0,1035,South West,,M5 J 19,173120,North Somerset,0,56993,1,5,W,65,5/9/2000,2000,173270,16,0,944,A369,355220,1,PR,355000,9,175620,B3129,17
+0,5,E06000024,,350670,0,899,South West,,M5 J 19,173120,North Somerset,0,56993,0,0,W,36,5/9/2000,2000,173270,14,0,844,A369,355220,0,PR,355000,13,175620,B3129,18
+2,0,E06000022,Walley Lane,,0,68,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,E,13,5/9/2000,2000,161220,0,0,53,C,,0,CR,357650,0,,,7
+0,10,E06000022,Walley Lane,,0,96,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,E,15,5/9/2000,2000,161220,0,0,70,C,,1,CR,357650,0,,,8
+6,1,E06000022,Walley Lane,,1,92,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,8,E,12,5/9/2000,2000,161220,1,0,70,C,,1,CR,357650,0,,,9
+5,0,E06000022,Walley Lane,,0,57,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,6,E,9,5/9/2000,2000,161220,0,1,42,C,,0,CR,357650,0,,,10
+4,0,E06000022,Walley Lane,,0,90,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,1,990295,0,6,E,12,5/9/2000,2000,161220,0,0,72,C,,1,CR,357650,1,,,11
+4,0,E06000022,Walley Lane,,0,70,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,E,11,5/9/2000,2000,161220,0,0,55,C,,0,CR,357650,1,,,12
+3,0,E06000022,Walley Lane,,1,95,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,6,E,15,5/9/2000,2000,161220,0,0,74,C,,2,CR,357650,0,,,13
+1,1,E06000022,Walley Lane,,0,93,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,E,13,5/9/2000,2000,161220,0,0,78,C,,0,CR,357650,0,,,14
+5,2,E06000022,Walley Lane,,1,134,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,7,E,9,5/9/2000,2000,161220,1,0,115,C,,1,CR,357650,2,,,15
+2,6,E06000022,Walley Lane,,0,165,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,E,27,5/9/2000,2000,161220,2,0,127,C,,1,CR,357650,3,,,16
+0,0,E06000022,Walley Lane,,0,188,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,0,E,31,5/9/2000,2000,161220,2,0,155,C,,0,CR,357650,5,,,17
+0,0,E06000022,Walley Lane,,0,151,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,0,E,17,5/9/2000,2000,161220,2,0,132,C,,0,CR,357650,5,,,18
+0,1,E06000022,Walley Lane,,2,145,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,W,23,5/9/2000,2000,161220,0,0,118,C,,1,CR,357650,1,,,7
+3,3,E06000022,Walley Lane,,0,245,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,W,27,5/9/2000,2000,161220,1,0,211,C,,0,CR,357650,2,,,8
+4,1,E06000022,Walley Lane,,0,96,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,W,12,5/9/2000,2000,161220,0,0,79,C,,0,CR,357650,0,,,9
+4,0,E06000022,Walley Lane,,0,75,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,W,14,5/9/2000,2000,161220,1,0,56,C,,0,CR,357650,0,,,10
+7,0,E06000022,Walley Lane,,0,85,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,8,W,13,5/9/2000,2000,161220,0,1,64,C,,0,CR,357650,3,,,11
+1,0,E06000022,Walley Lane,,1,76,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,W,11,5/9/2000,2000,161220,0,0,63,C,,0,CR,357650,4,,,12
+3,0,E06000022,Walley Lane,,0,74,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,1,990295,0,5,W,16,5/9/2000,2000,161220,0,0,53,C,,1,CR,357650,1,,,13
+4,3,E06000022,Walley Lane,,0,95,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,5,W,10,5/9/2000,2000,161220,0,0,77,C,,1,CR,357650,2,,,14
+6,10,E06000022,Walley Lane,,0,129,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,7,W,12,5/9/2000,2000,161220,0,1,100,C,,0,CR,357650,0,,,15
+4,3,E06000022,Walley Lane,,0,110,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,W,12,5/9/2000,2000,161220,1,0,90,C,,0,CR,357650,0,,,16
+1,1,E06000022,Walley Lane,,0,110,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,1,990295,0,2,W,15,5/9/2000,2000,161220,1,0,91,C,,0,CR,357650,7,,,17
+2,0,E06000022,Walley Lane,,0,69,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,W,10,5/9/2000,2000,161220,5,0,52,C,,0,CR,357650,11,,,18

@@ -1,0 +1,73 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+161,9,E06000025,,357747,22,3228,South West,,Junction 17 M5,183284,South Gloucestershire,19,99619,95,428,E,659,9/5/2014,2014,182900,25,98,2107,M5,360686,33,TM,360000,0,181250,Junction 16 M5,7
+108,12,E06000025,,357747,18,3663,South West,,Junction 17 M5,183284,South Gloucestershire,17,99619,92,353,E,581,9/5/2014,2014,182900,28,96,2689,M5,360686,22,TM,360000,0,181250,Junction 16 M5,8
+101,23,E06000025,,357747,17,3872,South West,,Junction 17 M5,183284,South Gloucestershire,24,99619,110,376,E,560,9/5/2014,2014,182900,19,113,2894,M5,360686,11,TM,360000,0,181250,Junction 16 M5,9
+109,34,E06000025,,357747,20,3794,South West,,Junction 17 M5,183284,South Gloucestershire,30,99619,96,383,E,511,9/5/2014,2014,182900,22,103,2844,M5,360686,25,TM,360000,0,181250,Junction 16 M5,10
+142,47,E06000025,,357747,31,4812,South West,,Junction 17 M5,183284,South Gloucestershire,30,99619,113,475,E,643,9/5/2014,2014,182900,18,139,3629,M5,360686,20,TM,360000,0,181250,Junction 16 M5,11
+100,34,E06000025,,357747,21,5208,South West,,Junction 17 M5,183284,South Gloucestershire,12,99619,92,384,E,618,9/5/2014,2014,182900,22,136,4150,M5,360686,23,TM,360000,0,181250,Junction 16 M5,12
+85,13,E06000025,,357747,30,6111,South West,,Junction 17 M5,183284,South Gloucestershire,1,99619,88,326,E,581,9/5/2014,2014,182900,30,105,5161,M5,360686,17,TM,360000,0,181250,Junction 16 M5,13
+102,10,E06000025,,357747,6,4787,South West,,Junction 17 M5,183284,South Gloucestershire,18,99619,89,333,E,602,9/5/2014,2014,182900,25,92,3817,M5,360686,26,TM,360000,0,181250,Junction 16 M5,14
+105,22,E06000025,,357747,6,4892,South West,,Junction 17 M5,183284,South Gloucestershire,10,99619,61,273,E,628,9/5/2014,2014,182900,27,79,3942,M5,360686,12,TM,360000,0,181250,Junction 16 M5,15
+79,18,E06000025,,357747,6,5153,South West,,Junction 17 M5,183284,South Gloucestershire,21,99619,75,273,E,676,9/5/2014,2014,182900,28,89,4158,M5,360686,3,TM,360000,0,181250,Junction 16 M5,16
+56,14,E06000025,,357747,1,6327,South West,,Junction 17 M5,183284,South Gloucestershire,26,99619,73,215,E,479,9/5/2014,2014,182900,25,52,5594,M5,360686,7,TM,360000,0,181250,Junction 16 M5,17
+35,19,E06000025,,357747,0,3796,South West,,Junction 17 M5,183284,South Gloucestershire,17,99619,59,179,E,302,9/5/2014,2014,182900,25,65,3271,M5,360686,3,TM,360000,0,181250,Junction 16 M5,18
+83,17,E06000025,,357747,22,4083,South West,,Junction 17 M5,183284,South Gloucestershire,14,99619,149,385,W,757,9/5/2014,2014,182900,25,102,2899,M5,360686,15,TM,360000,0,181250,Junction 16 M5,7
+105,18,E06000025,,357747,15,3862,South West,,Junction 17 M5,183284,South Gloucestershire,17,99619,135,399,W,578,9/5/2014,2014,182900,11,112,2856,M5,360686,15,TM,360000,0,181250,Junction 16 M5,8
+69,11,E06000025,,357747,16,3709,South West,,Junction 17 M5,183284,South Gloucestershire,23,99619,104,314,W,399,9/5/2014,2014,182900,16,90,2969,M5,360686,12,TM,360000,0,181250,Junction 16 M5,9
+44,11,E06000025,,357747,22,4263,South West,,Junction 17 M5,183284,South Gloucestershire,17,99619,114,295,W,382,9/5/2014,2014,182900,11,84,3564,M5,360686,14,TM,360000,0,181250,Junction 16 M5,10
+84,11,E06000025,,357747,17,4763,South West,,Junction 17 M5,183284,South Gloucestershire,9,99619,118,352,W,376,9/5/2014,2014,182900,12,107,4012,M5,360686,17,TM,360000,0,181250,Junction 16 M5,11
+99,20,E06000025,,357747,18,5179,South West,,Junction 17 M5,183284,South Gloucestershire,18,99619,98,354,W,468,9/5/2014,2014,182900,26,98,4311,M5,360686,23,TM,360000,0,181250,Junction 16 M5,12
+76,15,E06000025,,357747,15,4566,South West,,Junction 17 M5,183284,South Gloucestershire,14,99619,88,302,W,389,9/5/2014,2014,182900,28,94,3832,M5,360686,15,TM,360000,0,181250,Junction 16 M5,13
+59,19,E06000025,,357747,20,4862,South West,,Junction 17 M5,183284,South Gloucestershire,15,99619,105,285,W,462,9/5/2014,2014,182900,49,72,4047,M5,360686,14,TM,360000,0,181250,Junction 16 M5,14
+91,14,E06000025,,357747,13,5021,South West,,Junction 17 M5,183284,South Gloucestershire,18,99619,101,330,W,553,9/5/2014,2014,182900,29,92,4095,M5,360686,15,TM,360000,0,181250,Junction 16 M5,15
+68,7,E06000025,,357747,5,4967,South West,,Junction 17 M5,183284,South Gloucestershire,13,99619,88,234,W,526,9/5/2014,2014,182900,33,52,4167,M5,360686,8,TM,360000,0,181250,Junction 16 M5,16
+62,15,E06000025,,357747,4,4855,South West,,Junction 17 M5,183284,South Gloucestershire,19,99619,63,211,W,355,9/5/2014,2014,182900,27,54,4247,M5,360686,9,TM,360000,0,181250,Junction 16 M5,17
+13,10,E06000025,,357747,2,3778,South West,,Junction 17 M5,183284,South Gloucestershire,8,99619,46,100,W,298,9/5/2014,2014,182900,36,26,3334,M5,360686,5,TM,360000,0,181250,Junction 16 M5,18
+0,0,E06000022,HAYCOMBE DRIVE,,0,12,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,3,9/5/2014,2014,164050,0,0,9,U,,0,UU,372098,0,,,7
+0,0,E06000022,HAYCOMBE DRIVE,,0,8,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,3,9/5/2014,2014,164050,0,0,5,U,,0,UU,372098,0,,,8
+0,1,E06000022,HAYCOMBE DRIVE,,0,11,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,4,9/5/2014,2014,164050,0,0,6,U,,0,UU,372098,0,,,9
+0,0,E06000022,HAYCOMBE DRIVE,,0,7,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,1,9/5/2014,2014,164050,0,0,6,U,,0,UU,372098,0,,,10
+0,0,E06000022,HAYCOMBE DRIVE,,0,9,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,4,9/5/2014,2014,164050,0,0,5,U,,0,UU,372098,0,,,11
+0,0,E06000022,HAYCOMBE DRIVE,,0,15,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,2,9/5/2014,2014,164050,1,0,12,U,,0,UU,372098,0,,,12
+0,0,E06000022,HAYCOMBE DRIVE,,0,14,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,4,9/5/2014,2014,164050,0,0,10,U,,0,UU,372098,0,,,13
+0,1,E06000022,HAYCOMBE DRIVE,,0,14,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,4,9/5/2014,2014,164050,0,0,9,U,,0,UU,372098,0,,,14
+0,0,E06000022,HAYCOMBE DRIVE,,0,17,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,4,9/5/2014,2014,164050,0,0,13,U,,0,UU,372098,0,,,15
+0,0,E06000022,HAYCOMBE DRIVE,,0,16,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,1,9/5/2014,2014,164050,0,0,15,U,,0,UU,372098,6,,,16
+0,0,E06000022,HAYCOMBE DRIVE,,0,18,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,2,9/5/2014,2014,164050,1,0,15,U,,0,UU,372098,4,,,17
+0,0,E06000022,HAYCOMBE DRIVE,,0,7,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,E,1,9/5/2014,2014,164050,0,0,6,U,,0,UU,372098,7,,,18
+0,0,E06000022,HAYCOMBE DRIVE,,0,9,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,2,9/5/2014,2014,164050,0,0,7,U,,0,UU,372098,0,,,7
+0,0,E06000022,HAYCOMBE DRIVE,,0,8,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,0,0,7,U,,0,UU,372098,0,,,8
+0,0,E06000022,HAYCOMBE DRIVE,,0,13,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,5,9/5/2014,2014,164050,0,0,8,U,,0,UU,372098,0,,,9
+0,0,E06000022,HAYCOMBE DRIVE,,0,4,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,2,9/5/2014,2014,164050,0,0,2,U,,0,UU,372098,0,,,10
+0,0,E06000022,HAYCOMBE DRIVE,,0,6,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,3,9/5/2014,2014,164050,0,0,3,U,,0,UU,372098,0,,,11
+0,0,E06000022,HAYCOMBE DRIVE,,0,5,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,0,0,4,U,,0,UU,372098,0,,,12
+0,0,E06000022,HAYCOMBE DRIVE,,0,12,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,0,0,11,U,,0,UU,372098,0,,,13
+0,1,E06000022,HAYCOMBE DRIVE,,0,8,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,2,9/5/2014,2014,164050,0,0,5,U,,0,UU,372098,0,,,14
+0,0,E06000022,HAYCOMBE DRIVE,,0,8,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,3,9/5/2014,2014,164050,0,0,5,U,,0,UU,372098,0,,,15
+0,0,E06000022,HAYCOMBE DRIVE,,0,7,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,0,0,6,U,,0,UU,372098,5,,,16
+0,0,E06000022,HAYCOMBE DRIVE,,0,9,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,0,0,8,U,,0,UU,372098,1,,,17
+0,0,E06000022,HAYCOMBE DRIVE,,0,12,South West,"Whiteway, between North Way rbt and Kelston view jcn",,,Bath and North East Somerset,0,946676,0,0,W,1,9/5/2014,2014,164050,2,0,9,U,,0,UU,372098,9,,,18
+7,0,E06000023,EMERY ROAD,,0,722,South West,North of Bath Road,,,"Bristol, City of",0,946763,3,11,N,153,9/5/2014,2014,170240,18,0,540,C,,1,CU,362674,23,,,7
+9,7,E06000023,EMERY ROAD,,0,699,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,13,N,87,9/5/2014,2014,170240,20,2,572,C,,1,CU,362674,55,,,8
+11,3,E06000023,EMERY ROAD,,2,491,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,18,N,117,9/5/2014,2014,170240,6,2,347,C,,2,CU,362674,3,,,9
+15,0,E06000023,EMERY ROAD,,2,499,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,25,N,110,9/5/2014,2014,170240,9,4,355,C,,4,CU,362674,16,,,10
+10,1,E06000023,EMERY ROAD,,1,374,South West,North of Bath Road,,,"Bristol, City of",1,946763,1,15,N,110,9/5/2014,2014,170240,9,0,239,C,,2,CU,362674,1,,,11
+17,0,E06000023,EMERY ROAD,,0,342,South West,North of Bath Road,,,"Bristol, City of",0,946763,2,20,N,66,9/5/2014,2014,170240,10,0,246,C,,1,CU,362674,0,,,12
+10,1,E06000023,EMERY ROAD,,2,512,South West,North of Bath Road,,,"Bristol, City of",1,946763,0,15,N,110,9/5/2014,2014,170240,11,1,375,C,,1,CU,362674,6,,,13
+14,5,E06000023,EMERY ROAD,,0,461,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,16,N,99,9/5/2014,2014,170240,7,1,334,C,,1,CU,362674,6,,,14
+15,4,E06000023,EMERY ROAD,,0,547,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,18,N,93,9/5/2014,2014,170240,5,1,427,C,,1,CU,362674,16,,,15
+10,0,E06000023,EMERY ROAD,,0,549,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,10,N,96,9/5/2014,2014,170240,12,0,431,C,,0,CU,362674,5,,,16
+3,1,E06000023,EMERY ROAD,,0,406,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,3,N,68,9/5/2014,2014,170240,7,0,327,C,,0,CU,362674,7,,,17
+0,0,E06000023,EMERY ROAD,,0,279,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,0,N,31,9/5/2014,2014,170240,8,0,240,C,,0,CU,362674,3,,,18
+12,1,E06000023,EMERY ROAD,,1,342,South West,North of Bath Road,,,"Bristol, City of",0,946763,2,16,S,101,9/5/2014,2014,170240,1,1,223,C,,0,CU,362674,6,,,7
+18,4,E06000023,EMERY ROAD,,0,475,South West,North of Bath Road,,,"Bristol, City of",0,946763,3,29,S,102,9/5/2014,2014,170240,5,4,335,C,,4,CU,362674,0,,,8
+11,0,E06000023,EMERY ROAD,,1,270,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,16,S,85,9/5/2014,2014,170240,5,3,164,C,,0,CU,362674,0,,,9
+18,1,E06000023,EMERY ROAD,,1,451,South West,North of Bath Road,,,"Bristol, City of",0,946763,3,28,S,116,9/5/2014,2014,170240,4,2,302,C,,4,CU,362674,7,,,10
+5,0,E06000023,EMERY ROAD,,0,384,South West,North of Bath Road,,,"Bristol, City of",3,946763,1,15,S,106,9/5/2014,2014,170240,3,3,260,C,,3,CU,362674,3,,,11
+12,1,E06000023,EMERY ROAD,,0,494,South West,North of Bath Road,,,"Bristol, City of",0,946763,3,21,S,107,9/5/2014,2014,170240,10,4,355,C,,2,CU,362674,14,,,12
+11,2,E06000023,EMERY ROAD,,3,473,South West,North of Bath Road,,,"Bristol, City of",1,946763,2,18,S,106,9/5/2014,2014,170240,10,1,337,C,,0,CU,362674,5,,,13
+7,3,E06000023,EMERY ROAD,,0,465,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,8,S,95,9/5/2014,2014,170240,12,1,347,C,,0,CU,362674,11,,,14
+3,1,E06000023,EMERY ROAD,,0,416,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,5,S,93,9/5/2014,2014,170240,9,1,308,C,,0,CU,362674,11,,,15
+6,2,E06000023,EMERY ROAD,,0,583,South West,North of Bath Road,,,"Bristol, City of",0,946763,1,8,S,77,9/5/2014,2014,170240,19,1,477,C,,0,CU,362674,51,,,16
+3,1,E06000023,EMERY ROAD,,0,541,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,4,S,48,9/5/2014,2014,170240,16,0,472,C,,1,CU,362674,8,,,17
+3,0,E06000023,EMERY ROAD,,0,392,South West,North of Bath Road,,,"Bristol, City of",0,946763,0,3,S,47,9/5/2014,2014,170240,2,0,340,C,,0,CU,362674,8,,,18

@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,0,E06000023,0,30,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,2,7/20/2005,2005,175210,0,0,28,U,0,UU,359243,1,Effingham Road,7
+0,1,E06000023,0,51,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,2,7/20/2005,2005,175210,1,0,47,U,0,UU,359243,3,Effingham Road,8
+0,0,E06000023,0,26,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,4,7/20/2005,2005,175210,1,0,21,U,0,UU,359243,0,Effingham Road,9
+0,0,E06000023,0,28,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,5,7/20/2005,2005,175210,0,0,23,U,0,UU,359243,0,Effingham Road,10
+0,0,E06000023,0,23,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,4,7/20/2005,2005,175210,0,0,19,U,0,UU,359243,1,Effingham Road,11
+0,0,E06000023,0,33,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,5,7/20/2005,2005,175210,0,0,28,U,0,UU,359243,0,Effingham Road,12
+1,0,E06000023,0,30,South West,North of Grenville Road,"Bristol, City of",0,969256,0,1,N,5,7/20/2005,2005,175210,1,0,23,U,0,UU,359243,1,Effingham Road,13
+0,0,E06000023,0,29,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,5,7/20/2005,2005,175210,1,0,23,U,0,UU,359243,0,Effingham Road,14
+0,0,E06000023,0,30,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,2,7/20/2005,2005,175210,0,0,28,U,0,UU,359243,0,Effingham Road,15
+0,0,E06000023,0,44,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,5,7/20/2005,2005,175210,0,0,39,U,0,UU,359243,2,Effingham Road,16
+0,0,E06000023,0,68,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,4,7/20/2005,2005,175210,0,0,64,U,0,UU,359243,1,Effingham Road,17
+0,0,E06000023,0,43,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,N,3,7/20/2005,2005,175210,0,0,40,U,0,UU,359243,2,Effingham Road,18
+0,0,E06000023,0,12,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,2,7/20/2005,2005,175210,0,0,10,U,0,UU,359243,0,Effingham Road,7
+1,2,E06000023,0,46,South West,North of Grenville Road,"Bristol, City of",0,969256,0,1,S,2,7/20/2005,2005,175210,2,0,39,U,0,UU,359243,2,Effingham Road,8
+1,0,E06000023,0,33,South West,North of Grenville Road,"Bristol, City of",0,969256,0,1,S,3,7/20/2005,2005,175210,0,0,29,U,0,UU,359243,2,Effingham Road,9
+0,0,E06000023,0,17,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,5,7/20/2005,2005,175210,0,0,12,U,0,UU,359243,0,Effingham Road,10
+0,0,E06000023,0,25,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,3,7/20/2005,2005,175210,0,0,22,U,0,UU,359243,0,Effingham Road,11
+0,0,E06000023,0,36,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,4,7/20/2005,2005,175210,0,0,32,U,0,UU,359243,1,Effingham Road,12
+0,0,E06000023,0,24,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,2,7/20/2005,2005,175210,1,0,21,U,0,UU,359243,1,Effingham Road,13
+0,0,E06000023,0,24,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,3,7/20/2005,2005,175210,0,0,21,U,0,UU,359243,0,Effingham Road,14
+0,0,E06000023,0,31,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,5,7/20/2005,2005,175210,0,0,26,U,0,UU,359243,0,Effingham Road,15
+0,0,E06000023,0,43,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,1,7/20/2005,2005,175210,1,0,41,U,0,UU,359243,1,Effingham Road,16
+0,0,E06000023,0,54,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,4,7/20/2005,2005,175210,0,0,50,U,0,UU,359243,1,Effingham Road,17
+0,0,E06000023,0,38,South West,North of Grenville Road,"Bristol, City of",0,969256,0,0,S,1,7/20/2005,2005,175210,0,0,37,U,0,UU,359243,3,Effingham Road,18

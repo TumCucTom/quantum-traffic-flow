@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,2,E06000024,0,179,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,E,23,9/23/2008,2008,175970,1,0,153,U,0,UU,345170,3,DOWN ROAD,7
+2,4,E06000024,0,340,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,2,E,24,9/23/2008,2008,175970,2,0,308,U,0,UU,345170,14,DOWN ROAD,8
+3,3,E06000024,0,226,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,3,E,26,9/23/2008,2008,175970,1,0,193,U,0,UU,345170,2,DOWN ROAD,9
+0,3,E06000024,0,183,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,E,24,9/23/2008,2008,175970,0,0,155,U,1,UU,345170,1,DOWN ROAD,10
+1,3,E06000024,0,193,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,E,33,9/23/2008,2008,175970,2,0,154,U,0,UU,345170,3,DOWN ROAD,11
+1,2,E06000024,0,179,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,E,26,9/23/2008,2008,175970,0,0,150,U,0,UU,345170,4,DOWN ROAD,12
+2,3,E06000024,0,165,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,2,E,25,9/23/2008,2008,175970,0,0,135,U,0,UU,345170,5,DOWN ROAD,13
+2,3,E06000024,0,196,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,2,E,25,9/23/2008,2008,175970,0,0,166,U,0,UU,345170,0,DOWN ROAD,14
+0,5,E06000024,0,211,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,E,14,9/23/2008,2008,175970,3,0,188,U,1,UU,345170,3,DOWN ROAD,15
+0,3,E06000024,0,218,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,E,20,9/23/2008,2008,175970,4,0,191,U,0,UU,345170,9,DOWN ROAD,16
+0,1,E06000024,0,232,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,E,26,9/23/2008,2008,175970,2,0,203,U,0,UU,345170,14,DOWN ROAD,17
+0,5,E06000024,0,244,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,E,19,9/23/2008,2008,175970,4,0,216,U,0,UU,345170,6,DOWN ROAD,18
+0,4,E06000024,0,138,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,W,21,9/23/2008,2008,175970,0,0,112,U,1,UU,345170,2,DOWN ROAD,7
+1,4,E06000024,0,239,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,2,W,22,9/23/2008,2008,175970,1,0,210,U,1,UU,345170,3,DOWN ROAD,8
+3,4,E06000024,0,189,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,4,W,15,9/23/2008,2008,175970,0,0,166,U,1,UU,345170,3,DOWN ROAD,9
+3,2,E06000024,1,184,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,5,W,26,9/23/2008,2008,175970,1,0,150,U,1,UU,345170,1,DOWN ROAD,10
+3,5,E06000024,0,168,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,5,W,19,9/23/2008,2008,175970,1,0,138,U,2,UU,345170,3,DOWN ROAD,11
+2,2,E06000024,0,205,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,2,W,25,9/23/2008,2008,175970,1,0,175,U,0,UU,345170,4,DOWN ROAD,12
+1,3,E06000024,0,208,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,1,W,20,9/23/2008,2008,175970,2,0,182,U,0,UU,345170,4,DOWN ROAD,13
+0,2,E06000024,0,156,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,W,16,9/23/2008,2008,175970,1,0,137,U,0,UU,345170,1,DOWN ROAD,14
+0,4,E06000024,0,248,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,W,20,9/23/2008,2008,175970,0,0,224,U,0,UU,345170,5,DOWN ROAD,15
+0,3,E06000024,0,272,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,W,21,9/23/2008,2008,175970,3,0,245,U,0,UU,345170,16,DOWN ROAD,16
+0,2,E06000024,0,299,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,W,12,9/23/2008,2008,175970,1,0,284,U,0,UU,345170,9,DOWN ROAD,17
+0,3,E06000024,0,251,South West,"West of Tower Road, Portishead",North Somerset,0,930451,0,0,W,11,9/23/2008,2008,175970,2,0,235,U,0,UU,345170,9,DOWN ROAD,18

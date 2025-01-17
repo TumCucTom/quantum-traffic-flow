@@ -1,0 +1,109 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+6,11,E06000022,,367050,2,617,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,0,8,N,125,6/11/2008,2008,154500,18,0,455,A367,368884,0,PU,368000,4,153310,A362,7
+6,14,E06000022,,367050,1,724,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,1,11,N,98,6/11/2008,2008,154500,9,0,592,A367,368884,3,PU,368000,2,153310,A362,8
+10,6,E06000022,,367050,2,548,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,6,22,N,80,6/11/2008,2008,154500,7,2,433,A367,368884,2,PU,368000,3,153310,A362,9
+12,6,E06000022,,367050,1,473,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,1,18,N,75,6/11/2008,2008,154500,4,3,370,A367,368884,1,PU,368000,0,153310,A362,10
+9,7,E06000022,,367050,2,440,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,0,18,N,56,6/11/2008,2008,154500,3,5,356,A367,368884,2,PU,368000,0,153310,A362,11
+19,6,E06000022,,367050,2,483,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,0,25,N,72,6/11/2008,2008,154500,5,2,375,A367,368884,2,PU,368000,3,153310,A362,12
+9,9,E06000022,,367050,1,467,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,1,13,N,50,6/11/2008,2008,154500,9,1,386,A367,368884,0,PU,368000,3,153310,A362,13
+13,6,E06000022,,367050,2,450,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,1,19,N,62,6/11/2008,2008,154500,12,3,351,A367,368884,0,PU,368000,5,153310,A362,14
+9,11,E06000022,,367050,2,582,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,0,14,N,79,6/11/2008,2008,154500,14,2,464,A367,368884,0,PU,368000,1,153310,A362,15
+5,11,E06000022,,367050,2,612,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,2,12,N,88,6/11/2008,2008,154500,14,2,487,A367,368884,0,PU,368000,5,153310,A362,16
+4,5,E06000022,,367050,1,634,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,3,8,N,76,6/11/2008,2008,154500,10,0,535,A367,368884,0,PU,368000,3,153310,A362,17
+2,7,E06000022,,367050,0,514,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,0,3,N,62,6/11/2008,2008,154500,15,0,427,A367,368884,0,PU,368000,7,153310,A362,18
+6,11,E06000022,,367050,3,386,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,5,16,S,92,6/11/2008,2008,154500,8,1,259,A367,368884,1,PU,368000,0,153310,A362,7
+8,8,E06000022,,367050,1,504,South West,,LA boundary,154946,Bath and North East Somerset,2,27025,3,15,S,62,6/11/2008,2008,154500,5,1,414,A367,368884,0,PU,368000,2,153310,A362,8
+10,10,E06000022,,367050,1,390,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,4,22,S,70,6/11/2008,2008,154500,7,2,281,A367,368884,4,PU,368000,0,153310,A362,9
+8,8,E06000022,,367050,1,383,South West,,LA boundary,154946,Bath and North East Somerset,4,27025,3,18,S,73,6/11/2008,2008,154500,6,2,278,A367,368884,0,PU,368000,0,153310,A362,10
+15,6,E06000022,,367050,2,354,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,3,26,S,45,6/11/2008,2008,154500,5,4,272,A367,368884,2,PU,368000,2,153310,A362,11
+17,6,E06000022,,367050,3,423,South West,,LA boundary,154946,Bath and North East Somerset,1,27025,3,32,S,77,6/11/2008,2008,154500,2,5,306,A367,368884,3,PU,368000,0,153310,A362,12
+11,8,E06000022,,367050,2,420,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,3,18,S,41,6/11/2008,2008,154500,8,1,345,A367,368884,1,PU,368000,8,153310,A362,13
+9,11,E06000022,,367050,0,476,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,1,15,S,60,6/11/2008,2008,154500,3,4,387,A367,368884,1,PU,368000,1,153310,A362,14
+13,6,E06000022,,367050,1,523,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,4,19,S,63,6/11/2008,2008,154500,15,1,420,A367,368884,0,PU,368000,5,153310,A362,15
+10,5,E06000022,,367050,0,596,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,7,20,S,93,6/11/2008,2008,154500,11,2,467,A367,368884,1,PU,368000,5,153310,A362,16
+3,5,E06000022,,367050,0,657,South West,,LA boundary,154946,Bath and North East Somerset,0,27025,1,5,S,85,6/11/2008,2008,154500,17,0,545,A367,368884,1,PU,368000,2,153310,A362,17
+4,7,E06000022,,367050,0,540,South West,,LA boundary,154946,Bath and North East Somerset,2,27025,1,8,S,38,6/11/2008,2008,154500,16,1,471,A367,368884,0,PU,368000,1,153310,A362,18
+0,0,E06000025,Horton Hill,,0,27,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,3,6/11/2008,2008,184220,1,0,23,U,,0,UR,376450,0,,,7
+1,0,E06000025,Horton Hill,,0,40,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,7,6/11/2008,2008,184220,0,0,32,U,,0,UR,376450,0,,,8
+0,0,E06000025,Horton Hill,,1,33,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,6,6/11/2008,2008,184220,0,0,26,U,,0,UR,376450,0,,,9
+0,1,E06000025,Horton Hill,,0,21,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,6,6/11/2008,2008,184220,0,0,14,U,,0,UR,376450,0,,,10
+0,0,E06000025,Horton Hill,,1,31,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,E,4,6/11/2008,2008,184220,0,0,25,U,,1,UR,376450,0,,,11
+0,4,E06000025,Horton Hill,,0,32,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,6,6/11/2008,2008,184220,1,0,21,U,,0,UR,376450,2,,,12
+0,0,E06000025,Horton Hill,,0,24,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,4,6/11/2008,2008,184220,1,0,19,U,,0,UR,376450,1,,,13
+0,1,E06000025,Horton Hill,,0,23,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,3,6/11/2008,2008,184220,0,0,19,U,,0,UR,376450,0,,,14
+0,1,E06000025,Horton Hill,,0,33,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,5,6/11/2008,2008,184220,1,0,26,U,,0,UR,376450,8,,,15
+0,0,E06000025,Horton Hill,,0,35,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,12,6/11/2008,2008,184220,0,0,23,U,,0,UR,376450,0,,,16
+0,0,E06000025,Horton Hill,,0,47,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,7,6/11/2008,2008,184220,0,0,40,U,,0,UR,376450,0,,,17
+0,1,E06000025,Horton Hill,,0,34,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,1,6/11/2008,2008,184220,0,0,32,U,,0,UR,376450,1,,,18
+1,1,E06000025,Horton Hill,,0,37,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,10,6/11/2008,2008,184220,1,0,24,U,,0,UR,376450,1,,,7
+2,1,E06000025,Horton Hill,,0,41,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,3,W,4,6/11/2008,2008,184220,0,0,33,U,,1,UR,376450,0,,,8
+1,0,E06000025,Horton Hill,,0,35,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,W,3,6/11/2008,2008,184220,0,0,30,U,,1,UR,376450,2,,,9
+1,1,E06000025,Horton Hill,,1,25,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,3,W,1,6/11/2008,2008,184220,0,0,20,U,,1,UR,376450,0,,,10
+0,0,E06000025,Horton Hill,,0,25,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,6,6/11/2008,2008,184220,1,0,18,U,,0,UR,376450,3,,,11
+0,1,E06000025,Horton Hill,,0,29,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,1,942481,0,1,W,6,6/11/2008,2008,184220,0,0,21,U,,0,UR,376450,0,,,12
+0,0,E06000025,Horton Hill,,0,20,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,1,942481,0,1,W,6,6/11/2008,2008,184220,0,0,13,U,,0,UR,376450,0,,,13
+0,1,E06000025,Horton Hill,,0,20,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,1,6/11/2008,2008,184220,0,0,18,U,,0,UR,376450,0,,,14
+1,0,E06000025,Horton Hill,,0,34,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,3,W,4,6/11/2008,2008,184220,0,2,27,U,,0,UR,376450,2,,,15
+0,1,E06000025,Horton Hill,,0,36,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,8,6/11/2008,2008,184220,0,0,27,U,,0,UR,376450,0,,,16
+0,0,E06000025,Horton Hill,,0,38,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,5,6/11/2008,2008,184220,1,0,32,U,,0,UR,376450,0,,,17
+0,1,E06000025,Horton Hill,,0,22,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,2,6/11/2008,2008,184220,0,0,19,U,,0,UR,376450,0,,,18
+4,0,E06000022,CHEAP STREET,,0,25,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,6,W,8,6/11/2008,2008,164784,0,0,11,U,,2,UU,375026,3,,,7
+8,0,E06000022,CHEAP STREET,,0,62,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,11,W,17,6/11/2008,2008,164784,1,0,33,U,,3,UU,375026,18,,,8
+5,0,E06000022,CHEAP STREET,,0,70,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,8,W,28,6/11/2008,2008,164784,2,0,32,U,,3,UU,375026,7,,,9
+3,0,E06000022,CHEAP STREET,,0,71,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,6,W,26,6/11/2008,2008,164784,0,0,39,U,,3,UU,375026,8,,,10
+6,0,E06000022,CHEAP STREET,,0,78,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,7,W,20,6/11/2008,2008,164784,2,0,49,U,,1,UU,375026,3,,,11
+4,0,E06000022,CHEAP STREET,,0,66,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,4,W,24,6/11/2008,2008,164784,1,0,37,U,,0,UU,375026,8,,,12
+0,0,E06000022,CHEAP STREET,,0,65,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,0,W,13,6/11/2008,2008,164784,6,0,46,U,,0,UU,375026,9,,,13
+1,0,E06000022,CHEAP STREET,,0,64,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,1,W,6,6/11/2008,2008,164784,5,0,52,U,,0,UU,375026,15,,,14
+2,0,E06000022,CHEAP STREET,,0,76,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,2,W,20,6/11/2008,2008,164784,6,0,48,U,,0,UU,375026,12,,,15
+1,0,E06000022,CHEAP STREET,,0,62,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,1,W,7,6/11/2008,2008,164784,3,0,51,U,,0,UU,375026,11,,,16
+3,0,E06000022,CHEAP STREET,,0,58,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,3,W,4,6/11/2008,2008,164784,3,0,48,U,,0,UU,375026,35,,,17
+4,0,E06000022,CHEAP STREET,,0,43,South West,"Central Bath, between Bath Abbey and Westgate street",,,Bath and North East Somerset,0,946688,0,5,W,1,6/11/2008,2008,164784,2,0,35,U,,1,UU,375026,6,,,18
+0,0,E06000023,WORRALL ROAD,,0,19,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,1,6/11/2008,2008,174548,2,0,16,U,,0,UU,357112,1,,,7
+1,0,E06000023,WORRALL ROAD,,0,44,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,E,3,6/11/2008,2008,174548,0,0,40,U,,0,UU,357112,2,,,8
+2,4,E06000023,WORRALL ROAD,,0,37,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,2,E,4,6/11/2008,2008,174548,0,0,27,U,,0,UU,357112,2,,,9
+0,1,E06000023,WORRALL ROAD,,0,19,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,3,6/11/2008,2008,174548,0,0,15,U,,0,UU,357112,1,,,10
+0,1,E06000023,WORRALL ROAD,,0,19,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,3,6/11/2008,2008,174548,0,0,15,U,,0,UU,357112,1,,,11
+0,0,E06000023,WORRALL ROAD,,0,32,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,8,6/11/2008,2008,174548,0,0,24,U,,0,UU,357112,1,,,12
+1,0,E06000023,WORRALL ROAD,,0,33,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,E,6,6/11/2008,2008,174548,0,0,26,U,,0,UU,357112,1,,,13
+0,0,E06000023,WORRALL ROAD,,0,26,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,6,6/11/2008,2008,174548,0,0,20,U,,0,UU,357112,0,,,14
+0,0,E06000023,WORRALL ROAD,,0,23,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,0,6/11/2008,2008,174548,0,0,23,U,,0,UU,357112,0,,,15
+0,0,E06000023,WORRALL ROAD,,0,23,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,1,6/11/2008,2008,174548,0,0,22,U,,0,UU,357112,0,,,16
+0,0,E06000023,WORRALL ROAD,,0,27,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,0,6/11/2008,2008,174548,1,0,26,U,,0,UU,357112,1,,,17
+0,0,E06000023,WORRALL ROAD,,0,25,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,E,0,6/11/2008,2008,174548,0,0,25,U,,0,UU,357112,2,,,18
+0,0,E06000023,WORRALL ROAD,,0,34,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,2,6/11/2008,2008,174548,0,0,32,U,,0,UU,357112,1,,,7
+1,0,E06000023,WORRALL ROAD,,0,91,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,W,3,6/11/2008,2008,174548,2,0,85,U,,0,UU,357112,1,,,8
+1,0,E06000023,WORRALL ROAD,,0,62,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,W,5,6/11/2008,2008,174548,0,0,56,U,,0,UU,357112,4,,,9
+0,0,E06000023,WORRALL ROAD,,0,33,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,5,6/11/2008,2008,174548,0,0,28,U,,0,UU,357112,0,,,10
+0,0,E06000023,WORRALL ROAD,,0,33,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,6,6/11/2008,2008,174548,0,0,27,U,,0,UU,357112,2,,,11
+1,0,E06000023,WORRALL ROAD,,0,42,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,W,6,6/11/2008,2008,174548,0,0,35,U,,0,UU,357112,0,,,12
+1,0,E06000023,WORRALL ROAD,,0,43,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,W,6,6/11/2008,2008,174548,1,0,35,U,,0,UU,357112,2,,,13
+0,0,E06000023,WORRALL ROAD,,0,39,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,4,6/11/2008,2008,174548,0,0,35,U,,0,UU,357112,0,,,14
+1,0,E06000023,WORRALL ROAD,,0,57,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,1,W,2,6/11/2008,2008,174548,1,0,53,U,,0,UU,357112,0,,,15
+0,0,E06000023,WORRALL ROAD,,0,41,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,4,6/11/2008,2008,174548,0,0,37,U,,0,UU,357112,3,,,16
+0,0,E06000023,WORRALL ROAD,,0,52,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,3,6/11/2008,2008,174548,0,0,49,U,,0,UU,357112,5,,,17
+0,0,E06000023,WORRALL ROAD,,0,41,South West,East of Beaconsfield Road,,,"Bristol, City of",0,946794,0,0,W,2,6/11/2008,2008,174548,0,0,39,U,,0,UU,357112,0,,,18
+0,2,E06000025,BROADWAY,,0,51,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,N,8,6/11/2008,2008,182627,0,0,41,U,,0,UU,371994,2,,,7
+1,1,E06000025,BROADWAY,,0,167,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,9,6/11/2008,2008,182627,0,0,156,U,,0,UU,371994,3,,,8
+1,1,E06000025,BROADWAY,,0,88,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,9,6/11/2008,2008,182627,0,0,77,U,,0,UU,371994,1,,,9
+2,1,E06000025,BROADWAY,,0,79,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,N,13,6/11/2008,2008,182627,2,0,61,U,,0,UU,371994,1,,,10
+2,1,E06000025,BROADWAY,,0,105,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,N,11,6/11/2008,2008,182627,2,0,89,U,,0,UU,371994,2,,,11
+2,0,E06000025,BROADWAY,,0,149,South West,north of Ridgeway,,,South Gloucestershire,0,947523,1,3,N,18,6/11/2008,2008,182627,0,0,128,U,,0,UU,371994,0,,,12
+2,0,E06000025,BROADWAY,,0,135,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,N,12,6/11/2008,2008,182627,4,0,117,U,,0,UU,371994,2,,,13
+1,2,E06000025,BROADWAY,,0,116,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,15,6/11/2008,2008,182627,1,0,97,U,,0,UU,371994,3,,,14
+1,0,E06000025,BROADWAY,,0,135,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,11,6/11/2008,2008,182627,3,0,120,U,,0,UU,371994,8,,,15
+1,3,E06000025,BROADWAY,,0,149,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,19,6/11/2008,2008,182627,4,0,122,U,,0,UU,371994,1,,,16
+0,0,E06000025,BROADWAY,,0,187,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,N,18,6/11/2008,2008,182627,2,0,167,U,,0,UU,371994,3,,,17
+1,0,E06000025,BROADWAY,,0,109,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,N,9,6/11/2008,2008,182627,2,0,97,U,,0,UU,371994,2,,,18
+0,2,E06000025,BROADWAY,,0,100,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,S,17,6/11/2008,2008,182627,3,0,78,U,,0,UU,371994,2,,,7
+1,1,E06000025,BROADWAY,,0,206,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,S,13,6/11/2008,2008,182627,2,0,188,U,,1,UU,371994,4,,,8
+1,1,E06000025,BROADWAY,,0,104,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,S,10,6/11/2008,2008,182627,0,0,92,U,,0,UU,371994,2,,,9
+0,0,E06000025,BROADWAY,,0,88,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,S,11,6/11/2008,2008,182627,2,0,75,U,,0,UU,371994,0,,,10
+4,1,E06000025,BROADWAY,,0,94,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,4,S,12,6/11/2008,2008,182627,1,0,76,U,,0,UU,371994,3,,,11
+2,0,E06000025,BROADWAY,,0,100,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,S,12,6/11/2008,2008,182627,0,0,86,U,,0,UU,371994,1,,,12
+2,0,E06000025,BROADWAY,,0,95,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,S,14,6/11/2008,2008,182627,1,0,78,U,,0,UU,371994,1,,,13
+2,1,E06000025,BROADWAY,,0,133,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,2,S,20,6/11/2008,2008,182627,1,0,109,U,,0,UU,371994,2,,,14
+1,0,E06000025,BROADWAY,,0,193,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,1,S,12,6/11/2008,2008,182627,1,0,179,U,,0,UU,371994,1,,,15
+0,3,E06000025,BROADWAY,,0,104,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,S,11,6/11/2008,2008,182627,1,0,89,U,,0,UU,371994,0,,,16
+0,0,E06000025,BROADWAY,,0,139,South West,north of Ridgeway,,,South Gloucestershire,1,947523,0,1,S,15,6/11/2008,2008,182627,1,0,122,U,,0,UU,371994,1,,,17
+0,0,E06000025,BROADWAY,,0,97,South West,north of Ridgeway,,,South Gloucestershire,0,947523,0,0,S,8,6/11/2008,2008,182627,0,0,89,U,,0,UU,371994,1,,,18

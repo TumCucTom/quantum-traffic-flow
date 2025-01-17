@@ -1,0 +1,97 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+33,2,E06000025,,354580,1,642,South West,,LA Boundary,185800,South Gloucestershire,12,99170,26,90,N,90,7/1/2008,2008,182000,7,13,453,M49,354450,5,TM,355500,0,180880,M4 (22),7
+33,6,E06000025,,354580,1,617,South West,,LA Boundary,185800,South Gloucestershire,4,99170,31,90,N,79,7/1/2008,2008,182000,6,19,436,M49,354450,2,TM,355500,0,180880,M4 (22),8
+14,8,E06000025,,354580,1,527,South West,,LA Boundary,185800,South Gloucestershire,5,99170,26,64,N,73,7/1/2008,2008,182000,4,13,378,M49,354450,5,TM,355500,0,180880,M4 (22),9
+17,4,E06000025,,354580,2,430,South West,,LA Boundary,185800,South Gloucestershire,7,99170,20,74,N,58,7/1/2008,2008,182000,1,22,293,M49,354450,6,TM,355500,0,180880,M4 (22),10
+14,9,E06000025,,354580,2,459,South West,,LA Boundary,185800,South Gloucestershire,3,99170,27,71,N,59,7/1/2008,2008,182000,1,19,319,M49,354450,6,TM,355500,0,180880,M4 (22),11
+18,1,E06000025,,354580,2,495,South West,,LA Boundary,185800,South Gloucestershire,6,99170,33,90,N,63,7/1/2008,2008,182000,5,28,336,M49,354450,3,TM,355500,0,180880,M4 (22),12
+19,0,E06000025,,354580,0,573,South West,,LA Boundary,185800,South Gloucestershire,5,99170,24,93,N,80,7/1/2008,2008,182000,5,39,395,M49,354450,6,TM,355500,0,180880,M4 (22),13
+17,3,E06000025,,354580,2,571,South West,,LA Boundary,185800,South Gloucestershire,7,99170,19,72,N,93,7/1/2008,2008,182000,6,24,397,M49,354450,3,TM,355500,0,180880,M4 (22),14
+15,1,E06000025,,354580,1,642,South West,,LA Boundary,185800,South Gloucestershire,9,99170,15,72,N,117,7/1/2008,2008,182000,2,27,450,M49,354450,5,TM,355500,0,180880,M4 (22),15
+11,0,E06000025,,354580,0,823,South West,,LA Boundary,185800,South Gloucestershire,8,99170,13,59,N,148,7/1/2008,2008,182000,15,23,601,M49,354450,4,TM,355500,0,180880,M4 (22),16
+13,6,E06000025,,354580,3,901,South West,,LA Boundary,185800,South Gloucestershire,2,99170,14,53,N,93,7/1/2008,2008,182000,9,21,740,M49,354450,0,TM,355500,0,180880,M4 (22),17
+5,3,E06000025,,354580,0,653,South West,,LA Boundary,185800,South Gloucestershire,6,99170,8,41,N,63,7/1/2008,2008,182000,3,20,543,M49,354450,2,TM,355500,0,180880,M4 (22),18
+24,2,E06000025,,354580,2,964,South West,,LA Boundary,185800,South Gloucestershire,4,99170,17,106,S,174,7/1/2008,2008,182000,8,49,674,M49,354450,10,TM,355500,0,180880,M4 (22),7
+20,0,E06000025,,354580,1,910,South West,,LA Boundary,185800,South Gloucestershire,2,99170,22,64,S,128,7/1/2008,2008,182000,4,11,714,M49,354450,8,TM,355500,0,180880,M4 (22),8
+19,7,E06000025,,354580,5,677,South West,,LA Boundary,185800,South Gloucestershire,10,99170,30,119,S,87,7/1/2008,2008,182000,2,54,462,M49,354450,1,TM,355500,0,180880,M4 (22),9
+23,14,E06000025,,354580,5,593,South West,,LA Boundary,185800,South Gloucestershire,4,99170,21,92,S,52,7/1/2008,2008,182000,3,34,432,M49,354450,5,TM,355500,0,180880,M4 (22),10
+26,4,E06000025,,354580,0,573,South West,,LA Boundary,185800,South Gloucestershire,13,99170,25,98,S,77,7/1/2008,2008,182000,3,29,391,M49,354450,5,TM,355500,0,180880,M4 (22),11
+21,2,E06000025,,354580,5,512,South West,,LA Boundary,185800,South Gloucestershire,7,99170,34,108,S,75,7/1/2008,2008,182000,1,35,326,M49,354450,6,TM,355500,0,180880,M4 (22),12
+33,0,E06000025,,354580,2,480,South West,,LA Boundary,185800,South Gloucestershire,6,99170,32,102,S,66,7/1/2008,2008,182000,3,22,309,M49,354450,7,TM,355500,0,180880,M4 (22),13
+32,1,E06000025,,354580,4,526,South West,,LA Boundary,185800,South Gloucestershire,12,99170,29,117,S,74,7/1/2008,2008,182000,2,30,332,M49,354450,10,TM,355500,0,180880,M4 (22),14
+30,6,E06000025,,354580,4,586,South West,,LA Boundary,185800,South Gloucestershire,9,99170,24,105,S,88,7/1/2008,2008,182000,4,31,383,M49,354450,7,TM,355500,0,180880,M4 (22),15
+11,1,E06000025,,354580,1,634,South West,,LA Boundary,185800,South Gloucestershire,2,99170,27,72,S,84,7/1/2008,2008,182000,3,25,474,M49,354450,6,TM,355500,0,180880,M4 (22),16
+17,4,E06000025,,354580,0,684,South West,,LA Boundary,185800,South Gloucestershire,6,99170,20,71,S,73,7/1/2008,2008,182000,12,26,524,M49,354450,2,TM,355500,0,180880,M4 (22),17
+8,2,E06000025,,354580,1,551,South West,,LA Boundary,185800,South Gloucestershire,8,99170,19,62,S,42,7/1/2008,2008,182000,6,25,439,M49,354450,1,TM,355500,0,180880,M4 (22),18
+0,0,E06000023,DAVIS STREET,,0,2,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,1,7/1/2008,2008,177930,0,0,1,U,,0,UU,351877,0,,,7
+0,0,E06000023,DAVIS STREET,,0,9,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,4,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,3,,,8
+1,0,E06000023,DAVIS STREET,,0,9,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,1,E,3,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,0,,,9
+0,0,E06000023,DAVIS STREET,,0,5,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,0,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,1,,,10
+0,0,E06000023,DAVIS STREET,,0,7,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,2,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,0,,,11
+0,0,E06000023,DAVIS STREET,,0,11,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,1,7/1/2008,2008,177930,0,0,10,U,,0,UU,351877,0,,,12
+0,0,E06000023,DAVIS STREET,,0,10,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,0,7/1/2008,2008,177930,0,0,10,U,,0,UU,351877,1,,,13
+0,0,E06000023,DAVIS STREET,,0,12,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,4,7/1/2008,2008,177930,0,0,8,U,,0,UU,351877,0,,,14
+0,0,E06000023,DAVIS STREET,,0,5,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,2,7/1/2008,2008,177930,0,0,3,U,,0,UU,351877,0,,,15
+0,0,E06000023,DAVIS STREET,,0,2,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,1,7/1/2008,2008,177930,0,0,1,U,,0,UU,351877,2,,,16
+0,0,E06000023,DAVIS STREET,,0,16,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,1,7/1/2008,2008,177930,0,0,15,U,,0,UU,351877,1,,,17
+0,0,E06000023,DAVIS STREET,,0,12,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,E,1,7/1/2008,2008,177930,0,0,11,U,,0,UU,351877,5,,,18
+0,0,E06000023,DAVIS STREET,,0,8,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,4,7/1/2008,2008,177930,0,0,4,U,,0,UU,351877,0,,,7
+0,0,E06000023,DAVIS STREET,,0,7,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,2,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,3,,,8
+0,0,E06000023,DAVIS STREET,,0,9,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,2,7/1/2008,2008,177930,0,0,7,U,,0,UU,351877,0,,,9
+1,1,E06000023,DAVIS STREET,,0,16,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,1,W,3,7/1/2008,2008,177930,0,0,11,U,,0,UU,351877,0,,,10
+1,1,E06000023,DAVIS STREET,,0,16,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,1,W,3,7/1/2008,2008,177930,0,0,11,U,,0,UU,351877,0,,,11
+1,0,E06000023,DAVIS STREET,,0,19,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,1,W,4,7/1/2008,2008,177930,0,0,14,U,,0,UU,351877,1,,,12
+0,0,E06000023,DAVIS STREET,,0,10,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,5,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,2,,,13
+1,1,E06000023,DAVIS STREET,,0,11,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,1,W,2,7/1/2008,2008,177930,0,0,7,U,,0,UU,351877,0,,,14
+0,0,E06000023,DAVIS STREET,,0,6,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,1,7/1/2008,2008,177930,0,0,5,U,,0,UU,351877,0,,,15
+0,0,E06000023,DAVIS STREET,,0,12,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,3,7/1/2008,2008,177930,0,0,9,U,,0,UU,351877,3,,,16
+0,0,E06000023,DAVIS STREET,,0,11,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,3,7/1/2008,2008,177930,0,0,8,U,,0,UU,351877,0,,,17
+0,0,E06000023,DAVIS STREET,,0,3,South West,West of Collins Street,,,"Bristol, City of",0,946819,0,0,W,1,7/1/2008,2008,177930,0,0,2,U,,0,UU,351877,0,,,18
+0,0,E06000023,HOWARD AVENUE,,0,2,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,2,U,,0,UU,362237,1,,,7
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,6,U,,0,UU,362237,0,,,8
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,6,U,,0,UU,362237,0,,,9
+0,0,E06000023,HOWARD AVENUE,,0,1,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,1,E,0,7/1/2008,2008,173974,0,0,0,U,,1,UU,362237,0,,,10
+0,0,E06000023,HOWARD AVENUE,,0,3,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,1,0,2,U,,0,UU,362237,0,,,11
+0,0,E06000023,HOWARD AVENUE,,0,7,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,1,0,6,U,,0,UU,362237,1,,,12
+1,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,1,E,1,7/1/2008,2008,173974,0,0,4,U,,0,UU,362237,0,,,13
+0,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,4,U,,0,UU,362237,0,,,14
+0,0,E06000023,HOWARD AVENUE,,0,5,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,1,7/1/2008,2008,173974,0,0,4,U,,0,UU,362237,0,,,15
+0,0,E06000023,HOWARD AVENUE,,0,7,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,7,U,,0,UU,362237,1,,,16
+0,0,E06000023,HOWARD AVENUE,,0,7,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,2,0,5,U,,0,UU,362237,2,,,17
+0,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,E,0,7/1/2008,2008,173974,0,0,4,U,,0,UU,362237,3,,,18
+0,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,1,7/1/2008,2008,173974,0,0,3,U,,0,UU,362237,1,,,7
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,0,0,6,U,,0,UU,362237,2,,,8
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,0,0,6,U,,0,UU,362237,0,,,9
+1,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,1,W,0,7/1/2008,2008,173974,0,0,3,U,,0,UU,362237,0,,,10
+1,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,1,W,0,7/1/2008,2008,173974,0,0,3,U,,0,UU,362237,0,,,11
+0,0,E06000023,HOWARD AVENUE,,0,9,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,1,0,8,U,,0,UU,362237,0,,,12
+0,0,E06000023,HOWARD AVENUE,,0,5,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,1,7/1/2008,2008,173974,1,0,3,U,,0,UU,362237,0,,,13
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,1,7/1/2008,2008,173974,0,0,5,U,,0,UU,362237,0,,,14
+0,0,E06000023,HOWARD AVENUE,,0,3,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,0,0,3,U,,0,UU,362237,0,,,15
+0,0,E06000023,HOWARD AVENUE,,0,4,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,0,0,4,U,,0,UU,362237,0,,,16
+0,0,E06000023,HOWARD AVENUE,,0,6,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,1,0,5,U,,0,UU,362237,0,,,17
+0,0,E06000023,HOWARD AVENUE,,0,8,South West,East of Howard Road,,,"Bristol, City of",0,946822,0,0,W,0,7/1/2008,2008,173974,0,0,8,U,,0,UU,362237,0,,,18
+3,0,E06000025,Dragon Road,,0,282,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,32,7/1/2008,2008,179740,9,0,238,U,,0,UU,365090,5,,,7
+2,3,E06000025,Dragon Road,,0,224,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,22,7/1/2008,2008,179740,6,0,191,U,,0,UU,365090,3,,,8
+8,0,E06000025,Dragon Road,,1,234,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,1,10,N,26,7/1/2008,2008,179740,5,0,193,U,,0,UU,365090,0,,,9
+2,0,E06000025,Dragon Road,,0,175,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,30,7/1/2008,2008,179740,1,0,142,U,,0,UU,365090,1,,,10
+5,0,E06000025,Dragon Road,,0,143,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,5,N,19,7/1/2008,2008,179740,3,0,116,U,,0,UU,365090,0,,,11
+2,1,E06000025,Dragon Road,,1,123,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,18,7/1/2008,2008,179740,1,0,100,U,,0,UU,365090,2,,,12
+6,0,E06000025,Dragon Road,,0,157,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,6,N,23,7/1/2008,2008,179740,1,0,127,U,,0,UU,365090,0,,,13
+2,4,E06000025,Dragon Road,,0,140,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,18,7/1/2008,2008,179740,1,0,115,U,,0,UU,365090,3,,,14
+2,2,E06000025,Dragon Road,,0,142,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,14,7/1/2008,2008,179740,1,0,123,U,,0,UU,365090,0,,,15
+1,1,E06000025,Dragon Road,,0,186,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,29,7/1/2008,2008,179740,6,0,149,U,,0,UU,365090,1,,,16
+0,0,E06000025,Dragon Road,,0,215,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,17,7/1/2008,2008,179740,6,0,192,U,,0,UU,365090,1,,,17
+0,0,E06000025,Dragon Road,,0,217,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,15,7/1/2008,2008,179740,2,0,200,U,,0,UU,365090,1,,,18
+1,0,E06000025,Dragon Road,,0,183,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,26,7/1/2008,2008,179740,1,0,155,U,,0,UU,365090,2,,,7
+5,0,E06000025,Dragon Road,,0,188,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,1,979275,0,6,S,33,7/1/2008,2008,179740,4,0,145,U,,0,UU,365090,2,,,8
+0,1,E06000025,Dragon Road,,0,107,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,26,7/1/2008,2008,179740,0,0,80,U,,0,UU,365090,5,,,9
+2,1,E06000025,Dragon Road,,0,114,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,20,7/1/2008,2008,179740,0,0,91,U,,0,UU,365090,2,,,10
+5,0,E06000025,Dragon Road,,0,114,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,5,S,12,7/1/2008,2008,179740,3,0,94,U,,0,UU,365090,4,,,11
+1,1,E06000025,Dragon Road,,0,126,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,13,7/1/2008,2008,179740,0,0,111,U,,0,UU,365090,1,,,12
+3,0,E06000025,Dragon Road,,0,141,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,S,11,7/1/2008,2008,179740,3,0,124,U,,0,UU,365090,0,,,13
+2,1,E06000025,Dragon Road,,0,152,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,26,7/1/2008,2008,179740,2,0,121,U,,0,UU,365090,1,,,14
+3,3,E06000025,Dragon Road,,0,199,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,S,22,7/1/2008,2008,179740,6,0,165,U,,0,UU,365090,0,,,15
+2,0,E06000025,Dragon Road,,0,274,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,26,7/1/2008,2008,179740,8,0,238,U,,0,UU,365090,11,,,16
+0,0,E06000025,Dragon Road,,0,295,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,21,7/1/2008,2008,179740,5,0,269,U,,0,UU,365090,6,,,17
+0,0,E06000025,Dragon Road,,0,233,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,18,7/1/2008,2008,179740,4,0,211,U,,0,UU,365090,1,,,18

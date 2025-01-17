@@ -1,0 +1,73 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,0,E06000022,0,94,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,1,N,16,5/18/2015,2015,162184,0,0,77,C,1,CR,358283,0,MOORLEDGE ROAD,7
+0,0,E06000022,0,81,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,N,14,5/18/2015,2015,162184,1,0,66,C,0,CR,358283,0,MOORLEDGE ROAD,8
+1,0,E06000022,0,65,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,N,9,5/18/2015,2015,162184,0,0,54,C,1,CR,358283,0,MOORLEDGE ROAD,9
+1,0,E06000022,0,49,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,1,N,10,5/18/2015,2015,162184,0,0,38,C,0,CR,358283,0,MOORLEDGE ROAD,10
+1,0,E06000022,0,33,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,N,4,5/18/2015,2015,162184,0,0,27,C,1,CR,358283,0,MOORLEDGE ROAD,11
+0,0,E06000022,0,40,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,N,9,5/18/2015,2015,162184,0,0,29,C,2,CR,358283,0,MOORLEDGE ROAD,12
+1,0,E06000022,0,45,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,1,N,12,5/18/2015,2015,162184,0,0,32,C,0,CR,358283,0,MOORLEDGE ROAD,13
+0,0,E06000022,0,44,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,N,3,5/18/2015,2015,162184,0,0,41,C,0,CR,358283,0,MOORLEDGE ROAD,14
+1,0,E06000022,0,57,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,1,946668,0,2,N,6,5/18/2015,2015,162184,1,0,48,C,0,CR,358283,0,MOORLEDGE ROAD,15
+2,0,E06000022,1,69,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,3,N,14,5/18/2015,2015,162184,0,0,52,C,0,CR,358283,0,MOORLEDGE ROAD,16
+0,0,E06000022,0,60,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,N,10,5/18/2015,2015,162184,0,0,50,C,0,CR,358283,2,MOORLEDGE ROAD,17
+0,0,E06000022,0,42,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,N,3,5/18/2015,2015,162184,0,0,39,C,0,CR,358283,0,MOORLEDGE ROAD,18
+0,0,E06000022,0,48,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,1,S,10,5/18/2015,2015,162184,0,0,37,C,1,CR,358283,0,MOORLEDGE ROAD,7
+2,0,E06000022,0,56,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,S,12,5/18/2015,2015,162184,0,0,42,C,0,CR,358283,0,MOORLEDGE ROAD,8
+0,0,E06000022,0,50,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,S,11,5/18/2015,2015,162184,1,0,38,C,0,CR,358283,0,MOORLEDGE ROAD,9
+1,0,E06000022,0,67,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,S,16,5/18/2015,2015,162184,0,0,49,C,1,CR,358283,1,MOORLEDGE ROAD,10
+1,0,E06000022,0,46,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,2,S,11,5/18/2015,2015,162184,1,0,32,C,1,CR,358283,0,MOORLEDGE ROAD,11
+3,0,E06000022,0,53,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,4,S,7,5/18/2015,2015,162184,0,0,42,C,1,CR,358283,0,MOORLEDGE ROAD,12
+0,0,E06000022,0,51,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,S,4,5/18/2015,2015,162184,0,0,47,C,0,CR,358283,0,MOORLEDGE ROAD,13
+0,0,E06000022,0,51,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,S,7,5/18/2015,2015,162184,0,0,44,C,0,CR,358283,0,MOORLEDGE ROAD,14
+3,1,E06000022,0,65,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,2,946668,0,5,S,10,5/18/2015,2015,162184,0,0,49,C,0,CR,358283,0,MOORLEDGE ROAD,15
+1,0,E06000022,0,84,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,2,946668,0,3,S,11,5/18/2015,2015,162184,0,0,70,C,0,CR,358283,0,MOORLEDGE ROAD,16
+0,0,E06000022,0,110,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,S,15,5/18/2015,2015,162184,2,0,93,C,0,CR,358283,2,MOORLEDGE ROAD,17
+0,0,E06000022,0,62,South West, 1m south of Chew magna (300m south of Moorledge lane jcn),Bath and North East Somerset,0,946668,0,0,S,7,5/18/2015,2015,162184,0,0,55,C,0,CR,358283,0,MOORLEDGE ROAD,18
+4,0,E06000023,0,479,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,5,N,117,5/18/2015,2015,174780,5,0,352,B4052,1,BU,359779,4,ASHLEY HILL,7
+2,1,E06000023,0,705,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,4,N,167,5/18/2015,2015,174780,10,0,523,B4052,2,BU,359779,6,ASHLEY HILL,8
+9,2,E06000023,0,674,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,10,N,117,5/18/2015,2015,174780,7,0,538,B4052,1,BU,359779,3,ASHLEY HILL,9
+7,1,E06000023,0,457,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,7,N,77,5/18/2015,2015,174780,8,0,364,B4052,0,BU,359779,7,ASHLEY HILL,10
+5,0,E06000023,0,546,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,5,N,100,5/18/2015,2015,174780,4,0,437,B4052,0,BU,359779,1,ASHLEY HILL,11
+3,0,E06000023,0,428,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,3,N,60,5/18/2015,2015,174780,4,0,361,B4052,0,BU,359779,5,ASHLEY HILL,12
+5,0,E06000023,0,439,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,6,N,88,5/18/2015,2015,174780,7,0,338,B4052,1,BU,359779,2,ASHLEY HILL,13
+5,0,E06000023,0,463,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,5,N,84,5/18/2015,2015,174780,6,0,368,B4052,0,BU,359779,8,ASHLEY HILL,14
+3,3,E06000023,0,657,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,3,N,80,5/18/2015,2015,174780,8,0,563,B4052,0,BU,359779,5,ASHLEY HILL,15
+1,2,E06000023,0,726,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,1,N,76,5/18/2015,2015,174780,17,0,630,B4052,0,BU,359779,11,ASHLEY HILL,16
+0,0,E06000023,0,904,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,0,N,73,5/18/2015,2015,174780,17,0,814,B4052,0,BU,359779,10,ASHLEY HILL,17
+0,0,E06000023,0,865,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,0,N,53,5/18/2015,2015,174780,10,0,802,B4052,0,BU,359779,12,ASHLEY HILL,18
+2,0,E06000023,0,930,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,3,S,55,5/18/2015,2015,174780,8,0,864,B4052,1,BU,359779,16,ASHLEY HILL,7
+0,1,E06000023,0,950,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,1,S,67,5/18/2015,2015,174780,11,0,870,B4052,1,BU,359779,20,ASHLEY HILL,8
+4,0,E06000023,3,740,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,8,S,114,5/18/2015,2015,174780,1,0,617,B4052,1,BU,359779,17,ASHLEY HILL,9
+1,0,E06000023,0,411,South West,South of Briavals Grove,"Bristol, City of",1,946747,0,2,S,83,5/18/2015,2015,174780,3,0,323,B4052,0,BU,359779,7,ASHLEY HILL,10
+1,3,E06000023,0,443,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,1,S,91,5/18/2015,2015,174780,7,0,341,B4052,0,BU,359779,3,ASHLEY HILL,11
+5,0,E06000023,0,475,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,5,S,11,5/18/2015,2015,174780,8,0,451,B4052,0,BU,359779,8,ASHLEY HILL,12
+2,1,E06000023,0,428,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,2,S,24,5/18/2015,2015,174780,7,0,394,B4052,0,BU,359779,6,ASHLEY HILL,13
+5,0,E06000023,0,588,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,5,S,109,5/18/2015,2015,174780,5,0,469,B4052,0,BU,359779,7,ASHLEY HILL,14
+2,1,E06000023,0,686,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,3,S,103,5/18/2015,2015,174780,9,0,570,B4052,1,BU,359779,11,ASHLEY HILL,15
+2,1,E06000023,0,773,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,2,S,163,5/18/2015,2015,174780,7,0,600,B4052,0,BU,359779,9,ASHLEY HILL,16
+0,0,E06000023,0,736,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,0,S,102,5/18/2015,2015,174780,7,0,627,B4052,0,BU,359779,17,ASHLEY HILL,17
+0,0,E06000023,0,710,South West,South of Briavals Grove,"Bristol, City of",0,946747,0,0,S,33,5/18/2015,2015,174780,8,0,669,B4052,0,BU,359779,12,ASHLEY HILL,18
+0,1,E06000025,0,94,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,0,N,12,5/18/2015,2015,180939,0,0,81,B4039,0,BR,380927,1,The Street,7
+1,0,E06000025,0,101,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,1,2,N,10,5/18/2015,2015,180939,0,0,89,B4039,0,BR,380927,1,The Street,8
+1,1,E06000025,0,49,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,N,6,5/18/2015,2015,180939,0,0,41,B4039,0,BR,380927,0,The Street,9
+1,0,E06000025,0,34,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,N,9,5/18/2015,2015,180939,0,0,24,B4039,0,BR,380927,0,The Street,10
+1,1,E06000025,0,44,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,3,N,11,5/18/2015,2015,180939,0,0,29,B4039,1,BR,380927,0,The Street,11
+1,0,E06000025,0,50,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,3,947491,0,5,N,11,5/18/2015,2015,180939,0,0,34,B4039,1,BR,380927,0,The Street,12
+1,1,E06000025,1,66,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,4,N,13,5/18/2015,2015,180939,0,1,48,B4039,1,BR,380927,2,The Street,13
+0,0,E06000025,0,46,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,N,11,5/18/2015,2015,180939,0,1,34,B4039,0,BR,380927,0,The Street,14
+1,2,E06000025,0,74,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,3,N,12,5/18/2015,2015,180939,1,2,56,B4039,0,BR,380927,0,The Street,15
+1,0,E06000025,0,74,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,2,N,13,5/18/2015,2015,180939,0,0,59,B4039,0,BR,380927,1,The Street,16
+0,1,E06000025,0,98,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,0,N,8,5/18/2015,2015,180939,0,0,89,B4039,0,BR,380927,3,The Street,17
+0,0,E06000025,0,92,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,0,N,4,5/18/2015,2015,180939,0,0,88,B4039,0,BR,380927,0,The Street,18
+1,1,E06000025,0,143,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,S,8,5/18/2015,2015,180939,1,0,132,B4039,0,BR,380927,1,The Street,7
+3,0,E06000025,0,113,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,3,S,5,5/18/2015,2015,180939,1,0,104,B4039,0,BR,380927,1,The Street,8
+0,0,E06000025,0,81,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,0,S,14,5/18/2015,2015,180939,0,0,67,B4039,0,BR,380927,0,The Street,9
+3,1,E06000025,0,46,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,5,S,7,5/18/2015,2015,180939,0,0,33,B4039,1,BR,380927,0,The Street,10
+3,0,E06000025,0,50,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,4,S,11,5/18/2015,2015,180939,0,0,35,B4039,0,BR,380927,0,The Street,11
+0,1,E06000025,0,36,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,1,S,2,5/18/2015,2015,180939,0,0,32,B4039,0,BR,380927,0,The Street,12
+0,0,E06000025,0,57,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,2,S,10,5/18/2015,2015,180939,0,1,45,B4039,1,BR,380927,1,The Street,13
+2,1,E06000025,0,42,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,2,947491,0,6,S,12,5/18/2015,2015,180939,0,2,23,B4039,0,BR,380927,0,The Street,14
+0,1,E06000025,0,52,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,S,10,5/18/2015,2015,180939,1,1,39,B4039,0,BR,380927,0,The Street,15
+1,0,E06000025,0,74,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,1,S,9,5/18/2015,2015,180939,0,0,64,B4039,0,BR,380927,0,The Street,16
+1,0,E06000025,0,123,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,1,947491,0,2,S,8,5/18/2015,2015,180939,0,0,113,B4039,0,BR,380927,0,The Street,17
+0,1,E06000025,0,60,South West,"north of Littleton Drew Lane, Acton Turville",South Gloucestershire,0,947491,0,0,S,3,5/18/2015,2015,180939,1,0,55,B4039,0,BR,380927,1,The Street,18

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,2,E06000024,0,39,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,8,5/5/2006,2006,162710,0,0,29,U,0,UU,331430,0,KEWSTOKE ROAD,7
+0,0,E06000024,0,41,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,5,5/5/2006,2006,162710,2,0,34,U,0,UU,331430,1,KEWSTOKE ROAD,8
+0,1,E06000024,0,63,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,10,5/5/2006,2006,162710,1,0,51,U,0,UU,331430,1,KEWSTOKE ROAD,9
+1,1,E06000024,0,65,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,E,7,5/5/2006,2006,162710,0,0,56,U,0,UU,331430,2,KEWSTOKE ROAD,10
+0,1,E06000024,0,72,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,6,5/5/2006,2006,162710,2,0,63,U,0,UU,331430,2,KEWSTOKE ROAD,11
+0,1,E06000024,0,87,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,8,5/5/2006,2006,162710,1,0,77,U,0,UU,331430,2,KEWSTOKE ROAD,12
+0,1,E06000024,0,95,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,13,5/5/2006,2006,162710,3,0,78,U,0,UU,331430,0,KEWSTOKE ROAD,13
+0,2,E06000024,0,131,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,6,5/5/2006,2006,162710,2,0,121,U,0,UU,331430,4,KEWSTOKE ROAD,14
+0,1,E06000024,0,121,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,7,5/5/2006,2006,162710,0,0,113,U,0,UU,331430,2,KEWSTOKE ROAD,15
+0,2,E06000024,0,160,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,7,5/5/2006,2006,162710,8,0,143,U,0,UU,331430,4,KEWSTOKE ROAD,16
+0,1,E06000024,0,146,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,E,11,5/5/2006,2006,162710,4,0,130,U,0,UU,331430,2,KEWSTOKE ROAD,17
+1,1,E06000024,0,94,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,E,3,5/5/2006,2006,162710,0,0,89,U,0,UU,331430,3,KEWSTOKE ROAD,18
+1,1,E06000024,0,72,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,W,9,5/5/2006,2006,162710,1,0,60,U,0,UU,331430,4,KEWSTOKE ROAD,7
+1,1,E06000024,0,185,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,W,11,5/5/2006,2006,162710,5,0,167,U,0,UU,331430,2,KEWSTOKE ROAD,8
+0,2,E06000024,0,126,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,9,5/5/2006,2006,162710,3,0,112,U,0,UU,331430,1,KEWSTOKE ROAD,9
+1,1,E06000024,0,84,South West,"East of Beach Road, Kewstoke",North Somerset,1,930449,0,2,W,7,5/5/2006,2006,162710,0,0,74,U,0,UU,331430,2,KEWSTOKE ROAD,10
+1,1,E06000024,0,76,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,W,9,5/5/2006,2006,162710,2,0,63,U,0,UU,331430,0,KEWSTOKE ROAD,11
+0,1,E06000024,0,56,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,W,5,5/5/2006,2006,162710,1,0,48,U,1,UU,331430,2,KEWSTOKE ROAD,12
+0,1,E06000024,0,94,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,12,5/5/2006,2006,162710,2,0,79,U,0,UU,331430,2,KEWSTOKE ROAD,13
+0,4,E06000024,0,114,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,16,5/5/2006,2006,162710,4,0,90,U,0,UU,331430,2,KEWSTOKE ROAD,14
+0,2,E06000024,0,96,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,6,5/5/2006,2006,162710,4,0,84,U,0,UU,331430,0,KEWSTOKE ROAD,15
+0,2,E06000024,0,82,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,4,5/5/2006,2006,162710,5,0,71,U,0,UU,331430,3,KEWSTOKE ROAD,16
+0,1,E06000024,0,79,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,0,W,11,5/5/2006,2006,162710,3,0,64,U,0,UU,331430,1,KEWSTOKE ROAD,17
+1,1,E06000024,0,82,South West,"East of Beach Road, Kewstoke",North Somerset,0,930449,0,1,W,4,5/5/2006,2006,162710,1,0,75,U,0,UU,331430,5,KEWSTOKE ROAD,18
+5,14,E06000025,1,369,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,7,N,38,5/5/2006,2006,179850,13,0,297,U,1,UU,362170,14,HATCHET ROAD,7
+8,17,E06000025,0,616,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,10,N,62,5/5/2006,2006,179850,11,0,516,U,2,UU,362170,12,HATCHET ROAD,8
+7,20,E06000025,0,581,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,7,N,70,5/5/2006,2006,179850,2,0,482,U,0,UU,362170,7,HATCHET ROAD,9
+12,18,E06000025,0,610,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,12,N,62,5/5/2006,2006,179850,4,0,514,U,0,UU,362170,0,HATCHET ROAD,10
+8,15,E06000025,2,688,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,11,N,79,5/5/2006,2006,179850,5,0,578,U,1,UU,362170,2,HATCHET ROAD,11
+2,16,E06000025,1,907,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,3,N,76,5/5/2006,2006,179850,21,0,791,U,0,UU,362170,7,HATCHET ROAD,12
+6,15,E06000025,0,828,South West,"north of North Road, Stoke Gifford",South Gloucestershire,2,930455,0,10,N,59,5/5/2006,2006,179850,6,0,738,U,2,UU,362170,4,HATCHET ROAD,13
+5,16,E06000025,1,793,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,9,N,67,5/5/2006,2006,179850,6,0,695,U,3,UU,362170,7,HATCHET ROAD,14
+13,17,E06000025,1,903,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,14,N,55,5/5/2006,2006,179850,23,0,794,U,0,UU,362170,29,HATCHET ROAD,15
+7,22,E06000025,0,983,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,9,N,47,5/5/2006,2006,179850,26,1,879,U,1,UU,362170,21,HATCHET ROAD,16
+3,18,E06000025,0,923,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,4,N,38,5/5/2006,2006,179850,12,0,851,U,1,UU,362170,33,HATCHET ROAD,17
+2,26,E06000025,0,811,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,2,N,46,5/5/2006,2006,179850,8,0,729,U,0,UU,362170,16,HATCHET ROAD,18
+5,29,E06000025,0,966,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,7,S,106,5/5/2006,2006,179850,25,0,799,U,2,UU,362170,33,HATCHET ROAD,7
+6,15,E06000025,0,964,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,10,S,40,5/5/2006,2006,179850,19,0,880,U,4,UU,362170,45,HATCHET ROAD,8
+4,13,E06000025,0,875,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,5,S,65,5/5/2006,2006,179850,10,0,782,U,1,UU,362170,15,HATCHET ROAD,9
+5,17,E06000025,0,688,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,6,S,45,5/5/2006,2006,179850,5,0,615,U,1,UU,362170,4,HATCHET ROAD,10
+4,15,E06000025,0,571,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,5,S,52,5/5/2006,2006,179850,4,0,495,U,1,UU,362170,2,HATCHET ROAD,11
+18,19,E06000025,0,731,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,19,S,66,5/5/2006,2006,179850,10,0,617,U,1,UU,362170,5,HATCHET ROAD,12
+26,19,E06000025,0,771,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,30,S,60,5/5/2006,2006,179850,10,0,652,U,4,UU,362170,7,HATCHET ROAD,13
+5,14,E06000025,1,721,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,6,S,69,5/5/2006,2006,179850,12,0,620,U,0,UU,362170,5,HATCHET ROAD,14
+4,10,E06000025,0,768,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,6,S,85,5/5/2006,2006,179850,12,0,655,U,2,UU,362170,7,HATCHET ROAD,15
+4,23,E06000025,0,657,South West,"north of North Road, Stoke Gifford",South Gloucestershire,1,930455,0,5,S,39,5/5/2006,2006,179850,6,0,584,U,0,UU,362170,14,HATCHET ROAD,16
+4,16,E06000025,0,679,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,4,S,30,5/5/2006,2006,179850,11,0,618,U,0,UU,362170,16,HATCHET ROAD,17
+3,14,E06000025,0,664,South West,"north of North Road, Stoke Gifford",South Gloucestershire,0,930455,0,3,S,35,5/5/2006,2006,179850,7,0,605,U,0,UU,362170,8,HATCHET ROAD,18

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+11,0,E06000022,,379800,1,699,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,1,15,N,88,6/3/2003,2003,165000,13,0,583,A363,378690,1,PR,379280,0,164320,Bathford Hill,7
+15,1,E06000022,,379800,0,674,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,5,26,N,54,6/3/2003,2003,165000,6,1,587,A363,378690,4,PR,379280,0,164320,Bathford Hill,8
+9,2,E06000022,,379800,0,353,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,0,17,N,47,6/3/2003,2003,165000,3,5,284,A363,378690,3,PR,379280,0,164320,Bathford Hill,9
+9,0,E06000022,,379800,2,271,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,0,15,N,33,6/3/2003,2003,165000,2,2,221,A363,378690,1,PR,379280,1,164320,Bathford Hill,10
+11,0,E06000022,,379800,2,250,South West,,LA Boundary,166950,Bath and North East Somerset,2,38606,3,21,N,45,6/3/2003,2003,165000,1,2,183,A363,378690,1,PR,379280,0,164320,Bathford Hill,11
+18,0,E06000022,,379800,0,255,South West,,LA Boundary,166950,Bath and North East Somerset,2,38606,0,24,N,42,6/3/2003,2003,165000,1,1,188,A363,378690,3,PR,379280,0,164320,Bathford Hill,12
+13,0,E06000022,,379800,3,260,South West,,LA Boundary,166950,Bath and North East Somerset,2,38606,1,21,N,47,6/3/2003,2003,165000,0,2,192,A363,378690,0,PR,379280,0,164320,Bathford Hill,13
+13,1,E06000022,,379800,2,291,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,4,24,N,39,6/3/2003,2003,165000,0,2,227,A363,378690,3,PR,379280,0,164320,Bathford Hill,14
+2,1,E06000022,,379800,1,278,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,3,7,N,54,6/3/2003,2003,165000,1,0,215,A363,378690,1,PR,379280,0,164320,Bathford Hill,15
+13,3,E06000022,,379800,0,307,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,1,15,N,58,6/3/2003,2003,165000,2,0,229,A363,378690,0,PR,379280,0,164320,Bathford Hill,16
+7,1,E06000022,,379800,1,428,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,2,13,N,46,6/3/2003,2003,165000,3,3,365,A363,378690,0,PR,379280,0,164320,Bathford Hill,17
+9,0,E06000022,,379800,0,282,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,0,9,N,21,6/3/2003,2003,165000,1,0,251,A363,378690,0,PR,379280,0,164320,Bathford Hill,18
+21,1,E06000022,,379800,3,329,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,2,33,S,45,6/3/2003,2003,165000,2,1,248,A363,378690,5,PR,379280,1,164320,Bathford Hill,7
+19,2,E06000022,,379800,1,457,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,1,26,S,57,6/3/2003,2003,165000,6,1,366,A363,378690,3,PR,379280,0,164320,Bathford Hill,8
+23,3,E06000022,,379800,3,257,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,2,34,S,40,6/3/2003,2003,165000,10,2,170,A363,378690,3,PR,379280,0,164320,Bathford Hill,9
+22,1,E06000022,,379800,3,223,South West,,LA Boundary,166950,Bath and North East Somerset,3,38606,2,33,S,34,6/3/2003,2003,165000,1,1,154,A363,378690,2,PR,379280,0,164320,Bathford Hill,10
+20,2,E06000022,,379800,3,200,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,2,28,S,28,6/3/2003,2003,165000,0,1,142,A363,378690,2,PR,379280,0,164320,Bathford Hill,11
+9,1,E06000022,,379800,3,229,South West,,LA Boundary,166950,Bath and North East Somerset,3,38606,2,18,S,30,6/3/2003,2003,165000,3,0,177,A363,378690,1,PR,379280,1,164320,Bathford Hill,12
+21,2,E06000022,,379800,0,273,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,0,25,S,50,6/3/2003,2003,165000,2,1,194,A363,378690,2,PR,379280,0,164320,Bathford Hill,13
+21,2,E06000022,,379800,2,308,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,5,30,S,41,6/3/2003,2003,165000,0,1,235,A363,378690,1,PR,379280,0,164320,Bathford Hill,14
+12,0,E06000022,,379800,6,337,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,6,30,S,42,6/3/2003,2003,165000,1,2,264,A363,378690,3,PR,379280,0,164320,Bathford Hill,15
+18,0,E06000022,,379800,0,589,South West,,LA Boundary,166950,Bath and North East Somerset,1,38606,2,23,S,70,6/3/2003,2003,165000,8,0,488,A363,378690,2,PR,379280,0,164320,Bathford Hill,16
+7,2,E06000022,,379800,0,665,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,3,13,S,61,6/3/2003,2003,165000,9,2,580,A363,378690,1,PR,379280,1,164320,Bathford Hill,17
+3,0,E06000022,,379800,0,487,South West,,LA Boundary,166950,Bath and North East Somerset,0,38606,2,6,S,45,6/3/2003,2003,165000,9,1,427,A363,378690,0,PR,379280,0,164320,Bathford Hill,18
+3,10,E06000023,Henleaze Road,,0,453,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,3,N,40,6/3/2003,2003,176670,7,0,393,B4056,,0,BU,357800,28,,,7
+7,9,E06000023,Henleaze Road,,1,579,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,10,N,24,6/3/2003,2003,176670,6,0,530,B4056,,2,BU,357800,14,,,8
+11,10,E06000023,Henleaze Road,,1,490,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,13,N,54,6/3/2003,2003,176670,3,1,410,B4056,,0,BU,357800,10,,,9
+7,7,E06000023,Henleaze Road,,4,436,South West,South of Henleaze Park Drive,,,"Bristol, City of",2,990069,0,14,N,58,6/3/2003,2003,176670,1,0,356,B4056,,1,BU,357800,4,,,10
+10,10,E06000023,Henleaze Road,,0,478,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,10,N,60,6/3/2003,2003,176670,8,0,390,B4056,,0,BU,357800,2,,,11
+5,11,E06000023,Henleaze Road,,0,516,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,1,9,N,62,6/3/2003,2003,176670,5,0,429,B4056,,2,BU,357800,5,,,12
+7,8,E06000023,Henleaze Road,,1,497,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,10,N,52,6/3/2003,2003,176670,5,0,422,B4056,,1,BU,357800,7,,,13
+9,9,E06000023,Henleaze Road,,0,516,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,11,N,68,6/3/2003,2003,176670,11,1,417,B4056,,1,BU,357800,7,,,14
+5,11,E06000023,Henleaze Road,,1,560,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,8,N,52,6/3/2003,2003,176670,8,0,481,B4056,,1,BU,357800,8,,,15
+0,10,E06000023,Henleaze Road,,1,567,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,4,N,66,6/3/2003,2003,176670,9,0,478,B4056,,3,BU,357800,5,,,16
+3,6,E06000023,Henleaze Road,,2,719,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,1,6,N,43,6/3/2003,2003,176670,31,0,633,B4056,,0,BU,357800,16,,,17
+0,9,E06000023,Henleaze Road,,0,546,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,0,N,31,6/3/2003,2003,176670,7,0,499,B4056,,0,BU,357800,12,,,18
+7,10,E06000023,Henleaze Road,,1,507,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,10,S,59,6/3/2003,2003,176670,6,0,422,B4056,,1,BU,357800,12,,,7
+4,9,E06000023,Henleaze Road,,0,811,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,5,S,73,6/3/2003,2003,176670,11,0,713,B4056,,1,BU,357800,10,,,8
+9,12,E06000023,Henleaze Road,,0,529,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,10,S,78,6/3/2003,2003,176670,2,0,427,B4056,,1,BU,357800,5,,,9
+13,7,E06000023,Henleaze Road,,0,499,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,15,S,60,6/3/2003,2003,176670,1,0,416,B4056,,1,BU,357800,3,,,10
+4,9,E06000023,Henleaze Road,,2,544,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,7,S,58,6/3/2003,2003,176670,5,0,465,B4056,,0,BU,357800,4,,,11
+4,12,E06000023,Henleaze Road,,0,484,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,1,8,S,57,6/3/2003,2003,176670,4,0,403,B4056,,2,BU,357800,3,,,12
+5,9,E06000023,Henleaze Road,,1,444,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,7,S,50,6/3/2003,2003,176670,4,0,374,B4056,,1,BU,357800,4,,,13
+9,7,E06000023,Henleaze Road,,1,509,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,11,S,44,6/3/2003,2003,176670,11,0,436,B4056,,1,BU,357800,4,,,14
+4,11,E06000023,Henleaze Road,,0,561,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,6,S,48,6/3/2003,2003,176670,4,1,492,B4056,,1,BU,357800,5,,,15
+4,12,E06000023,Henleaze Road,,1,612,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,5,S,39,6/3/2003,2003,176670,7,0,549,B4056,,0,BU,357800,19,,,16
+2,7,E06000023,Henleaze Road,,0,618,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,3,S,23,6/3/2003,2003,176670,8,1,577,B4056,,0,BU,357800,21,,,17
+1,4,E06000023,Henleaze Road,,0,599,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,1,S,27,6/3/2003,2003,176670,11,0,556,B4056,,0,BU,357800,20,,,18
