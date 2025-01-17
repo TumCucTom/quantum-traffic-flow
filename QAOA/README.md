@@ -78,7 +78,7 @@ pip install qiskit networkx
 Place the `mini_graph.pkl` and `max_graph.pkl` files in the same directory as the script, then run:
 
 ```bash
-python optimize_traffic_qaoa.py
+python algorithm.py
 ```
 
 ---
