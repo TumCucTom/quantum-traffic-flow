@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+18,South West,E06000024,157500,397,North Somerset,88,260,LA Boundary,TM,15,11,5/10/2005,122,337520,1936,12,19,N,21,0,1253,337878,2005,119,155010,162596,,,338400,16021,M5,31
+13,South West,E06000024,157500,285,North Somerset,94,178,LA Boundary,TM,3,7,5/10/2005,83,337520,1695,12,9,S,21,0,1222,337878,2005,58,155010,162596,,,338400,16021,M5,28
+1,South West,E06000025,178000,12,South Gloucestershire,1,57,A4174,PU,3,4,5/10/2005,8,364700,421,12,1,N,Cleeve Hill,1,345,364725,2005,1,178200,177204,,,364720,47724,A4017,0
+1,South West,E06000025,178000,12,South Gloucestershire,0,56,A4174,PU,2,3,5/10/2005,8,364700,422,12,2,S,Cleeve Hill,1,349,364725,2005,1,178200,177204,,,364720,47724,A4017,0
+0,South West,E06000022,164204,4,Bath and North East Somerset,0,43,,CU,7,0,5/10/2005,4,,234,12,0,E,,0,180,,2005,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0
+0,South West,E06000022,164204,3,Bath and North East Somerset,0,25,,CU,8,3,5/10/2005,3,,200,12,0,W,,0,161,,2005,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,0,E06000023,0,8,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,3,6/29/2012,2012,173916,0,0,5,U,0,UU,361522,2,BOURNEVILLE ROAD,7
+0,0,E06000023,0,9,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,2,6/29/2012,2012,173916,0,0,7,U,0,UU,361522,1,BOURNEVILLE ROAD,8
+0,0,E06000023,0,3,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,0,6/29/2012,2012,173916,0,0,3,U,0,UU,361522,0,BOURNEVILLE ROAD,9
+0,0,E06000023,0,9,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,5,6/29/2012,2012,173916,0,0,4,U,0,UU,361522,0,BOURNEVILLE ROAD,10
+0,0,E06000023,0,7,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,3,6/29/2012,2012,173916,0,0,4,U,0,UU,361522,0,BOURNEVILLE ROAD,11
+0,0,E06000023,0,9,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,1,6/29/2012,2012,173916,0,0,8,U,0,UU,361522,0,BOURNEVILLE ROAD,12
+0,0,E06000023,0,15,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,4,6/29/2012,2012,173916,1,0,10,U,0,UU,361522,1,BOURNEVILLE ROAD,13
+1,0,E06000023,0,6,South West,West of Poets Close,"Bristol, City of",0,946788,0,1,E,3,6/29/2012,2012,173916,0,0,2,U,0,UU,361522,0,BOURNEVILLE ROAD,14
+0,0,E06000023,0,6,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,1,6/29/2012,2012,173916,0,0,5,U,0,UU,361522,0,BOURNEVILLE ROAD,15
+0,0,E06000023,0,6,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,2,6/29/2012,2012,173916,0,0,4,U,0,UU,361522,2,BOURNEVILLE ROAD,16
+0,0,E06000023,0,13,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,2,6/29/2012,2012,173916,0,0,11,U,0,UU,361522,5,BOURNEVILLE ROAD,17
+0,0,E06000023,0,7,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,E,0,6/29/2012,2012,173916,0,0,7,U,0,UU,361522,2,BOURNEVILLE ROAD,18
+0,0,E06000023,0,5,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,1,6/29/2012,2012,173916,0,0,4,U,0,UU,361522,2,BOURNEVILLE ROAD,7
+0,0,E06000023,0,13,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,3,6/29/2012,2012,173916,0,0,10,U,0,UU,361522,2,BOURNEVILLE ROAD,8
+0,0,E06000023,0,10,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,3,6/29/2012,2012,173916,0,0,7,U,0,UU,361522,1,BOURNEVILLE ROAD,9
+0,0,E06000023,0,12,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,3,6/29/2012,2012,173916,0,0,9,U,0,UU,361522,0,BOURNEVILLE ROAD,10
+0,0,E06000023,0,8,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,2,6/29/2012,2012,173916,0,0,6,U,0,UU,361522,1,BOURNEVILLE ROAD,11
+0,0,E06000023,0,4,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,1,6/29/2012,2012,173916,0,0,3,U,0,UU,361522,1,BOURNEVILLE ROAD,12
+0,0,E06000023,0,4,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,2,6/29/2012,2012,173916,0,0,2,U,0,UU,361522,0,BOURNEVILLE ROAD,13
+0,0,E06000023,0,14,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,1,6/29/2012,2012,173916,0,0,13,U,0,UU,361522,0,BOURNEVILLE ROAD,14
+0,0,E06000023,0,13,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,3,6/29/2012,2012,173916,0,0,10,U,0,UU,361522,3,BOURNEVILLE ROAD,15
+0,0,E06000023,0,15,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,2,6/29/2012,2012,173916,0,0,13,U,0,UU,361522,0,BOURNEVILLE ROAD,16
+0,0,E06000023,0,12,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,2,6/29/2012,2012,173916,0,0,10,U,0,UU,361522,3,BOURNEVILLE ROAD,17
+0,0,E06000023,0,9,South West,West of Poets Close,"Bristol, City of",0,946788,0,0,W,0,6/29/2012,2012,173916,0,0,9,U,0,UU,361522,0,BOURNEVILLE ROAD,18
+1,0,E06000025,0,83,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,2,N,6,6/29/2012,2012,181088,2,1,73,C,0,CU,359010,2,JUPITER ROAD,7
+4,0,E06000025,0,106,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,5,N,3,6/29/2012,2012,181088,3,1,95,C,0,CU,359010,1,JUPITER ROAD,8
+4,0,E06000025,0,142,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,2,8,N,10,6/29/2012,2012,181088,0,2,124,C,0,CU,359010,1,JUPITER ROAD,9
+7,1,E06000025,0,184,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,8,N,18,6/29/2012,2012,181088,1,1,156,C,0,CU,359010,0,JUPITER ROAD,10
+1,0,E06000025,1,133,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,3,N,7,6/29/2012,2012,181088,4,0,119,C,1,CU,359010,1,JUPITER ROAD,11
+2,0,E06000025,0,118,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,1,4,N,10,6/29/2012,2012,181088,0,1,104,C,0,CU,359010,1,JUPITER ROAD,12
+2,0,E06000025,0,118,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,4,N,12,6/29/2012,2012,181088,0,1,102,C,1,CU,359010,0,JUPITER ROAD,13
+15,0,E06000025,0,123,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,2,18,N,9,6/29/2012,2012,181088,0,1,96,C,0,CU,359010,0,JUPITER ROAD,14
+3,0,E06000025,0,151,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,0,9,N,22,6/29/2012,2012,181088,3,5,117,C,1,CU,359010,2,JUPITER ROAD,15
+4,0,E06000025,0,132,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,1,6,N,15,6/29/2012,2012,181088,0,1,111,C,0,CU,359010,1,JUPITER ROAD,16
+4,0,E06000025,0,154,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,5,13,N,20,6/29/2012,2012,181088,0,4,121,C,0,CU,359010,2,JUPITER ROAD,17
+1,0,E06000025,0,98,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,4,6,N,13,6/29/2012,2012,181088,1,1,78,C,0,CU,359010,0,JUPITER ROAD,18
+15,0,E06000025,0,218,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,4,947507,7,37,S,56,6/29/2012,2012,181088,2,9,123,C,2,CU,359010,1,JUPITER ROAD,7
+11,1,E06000025,0,293,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,10,40,S,52,6/29/2012,2012,181088,1,18,199,C,1,CU,359010,3,JUPITER ROAD,8
+7,0,E06000025,0,197,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,1,947507,8,25,S,15,6/29/2012,2012,181088,0,7,157,C,2,CU,359010,1,JUPITER ROAD,9
+13,1,E06000025,0,322,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,0,947507,8,27,S,29,6/29/2012,2012,181088,0,4,265,C,2,CU,359010,0,JUPITER ROAD,10
+9,3,E06000025,0,504,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,1,947507,6,24,S,44,6/29/2012,2012,181088,1,7,432,C,1,CU,359010,0,JUPITER ROAD,11
+9,0,E06000025,0,568,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,5,947507,8,28,S,53,6/29/2012,2012,181088,0,5,487,C,1,CU,359010,1,JUPITER ROAD,12
+6,0,E06000025,0,497,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,1,947507,10,26,S,39,6/29/2012,2012,181088,2,8,430,C,1,CU,359010,0,JUPITER ROAD,13
+14,0,E06000025,2,567,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,1,947507,2,29,S,48,6/29/2012,2012,181088,0,10,490,C,0,CU,359010,0,JUPITER ROAD,14
+10,0,E06000025,0,477,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,5,947507,5,29,S,59,6/29/2012,2012,181088,6,9,383,C,0,CU,359010,3,JUPITER ROAD,15
+8,0,E06000025,0,603,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,2,947507,6,25,S,62,6/29/2012,2012,181088,15,8,501,C,1,CU,359010,4,JUPITER ROAD,16
+5,0,E06000025,0,589,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,3,947507,5,20,S,48,6/29/2012,2012,181088,9,7,512,C,0,CU,359010,2,JUPITER ROAD,17
+6,0,E06000025,0,520,South West,"south of Highwood Lane, Cribbs Causeway",South Gloucestershire,2,947507,6,26,S,43,6/29/2012,2012,181088,1,10,450,C,2,CU,359010,2,JUPITER ROAD,18

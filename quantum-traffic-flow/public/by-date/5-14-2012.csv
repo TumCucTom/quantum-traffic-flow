@@ -1,0 +1,73 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+45,5,E06000024,,337520,10,2284,South West,,LA Boundary,162596,North Somerset,8,16021,53,221,N,454,5/14/2012,2012,157500,10,90,1594,M5,337878,15,TM,338400,0,155010,21,7
+54,5,E06000024,,337520,6,2426,South West,,LA Boundary,162596,North Somerset,11,16021,73,220,N,326,5/14/2012,2012,157500,8,63,1867,M5,337878,13,TM,338400,0,155010,21,8
+43,9,E06000024,,337520,10,2187,South West,,LA Boundary,162596,North Somerset,7,16021,93,223,N,301,5/14/2012,2012,157500,9,59,1645,M5,337878,11,TM,338400,0,155010,21,9
+53,10,E06000024,,337520,12,2095,South West,,LA Boundary,162596,North Somerset,18,16021,81,284,N,282,5/14/2012,2012,157500,4,101,1515,M5,337878,19,TM,338400,0,155010,21,10
+84,10,E06000024,,337520,12,2234,South West,,LA Boundary,162596,North Somerset,6,16021,81,284,N,298,5/14/2012,2012,157500,10,83,1632,M5,337878,18,TM,338400,0,155010,21,11
+80,9,E06000024,,337520,5,2184,South West,,LA Boundary,162596,North Somerset,17,16021,62,273,N,296,5/14/2012,2012,157500,11,104,1595,M5,337878,5,TM,338400,0,155010,21,12
+72,7,E06000024,,337520,8,2261,South West,,LA Boundary,162596,North Somerset,19,16021,89,303,N,346,5/14/2012,2012,157500,6,103,1599,M5,337878,12,TM,338400,0,155010,21,13
+103,10,E06000024,,337520,11,2383,South West,,LA Boundary,162596,North Somerset,17,16021,70,352,N,328,5/14/2012,2012,157500,5,132,1688,M5,337878,19,TM,338400,0,155010,21,14
+79,8,E06000024,,337520,6,2451,South West,,LA Boundary,162596,North Somerset,28,16021,55,287,N,341,5/14/2012,2012,157500,8,112,1807,M5,337878,7,TM,338400,0,155010,21,15
+93,12,E06000024,,337520,6,2767,South West,,LA Boundary,162596,North Somerset,9,16021,70,302,N,422,5/14/2012,2012,157500,9,110,2022,M5,337878,14,TM,338400,0,155010,21,16
+51,15,E06000024,,337520,13,2601,South West,,LA Boundary,162596,North Somerset,15,16021,64,252,N,306,5/14/2012,2012,157500,7,92,2021,M5,337878,17,TM,338400,0,155010,21,17
+43,10,E06000024,,337520,3,2171,South West,,LA Boundary,162596,North Somerset,14,16021,66,212,N,178,5/14/2012,2012,157500,12,76,1759,M5,337878,10,TM,338400,0,155010,21,18
+120,1,E06000024,,337520,16,2320,South West,,LA Boundary,162596,North Somerset,20,16021,109,383,S,537,5/14/2012,2012,157500,9,82,1390,M5,337878,36,TM,338400,0,155010,21,7
+68,10,E06000024,,337520,6,2277,South West,,LA Boundary,162596,North Somerset,19,16021,103,299,S,440,5/14/2012,2012,157500,7,82,1521,M5,337878,21,TM,338400,0,155010,21,8
+84,7,E06000024,,337520,7,2257,South West,,LA Boundary,162596,North Somerset,12,16021,94,288,S,429,5/14/2012,2012,157500,6,72,1527,M5,337878,19,TM,338400,0,155010,21,9
+54,15,E06000024,,337520,1,2095,South West,,LA Boundary,162596,North Somerset,5,16021,100,245,S,250,5/14/2012,2012,157500,6,69,1579,M5,337878,16,TM,338400,0,155010,21,10
+60,19,E06000024,,337520,6,2783,South West,,LA Boundary,162596,North Somerset,24,16021,68,225,S,291,5/14/2012,2012,157500,10,57,2238,M5,337878,10,TM,338400,0,155010,21,11
+72,14,E06000024,,337520,8,3189,South West,,LA Boundary,162596,North Somerset,20,16021,66,238,S,329,5/14/2012,2012,157500,2,69,2606,M5,337878,3,TM,338400,0,155010,21,12
+57,24,E06000024,,337520,4,2854,South West,,LA Boundary,162596,North Somerset,21,16021,61,221,S,301,5/14/2012,2012,157500,7,66,2301,M5,337878,12,TM,338400,0,155010,21,13
+57,44,E06000024,,337520,8,2584,South West,,LA Boundary,162596,North Somerset,18,16021,67,232,S,294,5/14/2012,2012,157500,13,75,2001,M5,337878,7,TM,338400,0,155010,21,14
+52,27,E06000024,,337520,4,2382,South West,,LA Boundary,162596,North Somerset,10,16021,70,230,S,339,5/14/2012,2012,157500,3,79,1783,M5,337878,15,TM,338400,0,155010,21,15
+48,1,E06000024,,337520,6,2435,South West,,LA Boundary,162596,North Somerset,11,16021,82,198,S,334,5/14/2012,2012,157500,14,43,1888,M5,337878,8,TM,338400,0,155010,21,16
+38,5,E06000024,,337520,11,2505,South West,,LA Boundary,162596,North Somerset,11,16021,58,178,S,328,5/14/2012,2012,157500,5,53,1989,M5,337878,7,TM,338400,0,155010,21,17
+23,7,E06000024,,337520,9,1821,South West,,LA Boundary,162596,North Somerset,12,16021,54,135,S,183,5/14/2012,2012,157500,8,35,1488,M5,337878,2,TM,338400,0,155010,21,18
+0,0,E06000022,Lanridge Lane,,0,2,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,0,0,1,C,,0,CR,372710,0,,,7
+0,0,E06000022,Lanridge Lane,,0,9,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,0,0,8,C,,0,CR,372710,0,,,8
+0,0,E06000022,Lanridge Lane,,0,9,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,1,0,7,C,,0,CR,372710,0,,,9
+0,0,E06000022,Lanridge Lane,,0,6,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,0,5/14/2012,2012,169217,0,0,6,C,,0,CR,372710,0,,,10
+0,0,E06000022,Lanridge Lane,,0,3,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,2,5/14/2012,2012,169217,0,0,1,C,,0,CR,372710,0,,,11
+0,0,E06000022,Lanridge Lane,,0,9,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,0,0,8,C,,0,CR,372710,0,,,12
+0,0,E06000022,Lanridge Lane,,0,5,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,0,0,4,C,,0,CR,372710,0,,,13
+0,0,E06000022,Lanridge Lane,,0,2,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,0,5/14/2012,2012,169217,0,0,2,C,,0,CR,372710,0,,,14
+0,0,E06000022,Lanridge Lane,,0,5,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,0,5/14/2012,2012,169217,0,0,5,C,,0,CR,372710,0,,,15
+0,0,E06000022,Lanridge Lane,,0,13,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,3,5/14/2012,2012,169217,0,0,10,C,,0,CR,372710,0,,,16
+0,0,E06000022,Lanridge Lane,,0,3,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,1,5/14/2012,2012,169217,0,0,2,C,,0,CR,372710,0,,,17
+0,0,E06000022,Lanridge Lane,,0,8,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,E,0,5/14/2012,2012,169217,0,0,8,C,,0,CR,372710,1,,,18
+0,0,E06000022,Lanridge Lane,,0,11,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,1,5/14/2012,2012,169217,0,0,10,C,,0,CR,372710,0,,,7
+0,0,E06000022,Lanridge Lane,,0,12,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,0,5/14/2012,2012,169217,0,0,12,C,,0,CR,372710,0,,,8
+0,0,E06000022,Lanridge Lane,,0,11,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,1,5/14/2012,2012,169217,0,0,10,C,,0,CR,372710,0,,,9
+0,0,E06000022,Lanridge Lane,,0,10,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,2,5/14/2012,2012,169217,0,0,8,C,,0,CR,372710,0,,,10
+0,0,E06000022,Lanridge Lane,,0,6,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,1,5/14/2012,2012,169217,0,0,5,C,,0,CR,372710,0,,,11
+0,0,E06000022,Lanridge Lane,,0,2,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,1,5/14/2012,2012,169217,0,0,1,C,,0,CR,372710,0,,,12
+0,0,E06000022,Lanridge Lane,,0,1,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,0,5/14/2012,2012,169217,0,0,1,C,,0,CR,372710,0,,,13
+0,0,E06000022,Lanridge Lane,,0,4,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,0,5/14/2012,2012,169217,0,0,4,C,,0,CR,372710,0,,,14
+0,0,E06000022,Lanridge Lane,,0,3,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,0,5/14/2012,2012,169217,0,0,3,C,,0,CR,372710,0,,,15
+0,0,E06000022,Lanridge Lane,,0,7,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,0,5/14/2012,2012,169217,0,0,7,C,,0,CR,372710,0,,,16
+0,0,E06000022,Lanridge Lane,,0,4,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,2,5/14/2012,2012,169217,0,0,2,C,,0,CR,372710,0,,,17
+0,0,E06000022,Lanridge Lane,,0,6,South West,Langridge (north of Bath),,,Bath and North East Somerset,0,946675,0,0,W,2,5/14/2012,2012,169217,0,0,4,C,,0,CR,372710,0,,,18
+3,5,E06000025,ALVESTON HILL,,0,439,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,4,N,49,5/14/2012,2012,188491,3,0,378,B4061,,1,BU,363505,3,,,7
+9,9,E06000025,ALVESTON HILL,,0,971,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,1,947494,0,10,N,82,5/14/2012,2012,188491,13,0,857,B4061,,0,BU,363505,1,,,8
+9,5,E06000025,ALVESTON HILL,,0,618,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,9,N,60,5/14/2012,2012,188491,7,0,537,B4061,,0,BU,363505,1,,,9
+6,5,E06000025,ALVESTON HILL,,0,462,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,6,N,49,5/14/2012,2012,188491,2,0,400,B4061,,0,BU,363505,2,,,10
+3,2,E06000025,ALVESTON HILL,,0,501,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,3,N,70,5/14/2012,2012,188491,1,0,425,B4061,,0,BU,363505,0,,,11
+3,5,E06000025,ALVESTON HILL,,0,472,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,5,N,82,5/14/2012,2012,188491,2,2,378,B4061,,0,BU,363505,2,,,12
+4,4,E06000025,ALVESTON HILL,,1,420,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,5,N,75,5/14/2012,2012,188491,3,0,333,B4061,,0,BU,363505,1,,,13
+6,5,E06000025,ALVESTON HILL,,0,568,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,6,N,66,5/14/2012,2012,188491,2,0,489,B4061,,0,BU,363505,2,,,14
+10,9,E06000025,ALVESTON HILL,,0,606,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,10,N,52,5/14/2012,2012,188491,2,0,533,B4061,,0,BU,363505,1,,,15
+4,5,E06000025,ALVESTON HILL,,0,544,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,4,N,56,5/14/2012,2012,188491,7,0,472,B4061,,0,BU,363505,3,,,16
+1,5,E06000025,ALVESTON HILL,,0,557,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,1,N,41,5/14/2012,2012,188491,8,0,502,B4061,,0,BU,363505,4,,,17
+1,4,E06000025,ALVESTON HILL,,0,573,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,1,N,33,5/14/2012,2012,188491,3,0,532,B4061,,0,BU,363505,3,,,18
+2,8,E06000025,ALVESTON HILL,,0,468,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,2,S,46,5/14/2012,2012,188491,6,0,406,B4061,,0,BU,363505,5,,,7
+0,8,E06000025,ALVESTON HILL,,0,443,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,2,S,35,5/14/2012,2012,188491,6,1,392,B4061,,1,BU,363505,2,,,8
+9,6,E06000025,ALVESTON HILL,,0,478,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,10,S,69,5/14/2012,2012,188491,3,0,390,B4061,,1,BU,363505,0,,,9
+5,4,E06000025,ALVESTON HILL,,1,459,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,7,S,65,5/14/2012,2012,188491,1,1,382,B4061,,0,BU,363505,3,,,10
+12,4,E06000025,ALVESTON HILL,,0,492,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,12,S,55,5/14/2012,2012,188491,6,0,415,B4061,,0,BU,363505,0,,,11
+12,4,E06000025,ALVESTON HILL,,0,568,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,12,S,66,5/14/2012,2012,188491,1,0,485,B4061,,0,BU,363505,0,,,12
+4,4,E06000025,ALVESTON HILL,,0,448,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,6,S,57,5/14/2012,2012,188491,1,0,380,B4061,,2,BU,363505,0,,,13
+6,3,E06000025,ALVESTON HILL,,0,342,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,7,S,36,5/14/2012,2012,188491,5,1,291,B4061,,0,BU,363505,2,,,14
+12,14,E06000025,ALVESTON HILL,,0,656,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,13,S,94,5/14/2012,2012,188491,5,1,530,B4061,,0,BU,363505,2,,,15
+5,4,E06000025,ALVESTON HILL,,0,651,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,5,S,67,5/14/2012,2012,188491,6,0,569,B4061,,0,BU,363505,2,,,16
+4,4,E06000025,ALVESTON HILL,,0,866,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,4,S,51,5/14/2012,2012,188491,10,0,797,B4061,,0,BU,363505,3,,,17
+0,4,E06000025,ALVESTON HILL,,0,520,South West,"north of Old Gloucester Road, Alveston",,,South Gloucestershire,0,947494,0,0,S,41,5/14/2012,2012,188491,5,0,470,B4061,,0,BU,363505,1,,,18

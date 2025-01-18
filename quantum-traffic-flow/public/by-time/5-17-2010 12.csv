@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,161887,0,Bath and North East Somerset,0,9,CR,0,0,5/17/2010,0,50,12,0,N,0,41,2010,0,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000022,161887,1,Bath and North East Somerset,0,10,CR,0,0,5/17/2010,0,44,12,1,S,1,33,2010,0,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000023,174780,5,"Bristol, City of",0,75,BU,0,6,5/17/2010,5,572,12,0,N,8,486,2010,0,ASHLEY HILL,South of Briavals Grove,359779,946747,B4052,0
+0,South West,E06000023,174780,9,"Bristol, City of",0,93,BU,0,5,5/17/2010,9,584,12,0,S,11,477,2010,0,ASHLEY HILL,South of Briavals Grove,359779,946747,B4052,0
+0,South West,E06000025,180939,0,South Gloucestershire,0,4,BR,0,0,5/17/2010,0,39,12,0,N,0,35,2010,0,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0
+0,South West,E06000025,180939,1,South Gloucestershire,0,11,BR,0,1,5/17/2010,0,53,12,1,S,0,40,2010,0,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0

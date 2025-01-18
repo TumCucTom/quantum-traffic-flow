@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+105,7,E06000025,,363490,16,3268,South West,,1,179458,South Gloucestershire,3,99606,12,204,N,546,5/3/2005,2005,179000,17,44,2494,M32,364185,24,TM,363650,0,178640,M4 (19),7
+99,12,E06000025,,363490,11,2771,South West,,1,179458,South Gloucestershire,10,99606,13,199,N,356,5/3/2005,2005,179000,18,57,2186,M32,364185,9,TM,363650,0,178640,M4 (19),8
+135,12,E06000025,,363490,9,2221,South West,,1,179458,South Gloucestershire,12,99606,24,276,N,378,5/3/2005,2005,179000,8,83,1547,M32,364185,13,TM,363650,0,178640,M4 (19),9
+138,10,E06000025,,363490,12,2087,South West,,1,179458,South Gloucestershire,10,99606,27,277,N,335,5/3/2005,2005,179000,6,76,1459,M32,364185,14,TM,363650,0,178640,M4 (19),10
+113,6,E06000025,,363490,19,2093,South West,,1,179458,South Gloucestershire,11,99606,23,257,N,360,5/3/2005,2005,179000,5,75,1465,M32,364185,16,TM,363650,0,178640,M4 (19),11
+125,2,E06000025,,363490,11,2245,South West,,1,179458,South Gloucestershire,15,99606,24,262,N,345,5/3/2005,2005,179000,5,69,1631,M32,364185,18,TM,363650,0,178640,M4 (19),12
+111,11,E06000025,,363490,14,2355,South West,,1,179458,South Gloucestershire,11,99606,34,238,N,344,5/3/2005,2005,179000,3,50,1759,M32,364185,18,TM,363650,0,178640,M4 (19),13
+136,8,E06000025,,363490,15,2448,South West,,1,179458,South Gloucestershire,19,99606,21,285,N,350,5/3/2005,2005,179000,7,81,1798,M32,364185,13,TM,363650,0,178640,M4 (19),14
+108,4,E06000025,,363490,14,2906,South West,,1,179458,South Gloucestershire,6,99606,20,220,N,360,5/3/2005,2005,179000,13,68,2309,M32,364185,4,TM,363650,0,178640,M4 (19),15
+64,8,E06000025,,363490,6,3688,South West,,1,179458,South Gloucestershire,6,99606,29,166,N,380,5/3/2005,2005,179000,25,47,3109,M32,364185,14,TM,363650,0,178640,M4 (19),16
+42,7,E06000025,,363490,7,3819,South West,,1,179458,South Gloucestershire,8,99606,15,123,N,305,5/3/2005,2005,179000,39,46,3345,M32,364185,5,TM,363650,0,178640,M4 (19),17
+35,4,E06000025,,363490,0,2863,South West,,1,179458,South Gloucestershire,6,99606,19,102,N,171,5/3/2005,2005,179000,19,37,2567,M32,364185,5,TM,363650,0,178640,M4 (19),18
+79,3,E06000025,,363490,12,3725,South West,,1,179458,South Gloucestershire,16,99606,28,210,S,499,5/3/2005,2005,179000,27,55,2986,M32,364185,20,TM,363650,0,178640,M4 (19),7
+87,6,E06000025,,363490,11,3876,South West,,1,179458,South Gloucestershire,6,99606,43,210,S,369,5/3/2005,2005,179000,33,48,3258,M32,364185,15,TM,363650,0,178640,M4 (19),8
+69,5,E06000025,,363490,8,3234,South West,,1,179458,South Gloucestershire,14,99606,38,200,S,427,5/3/2005,2005,179000,13,49,2589,M32,364185,22,TM,363650,0,178640,M4 (19),9
+109,4,E06000025,,363490,11,2627,South West,,1,179458,South Gloucestershire,18,99606,29,233,S,376,5/3/2005,2005,179000,11,47,2003,M32,364185,19,TM,363650,0,178640,M4 (19),10
+127,5,E06000025,,363490,15,2186,South West,,1,179458,South Gloucestershire,7,99606,28,271,S,346,5/3/2005,2005,179000,6,76,1558,M32,364185,18,TM,363650,1,178640,M4 (19),11
+128,9,E06000025,,363490,15,2085,South West,,1,179458,South Gloucestershire,13,99606,27,270,S,345,5/3/2005,2005,179000,4,78,1457,M32,364185,9,TM,363650,0,178640,M4 (19),12
+130,6,E06000025,,363490,12,2293,South West,,1,179458,South Gloucestershire,10,99606,32,267,S,346,5/3/2005,2005,179000,5,65,1669,M32,364185,18,TM,363650,0,178640,M4 (19),13
+140,12,E06000025,,363490,19,2310,South West,,1,179458,South Gloucestershire,13,99606,41,283,S,357,5/3/2005,2005,179000,8,53,1650,M32,364185,17,TM,363650,0,178640,M4 (19),14
+130,4,E06000025,,363490,21,2321,South West,,1,179458,South Gloucestershire,13,99606,37,259,S,461,5/3/2005,2005,179000,12,41,1585,M32,364185,17,TM,363650,0,178640,M4 (19),15
+102,8,E06000025,,363490,11,2851,South West,,1,179458,South Gloucestershire,12,99606,37,209,S,497,5/3/2005,2005,179000,21,34,2116,M32,364185,13,TM,363650,0,178640,M4 (19),16
+60,11,E06000025,,363490,4,3384,South West,,1,179458,South Gloucestershire,8,99606,25,127,S,427,5/3/2005,2005,179000,19,25,2800,M32,364185,5,TM,363650,0,178640,M4 (19),17
+38,11,E06000025,,363490,2,2667,South West,,1,179458,South Gloucestershire,7,99606,14,101,S,210,5/3/2005,2005,179000,15,36,2330,M32,364185,4,TM,363650,0,178640,M4 (19),18
+1,0,E06000022,Walley Lane,,0,69,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,E,9,5/3/2005,2005,161220,1,0,57,C,,1,CR,357650,0,,,7
+2,13,E06000022,Walley Lane,,0,128,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,1,990295,0,4,E,8,5/3/2005,2005,161220,0,0,103,C,,1,CR,357650,0,,,8
+5,0,E06000022,Walley Lane,,0,104,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,2,7,E,13,5/3/2005,2005,161220,1,0,83,C,,0,CR,357650,1,,,9
+2,0,E06000022,Walley Lane,,0,66,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,E,7,5/3/2005,2005,161220,0,0,55,C,,2,CR,357650,0,,,10
+8,1,E06000022,Walley Lane,,0,79,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,8,E,6,5/3/2005,2005,161220,0,0,64,C,,0,CR,357650,1,,,11
+1,0,E06000022,Walley Lane,,0,86,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,E,9,5/3/2005,2005,161220,0,0,76,C,,0,CR,357650,0,,,12
+4,0,E06000022,Walley Lane,,0,78,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,E,5,5/3/2005,2005,161220,1,0,68,C,,0,CR,357650,0,,,13
+5,0,E06000022,Walley Lane,,0,122,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,5,E,9,5/3/2005,2005,161220,1,0,107,C,,0,CR,357650,0,,,14
+2,4,E06000022,Walley Lane,,1,136,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,E,12,5/3/2005,2005,161220,1,1,115,C,,0,CR,357650,0,,,15
+1,6,E06000022,Walley Lane,,1,178,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,E,22,5/3/2005,2005,161220,0,0,147,C,,1,CR,357650,1,,,16
+4,1,E06000022,Walley Lane,,1,253,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,5,E,24,5/3/2005,2005,161220,1,0,222,C,,0,CR,357650,0,,,17
+1,0,E06000022,Walley Lane,,0,190,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,E,17,5/3/2005,2005,161220,2,0,170,C,,0,CR,357650,0,,,18
+2,2,E06000022,Walley Lane,,0,190,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,W,23,5/3/2005,2005,161220,1,0,162,C,,0,CR,357650,0,,,7
+3,4,E06000022,Walley Lane,,0,264,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,5,W,17,5/3/2005,2005,161220,1,0,237,C,,2,CR,357650,1,,,8
+5,0,E06000022,Walley Lane,,1,109,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,7,W,14,5/3/2005,2005,161220,0,0,88,C,,1,CR,357650,1,,,9
+1,0,E06000022,Walley Lane,,0,92,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,2,W,8,5/3/2005,2005,161220,0,0,82,C,,1,CR,357650,0,,,10
+4,0,E06000022,Walley Lane,,0,68,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,5,W,11,5/3/2005,2005,161220,0,0,52,C,,1,CR,357650,0,,,11
+3,2,E06000022,Walley Lane,,0,70,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,W,10,5/3/2005,2005,161220,2,0,53,C,,0,CR,357650,0,,,12
+4,1,E06000022,Walley Lane,,0,101,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,4,W,12,5/3/2005,2005,161220,1,0,83,C,,0,CR,357650,0,,,13
+1,2,E06000022,Walley Lane,,0,94,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,3,W,11,5/3/2005,2005,161220,1,1,77,C,,1,CR,357650,2,,,14
+4,10,E06000022,Walley Lane,,0,121,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,2,6,W,6,5/3/2005,2005,161220,2,0,97,C,,0,CR,357650,0,,,15
+1,1,E06000022,Walley Lane,,0,123,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,W,18,5/3/2005,2005,161220,1,0,102,C,,0,CR,357650,0,,,16
+0,0,E06000022,Walley Lane,,0,103,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,W,7,5/3/2005,2005,161220,0,0,95,C,,1,CR,357650,0,,,17
+1,0,E06000022,Walley Lane,,0,97,South West,Chew Magna - please find a safe place to park,,,Bath and North East Somerset,0,990295,0,1,W,6,5/3/2005,2005,161220,0,0,90,C,,0,CR,357650,0,,,18

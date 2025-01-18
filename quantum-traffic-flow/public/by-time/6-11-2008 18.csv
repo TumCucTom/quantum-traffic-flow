@@ -1,0 +1,10 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,154500,3,Bath and North East Somerset,0,62,LA boundary,PU,7,15,6/11/2008,2,367050,514,18,0,N,A362,7,427,368884,2008,0,153310,154946,,,368000,27025,A367,1
+0,South West,E06000022,154500,8,Bath and North East Somerset,1,38,LA boundary,PU,7,16,6/11/2008,4,367050,540,18,0,S,A362,1,471,368884,2008,1,153310,154946,,,368000,27025,A367,2
+0,South West,E06000025,184220,0,South Gloucestershire,0,1,,UR,1,0,6/11/2008,0,,34,18,0,E,,1,32,,2008,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000025,184220,0,South Gloucestershire,0,2,,UR,1,0,6/11/2008,0,,22,18,0,W,,0,19,,2008,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000022,164784,5,Bath and North East Somerset,0,1,,UU,0,2,6/11/2008,4,,43,18,1,W,,6,35,,2008,0,,,CHEAP STREET,"Central Bath, between Bath Abbey and Westgate street",375026,946688,U,0
+0,South West,E06000023,174548,0,"Bristol, City of",0,0,,UU,0,0,6/11/2008,0,,25,18,0,E,,2,25,,2008,0,,,WORRALL ROAD,East of Beaconsfield Road,357112,946794,U,0
+0,South West,E06000023,174548,0,"Bristol, City of",0,2,,UU,0,0,6/11/2008,0,,41,18,0,W,,0,39,,2008,0,,,WORRALL ROAD,East of Beaconsfield Road,357112,946794,U,0
+0,South West,E06000025,182627,1,South Gloucestershire,0,9,,UU,0,2,6/11/2008,1,,109,18,0,N,,2,97,,2008,0,,,BROADWAY,north of Ridgeway,371994,947523,U,0
+0,South West,E06000025,182627,0,South Gloucestershire,0,8,,UU,0,0,6/11/2008,0,,97,18,0,S,,1,89,,2008,0,,,BROADWAY,north of Ridgeway,371994,947523,U,0

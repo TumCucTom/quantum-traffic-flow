@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,167016,1,"Bristol, City of",0,4,UU,4,0,10/15/2010,1,23,13,0,E,1,14,2010,0,LONGACRE ROAD,East of Kilbirnie Road,360307,946792,U,0
+0,South West,E06000023,167016,0,"Bristol, City of",0,4,UU,4,0,10/15/2010,0,27,13,0,W,0,19,2010,0,LONGACRE ROAD,East of Kilbirnie Road,360307,946792,U,0
+0,South West,E06000025,191351,3,South Gloucestershire,0,27,BR,2,3,10/15/2010,3,140,13,0,E,0,105,2010,0,GLOUCESTER ROAD,"west of Crossways Lane, Upper Morton",365225,947488,B4061,0
+1,South West,E06000025,191351,4,South Gloucestershire,0,10,BR,1,0,10/15/2010,2,118,13,1,W,1,103,2010,0,GLOUCESTER ROAD,"west of Crossways Lane, Upper Morton",365225,947488,B4061,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+12,South West,E06000023,173000,105,"Bristol, City of",5,147,A4176 Bridge Valley road,PU,14,3,7/2/2002,58,356400,922,14,6,N,A3029 Brunel Way,2,653,356860,2002,15,173275,172400,,,356540,36133,A4,9
+10,South West,E06000023,173000,101,"Bristol, City of",14,192,A4176 Bridge Valley road,PU,17,11,7/2/2002,52,356400,1260,14,10,S,A3029 Brunel Way,0,939,356860,2002,13,173275,172400,,,356540,36133,A4,2
+0,South West,E06000025,179740,0,South Gloucestershire,0,10,,UU,0,1,7/2/2002,0,,82,14,0,E,,2,71,,2002,0,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,0,South Gloucestershire,0,12,,UU,0,1,7/2/2002,0,,83,14,0,W,,0,70,,2002,0,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0

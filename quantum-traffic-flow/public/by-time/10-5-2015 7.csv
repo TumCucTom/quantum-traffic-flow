@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+8,South West,E06000023,171000,19,"Bristol, City of",0,89,Parson St,PU,19,9,10/5/2015,8,357810,397,7,3,N,A370 roundabout,32,261,359017,2015,0,170690,172014,,,358000,6401,A38,0
+0,South West,E06000023,171000,2,"Bristol, City of",0,65,Parson St,PU,14,4,10/5/2015,2,357810,307,7,0,S,A370 roundabout,28,222,359017,2015,0,170690,172014,,,358000,6401,A38,0
+0,South West,E06000022,162630,21,Bath and North East Somerset,1,111,,CU,5,5,10/5/2015,18,,617,7,1,E,,5,475,,2015,1,,,RUSH HILL,"Rush Hill, Bath",373307,946669,C,0
+1,South West,E06000022,162630,7,Bath and North East Somerset,0,144,,CU,5,14,10/5/2015,3,,800,7,3,W,,3,630,,2015,0,,,RUSH HILL,"Rush Hill, Bath",373307,946669,C,0
+0,South West,E06000025,189580,0,South Gloucestershire,0,19,,CU,1,0,10/5/2015,0,,179,7,0,E,,7,159,,2015,0,,,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,0
+0,South West,E06000025,189580,1,South Gloucestershire,0,14,,CU,1,1,10/5/2015,1,,84,7,0,W,,2,67,,2015,0,,,GROVESEND ROAD,"east of Malvern Drive, Thornbury",364935,947508,C,0

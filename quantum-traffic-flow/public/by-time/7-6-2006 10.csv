@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000025,174000,4,South Gloucestershire,0,24,A420,PU,4,0,7/6/2006,3,364697,211,10,0,N,Cheltenham Road,1,179,364592,2006,0,173883,174477,,,364650,28421,A4017,0
+0,South West,E06000025,174000,4,South Gloucestershire,0,34,A420,PU,4,1,7/6/2006,3,364697,230,10,1,S,Cheltenham Road,0,187,364592,2006,0,173883,174477,,,364650,28421,A4017,0
+1,South West,E06000025,172080,3,South Gloucestershire,0,31,,UU,0,0,7/6/2006,2,,167,10,0,N,,0,133,,2006,0,,,TOWER ROAD SOUTH,"south of Park Road, Cadbury Heath",366980,930454,U,0
+1,South West,E06000025,172080,2,South Gloucestershire,0,30,,UU,1,0,7/6/2006,1,,149,10,0,S,,0,116,,2006,0,,,TOWER ROAD SOUTH,"south of Park Road, Cadbury Heath",366980,930454,U,0

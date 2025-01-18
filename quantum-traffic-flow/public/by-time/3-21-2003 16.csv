@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+8,South West,E06000023,180000,99,"Bristol, City of",23,109,Kings Road Avenue,PU,5,18,3/21/2003,31,351640,655,16,17,N,Unclassified Road,9,424,353500,2003,17,178510,182910,,,352000,7046,A403,3
+18,South West,E06000023,180000,125,"Bristol, City of",16,97,Kings Road Avenue,PU,2,10,3/21/2003,43,351640,460,16,15,S,Unclassified Road,1,226,353500,2003,28,178510,182910,,,352000,7046,A403,5
+1,South West,E06000025,182301,4,South Gloucestershire,0,33,,UU,6,2,3/21/2003,3,,322,16,0,N,,5,277,,2003,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0
+0,South West,E06000025,182301,1,South Gloucestershire,0,43,,UU,10,5,3/21/2003,1,,538,16,0,S,,5,479,,2003,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0

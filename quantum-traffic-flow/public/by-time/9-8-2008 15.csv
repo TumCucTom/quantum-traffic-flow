@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164028,0,Bath and North East Somerset,0,0,UU,0,0,9/8/2008,0,2,15,0,N,0,2,2008,0,CLARENDON ROAD,Crescent off of Widcombe Hill. Park next to Widcombe rise,375686,946682,U,0
+0,South West,E06000022,164028,0,Bath and North East Somerset,0,1,UU,0,0,9/8/2008,0,2,15,0,S,0,1,2008,0,CLARENDON ROAD,Crescent off of Widcombe Hill. Park next to Widcombe rise,375686,946682,U,0
+0,South West,E06000023,170283,0,"Bristol, City of",0,3,UU,1,1,9/8/2008,0,16,15,0,N,1,11,2008,0,KENMARE ROAD,North of Galway Road,359226,946778,U,0
+0,South West,E06000023,170283,0,"Bristol, City of",0,0,UU,0,0,9/8/2008,0,12,15,0,S,1,12,2008,0,KENMARE ROAD,North of Galway Road,359226,946778,U,0
+0,South West,E06000023,177274,0,"Bristol, City of",0,1,UU,0,0,9/8/2008,0,8,15,0,N,0,7,2008,0,SANDYLEAZE,North of Hammond Gardens,356106,946780,U,0
+0,South West,E06000023,177274,0,"Bristol, City of",0,0,UU,0,0,9/8/2008,0,8,15,0,S,0,8,2008,0,SANDYLEAZE,North of Hammond Gardens,356106,946780,U,0
+0,South West,E06000025,190561,0,South Gloucestershire,0,1,UR,0,0,9/8/2008,0,6,15,0,E,2,5,2008,0,,"e/o B4058 Bristol Road, Cromhall",369865,947512,U,0
+0,South West,E06000025,190561,0,South Gloucestershire,0,1,UR,0,0,9/8/2008,0,6,15,0,W,2,5,2008,0,,"e/o B4058 Bristol Road, Cromhall",369865,947512,U,0

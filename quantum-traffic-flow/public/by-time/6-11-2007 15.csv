@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,160000,3,North Somerset,1,42,A3033 Devonshire Road,PU,5,3,6/11/2007,2,332140,412,15,0,N,Carlton Street,3,359,331800,2007,0,159230,161120,,,331650,47035,A370,0
+0,South West,E06000024,160000,8,North Somerset,0,57,A3033 Devonshire Road,PU,9,3,6/11/2007,8,332140,627,15,0,S,Carlton Street,5,550,331800,2007,0,159230,161120,,,331650,47035,A370,0
+0,South West,E06000022,158350,0,Bath and North East Somerset,0,3,,UR,0,1,6/11/2007,0,,38,15,0,E,,0,34,,2007,0,,,High Street,Wellow,374300,952475,U,0
+0,South West,E06000022,158350,1,Bath and North East Somerset,0,8,,UR,0,0,6/11/2007,1,,42,15,0,W,,2,33,,2007,0,,,High Street,Wellow,374300,952475,U,0

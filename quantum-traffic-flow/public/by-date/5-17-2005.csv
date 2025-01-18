@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,0,E06000023,0,3,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,3,U,0,UU,361294,1,Victoria Avenue,7
+0,0,E06000023,0,0,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,0,U,0,UU,361294,1,Victoria Avenue,8
+0,0,E06000023,0,2,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,1,0,1,U,0,UU,361294,3,Victoria Avenue,9
+0,0,E06000023,0,2,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,2,U,0,UU,361294,2,Victoria Avenue,10
+0,0,E06000023,0,2,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,2,U,0,UU,361294,4,Victoria Avenue,11
+0,0,E06000023,0,1,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,1,U,0,UU,361294,1,Victoria Avenue,12
+0,0,E06000023,0,0,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,0,U,0,UU,361294,0,Victoria Avenue,13
+0,0,E06000023,0,2,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,2,U,0,UU,361294,2,Victoria Avenue,14
+0,0,E06000023,0,2,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,2,U,0,UU,361294,5,Victoria Avenue,15
+0,0,E06000023,0,3,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,3,U,0,UU,361294,9,Victoria Avenue,16
+0,0,E06000023,0,0,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,0,U,0,UU,361294,11,Victoria Avenue,17
+0,0,E06000023,0,4,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,E,0,5/17/2005,2005,173293,0,0,4,U,0,UU,361294,12,Victoria Avenue,18
+0,0,E06000023,0,426,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,48,5/17/2005,2005,173293,2,0,376,U,0,UU,361294,5,Victoria Avenue,7
+1,0,E06000023,0,480,South West,East of Howett Road,"Bristol, City of",0,966010,0,1,W,25,5/17/2005,2005,173293,2,0,452,U,0,UU,361294,14,Victoria Avenue,8
+1,2,E06000023,0,185,South West,East of Howett Road,"Bristol, City of",0,966010,0,1,W,17,5/17/2005,2005,173293,2,0,163,U,0,UU,361294,5,Victoria Avenue,9
+3,0,E06000023,0,51,South West,East of Howett Road,"Bristol, City of",0,966010,0,3,W,8,5/17/2005,2005,173293,0,0,40,U,0,UU,361294,1,Victoria Avenue,10
+0,0,E06000023,0,50,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,8,5/17/2005,2005,173293,0,0,42,U,0,UU,361294,3,Victoria Avenue,11
+2,0,E06000023,0,63,South West,East of Howett Road,"Bristol, City of",0,966010,0,2,W,6,5/17/2005,2005,173293,0,0,55,U,0,UU,361294,3,Victoria Avenue,12
+3,0,E06000023,0,60,South West,East of Howett Road,"Bristol, City of",0,966010,0,3,W,10,5/17/2005,2005,173293,1,0,46,U,0,UU,361294,0,Victoria Avenue,13
+0,0,E06000023,0,53,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,5,5/17/2005,2005,173293,0,0,48,U,0,UU,361294,1,Victoria Avenue,14
+0,0,E06000023,0,59,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,9,5/17/2005,2005,173293,0,0,50,U,0,UU,361294,0,Victoria Avenue,15
+0,0,E06000023,0,61,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,7,5/17/2005,2005,173293,1,0,53,U,0,UU,361294,3,Victoria Avenue,16
+1,0,E06000023,0,73,South West,East of Howett Road,"Bristol, City of",0,966010,0,1,W,3,5/17/2005,2005,173293,4,0,65,U,0,UU,361294,9,Victoria Avenue,17
+0,0,E06000023,0,74,South West,East of Howett Road,"Bristol, City of",0,966010,0,0,W,2,5/17/2005,2005,173293,0,0,72,U,0,UU,361294,4,Victoria Avenue,18

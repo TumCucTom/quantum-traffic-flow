@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,182520,30,South Gloucestershire,3,97,roundabout leading to Woodward Avenue,PU,10,2,4/24/2008,22,369600,601,9,1,E,B4060,0,462,371080,2008,3,182440,182520,,,370400,78067,A432,1
+0,South West,E06000025,182520,31,South Gloucestershire,1,105,roundabout leading to Woodward Avenue,PU,9,7,4/24/2008,19,369600,587,9,3,W,B4060,3,435,371080,2008,6,182440,182520,,,370400,78067,A432,2
+0,South West,E06000024,166588,13,North Somerset,2,55,,BU,4,2,4/24/2008,9,,375,9,0,N,,1,301,,2008,2,,,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,0
+0,South West,E06000024,166588,21,North Somerset,0,68,,BU,4,1,4/24/2008,15,,343,9,0,S,,1,249,,2008,4,,,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,2
+0,South West,E06000024,166350,2,North Somerset,2,11,,UR,1,1,4/24/2008,0,,80,9,0,E,,0,65,,2008,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+0,South West,E06000024,166350,1,North Somerset,0,16,,UR,1,0,4/24/2008,1,,72,9,0,W,,2,54,,2008,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+2,South West,E06000024,176146,100,North Somerset,33,57,,CU,0,3,4/24/2008,5,,356,9,5,N,,0,196,,2008,51,,,Royal Portlebury Dock Road,,350602,996472,C,4
+5,South West,E06000024,176146,115,North Somerset,53,76,,CU,0,1,4/24/2008,11,,273,9,3,S,,0,81,,2008,41,,,Royal Portlebury Dock Road,,350602,996472,C,2

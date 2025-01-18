@@ -1,0 +1,13 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+11,South West,E06000023,173000,95,"Bristol, City of",14,224,A4,PU,6,12,5/20/2008,51,361100,921,9,14,N,A420,1,584,360440,2008,2,171600,173463,,,360500,99507,A4320,3
+2,South West,E06000023,173000,83,"Bristol, City of",8,253,A4,PU,12,7,5/20/2008,44,361100,946,9,15,S,A420,0,591,360440,2008,7,171600,173463,,,360500,99507,A4320,7
+0,South West,E06000024,158816,0,North Somerset,0,12,,CU,3,0,5/20/2008,0,,93,9,0,N,,4,78,,2008,0,,,OLD CHURCH ROAD,"South of Wingard Close, Clevedon",331739,947259,C,0
+0,South West,E06000024,158816,0,North Somerset,0,14,,CU,4,0,5/20/2008,0,,87,9,0,S,,5,69,,2008,0,,,OLD CHURCH ROAD,"South of Wingard Close, Clevedon",331739,947259,C,0
+0,South West,E06000024,168941,0,North Somerset,0,5,,CU,0,0,5/20/2008,0,,40,9,0,N,,1,35,,2008,0,,,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000024,168941,0,North Somerset,0,0,,CU,0,0,5/20/2008,0,,11,9,0,S,,0,11,,2008,0,,,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000025,175822,0,South Gloucestershire,0,1,,UU,0,0,5/20/2008,0,,19,9,0,N,,0,18,,2008,0,,,KENDALL ROAD,Kendall Road/Upper Station Road junction,364710,947518,U,0
+0,South West,E06000025,175822,0,South Gloucestershire,0,1,,UU,0,0,5/20/2008,0,,16,9,0,S,,0,15,,2008,0,,,KENDALL ROAD,Kendall Road/Upper Station Road junction,364710,947518,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,0,,UU,0,0,5/20/2008,0,,12,9,0,N,,1,12,,2008,0,,,Claverham Road,North of Manor Road,363128,951879,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,1,,UU,0,0,5/20/2008,0,,11,9,0,S,,0,10,,2008,0,,,Claverham Road,North of Manor Road,363128,951879,U,0
+0,South West,E06000023,173293,0,"Bristol, City of",0,1,,UU,0,0,5/20/2008,0,,2,9,0,E,,0,1,,2008,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+0,South West,E06000023,173293,0,"Bristol, City of",0,12,,UU,0,1,5/20/2008,0,,125,9,0,W,,4,112,,2008,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0

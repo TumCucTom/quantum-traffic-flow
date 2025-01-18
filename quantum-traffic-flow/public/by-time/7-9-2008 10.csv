@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,159160,3,North Somerset,1,27,A38 churchill,PR,3,2,7/9/2008,1,344800,121,10,0,N,LA Boundary,0,86,351780,2008,1,159810,158360,,,350000,6992,A368,0
+0,South West,E06000024,159160,4,North Somerset,0,26,A38 churchill,PR,0,3,7/9/2008,3,344800,118,10,0,S,LA Boundary,0,85,351780,2008,1,159810,158360,,,350000,6992,A368,0
+0,South West,E06000024,170390,2,North Somerset,0,24,,UU,4,0,7/9/2008,2,,127,10,0,N,,1,97,,2008,0,,,SOUTHERN WAY,"South of Ashley Avenue, Clevedon",339720,930452,U,0
+0,South West,E06000024,170390,4,North Somerset,1,24,,UU,4,1,7/9/2008,2,,186,10,0,S,,1,153,,2008,0,,,SOUTHERN WAY,"South of Ashley Avenue, Clevedon",339720,930452,U,1
+0,South West,E06000025,180867,1,South Gloucestershire,0,20,,CU,1,2,7/9/2008,0,,146,10,0,E,,0,122,,2008,0,,,BAILEYS COURT ROAD,east of Meadow Way,362490,947504,C,1
+0,South West,E06000025,180867,0,South Gloucestershire,0,24,,CU,2,2,7/9/2008,0,,174,10,0,W,,2,146,,2008,0,,,BAILEYS COURT ROAD,east of Meadow Way,362490,947504,C,0

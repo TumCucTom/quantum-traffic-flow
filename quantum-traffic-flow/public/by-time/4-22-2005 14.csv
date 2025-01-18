@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,169310,8,"Bristol, City of",0,57,UU,6,5,4/22/2005,5,420,14,2,N,2,344,2005,0,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,1
+2,South West,E06000023,169310,15,"Bristol, City of",0,85,UU,7,12,4/22/2005,9,547,14,3,S,0,428,2005,0,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,1
+1,South West,E06000025,179850,8,South Gloucestershire,0,69,UU,20,10,4/22/2005,7,841,14,0,N,4,734,2005,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0
+0,South West,E06000025,179850,10,South Gloucestershire,0,81,UU,17,6,4/22/2005,9,708,14,0,S,4,594,2005,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,1

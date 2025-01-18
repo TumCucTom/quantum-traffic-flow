@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+9,8,E06000025,,364697,0,285,South West,,A420,174477,South Gloucestershire,1,28421,0,14,N,58,7/4/2000,2000,174000,5,2,200,A4017,364592,2,PU,364650,8,173883,Cheltenham Road,7
+12,6,E06000025,,364697,1,291,South West,,A420,174477,South Gloucestershire,3,28421,1,18,N,56,7/4/2000,2000,174000,5,1,206,A4017,364592,0,PU,364650,1,173883,Cheltenham Road,8
+4,8,E06000025,,364697,0,268,South West,,A420,174477,South Gloucestershire,2,28421,3,10,N,42,7/4/2000,2000,174000,1,0,207,A4017,364592,1,PU,364650,3,173883,Cheltenham Road,9
+9,5,E06000025,,364697,0,294,South West,,A420,174477,South Gloucestershire,2,28421,1,16,N,32,7/4/2000,2000,174000,2,3,239,A4017,364592,1,PU,364650,1,173883,Cheltenham Road,10
+9,7,E06000025,,364697,0,323,South West,,A420,174477,South Gloucestershire,1,28421,0,12,N,42,7/4/2000,2000,174000,1,1,261,A4017,364592,1,PU,364650,0,173883,Cheltenham Road,11
+14,5,E06000025,,364697,0,284,South West,,A420,174477,South Gloucestershire,0,28421,2,18,N,36,7/4/2000,2000,174000,4,2,221,A4017,364592,0,PU,364650,0,173883,Cheltenham Road,12
+4,4,E06000025,,364697,1,296,South West,,A420,174477,South Gloucestershire,2,28421,2,15,N,34,7/4/2000,2000,174000,3,1,240,A4017,364592,5,PU,364650,0,173883,Cheltenham Road,13
+11,5,E06000025,,364697,0,310,South West,,A420,174477,South Gloucestershire,0,28421,0,13,N,47,7/4/2000,2000,174000,0,2,245,A4017,364592,0,PU,364650,0,173883,Cheltenham Road,14
+7,6,E06000025,,364697,0,312,South West,,A420,174477,South Gloucestershire,1,28421,2,12,N,41,7/4/2000,2000,174000,8,1,245,A4017,364592,1,PU,364650,0,173883,Cheltenham Road,15
+4,4,E06000025,,364697,0,283,South West,,A420,174477,South Gloucestershire,0,28421,1,5,N,29,7/4/2000,2000,174000,2,0,243,A4017,364592,0,PU,364650,0,173883,Cheltenham Road,16
+7,7,E06000025,,364697,0,320,South West,,A420,174477,South Gloucestershire,0,28421,0,7,N,22,7/4/2000,2000,174000,27,0,257,A4017,364592,0,PU,364650,0,173883,Cheltenham Road,17
+1,7,E06000025,,364697,0,224,South West,,A420,174477,South Gloucestershire,0,28421,3,4,N,22,7/4/2000,2000,174000,9,0,182,A4017,364592,0,PU,364650,0,173883,Cheltenham Road,18
+14,5,E06000025,,364697,1,276,South West,,A420,174477,South Gloucestershire,3,28421,2,24,S,51,7/4/2000,2000,174000,8,1,188,A4017,364592,3,PU,364650,7,173883,Cheltenham Road,7
+14,5,E06000025,,364697,2,411,South West,,A420,174477,South Gloucestershire,2,28421,7,29,S,51,7/4/2000,2000,174000,10,2,316,A4017,364592,2,PU,364650,6,173883,Cheltenham Road,8
+14,10,E06000025,,364697,0,430,South West,,A420,174477,South Gloucestershire,2,28421,5,25,S,59,7/4/2000,2000,174000,2,3,334,A4017,364592,1,PU,364650,0,173883,Cheltenham Road,9
+12,5,E06000025,,364697,0,375,South West,,A420,174477,South Gloucestershire,0,28421,8,22,S,59,7/4/2000,2000,174000,5,2,284,A4017,364592,0,PU,364650,3,173883,Cheltenham Road,10
+12,6,E06000025,,364697,0,336,South West,,A420,174477,South Gloucestershire,1,28421,1,16,S,44,7/4/2000,2000,174000,4,1,266,A4017,364592,1,PU,364650,0,173883,Cheltenham Road,11
+10,5,E06000025,,364697,0,374,South West,,A420,174477,South Gloucestershire,1,28421,1,16,S,62,7/4/2000,2000,174000,1,3,290,A4017,364592,1,PU,364650,1,173883,Cheltenham Road,12
+14,4,E06000025,,364697,0,422,South West,,A420,174477,South Gloucestershire,3,28421,2,23,S,52,7/4/2000,2000,174000,4,2,339,A4017,364592,2,PU,364650,3,173883,Cheltenham Road,13
+10,9,E06000025,,364697,0,427,South West,,A420,174477,South Gloucestershire,2,28421,3,18,S,53,7/4/2000,2000,174000,5,0,342,A4017,364592,3,PU,364650,2,173883,Cheltenham Road,14
+5,7,E06000025,,364697,0,449,South West,,A420,174477,South Gloucestershire,0,28421,1,9,S,68,7/4/2000,2000,174000,4,0,361,A4017,364592,3,PU,364650,1,173883,Cheltenham Road,15
+8,8,E06000025,,364697,0,481,South West,,A420,174477,South Gloucestershire,1,28421,4,15,S,64,7/4/2000,2000,174000,5,1,389,A4017,364592,1,PU,364650,8,173883,Cheltenham Road,16
+3,6,E06000025,,364697,0,478,South West,,A420,174477,South Gloucestershire,0,28421,2,6,S,46,7/4/2000,2000,174000,8,0,412,A4017,364592,1,PU,364650,6,173883,Cheltenham Road,17
+2,6,E06000025,,364697,0,399,South West,,A420,174477,South Gloucestershire,0,28421,3,8,S,32,7/4/2000,2000,174000,2,0,351,A4017,364592,3,PU,364650,6,173883,Cheltenham Road,18
+3,1,E06000025,Down Road,,0,235,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,5,N,27,7/4/2000,2000,179740,9,0,193,U,,2,UU,365090,4,,,7
+1,1,E06000025,Down Road,,0,155,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,8,7/4/2000,2000,179740,3,0,140,U,,2,UU,365090,2,,,8
+3,1,E06000025,Down Road,,0,148,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,7,N,18,7/4/2000,2000,179740,1,0,121,U,,4,UU,365090,1,,,9
+2,0,E06000025,Down Road,,0,70,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,12,7/4/2000,2000,179740,0,0,55,U,,1,UU,365090,1,,,10
+1,1,E06000025,Down Road,,0,73,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,7,7/4/2000,2000,179740,1,0,62,U,,1,UU,365090,2,,,11
+2,1,E06000025,Down Road,,0,92,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,13,7/4/2000,2000,179740,1,0,74,U,,1,UU,365090,1,,,12
+1,0,E06000025,Down Road,,0,90,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,14,7/4/2000,2000,179740,1,0,73,U,,1,UU,365090,0,,,13
+1,0,E06000025,Down Road,,0,105,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,15,7/4/2000,2000,179740,4,0,85,U,,0,UU,365090,0,,,14
+0,0,E06000025,Down Road,,0,103,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,1,979275,0,1,N,6,7/4/2000,2000,179740,1,0,95,U,,0,UU,365090,0,,,15
+0,1,E06000025,Down Road,,0,126,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,17,7/4/2000,2000,179740,3,0,105,U,,0,UU,365090,4,,,16
+0,0,E06000025,Down Road,,0,169,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,27,7/4/2000,2000,179740,2,0,140,U,,0,UU,365090,0,,,17
+2,1,E06000025,Down Road,,0,113,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,14,7/4/2000,2000,179740,0,0,96,U,,0,UU,365090,0,,,18
+0,0,E06000025,Down Road,,0,71,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,12,7/4/2000,2000,179740,0,0,59,U,,0,UU,365090,1,,,7
+0,0,E06000025,Down Road,,0,109,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,15,7/4/2000,2000,179740,2,0,90,U,,2,UU,365090,1,,,8
+1,0,E06000025,Down Road,,0,83,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,12,7/4/2000,2000,179740,0,0,69,U,,1,UU,365090,0,,,9
+0,0,E06000025,Down Road,,0,75,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,12,7/4/2000,2000,179740,1,0,61,U,,1,UU,365090,1,,,10
+3,0,E06000025,Down Road,,0,79,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,S,6,7/4/2000,2000,179740,0,0,70,U,,0,UU,365090,2,,,11
+1,0,E06000025,Down Road,,0,71,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,1,979275,0,2,S,6,7/4/2000,2000,179740,0,0,63,U,,0,UU,365090,0,,,12
+1,0,E06000025,Down Road,,0,71,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,7,7/4/2000,2000,179740,2,0,61,U,,0,UU,365090,0,,,13
+0,0,E06000025,Down Road,,0,100,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,10,7/4/2000,2000,179740,0,0,90,U,,0,UU,365090,0,,,14
+0,0,E06000025,Down Road,,0,142,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,12,7/4/2000,2000,179740,3,0,126,U,,1,UU,365090,3,,,15
+2,1,E06000025,Down Road,,0,163,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,16,7/4/2000,2000,179740,3,0,141,U,,0,UU,365090,0,,,16
+1,1,E06000025,Down Road,,0,182,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,8,7/4/2000,2000,179740,2,0,170,U,,0,UU,365090,3,,,17
+0,0,E06000025,Down Road,,0,152,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,9,7/4/2000,2000,179740,4,0,139,U,,0,UU,365090,1,,,18

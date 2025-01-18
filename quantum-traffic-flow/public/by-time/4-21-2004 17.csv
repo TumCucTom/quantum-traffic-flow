@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,175000,3,South Gloucestershire,0,67,A4175 Station Road Link,PU,8,5,4/21/2004,2,366240,464,17,1,N,B4465 Broad St,10,381,365366,2004,0,174720,175894,,,366000,37769,A4175,0
+0,South West,E06000025,175000,4,South Gloucestershire,0,41,A4175 Station Road Link,PU,4,7,4/21/2004,4,366240,501,17,0,S,B4465 Broad St,4,445,365366,2004,0,174720,175894,,,366000,37769,A4175,0
+0,South West,E06000023,178000,0,"Bristol, City of",0,16,,UU,0,1,4/21/2004,0,,115,17,0,N,,0,98,,2004,0,,,Broadlands Drive,,354100,968103,U,0
+0,South West,E06000023,178000,0,"Bristol, City of",0,9,,UU,0,0,4/21/2004,0,,99,17,0,S,,1,90,,2004,0,,,Broadlands Drive,,354100,968103,U,0

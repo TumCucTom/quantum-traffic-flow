@@ -1,0 +1,445 @@
+dCount,HGVR3,HGVA3,RCat,A Ref N,B Ref E,A Ref E,2WMV,HGVR4,CAR,ONS LA Name,B Ref N,ONS LACode,CP,HGV,Hour,PC,B-Junction,iDir,HGVR2,BUS,S Ref E,A-Junction,S Ref N,Road,CP Location,HGVA6,Region Name (GO),Road Name,HGVA5,LGV,AMV,Year
+7/14/2006,0,0,UU,,,,1,0,35,Bath and North East Somerset,,E06000022,964896,0,7,0,,S,0,5,378100,,168000,U,,0,South West,Catherine Way,0,14,55,2006
+7/14/2006,0,0,UU,,,,3,0,50,Bath and North East Somerset,,E06000022,964896,0,8,1,,S,0,5,378100,,168000,U,,0,South West,Catherine Way,0,4,62,2006
+7/14/2006,1,0,UU,,,,1,0,16,Bath and North East Somerset,,E06000022,964896,1,9,0,,S,0,5,378100,,168000,U,,0,South West,Catherine Way,0,4,27,2006
+7/14/2006,0,0,UU,,,,1,0,26,Bath and North East Somerset,,E06000022,964896,1,10,0,,S,1,3,378100,,168000,U,,0,South West,Catherine Way,0,2,33,2006
+7/14/2006,0,0,UU,,,,1,0,16,Bath and North East Somerset,,E06000022,964896,0,11,0,,S,0,4,378100,,168000,U,,0,South West,Catherine Way,0,1,22,2006
+7/14/2006,0,0,UU,,,,2,0,12,Bath and North East Somerset,,E06000022,964896,0,12,0,,S,0,4,378100,,168000,U,,0,South West,Catherine Way,0,3,21,2006
+7/14/2006,0,0,UU,,,,2,0,16,Bath and North East Somerset,,E06000022,964896,0,13,1,,S,0,4,378100,,168000,U,,0,South West,Catherine Way,0,3,25,2006
+7/14/2006,0,0,UU,,,,1,0,13,Bath and North East Somerset,,E06000022,964896,0,14,0,,S,0,3,378100,,168000,U,,0,South West,Catherine Way,0,3,20,2006
+7/14/2006,0,0,UU,,,,2,0,20,Bath and North East Somerset,,E06000022,964896,1,15,2,,S,1,5,378100,,168000,U,,0,South West,Catherine Way,0,1,29,2006
+7/14/2006,0,0,UU,,,,2,0,14,Bath and North East Somerset,,E06000022,964896,0,16,1,,S,0,5,378100,,168000,U,,0,South West,Catherine Way,0,2,23,2006
+7/14/2006,0,0,UU,,,,3,0,10,Bath and North East Somerset,,E06000022,964896,0,17,0,,S,0,4,378100,,168000,U,,0,South West,Catherine Way,0,1,18,2006
+7/14/2006,0,0,UU,,,,3,0,29,Bath and North East Somerset,,E06000022,964896,0,18,0,,S,0,4,378100,,168000,U,,0,South West,Catherine Way,0,0,36,2006
+7/7/2006,0,0,UR,,,,2,0,25,Bath and North East Somerset,,E06000022,952442,2,7,3,,E,2,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,6,35,2006
+7/7/2006,0,0,UR,,,,2,0,72,Bath and North East Somerset,,E06000022,952442,3,8,0,,E,3,2,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,10,89,2006
+7/7/2006,0,0,UR,,,,0,0,62,Bath and North East Somerset,,E06000022,952442,0,9,1,,E,0,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,14,76,2006
+7/7/2006,0,0,UR,,,,0,0,28,Bath and North East Somerset,,E06000022,952442,1,10,1,,E,1,1,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,9,39,2006
+7/7/2006,0,0,UR,,,,0,0,68,Bath and North East Somerset,,E06000022,952442,4,11,2,,E,4,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,10,82,2006
+7/7/2006,0,0,UR,,,,1,0,67,Bath and North East Somerset,,E06000022,952442,5,12,1,,E,5,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,5,78,2006
+7/7/2006,0,0,UR,,,,1,0,36,Bath and North East Somerset,,E06000022,952442,5,13,0,,E,4,0,362400,,159220,U,"Clutton, East of A37",1,South West,Station Road,0,12,54,2006
+7/7/2006,0,0,UR,,,,2,0,53,Bath and North East Somerset,,E06000022,952442,6,14,5,,E,6,1,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,9,71,2006
+7/7/2006,0,0,UR,,,,0,0,65,Bath and North East Somerset,,E06000022,952442,4,15,4,,E,4,2,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,7,78,2006
+7/7/2006,0,0,UR,,,,1,0,75,Bath and North East Somerset,,E06000022,952442,2,16,1,,E,2,3,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,12,93,2006
+7/7/2006,0,0,UR,,,,1,0,70,Bath and North East Somerset,,E06000022,952442,1,17,1,,E,1,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,17,89,2006
+7/7/2006,0,0,UR,,,,0,0,75,Bath and North East Somerset,,E06000022,952442,1,18,4,,E,1,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,5,81,2006
+7/7/2006,0,0,UR,,,,2,0,49,Bath and North East Somerset,,E06000022,952442,2,7,1,,W,2,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,10,63,2006
+7/7/2006,0,0,UR,,,,0,0,113,Bath and North East Somerset,,E06000022,952442,1,8,2,,W,1,7,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,17,138,2006
+7/7/2006,0,0,UR,,,,0,0,73,Bath and North East Somerset,,E06000022,952442,0,9,1,,W,0,1,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,6,80,2006
+7/7/2006,0,0,UR,,,,0,0,50,Bath and North East Somerset,,E06000022,952442,1,10,0,,W,1,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,9,60,2006
+7/7/2006,0,0,UR,,,,0,0,51,Bath and North East Somerset,,E06000022,952442,2,11,1,,W,1,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,1,13,66,2006
+7/7/2006,1,0,UR,,,,1,0,55,Bath and North East Somerset,,E06000022,952442,8,12,3,,W,7,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,13,77,2006
+7/7/2006,0,0,UR,,,,2,0,42,Bath and North East Somerset,,E06000022,952442,1,13,0,,W,1,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,12,57,2006
+7/7/2006,0,0,UR,,,,1,0,60,Bath and North East Somerset,,E06000022,952442,4,14,2,,W,4,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,5,70,2006
+7/7/2006,0,0,UR,,,,0,0,41,Bath and North East Somerset,,E06000022,952442,1,15,3,,W,1,1,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,13,56,2006
+7/7/2006,0,0,UR,,,,2,0,66,Bath and North East Somerset,,E06000022,952442,5,16,4,,W,5,1,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,12,86,2006
+7/7/2006,0,0,UR,,,,2,0,63,Bath and North East Somerset,,E06000022,952442,3,17,1,,W,3,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,8,76,2006
+7/7/2006,0,0,UR,,,,0,0,56,Bath and North East Somerset,,E06000022,952442,0,18,1,,W,0,0,362400,,159220,U,"Clutton, East of A37",0,South West,Station Road,0,2,58,2006
+7/6/2006,1,1,PU,173883,364592,364697,4,0,167,South Gloucestershire,174477,E06000025,28421,7,7,6,Cheltenham Road,N,5,7,364650,A420,174000,A4017,,0,South West,,0,24,209,2006
+7/6/2006,1,0,PU,173883,364592,364697,2,0,202,South Gloucestershire,174477,E06000025,28421,7,8,1,Cheltenham Road,N,6,4,364650,A420,174000,A4017,,0,South West,,0,26,241,2006
+7/6/2006,0,1,PU,173883,364592,364697,1,0,180,South Gloucestershire,174477,E06000025,28421,10,9,1,Cheltenham Road,N,9,5,364650,A420,174000,A4017,,0,South West,,0,21,217,2006
+7/6/2006,0,0,PU,173883,364592,364697,0,1,179,South Gloucestershire,174477,E06000025,28421,4,10,1,Cheltenham Road,N,3,4,364650,A420,174000,A4017,,0,South West,,0,24,211,2006
+7/6/2006,2,0,PU,173883,364592,364697,4,1,267,South Gloucestershire,174477,E06000025,28421,12,11,0,Cheltenham Road,N,7,5,364650,A420,174000,A4017,,1,South West,,1,44,332,2006
+7/6/2006,1,0,PU,173883,364592,364697,1,0,214,South Gloucestershire,174477,E06000025,28421,5,12,2,Cheltenham Road,N,3,5,364650,A420,174000,A4017,,0,South West,,1,32,257,2006
+7/6/2006,1,0,PU,173883,364592,364697,5,0,220,South Gloucestershire,174477,E06000025,28421,5,13,2,Cheltenham Road,N,4,6,364650,A420,174000,A4017,,0,South West,,0,42,278,2006
+7/6/2006,1,0,PU,173883,364592,364697,3,0,259,South Gloucestershire,174477,E06000025,28421,6,14,3,Cheltenham Road,N,5,6,364650,A420,174000,A4017,,0,South West,,0,23,297,2006
+7/6/2006,0,1,PU,173883,364592,364697,6,0,201,South Gloucestershire,174477,E06000025,28421,4,15,5,Cheltenham Road,N,3,7,364650,A420,174000,A4017,,0,South West,,0,23,241,2006
+7/6/2006,0,0,PU,173883,364592,364697,1,0,278,South Gloucestershire,174477,E06000025,28421,3,16,1,Cheltenham Road,N,3,5,364650,A420,174000,A4017,,0,South West,,0,39,326,2006
+7/6/2006,0,0,PU,173883,364592,364697,10,0,287,South Gloucestershire,174477,E06000025,28421,0,17,1,Cheltenham Road,N,0,3,364650,A420,174000,A4017,,0,South West,,0,38,338,2006
+7/6/2006,0,1,PU,173883,364592,364697,0,0,149,South Gloucestershire,174477,E06000025,28421,2,18,0,Cheltenham Road,N,1,2,364650,A420,174000,A4017,,0,South West,,0,20,173,2006
+7/6/2006,2,0,PU,173883,364592,364697,2,0,96,South Gloucestershire,174477,E06000025,28421,6,7,1,Cheltenham Road,S,4,4,364650,A420,174000,A4017,,0,South West,,0,31,139,2006
+7/6/2006,1,1,PU,173883,364592,364697,2,0,197,South Gloucestershire,174477,E06000025,28421,5,8,3,Cheltenham Road,S,3,4,364650,A420,174000,A4017,,0,South West,,0,40,248,2006
+7/6/2006,0,1,PU,173883,364592,364697,3,0,188,South Gloucestershire,174477,E06000025,28421,10,9,3,Cheltenham Road,S,8,6,364650,A420,174000,A4017,,1,South West,,0,52,259,2006
+7/6/2006,1,0,PU,173883,364592,364697,1,0,187,South Gloucestershire,174477,E06000025,28421,4,10,0,Cheltenham Road,S,3,4,364650,A420,174000,A4017,,0,South West,,0,34,230,2006
+7/6/2006,3,0,PU,173883,364592,364697,0,1,211,South Gloucestershire,174477,E06000025,28421,21,11,0,Cheltenham Road,S,15,4,364650,A420,174000,A4017,,1,South West,,1,45,281,2006
+7/6/2006,0,1,PU,173883,364592,364697,1,1,227,South Gloucestershire,174477,E06000025,28421,7,12,0,Cheltenham Road,S,4,5,364650,A420,174000,A4017,,0,South West,,1,26,266,2006
+7/6/2006,1,0,PU,173883,364592,364697,1,0,248,South Gloucestershire,174477,E06000025,28421,3,13,2,Cheltenham Road,S,2,4,364650,A420,174000,A4017,,0,South West,,0,31,287,2006
+7/6/2006,1,0,PU,173883,364592,364697,3,0,276,South Gloucestershire,174477,E06000025,28421,3,14,4,Cheltenham Road,S,2,4,364650,A420,174000,A4017,,0,South West,,0,66,352,2006
+7/6/2006,0,0,PU,173883,364592,364697,4,0,224,South Gloucestershire,174477,E06000025,28421,3,15,1,Cheltenham Road,S,3,6,364650,A420,174000,A4017,,0,South West,,0,38,275,2006
+7/6/2006,0,0,PU,173883,364592,364697,4,0,225,South Gloucestershire,174477,E06000025,28421,7,16,3,Cheltenham Road,S,7,4,364650,A420,174000,A4017,,0,South West,,0,41,281,2006
+7/6/2006,0,0,PU,173883,364592,364697,4,0,239,South Gloucestershire,174477,E06000025,28421,4,17,2,Cheltenham Road,S,3,6,364650,A420,174000,A4017,,0,South West,,1,20,273,2006
+7/6/2006,0,1,PU,173883,364592,364697,4,0,240,South Gloucestershire,174477,E06000025,28421,2,18,5,Cheltenham Road,S,1,4,364650,A420,174000,A4017,,0,South West,,0,20,270,2006
+7/6/2006,6,0,UU,,,,2,0,142,South Gloucestershire,,E06000025,930454,11,7,1,,N,5,3,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,32,190,2006
+7/6/2006,1,0,UU,,,,2,0,353,South Gloucestershire,,E06000025,930454,4,8,1,,N,3,3,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,42,404,2006
+7/6/2006,0,0,UU,,,,2,0,239,South Gloucestershire,,E06000025,930454,5,9,2,,N,4,3,366980,,172080,U,"south of Park Road, Cadbury Heath",1,South West,TOWER ROAD SOUTH,0,24,273,2006
+7/6/2006,0,0,UU,,,,0,1,133,South Gloucestershire,,E06000025,930454,3,10,0,,N,2,0,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,31,167,2006
+7/6/2006,1,0,UU,,,,0,0,163,South Gloucestershire,,E06000025,930454,4,11,0,,N,3,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,30,198,2006
+7/6/2006,0,0,UU,,,,2,0,149,South Gloucestershire,,E06000025,930454,5,12,0,,N,5,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,29,186,2006
+7/6/2006,0,0,UU,,,,3,0,128,South Gloucestershire,,E06000025,930454,4,13,1,,N,4,0,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,23,158,2006
+7/6/2006,0,0,UU,,,,4,0,169,South Gloucestershire,,E06000025,930454,3,14,0,,N,3,3,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,22,201,2006
+7/6/2006,0,0,UU,,,,3,0,223,South Gloucestershire,,E06000025,930454,3,15,4,,N,3,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,30,260,2006
+7/6/2006,2,0,UU,,,,4,0,183,South Gloucestershire,,E06000025,930454,3,16,0,,N,1,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,29,220,2006
+7/6/2006,0,0,UU,,,,5,0,227,South Gloucestershire,,E06000025,930454,2,17,3,,N,2,3,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,23,260,2006
+7/6/2006,0,0,UU,,,,3,0,192,South Gloucestershire,,E06000025,930454,1,18,3,,N,1,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,20,217,2006
+7/6/2006,2,0,UU,,,,2,0,141,South Gloucestershire,,E06000025,930454,2,7,1,,S,0,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,35,181,2006
+7/6/2006,1,0,UU,,,,2,0,316,South Gloucestershire,,E06000025,930454,3,8,0,,S,2,4,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,50,375,2006
+7/6/2006,1,0,UU,,,,0,0,142,South Gloucestershire,,E06000025,930454,8,9,0,,S,4,0,366980,,172080,U,"south of Park Road, Cadbury Heath",2,South West,TOWER ROAD SOUTH,1,18,168,2006
+7/6/2006,0,0,UU,,,,0,1,116,South Gloucestershire,,E06000025,930454,2,10,0,,S,1,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,30,149,2006
+7/6/2006,0,0,UU,,,,1,0,123,South Gloucestershire,,E06000025,930454,7,11,0,,S,7,0,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,24,155,2006
+7/6/2006,0,0,UU,,,,2,0,157,South Gloucestershire,,E06000025,930454,2,12,1,,S,2,0,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,15,176,2006
+7/6/2006,0,0,UU,,,,2,0,166,South Gloucestershire,,E06000025,930454,3,13,1,,S,3,2,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,13,186,2006
+7/6/2006,0,0,UU,,,,4,0,158,South Gloucestershire,,E06000025,930454,8,14,0,,S,8,0,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,21,191,2006
+7/6/2006,5,0,UU,,,,0,0,205,South Gloucestershire,,E06000025,930454,8,15,2,,S,3,2,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,21,236,2006
+7/6/2006,2,0,UU,,,,9,0,199,South Gloucestershire,,E06000025,930454,2,16,0,,S,0,2,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,32,244,2006
+7/6/2006,1,0,UU,,,,5,0,207,South Gloucestershire,,E06000025,930454,1,17,1,,S,0,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,28,242,2006
+7/6/2006,0,0,UU,,,,4,0,277,South Gloucestershire,,E06000025,930454,0,18,3,,S,0,1,366980,,172080,U,"south of Park Road, Cadbury Heath",0,South West,TOWER ROAD SOUTH,0,15,297,2006
+7/31/2006,0,0,BU,,,,3,0,85,Bath and North East Somerset,,E06000022,990072,4,7,2,,E,4,1,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,14,107,2006
+7/31/2006,0,0,BU,,,,3,0,124,Bath and North East Somerset,,E06000022,990072,1,8,1,,E,1,5,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,23,156,2006
+7/31/2006,1,0,BU,,,,0,0,121,Bath and North East Somerset,,E06000022,990072,3,9,1,,E,2,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,15,141,2006
+7/31/2006,0,0,BU,,,,2,0,120,Bath and North East Somerset,,E06000022,990072,1,10,0,,E,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,21,146,2006
+7/31/2006,0,0,BU,,,,1,0,129,Bath and North East Somerset,,E06000022,990072,1,11,0,,E,1,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,22,156,2006
+7/31/2006,0,0,BU,,,,0,0,154,Bath and North East Somerset,,E06000022,990072,0,12,1,,E,0,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,28,184,2006
+7/31/2006,0,0,BU,,,,5,0,144,Bath and North East Somerset,,E06000022,990072,1,13,2,,E,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,16,168,2006
+7/31/2006,0,0,BU,,,,4,0,125,Bath and North East Somerset,,E06000022,990072,3,14,1,,E,3,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,18,152,2006
+7/31/2006,0,0,BU,,,,3,0,175,Bath and North East Somerset,,E06000022,990072,0,15,3,,E,0,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,18,198,2006
+7/31/2006,0,0,BU,,,,6,0,209,Bath and North East Somerset,,E06000022,990072,2,16,6,,E,2,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,30,249,2006
+7/31/2006,0,0,BU,,,,5,0,337,Bath and North East Somerset,,E06000022,990072,0,17,5,,E,0,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,25,370,2006
+7/31/2006,0,0,BU,,,,3,0,218,Bath and North East Somerset,,E06000022,990072,0,18,4,,E,0,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,10,233,2006
+7/31/2006,0,0,BU,,,,5,0,110,Bath and North East Somerset,,E06000022,990072,0,7,4,,W,0,0,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,20,135,2006
+7/31/2006,0,0,BU,,,,3,0,159,Bath and North East Somerset,,E06000022,990072,1,8,4,,W,1,4,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,21,188,2006
+7/31/2006,0,0,BU,,,,3,0,146,Bath and North East Somerset,,E06000022,990072,4,9,3,,W,4,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,19,174,2006
+7/31/2006,0,0,BU,,,,1,0,160,Bath and North East Somerset,,E06000022,990072,1,10,1,,W,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,22,186,2006
+7/31/2006,0,0,BU,,,,2,0,158,Bath and North East Somerset,,E06000022,990072,1,11,0,,W,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,28,191,2006
+7/31/2006,0,0,BU,,,,2,0,171,Bath and North East Somerset,,E06000022,990072,0,12,1,,W,0,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,27,203,2006
+7/31/2006,1,0,BU,,,,4,0,178,Bath and North East Somerset,,E06000022,990072,3,13,1,,W,2,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,27,214,2006
+7/31/2006,0,0,BU,,,,1,0,164,Bath and North East Somerset,,E06000022,990072,1,14,4,,W,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,27,195,2006
+7/31/2006,0,0,BU,,,,1,0,145,Bath and North East Somerset,,E06000022,990072,3,15,1,,W,3,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,26,178,2006
+7/31/2006,0,0,BU,,,,3,0,160,Bath and North East Somerset,,E06000022,990072,1,16,3,,W,1,2,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,32,198,2006
+7/31/2006,0,0,BU,,,,5,0,166,Bath and North East Somerset,,E06000022,990072,0,17,5,,W,0,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,11,185,2006
+7/31/2006,0,0,BU,,,,1,0,128,Bath and North East Somerset,,E06000022,990072,0,18,3,,W,0,3,374270,,164020,B3111,Park in a safe location,0,South West,Oldfield Road,0,9,141,2006
+7/13/2006,24,28,TM,175620,351940,350670,52,18,4264,North Somerset,176830,E06000024,46019,359,7,0,LA Boundary,N,102,8,351300,Junction 19 M5,176000,M5,,106,South West,,81,566,5249,2006
+7/13/2006,26,26,TM,175620,351940,350670,22,23,4774,North Somerset,176830,E06000024,46019,409,8,0,LA Boundary,N,147,21,351300,Junction 19 M5,176000,M5,,80,South West,,107,139,5365,2006
+7/13/2006,19,39,TM,175620,351940,350670,19,25,2893,North Somerset,176830,E06000024,46019,427,9,0,LA Boundary,N,130,18,351300,Junction 19 M5,176000,M5,,97,South West,,117,388,3745,2006
+7/13/2006,28,36,TM,175620,351940,350670,10,22,1842,North Somerset,176830,E06000024,46019,463,10,0,LA Boundary,N,146,14,351300,Junction 19 M5,176000,M5,,93,South West,,138,202,2531,2006
+7/13/2006,23,41,TM,175620,351940,350670,36,15,481,North Somerset,176830,E06000024,46019,481,11,0,LA Boundary,N,152,15,351300,Junction 19 M5,176000,M5,,126,South West,,124,349,1362,2006
+7/13/2006,16,29,TM,175620,351940,350670,21,25,1466,North Somerset,176830,E06000024,46019,490,12,0,LA Boundary,N,179,22,351300,Junction 19 M5,176000,M5,,108,South West,,133,128,2127,2006
+7/13/2006,21,39,TM,175620,351940,350670,4,29,2545,North Somerset,176830,E06000024,46019,504,13,0,LA Boundary,N,174,13,351300,Junction 19 M5,176000,M5,,107,South West,,134,398,3464,2006
+7/13/2006,26,21,TM,175620,351940,350670,17,50,2840,North Somerset,176830,E06000024,46019,558,14,0,LA Boundary,N,201,24,351300,Junction 19 M5,176000,M5,,81,South West,,179,204,3643,2006
+7/13/2006,35,19,TM,175620,351940,350670,16,18,2781,North Somerset,176830,E06000024,46019,502,15,0,LA Boundary,N,177,32,351300,Junction 19 M5,176000,M5,,133,South West,,120,432,3763,2006
+7/13/2006,27,29,TM,175620,351940,350670,31,37,3200,North Somerset,176830,E06000024,46019,534,16,0,LA Boundary,N,197,20,351300,Junction 19 M5,176000,M5,,89,South West,,155,259,4044,2006
+7/13/2006,15,32,TM,175620,351940,350670,24,14,3438,North Somerset,176830,E06000024,46019,375,17,0,LA Boundary,N,99,26,351300,Junction 19 M5,176000,M5,,125,South West,,90,339,4202,2006
+7/13/2006,8,26,TM,175620,351940,350670,23,4,2943,North Somerset,176830,E06000024,46019,289,18,0,LA Boundary,N,70,15,351300,Junction 19 M5,176000,M5,,93,South West,,88,220,3490,2006
+7/13/2006,25,27,TM,175620,351940,350670,20,24,2413,North Somerset,176830,E06000024,46019,581,7,0,LA Boundary,S,226,2,351300,Junction 19 M5,176000,M5,,140,South West,,139,576,3592,2006
+7/13/2006,30,26,TM,175620,351940,350670,27,24,2816,North Somerset,176830,E06000024,46019,517,8,0,LA Boundary,S,165,11,351300,Junction 19 M5,176000,M5,,130,South West,,142,499,3870,2006
+7/13/2006,13,29,TM,175620,351940,350670,17,34,2279,North Somerset,176830,E06000024,46019,440,9,0,LA Boundary,S,139,16,351300,Junction 19 M5,176000,M5,,99,South West,,126,391,3143,2006
+7/13/2006,26,6,TM,175620,351940,350670,8,28,2160,North Somerset,176830,E06000024,46019,441,10,0,LA Boundary,S,132,59,351300,Junction 19 M5,176000,M5,,147,South West,,102,339,3007,2006
+7/13/2006,24,25,TM,175620,351940,350670,4,30,2500,North Somerset,176830,E06000024,46019,399,11,0,LA Boundary,S,108,29,351300,Junction 19 M5,176000,M5,,103,South West,,109,352,3284,2006
+7/13/2006,25,18,TM,175620,351940,350670,20,23,2490,North Somerset,176830,E06000024,46019,406,12,0,LA Boundary,S,93,13,351300,Junction 19 M5,176000,M5,,152,South West,,95,320,3249,2006
+7/13/2006,23,30,TM,175620,351940,350670,14,28,2701,North Somerset,176830,E06000024,46019,404,13,0,LA Boundary,S,106,11,351300,Junction 19 M5,176000,M5,,89,South West,,128,372,3502,2006
+7/13/2006,22,38,TM,175620,351940,350670,18,27,2738,North Somerset,176830,E06000024,46019,414,14,0,LA Boundary,S,118,15,351300,Junction 19 M5,176000,M5,,96,South West,,113,412,3597,2006
+7/13/2006,22,30,TM,175620,351940,350670,24,36,3284,North Somerset,176830,E06000024,46019,402,15,0,LA Boundary,S,116,27,351300,Junction 19 M5,176000,M5,,87,South West,,111,486,4223,2006
+7/13/2006,19,13,TM,175620,351940,350670,62,19,4581,North Somerset,176830,E06000024,46019,353,16,0,LA Boundary,S,84,15,351300,Junction 19 M5,176000,M5,,148,South West,,70,650,5661,2006
+7/13/2006,14,23,TM,175620,351940,350670,55,8,4836,North Somerset,176830,E06000024,46019,278,17,0,LA Boundary,S,64,16,351300,Junction 19 M5,176000,M5,,71,South West,,98,411,5596,2006
+7/13/2006,11,10,TM,175620,351940,350670,20,1,3890,North Somerset,176830,E06000024,46019,207,18,0,LA Boundary,S,50,8,351300,Junction 19 M5,176000,M5,,46,South West,,89,95,4220,2006
+7/13/2006,0,0,UU,,,,3,0,109,"Bristol, City of",,E06000023,930430,4,7,7,,N,4,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,7,123,2006
+7/13/2006,1,0,UU,,,,1,0,150,"Bristol, City of",,E06000023,930430,3,8,3,,N,2,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,17,171,2006
+7/13/2006,1,0,UU,,,,3,0,198,"Bristol, City of",,E06000023,930430,3,9,12,,N,2,2,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,28,234,2006
+7/13/2006,0,0,UU,,,,1,0,191,"Bristol, City of",,E06000023,930430,2,10,5,,N,2,1,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,29,224,2006
+7/13/2006,0,0,UU,,,,1,0,140,"Bristol, City of",,E06000023,930430,3,11,6,,N,3,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,32,176,2006
+7/13/2006,1,0,UU,,,,0,0,170,"Bristol, City of",,E06000023,930430,4,12,7,,N,3,1,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,24,199,2006
+7/13/2006,1,0,UU,,,,2,0,217,"Bristol, City of",,E06000023,930430,1,13,8,,N,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,29,249,2006
+7/13/2006,0,0,UU,,,,1,0,175,"Bristol, City of",,E06000023,930430,1,14,7,,N,1,2,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,28,207,2006
+7/13/2006,0,0,UU,,,,6,0,197,"Bristol, City of",,E06000023,930430,0,15,12,,N,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,35,238,2006
+7/13/2006,0,0,UU,,,,8,0,344,"Bristol, City of",,E06000023,930430,3,16,16,,N,3,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,24,379,2006
+7/13/2006,0,0,UU,,,,4,0,411,"Bristol, City of",,E06000023,930430,0,17,30,,N,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,20,435,2006
+7/13/2006,0,0,UU,,,,4,0,335,"Bristol, City of",,E06000023,930430,2,18,17,,N,2,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,12,353,2006
+7/13/2006,0,0,UU,,,,3,0,211,"Bristol, City of",,E06000023,930430,2,7,11,,S,2,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,12,228,2006
+7/13/2006,2,0,UU,,,,5,0,387,"Bristol, City of",,E06000023,930430,5,8,37,,S,3,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,12,409,2006
+7/13/2006,0,0,UU,,,,1,0,211,"Bristol, City of",,E06000023,930430,2,9,32,,S,2,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,26,240,2006
+7/13/2006,0,0,UU,,,,1,0,133,"Bristol, City of",,E06000023,930430,3,10,6,,S,3,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,26,163,2006
+7/13/2006,0,0,UU,,,,1,0,121,"Bristol, City of",,E06000023,930430,3,11,6,,S,3,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,19,144,2006
+7/13/2006,1,0,UU,,,,0,0,131,"Bristol, City of",,E06000023,930430,2,12,5,,S,1,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,26,159,2006
+7/13/2006,0,0,UU,,,,1,0,148,"Bristol, City of",,E06000023,930430,2,13,7,,S,2,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,16,167,2006
+7/13/2006,0,0,UU,,,,0,0,121,"Bristol, City of",,E06000023,930430,0,14,1,,S,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,18,139,2006
+7/13/2006,0,0,UU,,,,1,0,194,"Bristol, City of",,E06000023,930430,2,15,10,,S,2,1,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,29,227,2006
+7/13/2006,0,0,UU,,,,3,0,183,"Bristol, City of",,E06000023,930430,1,16,3,,S,1,1,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,23,211,2006
+7/13/2006,0,0,UU,,,,8,0,138,"Bristol, City of",,E06000023,930430,0,17,12,,S,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,8,154,2006
+7/13/2006,0,0,UU,,,,0,0,193,"Bristol, City of",,E06000023,930430,0,18,11,,S,0,0,357950,,174260,U,North of Waverley Road,0,South West,HAMPTON ROAD,0,11,204,2006
+7/12/2006,0,0,PU,165209,375948,375637,3,0,114,Bath and North East Somerset,165429,E06000022,74521,2,7,4,Warminster Rd,E,2,0,375856,Darlington St,165236,A36,,0,South West,,0,24,143,2006
+7/12/2006,0,0,PU,165209,375948,375637,3,0,179,Bath and North East Somerset,165429,E06000022,74521,2,8,6,Warminster Rd,E,2,1,375856,Darlington St,165236,A36,,0,South West,,0,23,208,2006
+7/12/2006,1,0,PU,165209,375948,375637,2,0,157,Bath and North East Somerset,165429,E06000022,74521,18,9,5,Warminster Rd,E,17,6,375856,Darlington St,165236,A36,,0,South West,,0,16,199,2006
+7/12/2006,0,0,PU,165209,375948,375637,0,0,127,Bath and North East Somerset,165429,E06000022,74521,3,10,1,Warminster Rd,E,3,0,375856,Darlington St,165236,A36,,0,South West,,0,27,157,2006
+7/12/2006,0,0,PU,165209,375948,375637,0,0,154,Bath and North East Somerset,165429,E06000022,74521,1,11,1,Warminster Rd,E,1,2,375856,Darlington St,165236,A36,,0,South West,,0,20,177,2006
+7/12/2006,0,0,PU,165209,375948,375637,3,0,174,Bath and North East Somerset,165429,E06000022,74521,6,12,1,Warminster Rd,E,6,2,375856,Darlington St,165236,A36,,0,South West,,0,24,209,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,183,Bath and North East Somerset,165429,E06000022,74521,0,13,6,Warminster Rd,E,0,4,375856,Darlington St,165236,A36,,0,South West,,0,19,208,2006
+7/12/2006,0,0,PU,165209,375948,375637,4,0,144,Bath and North East Somerset,165429,E06000022,74521,3,14,3,Warminster Rd,E,3,3,375856,Darlington St,165236,A36,,0,South West,,0,26,180,2006
+7/12/2006,0,0,PU,165209,375948,375637,1,0,201,Bath and North East Somerset,165429,E06000022,74521,8,15,5,Warminster Rd,E,8,2,375856,Darlington St,165236,A36,,0,South West,,0,16,228,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,231,Bath and North East Somerset,165429,E06000022,74521,2,16,3,Warminster Rd,E,2,5,375856,Darlington St,165236,A36,,0,South West,,0,30,270,2006
+7/12/2006,0,0,PU,165209,375948,375637,5,0,291,Bath and North East Somerset,165429,E06000022,74521,0,17,6,Warminster Rd,E,0,1,375856,Darlington St,165236,A36,,0,South West,,0,14,311,2006
+7/12/2006,0,0,PU,165209,375948,375637,4,0,179,Bath and North East Somerset,165429,E06000022,74521,0,18,4,Warminster Rd,E,0,2,375856,Darlington St,165236,A36,,0,South West,,0,10,195,2006
+7/12/2006,1,0,PU,165209,375948,375637,4,0,143,Bath and North East Somerset,165429,E06000022,74521,4,7,2,Warminster Rd,W,3,0,375856,Darlington St,165236,A36,,0,South West,,0,21,172,2006
+7/12/2006,0,0,PU,165209,375948,375637,3,0,315,Bath and North East Somerset,165429,E06000022,74521,4,8,6,Warminster Rd,W,4,0,375856,Darlington St,165236,A36,,0,South West,,0,32,354,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,295,Bath and North East Somerset,165429,E06000022,74521,3,9,5,Warminster Rd,W,3,0,375856,Darlington St,165236,A36,,0,South West,,0,40,340,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,275,Bath and North East Somerset,165429,E06000022,74521,2,10,1,Warminster Rd,W,2,2,375856,Darlington St,165236,A36,,0,South West,,0,35,316,2006
+7/12/2006,3,0,PU,165209,375948,375637,0,0,160,Bath and North East Somerset,165429,E06000022,74521,13,11,1,Warminster Rd,W,10,2,375856,Darlington St,165236,A36,,0,South West,,0,29,204,2006
+7/12/2006,1,1,PU,165209,375948,375637,2,0,225,Bath and North East Somerset,165429,E06000022,74521,19,12,4,Warminster Rd,W,17,4,375856,Darlington St,165236,A36,,0,South West,,0,30,280,2006
+7/12/2006,1,0,PU,165209,375948,375637,2,0,191,Bath and North East Somerset,165429,E06000022,74521,7,13,1,Warminster Rd,W,5,1,375856,Darlington St,165236,A36,,0,South West,,1,26,227,2006
+7/12/2006,0,0,PU,165209,375948,375637,3,0,226,Bath and North East Somerset,165429,E06000022,74521,11,14,2,Warminster Rd,W,11,3,375856,Darlington St,165236,A36,,0,South West,,0,28,271,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,240,Bath and North East Somerset,165429,E06000022,74521,1,15,6,Warminster Rd,W,1,0,375856,Darlington St,165236,A36,,0,South West,,0,21,264,2006
+7/12/2006,0,0,PU,165209,375948,375637,4,0,271,Bath and North East Somerset,165429,E06000022,74521,1,16,4,Warminster Rd,W,1,0,375856,Darlington St,165236,A36,,0,South West,,0,34,310,2006
+7/12/2006,0,0,PU,165209,375948,375637,2,0,242,Bath and North East Somerset,165429,E06000022,74521,1,17,6,Warminster Rd,W,1,1,375856,Darlington St,165236,A36,,0,South West,,0,16,262,2006
+7/12/2006,0,0,PU,165209,375948,375637,6,0,205,Bath and North East Somerset,165429,E06000022,74521,1,18,4,Warminster Rd,W,1,6,375856,Darlington St,165236,A36,,0,South West,,0,17,235,2006
+7/12/2006,0,0,UU,,,,1,1,77,North Somerset,,E06000024,930452,6,7,1,,N,5,0,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,13,97,2006
+7/12/2006,0,0,UU,,,,0,0,224,North Somerset,,E06000024,930452,4,8,0,,N,4,6,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,16,250,2006
+7/12/2006,0,0,UU,,,,1,0,169,North Somerset,,E06000024,930452,6,9,1,,N,6,6,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,18,200,2006
+7/12/2006,1,0,UU,,,,3,0,171,North Somerset,,E06000024,930452,8,10,5,,N,6,3,339720,,170390,U,"South of Ashley Avenue, Clevedon",1,South West,SOUTHERN WAY,0,10,195,2006
+7/12/2006,0,0,UU,,,,3,0,167,North Somerset,,E06000024,930452,4,11,1,,N,4,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,10,188,2006
+7/12/2006,0,0,UU,,,,1,0,154,North Somerset,,E06000024,930452,3,12,4,,N,3,2,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,19,179,2006
+7/12/2006,0,0,UU,,,,2,0,177,North Somerset,,E06000024,930452,3,13,2,,N,2,2,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,1,17,201,2006
+7/12/2006,0,0,UU,,,,2,0,171,North Somerset,,E06000024,930452,2,14,1,,N,2,8,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,13,196,2006
+7/12/2006,0,0,UU,,,,2,0,208,North Somerset,,E06000024,930452,0,15,5,,N,0,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,25,239,2006
+7/12/2006,0,0,UU,,,,2,0,194,North Somerset,,E06000024,930452,1,16,7,,N,1,5,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,26,228,2006
+7/12/2006,0,0,UU,,,,1,0,152,North Somerset,,E06000024,930452,1,17,9,,N,1,2,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,19,175,2006
+7/12/2006,0,0,UU,,,,5,0,207,North Somerset,,E06000024,930452,1,18,10,,N,1,6,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,21,240,2006
+7/12/2006,0,0,UU,,,,0,1,122,North Somerset,,E06000024,930452,8,7,1,,S,6,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,1,17,151,2006
+7/12/2006,0,0,UU,,,,0,0,264,North Somerset,,E06000024,930452,4,8,8,,S,4,5,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,24,297,2006
+7/12/2006,1,0,UU,,,,2,0,173,North Somerset,,E06000024,930452,5,9,3,,S,4,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,19,203,2006
+7/12/2006,0,0,UU,,,,1,0,165,North Somerset,,E06000024,930452,5,10,2,,S,4,8,339720,,170390,U,"South of Ashley Avenue, Clevedon",1,South West,SOUTHERN WAY,0,20,199,2006
+7/12/2006,2,0,UU,,,,1,0,164,North Somerset,,E06000024,930452,11,11,4,,S,9,6,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,18,200,2006
+7/12/2006,0,0,UU,,,,0,0,201,North Somerset,,E06000024,930452,6,12,1,,S,6,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,11,222,2006
+7/12/2006,0,0,UU,,,,1,0,174,North Somerset,,E06000024,930452,4,13,1,,S,3,3,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,1,20,202,2006
+7/12/2006,0,0,UU,,,,7,0,192,North Somerset,,E06000024,930452,2,14,2,,S,2,6,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,23,230,2006
+7/12/2006,0,0,UU,,,,2,1,172,North Somerset,,E06000024,930452,2,15,4,,S,1,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,25,205,2006
+7/12/2006,0,0,UU,,,,8,0,234,North Somerset,,E06000024,930452,1,16,5,,S,1,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,20,267,2006
+7/12/2006,0,0,UU,,,,3,0,262,North Somerset,,E06000024,930452,2,17,10,,S,2,4,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,10,281,2006
+7/12/2006,0,0,UU,,,,2,0,184,North Somerset,,E06000024,930452,2,18,5,,S,2,3,339720,,170390,U,"South of Ashley Avenue, Clevedon",0,South West,SOUTHERN WAY,0,23,214,2006
+7/26/2006,0,0,UU,,,,1,0,15,"Bristol, City of",,E06000023,969256,2,7,0,,N,2,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,3,21,2006
+7/26/2006,0,0,UU,,,,1,0,41,"Bristol, City of",,E06000023,969256,0,8,1,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,5,47,2006
+7/26/2006,0,0,UU,,,,0,0,25,"Bristol, City of",,E06000023,969256,0,9,1,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,4,29,2006
+7/26/2006,0,0,UU,,,,1,0,45,"Bristol, City of",,E06000023,969256,0,10,0,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,8,54,2006
+7/26/2006,1,0,UU,,,,0,0,25,"Bristol, City of",,E06000023,969256,1,11,2,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,4,30,2006
+7/26/2006,0,0,UU,,,,1,0,35,"Bristol, City of",,E06000023,969256,3,12,0,,N,3,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,12,51,2006
+7/26/2006,0,0,UU,,,,1,0,21,"Bristol, City of",,E06000023,969256,1,13,0,,N,1,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,3,26,2006
+7/26/2006,0,0,UU,,,,0,0,31,"Bristol, City of",,E06000023,969256,1,14,0,,N,1,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,5,37,2006
+7/26/2006,0,0,UU,,,,1,0,29,"Bristol, City of",,E06000023,969256,0,15,1,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,4,34,2006
+7/26/2006,0,0,UU,,,,0,0,48,"Bristol, City of",,E06000023,969256,0,16,1,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,4,52,2006
+7/26/2006,0,0,UU,,,,0,0,46,"Bristol, City of",,E06000023,969256,2,17,1,,N,2,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,4,52,2006
+7/26/2006,0,0,UU,,,,1,0,38,"Bristol, City of",,E06000023,969256,0,18,2,,N,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,1,40,2006
+7/26/2006,0,0,UU,,,,0,0,18,"Bristol, City of",,E06000023,969256,0,7,3,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,3,21,2006
+7/26/2006,0,0,UU,,,,0,0,25,"Bristol, City of",,E06000023,969256,0,8,1,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,8,33,2006
+7/26/2006,0,0,UU,,,,0,0,32,"Bristol, City of",,E06000023,969256,1,9,2,,S,1,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,3,36,2006
+7/26/2006,1,0,UU,,,,0,0,41,"Bristol, City of",,E06000023,969256,1,10,0,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,9,51,2006
+7/26/2006,0,0,UU,,,,1,0,13,"Bristol, City of",,E06000023,969256,0,11,1,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,7,21,2006
+7/26/2006,0,0,UU,,,,2,0,32,"Bristol, City of",,E06000023,969256,1,12,0,,S,1,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,6,41,2006
+7/26/2006,0,0,UU,,,,0,0,20,"Bristol, City of",,E06000023,969256,0,13,0,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,3,23,2006
+7/26/2006,0,0,UU,,,,0,0,35,"Bristol, City of",,E06000023,969256,0,14,0,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,5,40,2006
+7/26/2006,0,0,UU,,,,1,0,27,"Bristol, City of",,E06000023,969256,0,15,0,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,1,29,2006
+7/26/2006,0,0,UU,,,,0,0,36,"Bristol, City of",,E06000023,969256,0,16,2,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,1,37,2006
+7/26/2006,0,0,UU,,,,2,0,54,"Bristol, City of",,E06000023,969256,0,17,1,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,5,61,2006
+7/26/2006,0,0,UU,,,,1,0,49,"Bristol, City of",,E06000023,969256,0,18,1,,S,0,0,359243,,175210,U,North of Grenville Road,0,South West,Effingham Road,0,0,50,2006
+7/4/2006,16,9,PU,171860,356790,356820,89,24,2465,"Bristol, City of",172270,E06000023,26128,95,7,14,A370,N,35,32,356750,A4,172000,A3029,,3,South West,,8,415,3096,2006
+7/4/2006,13,5,PU,171860,356790,356820,80,8,2516,"Bristol, City of",172270,E06000023,26128,78,8,14,A370,N,32,24,356750,A4,172000,A3029,,8,South West,,12,124,2822,2006
+7/4/2006,6,2,PU,171860,356790,356820,36,15,2022,"Bristol, City of",172270,E06000023,26128,90,9,10,A370,N,43,25,356750,A4,172000,A3029,,8,South West,,16,151,2324,2006
+7/4/2006,13,6,PU,171860,356790,356820,13,12,1432,"Bristol, City of",172270,E06000023,26128,97,10,3,A370,N,43,16,356750,A4,172000,A3029,,8,South West,,15,172,1730,2006
+7/4/2006,15,7,PU,171860,356790,356820,14,13,1247,"Bristol, City of",172270,E06000023,26128,119,11,2,A370,N,60,25,356750,A4,172000,A3029,,8,South West,,16,187,1592,2006
+7/4/2006,14,2,PU,171860,356790,356820,18,11,1270,"Bristol, City of",172270,E06000023,26128,101,12,4,A370,N,43,30,356750,A4,172000,A3029,,25,South West,,6,282,1701,2006
+7/4/2006,13,4,PU,171860,356790,356820,33,13,1483,"Bristol, City of",172270,E06000023,26128,97,13,7,A370,N,44,16,356750,A4,172000,A3029,,18,South West,,5,286,1915,2006
+7/4/2006,11,5,PU,171860,356790,356820,24,23,1604,"Bristol, City of",172270,E06000023,26128,119,14,2,A370,N,59,25,356750,A4,172000,A3029,,9,South West,,12,264,2036,2006
+7/4/2006,5,2,PU,171860,356790,356820,26,11,1728,"Bristol, City of",172270,E06000023,26128,88,15,4,A370,N,43,39,356750,A4,172000,A3029,,8,South West,,19,245,2126,2006
+7/4/2006,1,1,PU,171860,356790,356820,27,3,1707,"Bristol, City of",172270,E06000023,26128,41,16,8,A370,N,22,31,356750,A4,172000,A3029,,6,South West,,8,187,1993,2006
+7/4/2006,3,3,PU,171860,356790,356820,16,3,1631,"Bristol, City of",172270,E06000023,26128,39,17,6,A370,N,13,21,356750,A4,172000,A3029,,4,South West,,13,82,1789,2006
+7/4/2006,2,1,PU,171860,356790,356820,25,0,1604,"Bristol, City of",172270,E06000023,26128,28,18,11,A370,N,19,22,356750,A4,172000,A3029,,2,South West,,4,117,1796,2006
+7/4/2006,7,1,PU,171860,356790,356820,24,5,1283,"Bristol, City of",172270,E06000023,26128,66,7,8,A370,S,30,17,356750,A4,172000,A3029,,8,South West,,15,155,1545,2006
+7/4/2006,9,11,PU,171860,356790,356820,22,9,1330,"Bristol, City of",172270,E06000023,26128,90,8,14,A370,S,43,25,356750,A4,172000,A3029,,7,South West,,11,150,1617,2006
+7/4/2006,14,2,PU,171860,356790,356820,12,10,1235,"Bristol, City of",172270,E06000023,26128,96,9,1,A370,S,43,31,356750,A4,172000,A3029,,20,South West,,7,237,1611,2006
+7/4/2006,11,1,PU,171860,356790,356820,23,10,1258,"Bristol, City of",172270,E06000023,26128,98,10,1,A370,S,52,30,356750,A4,172000,A3029,,14,South West,,10,286,1695,2006
+7/4/2006,5,8,PU,171860,356790,356820,6,17,1472,"Bristol, City of",172270,E06000023,26128,96,11,0,A370,S,41,23,356750,A4,172000,A3029,,12,South West,,13,304,1901,2006
+7/4/2006,11,5,PU,171860,356790,356820,22,18,1569,"Bristol, City of",172270,E06000023,26128,97,12,9,A370,S,46,21,356750,A4,172000,A3029,,3,South West,,14,259,1968,2006
+7/4/2006,10,4,PU,171860,356790,356820,14,19,1276,"Bristol, City of",172270,E06000023,26128,86,13,3,A370,S,36,28,356750,A4,172000,A3029,,11,South West,,6,175,1579,2006
+7/4/2006,7,4,PU,171860,356790,356820,15,12,1478,"Bristol, City of",172270,E06000023,26128,76,14,10,A370,S,33,19,356750,A4,172000,A3029,,8,South West,,12,179,1767,2006
+7/4/2006,5,4,PU,171860,356790,356820,35,12,1850,"Bristol, City of",172270,E06000023,26128,81,15,1,A370,S,39,27,356750,A4,172000,A3029,,12,South West,,9,313,2306,2006
+7/4/2006,3,4,PU,171860,356790,356820,96,8,2352,"Bristol, City of",172270,E06000023,26128,47,16,14,A370,S,24,30,356750,A4,172000,A3029,,4,South West,,4,365,2890,2006
+7/4/2006,6,3,PU,171860,356790,356820,74,2,2673,"Bristol, City of",172270,E06000023,26128,31,17,25,A370,S,14,27,356750,A4,172000,A3029,,3,South West,,3,101,2906,2006
+7/4/2006,2,0,PU,171860,356790,356820,49,3,2226,"Bristol, City of",172270,E06000023,26128,19,18,22,A370,S,8,33,356750,A4,172000,A3029,,1,South West,,5,66,2393,2006
+7/4/2006,3,0,PU,172270,357080,356790,9,1,255,"Bristol, City of",172220,E06000023,48663,11,7,4,A3029 Merchants Road,E,7,3,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,22,300,2006
+7/4/2006,0,0,PU,172270,357080,356790,4,2,385,"Bristol, City of",172220,E06000023,48663,10,8,9,A3029 Merchants Road,E,7,2,357000,A3029 Brunel Way,172233,A3029,,1,South West,,0,28,429,2006
+7/4/2006,1,0,PU,172270,357080,356790,2,0,244,"Bristol, City of",172220,E06000023,48663,8,9,5,A3029 Merchants Road,E,7,7,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,30,291,2006
+7/4/2006,0,0,PU,172270,357080,356790,2,1,175,"Bristol, City of",172220,E06000023,48663,8,10,8,A3029 Merchants Road,E,6,2,357000,A3029 Brunel Way,172233,A3029,,1,South West,,0,24,211,2006
+7/4/2006,3,0,PU,172270,357080,356790,3,2,182,"Bristol, City of",172220,E06000023,48663,10,11,3,A3029 Merchants Road,E,5,5,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,32,232,2006
+7/4/2006,0,0,PU,172270,357080,356790,2,1,172,"Bristol, City of",172220,E06000023,48663,8,12,4,A3029 Merchants Road,E,6,3,357000,A3029 Brunel Way,172233,A3029,,1,South West,,0,8,193,2006
+7/4/2006,1,0,PU,172270,357080,356790,1,0,222,"Bristol, City of",172220,E06000023,48663,6,13,8,A3029 Merchants Road,E,5,7,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,24,260,2006
+7/4/2006,1,0,PU,172270,357080,356790,1,1,188,"Bristol, City of",172220,E06000023,48663,10,14,2,A3029 Merchants Road,E,8,5,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,21,225,2006
+7/4/2006,1,0,PU,172270,357080,356790,4,1,267,"Bristol, City of",172220,E06000023,48663,11,15,1,A3029 Merchants Road,E,8,3,357000,A3029 Brunel Way,172233,A3029,,0,South West,,1,28,313,2006
+7/4/2006,0,0,PU,172270,357080,356790,7,0,334,"Bristol, City of",172220,E06000023,48663,3,16,7,A3029 Merchants Road,E,3,1,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,15,360,2006
+7/4/2006,0,0,PU,172270,357080,356790,10,0,558,"Bristol, City of",172220,E06000023,48663,3,17,9,A3029 Merchants Road,E,3,2,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,14,587,2006
+7/4/2006,0,0,PU,172270,357080,356790,4,0,485,"Bristol, City of",172220,E06000023,48663,0,18,11,A3029 Merchants Road,E,0,2,357000,A3029 Brunel Way,172233,A3029,,0,South West,,0,6,497,2006
+7/4/2006,14,10,PU,172270,356860,356790,69,23,1983,"Bristol, City of",172400,E06000023,58285,101,7,14,A4 midpoint,N,42,35,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,4,South West,,8,387,2575,2006
+7/4/2006,11,6,PU,172270,356860,356790,69,10,2136,"Bristol, City of",172400,E06000023,58285,84,8,10,A4 midpoint,N,34,26,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,9,South West,,14,274,2589,2006
+7/4/2006,6,7,PU,172270,356860,356790,29,14,1777,"Bristol, City of",172400,E06000023,58285,111,9,9,A4 midpoint,N,61,34,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,7,South West,,16,331,2282,2006
+7/4/2006,14,4,PU,172270,356860,356790,16,14,1311,"Bristol, City of",172400,E06000023,58285,105,10,4,A4 midpoint,N,46,25,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,10,South West,,17,261,1718,2006
+7/4/2006,14,7,PU,172270,356860,356790,18,17,1149,"Bristol, City of",172400,E06000023,58285,138,11,2,A4 midpoint,N,76,29,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,7,South West,,17,249,1583,2006
+7/4/2006,8,6,PU,172270,356860,356790,21,14,1298,"Bristol, City of",172400,E06000023,58285,109,12,3,A4 midpoint,N,51,28,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,12,South West,,18,273,1729,2006
+7/4/2006,10,4,PU,172270,356860,356790,27,19,1298,"Bristol, City of",172400,E06000023,58285,117,13,8,A4 midpoint,N,60,18,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,8,South West,,16,251,1711,2006
+7/4/2006,10,3,PU,172270,356860,356790,24,28,1404,"Bristol, City of",172400,E06000023,58285,126,14,3,A4 midpoint,N,63,30,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,10,South West,,12,233,1817,2006
+7/4/2006,3,2,PU,172270,356860,356790,31,11,1333,"Bristol, City of",172400,E06000023,58285,102,15,3,A4 midpoint,N,58,40,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,8,South West,,20,214,1720,2006
+7/4/2006,2,1,PU,172270,356860,356790,35,2,1684,"Bristol, City of",172400,E06000023,58285,43,16,7,A4 midpoint,N,23,40,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,6,South West,,9,254,2056,2006
+7/4/2006,3,4,PU,172270,356860,356790,38,3,1631,"Bristol, City of",172400,E06000023,58285,42,17,7,A4 midpoint,N,16,28,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,5,South West,,11,156,1895,2006
+7/4/2006,2,0,PU,172270,356860,356790,22,1,1749,"Bristol, City of",172400,E06000023,58285,30,18,10,A4 midpoint,N,20,31,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,2,South West,,5,108,1940,2006
+7/4/2006,5,5,PU,172270,356860,356790,32,4,1177,"Bristol, City of",172400,E06000023,58285,71,7,6,A4 midpoint,S,36,10,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,9,South West,,12,217,1507,2006
+7/4/2006,9,12,PU,172270,356860,356790,25,12,1498,"Bristol, City of",172400,E06000023,58285,96,8,7,A4 midpoint,S,47,8,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,9,South West,,7,171,1798,2006
+7/4/2006,10,7,PU,172270,356860,356790,12,11,1116,"Bristol, City of",172400,E06000023,58285,91,9,0,A4 midpoint,S,39,20,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,11,South West,,13,178,1417,2006
+7/4/2006,9,5,PU,172270,356860,356790,20,10,1224,"Bristol, City of",172400,E06000023,58285,109,10,1,A4 midpoint,S,64,9,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,9,South West,,12,242,1604,2006
+7/4/2006,4,6,PU,172270,356860,356790,5,19,1209,"Bristol, City of",172400,E06000023,58285,109,11,1,A4 midpoint,S,55,8,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,12,South West,,13,245,1576,2006
+7/4/2006,11,6,PU,172270,356860,356790,20,18,1309,"Bristol, City of",172400,E06000023,58285,123,12,3,A4 midpoint,S,71,5,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,7,South West,,10,222,1679,2006
+7/4/2006,9,2,PU,172270,356860,356790,12,23,1206,"Bristol, City of",172400,E06000023,58285,96,13,4,A4 midpoint,S,42,13,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,10,South West,,10,233,1560,2006
+7/4/2006,5,3,PU,172270,356860,356790,20,17,1407,"Bristol, City of",172400,E06000023,58285,92,14,4,A4 midpoint,S,44,6,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,14,South West,,9,255,1780,2006
+7/4/2006,6,4,PU,172270,356860,356790,26,10,1607,"Bristol, City of",172400,E06000023,58285,88,15,1,A4 midpoint,S,45,8,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,10,South West,,13,250,1979,2006
+7/4/2006,3,7,PU,172270,356860,356790,101,8,2140,"Bristol, City of",172400,E06000023,58285,60,16,9,A4 midpoint,S,33,4,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,6,South West,,3,339,2644,2006
+7/4/2006,3,1,PU,172270,356860,356790,54,2,2342,"Bristol, City of",172400,E06000023,58285,30,17,5,A4 midpoint,S,17,6,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,2,South West,,5,215,2647,2006
+7/4/2006,0,1,PU,172270,356860,356790,39,3,1897,"Bristol, City of",172400,E06000023,58285,19,18,11,A4 midpoint,S,8,14,356840,A3029 Brunel Lock Road/McAdam Way,172360,A3029,,2,South West,,5,130,2099,2006
+7/4/2006,1,1,PU,172270,357080,356790,5,0,74,"Bristol, City of",172220,E06000023,74780,2,7,1,A3029 Merchants Road,W,0,11,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,13,105,2006
+7/4/2006,0,0,PU,172270,357080,356790,4,0,90,"Bristol, City of",172220,E06000023,74780,1,8,7,A3029 Merchants Road,W,1,17,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,17,129,2006
+7/4/2006,0,0,PU,172270,357080,356790,1,0,50,"Bristol, City of",172220,E06000023,74780,4,9,0,A3029 Merchants Road,W,3,12,356900,A3029 Brunel Way,172240,A3029,,1,South West,,0,21,88,2006
+7/4/2006,0,0,PU,172270,357080,356790,4,0,63,"Bristol, City of",172220,E06000023,74780,2,10,2,A3029 Merchants Road,W,2,13,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,18,100,2006
+7/4/2006,0,0,PU,172270,357080,356790,3,0,63,"Bristol, City of",172220,E06000023,74780,4,11,1,A3029 Merchants Road,W,4,12,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,22,104,2006
+7/4/2006,1,0,PU,172270,357080,356790,2,0,83,"Bristol, City of",172220,E06000023,74780,3,12,1,A3029 Merchants Road,W,1,13,356900,A3029 Brunel Way,172240,A3029,,0,South West,,1,18,119,2006
+7/4/2006,0,0,PU,172270,357080,356790,2,0,72,"Bristol, City of",172220,E06000023,74780,2,13,0,A3029 Merchants Road,W,2,19,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,13,108,2006
+7/4/2006,0,0,PU,172270,357080,356790,2,1,78,"Bristol, City of",172220,E06000023,74780,2,14,2,A3029 Merchants Road,W,1,18,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,16,116,2006
+7/4/2006,0,0,PU,172270,357080,356790,18,0,103,"Bristol, City of",172220,E06000023,74780,8,15,1,A3029 Merchants Road,W,8,16,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,23,168,2006
+7/4/2006,0,0,PU,172270,357080,356790,13,0,191,"Bristol, City of",172220,E06000023,74780,3,16,3,A3029 Merchants Road,W,3,24,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,30,261,2006
+7/4/2006,0,0,PU,172270,357080,356790,17,0,222,"Bristol, City of",172220,E06000023,74780,2,17,11,A3029 Merchants Road,W,2,22,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,16,279,2006
+7/4/2006,0,0,PU,172270,357080,356790,10,0,157,"Bristol, City of",172220,E06000023,74780,1,18,12,A3029 Merchants Road,W,1,18,356900,A3029 Brunel Way,172240,A3029,,0,South West,,0,13,199,2006
+7/5/2006,6,1,PR,159810,353281,344800,14,4,706,North Somerset,167124,E06000024,56409,27,7,4,B3130,E,6,8,345000,A368,160000,A38,,5,South West,,5,108,863,2006
+7/5/2006,4,3,PR,159810,353281,344800,9,0,708,North Somerset,167124,E06000024,56409,23,8,2,B3130,E,10,6,345000,A368,160000,A38,,4,South West,,2,82,828,2006
+7/5/2006,3,3,PR,159810,353281,344800,4,3,436,North Somerset,167124,E06000024,56409,26,9,1,B3130,E,12,5,345000,A368,160000,A38,,3,South West,,2,49,520,2006
+7/5/2006,5,4,PR,159810,353281,344800,6,2,343,North Somerset,167124,E06000024,56409,42,10,0,B3130,E,22,5,345000,A368,160000,A38,,4,South West,,5,59,455,2006
+7/5/2006,5,2,PR,159810,353281,344800,2,4,335,North Somerset,167124,E06000024,56409,27,11,2,B3130,E,15,2,345000,A368,160000,A38,,1,South West,,0,64,430,2006
+7/5/2006,3,2,PR,159810,353281,344800,5,10,376,North Somerset,167124,E06000024,56409,37,12,0,B3130,E,14,2,345000,A368,160000,A38,,4,South West,,4,59,479,2006
+7/5/2006,3,2,PR,159810,353281,344800,2,1,371,North Somerset,167124,E06000024,56409,30,13,2,B3130,E,18,2,345000,A368,160000,A38,,1,South West,,5,65,470,2006
+7/5/2006,3,3,PR,159810,353281,344800,4,3,392,North Somerset,167124,E06000024,56409,29,14,4,B3130,E,15,3,345000,A368,160000,A38,,3,South West,,2,45,473,2006
+7/5/2006,3,1,PR,159810,353281,344800,3,0,494,North Somerset,167124,E06000024,56409,31,15,4,B3130,E,18,6,345000,A368,160000,A38,,7,South West,,2,54,588,2006
+7/5/2006,1,2,PR,159810,353281,344800,6,3,537,North Somerset,167124,E06000024,56409,28,16,1,B3130,E,13,2,345000,A368,160000,A38,,7,South West,,2,89,662,2006
+7/5/2006,2,0,PR,159810,353281,344800,8,0,588,North Somerset,167124,E06000024,56409,11,17,3,B3130,E,5,3,345000,A368,160000,A38,,3,South West,,1,76,686,2006
+7/5/2006,1,1,PR,159810,353281,344800,3,0,383,North Somerset,167124,E06000024,56409,8,18,3,B3130,E,4,5,345000,A368,160000,A38,,2,South West,,0,39,438,2006
+7/5/2006,3,3,PR,159810,353281,344800,4,4,193,North Somerset,167124,E06000024,56409,34,7,2,B3130,W,18,4,345000,A368,160000,A38,,1,South West,,5,75,310,2006
+7/5/2006,2,4,PR,159810,353281,344800,7,3,402,North Somerset,167124,E06000024,56409,46,8,1,B3130,W,30,7,345000,A368,160000,A38,,3,South West,,4,101,563,2006
+7/5/2006,3,6,PR,159810,353281,344800,6,2,334,North Somerset,167124,E06000024,56409,37,9,0,B3130,W,18,5,345000,A368,160000,A38,,0,South West,,8,79,461,2006
+7/5/2006,4,4,PR,159810,353281,344800,4,3,370,North Somerset,167124,E06000024,56409,39,10,0,B3130,W,22,3,345000,A368,160000,A38,,2,South West,,4,70,486,2006
+7/5/2006,3,4,PR,159810,353281,344800,2,1,268,North Somerset,167124,E06000024,56409,31,11,0,B3130,W,19,4,345000,A368,160000,A38,,3,South West,,1,39,344,2006
+7/5/2006,2,0,PR,159810,353281,344800,2,6,295,North Somerset,167124,E06000024,56409,22,12,2,B3130,W,11,1,345000,A368,160000,A38,,2,South West,,1,48,368,2006
+7/5/2006,3,6,PR,159810,353281,344800,1,7,382,North Somerset,167124,E06000024,56409,31,13,1,B3130,W,11,3,345000,A368,160000,A38,,1,South West,,3,53,470,2006
+7/5/2006,0,4,PR,159810,353281,344800,5,5,417,North Somerset,167124,E06000024,56409,27,14,0,B3130,W,14,3,345000,A368,160000,A38,,1,South West,,3,63,515,2006
+7/5/2006,3,7,PR,159810,353281,344800,10,0,493,North Somerset,167124,E06000024,56409,31,15,0,B3130,W,12,10,345000,A368,160000,A38,,4,South West,,5,82,626,2006
+7/5/2006,2,0,PR,159810,353281,344800,8,3,724,North Somerset,167124,E06000024,56409,20,16,4,B3130,W,11,2,345000,A368,160000,A38,,3,South West,,1,103,857,2006
+7/5/2006,0,1,PR,159810,353281,344800,10,1,736,North Somerset,167124,E06000024,56409,12,17,0,B3130,W,5,3,345000,A368,160000,A38,,2,South West,,3,71,832,2006
+7/5/2006,0,3,PR,159810,353281,344800,9,1,751,North Somerset,167124,E06000024,56409,11,18,3,B3130,W,2,5,345000,A368,160000,A38,,1,South West,,4,46,822,2006
+7/5/2006,3,1,UU,,,,3,0,188,"Bristol, City of",,E06000023,930422,11,7,5,,E,7,12,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,85,299,2006
+7/5/2006,0,0,UU,,,,3,1,261,"Bristol, City of",,E06000023,930422,7,8,2,,E,6,9,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,67,347,2006
+7/5/2006,0,0,UU,,,,0,1,238,"Bristol, City of",,E06000023,930422,7,9,0,,E,6,7,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,44,296,2006
+7/5/2006,0,0,UU,,,,4,1,211,"Bristol, City of",,E06000023,930422,4,10,1,,E,3,4,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,56,279,2006
+7/5/2006,0,0,UU,,,,4,0,189,"Bristol, City of",,E06000023,930422,3,11,1,,E,3,7,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,49,252,2006
+7/5/2006,1,0,UU,,,,5,1,235,"Bristol, City of",,E06000023,930422,9,12,2,,E,7,4,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,61,314,2006
+7/5/2006,2,0,UU,,,,5,0,293,"Bristol, City of",,E06000023,930422,4,13,1,,E,2,7,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,49,358,2006
+7/5/2006,1,0,UU,,,,3,1,335,"Bristol, City of",,E06000023,930422,11,14,2,,E,9,6,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,41,396,2006
+7/5/2006,0,0,UU,,,,3,3,384,"Bristol, City of",,E06000023,930422,10,15,1,,E,7,6,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,53,456,2006
+7/5/2006,2,0,UU,,,,19,0,407,"Bristol, City of",,E06000023,930422,5,16,4,,E,3,6,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,78,515,2006
+7/5/2006,1,0,UU,,,,14,0,420,"Bristol, City of",,E06000023,930422,2,17,16,,E,1,3,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,59,498,2006
+7/5/2006,0,0,UU,,,,5,0,363,"Bristol, City of",,E06000023,930422,0,18,3,,E,0,5,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,46,419,2006
+7/5/2006,0,0,UU,,,,7,0,431,"Bristol, City of",,E06000023,930422,0,7,15,,W,0,9,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,129,576,2006
+7/5/2006,0,0,UU,,,,10,0,521,"Bristol, City of",,E06000023,930422,1,8,9,,W,0,8,360220,,167760,U,West oif Denleigh Close,1,South West,WHITCHURCH LANE,0,72,612,2006
+7/5/2006,0,0,UU,,,,5,1,413,"Bristol, City of",,E06000023,930422,3,9,0,,W,2,9,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,53,483,2006
+7/5/2006,0,0,UU,,,,4,0,200,"Bristol, City of",,E06000023,930422,3,10,5,,W,3,6,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,54,267,2006
+7/5/2006,1,1,UU,,,,4,1,298,"Bristol, City of",,E06000023,930422,7,11,2,,W,4,6,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,47,362,2006
+7/5/2006,0,0,UU,,,,2,0,252,"Bristol, City of",,E06000023,930422,4,12,2,,W,4,3,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,46,307,2006
+7/5/2006,0,0,UU,,,,7,1,291,"Bristol, City of",,E06000023,930422,10,13,2,,W,9,4,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,47,359,2006
+7/5/2006,1,0,UU,,,,6,1,224,"Bristol, City of",,E06000023,930422,6,14,0,,W,4,2,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,49,287,2006
+7/5/2006,1,0,UU,,,,1,2,296,"Bristol, City of",,E06000023,930422,9,15,3,,W,6,3,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,60,369,2006
+7/5/2006,2,0,UU,,,,6,1,228,"Bristol, City of",,E06000023,930422,6,16,1,,W,3,7,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,67,314,2006
+7/5/2006,0,0,UU,,,,6,0,379,"Bristol, City of",,E06000023,930422,3,17,1,,W,3,4,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,52,444,2006
+7/5/2006,0,0,UU,,,,7,0,360,"Bristol, City of",,E06000023,930422,2,18,3,,W,2,8,360220,,167760,U,West oif Denleigh Close,0,South West,WHITCHURCH LANE,0,32,409,2006
+7/10/2006,0,0,CR,,,,1,0,37,North Somerset,,E06000024,945731,0,7,0,,E,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,44,2006
+7/10/2006,0,0,CR,,,,1,0,44,North Somerset,,E06000024,945731,0,8,0,,E,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,51,2006
+7/10/2006,0,0,CR,,,,0,0,32,North Somerset,,E06000024,945731,1,9,0,,E,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,9,43,2006
+7/10/2006,0,0,CR,,,,0,0,25,North Somerset,,E06000024,945731,1,10,1,,E,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,9,36,2006
+7/10/2006,0,0,CR,,,,0,0,28,North Somerset,,E06000024,945731,0,11,1,,E,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,11,40,2006
+7/10/2006,0,0,CR,,,,0,0,31,North Somerset,,E06000024,945731,2,12,0,,E,2,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,6,40,2006
+7/10/2006,0,0,CR,,,,0,0,33,North Somerset,,E06000024,945731,3,13,1,,E,3,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,3,40,2006
+7/10/2006,0,0,CR,,,,1,0,23,North Somerset,,E06000024,945731,1,14,0,,E,1,2,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,3,30,2006
+7/10/2006,0,0,CR,,,,0,0,43,North Somerset,,E06000024,945731,1,15,0,,E,1,2,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,51,2006
+7/10/2006,0,0,CR,,,,1,0,51,North Somerset,,E06000024,945731,1,16,1,,E,1,0,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,58,2006
+7/10/2006,0,0,CR,,,,2,0,74,North Somerset,,E06000024,945731,1,17,1,,E,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,7,85,2006
+7/10/2006,0,0,CR,,,,2,0,70,North Somerset,,E06000024,945731,0,18,0,,E,0,0,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,77,2006
+7/10/2006,0,0,CR,,,,3,0,59,North Somerset,,E06000024,945731,0,7,0,,W,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,3,66,2006
+7/10/2006,0,0,CR,,,,2,0,71,North Somerset,,E06000024,945731,0,8,0,,W,0,2,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,9,84,2006
+7/10/2006,0,0,CR,,,,1,0,52,North Somerset,,E06000024,945731,0,9,0,,W,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,8,62,2006
+7/10/2006,0,0,CR,,,,0,0,39,North Somerset,,E06000024,945731,1,10,1,,W,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,46,2006
+7/10/2006,0,0,CR,,,,1,0,33,North Somerset,,E06000024,945731,3,11,0,,W,3,0,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,7,44,2006
+7/10/2006,0,0,CR,,,,0,0,27,North Somerset,,E06000024,945731,2,12,0,,W,2,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,10,40,2006
+7/10/2006,0,0,CR,,,,1,0,30,North Somerset,,E06000024,945731,1,13,0,,W,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,38,2006
+7/10/2006,0,0,CR,,,,0,0,40,North Somerset,,E06000024,945731,1,14,0,,W,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,5,47,2006
+7/10/2006,0,0,CR,,,,0,0,27,North Somerset,,E06000024,945731,2,15,0,,W,2,2,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,2,33,2006
+7/10/2006,0,0,CR,,,,0,0,42,North Somerset,,E06000024,945731,1,16,0,,W,1,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,9,53,2006
+7/10/2006,0,0,CR,,,,4,0,74,North Somerset,,E06000024,945731,0,17,1,,W,0,1,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,6,85,2006
+7/10/2006,0,0,CR,,,,2,0,52,North Somerset,,E06000024,945731,0,18,0,,W,0,0,348438,,162853,C,"East of School Lane, Wrington",0,South West,Long Lane,0,6,60,2006
+7/11/2006,3,3,PU,178978,360465,360131,34,22,1129,South Gloucestershire,180663,E06000025,16374,59,7,66,B4057,N,29,16,360460,A4174,180000,A38,,1,South West,,1,45,1283,2006
+7/11/2006,5,3,PU,178978,360465,360131,18,14,1314,South Gloucestershire,180663,E06000025,16374,47,8,94,B4057,N,21,21,360460,A4174,180000,A38,,3,South West,,1,38,1438,2006
+7/11/2006,7,1,PU,178978,360465,360131,23,23,927,South Gloucestershire,180663,E06000025,16374,56,9,28,B4057,N,21,29,360460,A4174,180000,A38,,2,South West,,2,113,1148,2006
+7/11/2006,5,0,PU,178978,360465,360131,9,32,863,South Gloucestershire,180663,E06000025,16374,73,10,15,B4057,N,30,22,360460,A4174,180000,A38,,2,South West,,4,127,1094,2006
+7/11/2006,17,5,PU,178978,360465,360131,10,20,910,South Gloucestershire,180663,E06000025,16374,98,11,7,B4057,N,53,15,360460,A4174,180000,A38,,1,South West,,2,184,1217,2006
+7/11/2006,6,1,PU,178978,360465,360131,17,20,1010,South Gloucestershire,180663,E06000025,16374,75,12,5,B4057,N,43,24,360460,A4174,180000,A38,,3,South West,,2,167,1293,2006
+7/11/2006,9,5,PU,178978,360465,360131,26,30,1109,South Gloucestershire,180663,E06000025,16374,99,13,13,B4057,N,51,24,360460,A4174,180000,A38,,2,South West,,2,99,1357,2006
+7/11/2006,5,5,PU,178978,360465,360131,14,27,1119,South Gloucestershire,180663,E06000025,16374,85,14,23,B4057,N,45,21,360460,A4174,180000,A38,,2,South West,,1,67,1306,2006
+7/11/2006,6,1,PU,178978,360465,360131,37,17,1356,South Gloucestershire,180663,E06000025,16374,52,15,23,B4057,N,26,17,360460,A4174,180000,A38,,2,South West,,0,108,1570,2006
+7/11/2006,6,1,PU,178978,360465,360131,71,20,2308,South Gloucestershire,180663,E06000025,16374,46,16,72,B4057,N,13,26,360460,A4174,180000,A38,,3,South West,,3,101,2552,2006
+7/11/2006,2,2,PU,178978,360465,360131,71,3,1752,South Gloucestershire,180663,E06000025,16374,21,17,63,B4057,N,13,26,360460,A4174,180000,A38,,0,South West,,1,151,2021,2006
+7/11/2006,0,1,PU,178978,360465,360131,46,1,1349,South Gloucestershire,180663,E06000025,16374,12,18,27,B4057,N,9,28,360460,A4174,180000,A38,,0,South West,,1,106,1541,2006
+7/11/2006,9,1,PU,178978,360465,360131,70,24,3667,South Gloucestershire,180663,E06000025,16374,66,7,61,B4057,S,26,30,360460,A4174,180000,A38,,5,South West,,1,233,4066,2006
+7/11/2006,10,1,PU,178978,360465,360131,65,29,3092,South Gloucestershire,180663,E06000025,16374,83,8,42,B4057,S,34,27,360460,A4174,180000,A38,,7,South West,,2,221,3488,2006
+7/11/2006,7,2,PU,178978,360465,360131,39,38,1293,South Gloucestershire,180663,E06000025,16374,98,9,5,B4057,S,48,29,360460,A4174,180000,A38,,2,South West,,1,146,1605,2006
+7/11/2006,15,5,PU,178978,360465,360131,8,35,928,South Gloucestershire,180663,E06000025,16374,142,10,5,B4057,S,79,24,360460,A4174,180000,A38,,4,South West,,4,94,1196,2006
+7/11/2006,16,0,PU,178978,360465,360131,10,33,910,South Gloucestershire,180663,E06000025,16374,126,11,5,B4057,S,70,27,360460,A4174,180000,A38,,4,South West,,3,112,1185,2006
+7/11/2006,12,3,PU,178978,360465,360131,20,30,1140,South Gloucestershire,180663,E06000025,16374,75,12,15,B4057,S,25,24,360460,A4174,180000,A38,,1,South West,,4,111,1370,2006
+7/11/2006,8,1,PU,178978,360465,360131,31,33,1232,South Gloucestershire,180663,E06000025,16374,81,13,8,B4057,S,30,21,360460,A4174,180000,A38,,5,South West,,4,108,1473,2006
+7/11/2006,10,2,PU,178978,360465,360131,16,28,1012,South Gloucestershire,180663,E06000025,16374,79,14,9,B4057,S,31,29,360460,A4174,180000,A38,,6,South West,,2,139,1275,2006
+7/11/2006,4,0,PU,178978,360465,360131,20,24,1078,South Gloucestershire,180663,E06000025,16374,64,15,31,B4057,S,32,24,360460,A4174,180000,A38,,3,South West,,1,153,1339,2006
+7/11/2006,4,1,PU,178978,360465,360131,27,15,1299,South Gloucestershire,180663,E06000025,16374,46,16,58,B4057,S,22,26,360460,A4174,180000,A38,,2,South West,,2,56,1454,2006
+7/11/2006,2,0,PU,178978,360465,360131,43,3,1402,South Gloucestershire,180663,E06000025,16374,19,17,100,B4057,S,7,15,360460,A4174,180000,A38,,2,South West,,5,69,1548,2006
+7/11/2006,0,1,PU,178978,360465,360131,19,1,1272,South Gloucestershire,180663,E06000025,16374,4,18,61,B4057,S,0,21,360460,A4174,180000,A38,,0,South West,,2,49,1365,2006
+7/11/2006,4,0,BU,,,,7,2,423,South Gloucestershire,,E06000025,990070,25,7,2,,N,14,8,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",4,South West,Goose Green Way,1,81,544,2006
+7/11/2006,4,0,BU,,,,3,3,633,South Gloucestershire,,E06000025,990070,21,8,5,,N,10,6,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",4,South West,Goose Green Way,0,52,715,2006
+7/11/2006,1,0,BU,,,,1,0,446,South Gloucestershire,,E06000025,990070,20,9,2,,N,12,3,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",7,South West,Goose Green Way,0,47,517,2006
+7/11/2006,2,0,BU,,,,2,1,320,South Gloucestershire,,E06000025,990070,15,10,1,,N,5,5,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",6,South West,Goose Green Way,1,48,390,2006
+7/11/2006,2,0,BU,,,,3,0,411,South Gloucestershire,,E06000025,990070,16,11,1,,N,10,6,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",2,South West,Goose Green Way,2,56,492,2006
+7/11/2006,4,0,BU,,,,2,2,340,South Gloucestershire,,E06000025,990070,24,12,1,,N,12,7,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",5,South West,Goose Green Way,1,23,396,2006
+7/11/2006,4,1,BU,,,,5,1,434,South Gloucestershire,,E06000025,990070,37,13,3,,N,23,2,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",5,South West,Goose Green Way,3,43,521,2006
+7/11/2006,4,0,BU,,,,5,0,414,South Gloucestershire,,E06000025,990070,48,14,2,,N,35,5,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",8,South West,Goose Green Way,1,34,506,2006
+7/11/2006,5,0,BU,,,,3,5,542,South Gloucestershire,,E06000025,990070,43,15,1,,N,28,6,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",4,South West,Goose Green Way,1,48,642,2006
+7/11/2006,5,0,BU,,,,6,4,560,South Gloucestershire,,E06000025,990070,22,16,0,,N,10,5,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",3,South West,Goose Green Way,0,62,655,2006
+7/11/2006,1,0,BU,,,,2,0,743,South Gloucestershire,,E06000025,990070,7,17,5,,N,2,0,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",3,South West,Goose Green Way,1,42,794,2006
+7/11/2006,1,0,BU,,,,8,0,517,South Gloucestershire,,E06000025,990070,10,18,7,,N,6,4,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",2,South West,Goose Green Way,1,28,567,2006
+7/11/2006,10,0,BU,,,,3,6,280,South Gloucestershire,,E06000025,990070,35,7,0,,S,10,9,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",7,South West,Goose Green Way,2,55,382,2006
+7/11/2006,6,0,BU,,,,2,3,511,South Gloucestershire,,E06000025,990070,43,8,9,,S,29,3,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",3,South West,Goose Green Way,2,47,606,2006
+7/11/2006,4,1,BU,,,,5,1,446,South Gloucestershire,,E06000025,990070,45,9,0,,S,35,6,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",4,South West,Goose Green Way,0,43,545,2006
+7/11/2006,3,0,BU,,,,3,0,359,South Gloucestershire,,E06000025,990070,22,10,2,,S,11,3,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",6,South West,Goose Green Way,2,45,432,2006
+7/11/2006,4,0,BU,,,,1,2,371,South Gloucestershire,,E06000025,990070,22,11,0,,S,12,1,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",2,South West,Goose Green Way,2,48,443,2006
+7/11/2006,5,0,BU,,,,3,0,402,South Gloucestershire,,E06000025,990070,23,12,0,,S,11,4,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",2,South West,Goose Green Way,5,50,482,2006
+7/11/2006,3,0,BU,,,,5,1,401,South Gloucestershire,,E06000025,990070,18,13,0,,S,8,1,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",5,South West,Goose Green Way,1,43,468,2006
+7/11/2006,2,0,BU,,,,4,3,429,South Gloucestershire,,E06000025,990070,23,14,3,,S,11,2,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",5,South West,Goose Green Way,2,53,511,2006
+7/11/2006,5,3,BU,,,,3,3,591,South Gloucestershire,,E06000025,990070,19,15,2,,S,6,5,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",2,South West,Goose Green Way,0,42,660,2006
+7/11/2006,4,1,BU,,,,9,4,577,South Gloucestershire,,E06000025,990070,29,16,3,,S,11,4,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",4,South West,Goose Green Way,5,85,704,2006
+7/11/2006,3,0,BU,,,,8,3,630,South Gloucestershire,,E06000025,990070,12,17,2,,S,3,2,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",1,South West,Goose Green Way,2,69,721,2006
+7/11/2006,2,0,BU,,,,7,0,466,South Gloucestershire,,E06000025,990070,10,18,3,,S,7,2,371670,,183390,B4059,"S/O B4060 Peg Hill, Yate",1,South West,Goose Green Way,0,35,520,2006
+7/3/2006,0,0,UU,,,,5,0,368,"Bristol, City of",,E06000023,952443,1,7,15,,N,1,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,44,422,2006
+7/3/2006,0,0,UU,,,,8,0,415,"Bristol, City of",,E06000023,952443,7,8,14,,N,7,5,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,31,466,2006
+7/3/2006,0,0,UU,,,,4,0,227,"Bristol, City of",,E06000023,952443,2,9,9,,N,2,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,25,261,2006
+7/3/2006,0,0,UU,,,,5,0,192,"Bristol, City of",,E06000023,952443,2,10,2,,N,2,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,22,225,2006
+7/3/2006,0,0,UU,,,,3,0,188,"Bristol, City of",,E06000023,952443,2,11,2,,N,2,5,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,28,226,2006
+7/3/2006,0,0,UU,,,,2,0,210,"Bristol, City of",,E06000023,952443,5,12,1,,N,5,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,32,253,2006
+7/3/2006,1,0,UU,,,,0,0,229,"Bristol, City of",,E06000023,952443,9,13,4,,N,8,2,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,15,255,2006
+7/3/2006,0,0,UU,,,,0,1,214,"Bristol, City of",,E06000023,952443,1,14,4,,N,0,2,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,32,249,2006
+7/3/2006,0,0,UU,,,,3,0,195,"Bristol, City of",,E06000023,952443,2,15,2,,N,2,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,20,223,2006
+7/3/2006,0,0,UU,,,,3,0,197,"Bristol, City of",,E06000023,952443,0,16,4,,N,0,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,17,220,2006
+7/3/2006,0,0,UU,,,,1,0,229,"Bristol, City of",,E06000023,952443,1,17,14,,N,1,2,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,23,256,2006
+7/3/2006,0,0,UU,,,,5,0,219,"Bristol, City of",,E06000023,952443,1,18,5,,N,1,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,4,232,2006
+7/3/2006,0,0,UU,,,,2,0,91,"Bristol, City of",,E06000023,952443,0,7,15,,S,0,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,14,110,2006
+7/3/2006,0,0,UU,,,,3,0,129,"Bristol, City of",,E06000023,952443,2,8,5,,S,2,5,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,11,150,2006
+7/3/2006,1,0,UU,,,,0,0,145,"Bristol, City of",,E06000023,952443,5,9,4,,S,4,5,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,23,178,2006
+7/3/2006,1,0,UU,,,,1,0,154,"Bristol, City of",,E06000023,952443,4,10,0,,S,3,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,24,187,2006
+7/3/2006,0,0,UU,,,,0,0,145,"Bristol, City of",,E06000023,952443,3,11,2,,S,3,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,27,178,2006
+7/3/2006,0,0,UU,,,,1,0,190,"Bristol, City of",,E06000023,952443,2,12,8,,S,2,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,25,221,2006
+7/3/2006,0,0,UU,,,,2,0,206,"Bristol, City of",,E06000023,952443,5,13,3,,S,5,2,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,26,241,2006
+7/3/2006,0,0,UU,,,,4,0,185,"Bristol, City of",,E06000023,952443,1,14,6,,S,1,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,19,212,2006
+7/3/2006,0,0,UU,,,,2,0,254,"Bristol, City of",,E06000023,952443,5,15,5,,S,5,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,13,278,2006
+7/3/2006,0,0,UU,,,,15,0,340,"Bristol, City of",,E06000023,952443,5,16,22,,S,5,6,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,29,395,2006
+7/3/2006,0,0,UU,,,,9,0,322,"Bristol, City of",,E06000023,952443,2,17,21,,S,2,3,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,14,350,2006
+7/3/2006,0,0,UU,,,,3,0,186,"Bristol, City of",,E06000023,952443,0,18,4,,S,0,4,362692,,175983,U,South of Manor Road,0,South West,Snowdon Road,0,9,202,2006

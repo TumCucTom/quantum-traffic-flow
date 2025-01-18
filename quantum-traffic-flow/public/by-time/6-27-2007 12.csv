@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,164300,23,Bath and North East Somerset,3,68,A3062,PU,22,9,6/27/2007,14,373913,571,12,3,E,A36/A3064 roundabout,0,449,375000,2007,1,162211,164300,,,374800,37050,A367,1
+1,South West,E06000022,164300,19,Bath and North East Somerset,2,82,A3062,PU,24,2,6/27/2007,8,373913,621,12,3,W,A36/A3064 roundabout,2,494,375000,2007,5,162211,164300,,,374800,37050,A367,0
+0,South West,E06000025,180790,11,South Gloucestershire,1,37,,UU,0,4,6/27/2007,6,,1436,12,1,E,,0,1384,,2007,3,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,0
+0,South West,E06000025,180790,12,South Gloucestershire,1,48,,UU,2,15,6/27/2007,9,,881,12,1,W,,1,804,,2007,1,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,0

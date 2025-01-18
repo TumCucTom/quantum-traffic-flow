@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,186570,3,South Gloucestershire,0,19,A46,PR,1,0,6/27/2005,2,379206,131,14,0,E,LA Boundary,0,108,380560,2005,1,186365,186910,,,380000,57165,A433,0
+1,South West,E06000025,186570,11,South Gloucestershire,1,37,A46,PR,3,0,6/27/2005,6,379206,155,14,1,W,LA Boundary,1,104,380560,2005,1,186365,186910,,,380000,57165,A433,1
+0,South West,E06000023,175983,6,"Bristol, City of",0,19,,UU,4,4,6/27/2005,5,,209,14,0,N,,2,176,,2005,1,,,Snowdon Road,South of Manor Road,362692,952443,U,0
+1,South West,E06000023,175983,3,"Bristol, City of",0,17,,UU,4,8,6/27/2005,2,,217,14,0,S,,4,185,,2005,0,,,Snowdon Road,South of Manor Road,362692,952443,U,0

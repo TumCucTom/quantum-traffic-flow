@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,171411,1,"Bristol, City of",0,62,CU,10,1,4/30/2008,1,337,8,0,N,4,263,2008,0,WICK ROAD,North of Sandy Park Road,361749,946754,C,0
+0,South West,E06000023,171411,7,"Bristol, City of",1,55,CU,8,2,4/30/2008,2,317,8,4,S,4,245,2008,0,WICK ROAD,North of Sandy Park Road,361749,946754,C,0
+0,South West,E06000023,169569,0,"Bristol, City of",0,0,UU,0,0,4/30/2008,0,2,8,0,E,0,2,2008,0,APPLEDORE CLOSE,East of Ravenhead Drive,360691,946806,U,0
+0,South West,E06000023,169569,0,"Bristol, City of",0,1,UU,0,0,4/30/2008,0,2,8,0,W,0,1,2008,0,APPLEDORE CLOSE,East of Ravenhead Drive,360691,946806,U,0
+1,South West,E06000023,176900,13,"Bristol, City of",0,55,CU,12,11,4/30/2008,11,497,8,1,E,10,406,2008,0,Wellington Hill West,,358900,996519,C,0
+0,South West,E06000023,176900,5,"Bristol, City of",0,69,CU,11,3,4/30/2008,4,499,8,1,W,14,411,2008,0,Wellington Hill West,,358900,996519,C,0

@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,160000,37,Bath and North East Somerset,9,76,A39,PR,6,16,5/21/2002,20,362935,658,8,3,N,A368,0,523,362468,2002,4,156853,161884,,,361900,16354,A37,0
+3,South West,E06000022,160000,46,Bath and North East Somerset,8,109,A39,PR,6,2,5/21/2002,27,362935,458,8,2,S,A368,0,295,362468,2002,5,156853,161884,,,361900,16354,A37,1
+0,South West,E06000023,173293,0,"Bristol, City of",0,0,,UU,0,0,5/21/2002,0,,0,8,0,E,,0,0,,2002,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+0,South West,E06000023,173293,0,"Bristol, City of",0,30,,UU,0,4,5/21/2002,0,,511,8,0,W,,12,477,,2002,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+5,South West,E06000023,176670,13,"Bristol, City of",0,40,,BU,8,4,5/21/2002,7,,597,8,1,N,,20,532,,2002,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0
+1,South West,E06000023,176670,12,"Bristol, City of",0,59,,BU,8,13,5/21/2002,7,,758,8,3,S,,15,666,,2002,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,1

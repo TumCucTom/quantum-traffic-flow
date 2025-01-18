@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,158568,0,North Somerset,0,1,UU,0,0,9/17/2008,0,7,9,0,E,0,6,2008,0,BROADLEAZE WAY,"West of Sandfrod Road, Winscombe",341836,947270,U,0
+0,South West,E06000024,158568,0,North Somerset,0,1,UU,0,0,9/17/2008,0,4,9,0,W,0,3,2008,0,BROADLEAZE WAY,"West of Sandfrod Road, Winscombe",341836,947270,U,0
+2,South West,E06000025,178446,19,South Gloucestershire,0,60,BU,11,11,9/17/2008,15,678,9,1,N,24,577,2008,0,SOUTHMEAD ROAD,north of Kenmore Crescent,359308,947496,B4056,1
+1,South West,E06000025,178446,19,South Gloucestershire,2,93,BU,8,8,9/17/2008,15,738,9,1,S,4,610,2008,0,SOUTHMEAD ROAD,north of Kenmore Crescent,359308,947496,B4056,0

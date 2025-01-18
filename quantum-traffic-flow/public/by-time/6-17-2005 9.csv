@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+11,South West,E06000023,170955,82,"Bristol, City of",6,192,A38,PU,4,16,6/17/2005,35,357680,1149,9,9,N,A3029 Ashton Road/Winterstoke Underpass,6,855,356680,2005,12,170620,171490,,,357000,16959,A3029,9
+7,South West,E06000023,170955,88,"Bristol, City of",10,193,A38,PU,11,11,6/17/2005,51,357680,1105,9,10,S,A3029 Ashton Road/Winterstoke Underpass,7,802,356680,2005,8,170620,171490,,,357000,16959,A3029,2
+0,South West,E06000023,172990,1,"Bristol, City of",0,10,,UU,0,1,6/17/2005,1,,84,9,0,N,,3,72,,2005,0,,,SION HILL,North of Caledonia Place,356640,930431,U,0
+0,South West,E06000023,172990,0,"Bristol, City of",0,13,,UU,2,0,6/17/2005,0,,115,9,0,S,,0,100,,2005,0,,,SION HILL,North of Caledonia Place,356640,930431,U,0

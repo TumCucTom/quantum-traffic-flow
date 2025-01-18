@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,181000,14,South Gloucestershire,0,28,Station Rd,PU,4,4,9/12/2014,10,367200,336,18,1,N,Church Rd,12,286,367960,2014,2,180490,181410,,,367630,78003,A432,1
+0,South West,E06000025,181000,7,South Gloucestershire,1,40,Station Rd,PU,4,9,9/12/2014,3,367200,497,18,0,S,Church Rd,21,437,367960,2014,2,180490,181410,,,367630,78003,A432,1
+0,South West,E06000023,175877,0,"Bristol, City of",0,0,,UU,0,0,9/12/2014,0,,9,18,0,N,,0,9,,2014,0,,,COLSTON DALE,East of Trendlewood Park,362151,946809,U,0
+0,South West,E06000023,175877,0,"Bristol, City of",0,0,,UU,0,0,9/12/2014,0,,8,18,0,S,,0,8,,2014,0,,,COLSTON DALE,East of Trendlewood Park,362151,946809,U,0

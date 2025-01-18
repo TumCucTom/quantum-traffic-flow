@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+13,South West,E06000025,177750,354,South Gloucestershire,76,389,Junction 19 M4,TM,25,20,4/28/2006,101,364185,2757,8,24,E,Junction 18 M4,0,1969,375767,2006,120,179458,178163,,,370000,36016,M4,20
+24,South West,E06000025,177750,337,South Gloucestershire,90,257,Junction 19 M4,TM,5,27,4/28/2006,79,364185,3274,8,10,W,Junction 18 M4,1,2648,375767,2006,113,179458,178163,,,370000,36016,M4,21
+1,South West,E06000023,169310,15,"Bristol, City of",0,70,,UU,8,4,4/28/2006,14,,443,8,0,N,,4,346,,2006,0,,,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0
+0,South West,E06000023,169310,9,"Bristol, City of",0,87,,UU,4,4,4/28/2006,8,,483,8,1,S,,0,379,,2006,0,,,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0
+0,South West,E06000025,190000,0,South Gloucestershire,0,8,,CU,0,0,4/28/2006,0,,63,8,0,N,,0,55,,2006,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0
+0,South West,E06000025,190000,1,South Gloucestershire,0,11,,CU,0,0,4/28/2006,0,,108,8,1,S,,5,96,,2006,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0

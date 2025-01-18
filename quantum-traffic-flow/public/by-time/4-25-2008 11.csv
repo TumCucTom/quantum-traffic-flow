@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,169310,7,"Bristol, City of",0,61,UU,11,1,4/25/2008,4,418,11,1,N,4,338,2008,0,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,1
+1,South West,E06000023,169310,9,"Bristol, City of",0,70,UU,7,5,4/25/2008,6,358,11,2,S,1,267,2008,0,BISHOPSWORTH ROAD,South of Wrington Crescent,357240,930421,U,0
+0,South West,E06000025,179850,6,South Gloucestershire,0,75,UU,20,7,4/25/2008,5,677,11,1,N,3,569,2008,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0
+0,South West,E06000025,179850,5,South Gloucestershire,0,60,UU,16,7,4/25/2008,4,562,11,1,S,1,474,2008,0,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0
+1,South West,E06000023,177031,9,"Bristol, City of",0,50,BU,7,2,4/25/2008,7,344,11,1,N,2,276,2008,0,SHIREHAMPTON ROAD,West of High Grove,354668,946752,B4054,0
+3,South West,E06000023,177031,10,"Bristol, City of",0,43,BU,7,2,4/25/2008,7,273,11,0,S,1,211,2008,0,SHIREHAMPTON ROAD,West of High Grove,354668,946752,B4054,0
+0,South West,E06000025,171797,0,South Gloucestershire,0,1,UU,0,0,4/25/2008,0,3,11,0,N,0,2,2008,0,GLENWOOD DRIVE,Glenwood Drive/Hill View Close junction,367006,947532,U,0
+0,South West,E06000025,171797,0,South Gloucestershire,0,1,UU,0,0,4/25/2008,0,5,11,0,S,0,4,2008,0,GLENWOOD DRIVE,Glenwood Drive/Hill View Close junction,367006,947532,U,0

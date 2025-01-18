@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000024,158570,3,North Somerset,0,24,UU,5,0,9/9/2009,1,213,8,1,E,3,181,2009,0,Old Mixon Road,"Hutton, W-s-M",333990,900054,U,0
+0,South West,E06000024,158570,3,North Somerset,0,40,UU,5,3,9/9/2009,1,411,8,2,W,2,360,2009,0,Old Mixon Road,"Hutton, W-s-M",333990,900054,U,0
+0,South West,E06000025,190010,2,South Gloucestershire,0,51,BU,4,4,9/9/2009,1,465,8,1,N,5,404,2009,0,High Street,"north of Chapel Street, Thornbury",363680,990071,B4061,0
+0,South West,E06000025,190010,6,South Gloucestershire,0,27,BU,5,8,9/9/2009,4,371,8,2,S,5,325,2009,0,High Street,"north of Chapel Street, Thornbury",363680,990071,B4061,0

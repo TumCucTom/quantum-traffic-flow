@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,0,E06000025,0,1,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,1,U,0,UU,365605,1,AINTREE DRIVE,7
+0,0,E06000025,0,3,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,8
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,9
+0,0,E06000025,0,7,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,2,6/18/2008,2008,178286,0,0,5,U,0,UU,365605,0,AINTREE DRIVE,10
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,1,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,11
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,1,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,12
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,2,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,13
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,14
+0,0,E06000025,0,6,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,6,U,0,UU,365605,0,AINTREE DRIVE,15
+0,0,E06000025,0,6,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,1,6/18/2008,2008,178286,0,0,5,U,0,UU,365605,1,AINTREE DRIVE,16
+0,0,E06000025,0,10,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,0,6/18/2008,2008,178286,0,0,10,U,0,UU,365605,0,AINTREE DRIVE,17
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,E,1,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,18
+0,0,E06000025,0,6,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,6,U,0,UU,365605,0,AINTREE DRIVE,7
+0,0,E06000025,0,11,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,11,U,0,UU,365605,0,AINTREE DRIVE,8
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,5,U,0,UU,365605,0,AINTREE DRIVE,9
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,1,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,10
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,1,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,11
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,1,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,12
+0,0,E06000025,0,4,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,4,U,0,UU,365605,0,AINTREE DRIVE,13
+0,0,E06000025,0,2,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,2,U,0,UU,365605,0,AINTREE DRIVE,14
+0,0,E06000025,0,3,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,0,AINTREE DRIVE,15
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,5,U,0,UU,365605,0,AINTREE DRIVE,16
+0,0,E06000025,0,5,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,5,U,0,UU,365605,1,AINTREE DRIVE,17
+0,0,E06000025,0,3,South West,Aintree Drive/Sedgefield Gardens junction,South Gloucestershire,0,947550,0,0,W,0,6/18/2008,2008,178286,0,0,3,U,0,UU,365605,1,AINTREE DRIVE,18

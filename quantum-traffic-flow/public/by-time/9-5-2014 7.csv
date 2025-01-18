@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+22,South West,E06000025,182900,428,South Gloucestershire,95,659,Junction 17 M5,TM,9,25,9/5/2014,161,357747,3228,7,33,E,Junction 16 M5,0,2107,360686,2014,98,181250,183284,,,360000,99619,M5,19
+22,South West,E06000025,182900,385,South Gloucestershire,149,757,Junction 17 M5,TM,17,25,9/5/2014,83,357747,4083,7,15,W,Junction 16 M5,0,2899,360686,2014,102,181250,183284,,,360000,99619,M5,14
+0,South West,E06000022,164050,0,Bath and North East Somerset,0,3,,UU,0,0,9/5/2014,0,,12,7,0,E,,0,9,,2014,0,,,HAYCOMBE DRIVE,"Whiteway, between North Way rbt and Kelston view jcn",372098,946676,U,0
+0,South West,E06000022,164050,0,Bath and North East Somerset,0,2,,UU,0,0,9/5/2014,0,,9,7,0,W,,0,7,,2014,0,,,HAYCOMBE DRIVE,"Whiteway, between North Way rbt and Kelston view jcn",372098,946676,U,0
+0,South West,E06000023,170240,11,"Bristol, City of",3,153,,CU,0,18,9/5/2014,7,,722,7,1,N,,23,540,,2014,0,,,EMERY ROAD,North of Bath Road,362674,946763,C,0
+1,South West,E06000023,170240,16,"Bristol, City of",2,101,,CU,1,1,9/5/2014,12,,342,7,0,S,,6,223,,2014,1,,,EMERY ROAD,North of Bath Road,362674,946763,C,0

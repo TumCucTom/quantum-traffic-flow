@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,169000,8,Bath and North East Somerset,1,66,A4174 roundabout,PR,4,8,3/20/2009,7,364160,513,16,0,E,road from Stockwood Hill,5,427,364790,2009,0,169700,168950,,,364728,57290,A4175,0
+1,South West,E06000022,169000,4,Bath and North East Somerset,1,108,A4174 roundabout,PR,7,15,3/20/2009,2,364160,712,16,0,W,road from Stockwood Hill,15,578,364790,2009,0,169700,168950,,,364728,57290,A4175,0
+0,South West,E06000025,182301,1,South Gloucestershire,0,37,,UU,12,7,3/20/2009,1,,503,16,0,N,,4,446,,2009,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0
+0,South West,E06000025,182301,4,South Gloucestershire,0,18,,UU,9,3,3/20/2009,4,,412,16,0,S,,8,378,,2009,0,,,Brook Way,north of Cornfield Close,361306,952441,U,0

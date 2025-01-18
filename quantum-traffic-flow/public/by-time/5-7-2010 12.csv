@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+17,South West,E06000023,178100,303,"Bristol, City of",43,205,Junction 18 M5,TM,5,8,5/7/2010,126,352952,1189,12,22,N,merge of feeder roads,0,668,352500,2010,73,178032,178100,,,352600,26021,M5,22
+14,South West,E06000023,178100,276,"Bristol, City of",99,221,Junction 18 M5,TM,4,11,5/7/2010,66,352952,1255,12,28,S,merge of feeder roads,0,743,352500,2010,47,178032,178100,,,352600,26021,M5,22
+0,South West,E06000025,186410,1,South Gloucestershire,0,4,,CR,0,0,5/7/2010,1,,10,12,0,N,,2,5,,2010,0,,,GREENDITCH STREET,"north of Awkley Lane, Olveston",359152,947498,C,0
+0,South West,E06000025,186410,0,South Gloucestershire,0,3,,CR,0,0,5/7/2010,0,,16,12,0,S,,2,13,,2010,0,,,GREENDITCH STREET,"north of Awkley Lane, Olveston",359152,947498,C,0

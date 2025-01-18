@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000025,182000,76,South Gloucestershire,9,83,LA Boundary,TM,3,3,9/16/2002,22,354580,566,15,3,N,M4 (22),0,401,354450,2002,20,180880,185800,,,355500,99170,M49,20
+3,South West,E06000025,182000,118,South Gloucestershire,11,47,LA Boundary,TM,2,4,9/16/2002,44,354580,455,15,3,S,M4 (22),0,284,354450,2002,42,180880,185800,,,355500,99170,M49,15
+1,South West,E06000024,174800,9,North Somerset,0,27,,BR,7,4,9/16/2002,8,,383,15,0,E,,0,336,,2002,0,,,Cleveland Road,"East of Valley Road, North Weston",346000,990021,B3124,0
+1,South West,E06000024,174800,2,North Somerset,0,36,,BR,4,1,9/16/2002,0,,359,15,1,W,,3,316,,2002,0,,,Cleveland Road,"East of Valley Road, North Weston",346000,990021,B3124,0

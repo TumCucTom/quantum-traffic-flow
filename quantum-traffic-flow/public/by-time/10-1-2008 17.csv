@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,166250,6,North Somerset,0,39,B3133 Smallways,PR,8,9,10/1/2008,2,343792,511,17,3,N,"Chelvey Rd, Backwell",2,449,347970,2008,1,164091,167990,,,346160,6994,A370,0
+0,South West,E06000024,166250,8,North Somerset,1,90,B3133 Smallways,PR,11,27,10/1/2008,3,343792,1094,17,2,S,"Chelvey Rd, Backwell",4,958,347970,2008,2,164091,167990,,,346160,6994,A370,0
+0,South West,E06000023,172160,1,"Bristol, City of",0,43,,UU,4,17,10/1/2008,1,,529,17,0,E,,38,464,,2008,0,,,CUMBERLAND ROAD,East of Gas Ferry Road,357980,930427,U,0
+0,South West,E06000023,172160,11,"Bristol, City of",0,49,,UU,2,19,10/1/2008,11,,859,17,0,W,,52,778,,2008,0,,,CUMBERLAND ROAD,East of Gas Ferry Road,357980,930427,U,0
+0,South West,E06000022,167670,8,Bath and North East Somerset,0,80,,BU,3,4,10/1/2008,8,,519,17,0,N,,3,424,,2008,0,,,WELLSWAY,"Keynsham, 100m north of Hurn Lane junction",365817,946662,B3116,0
+0,South West,E06000022,167670,2,Bath and North East Somerset,1,81,,BU,3,17,10/1/2008,1,,746,17,0,S,,3,643,,2008,0,,,WELLSWAY,"Keynsham, 100m north of Hurn Lane junction",365817,946662,B3116,0
+0,South West,E06000022,165428,0,Bath and North East Somerset,0,0,,UU,0,0,10/1/2008,0,,0,17,0,N,,1,0,,2008,0,,,HOMELEA PARK WEST,"Cul-de-sac, adj to A4 Newbridge road",372211,946686,U,0
+0,South West,E06000022,165428,0,Bath and North East Somerset,0,1,,UU,0,2,10/1/2008,0,,6,17,0,S,,0,3,,2008,0,,,HOMELEA PARK WEST,"Cul-de-sac, adj to A4 Newbridge road",372211,946686,U,0

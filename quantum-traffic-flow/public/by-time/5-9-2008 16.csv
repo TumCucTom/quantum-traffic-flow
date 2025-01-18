@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+18,South West,E06000024,176000,342,North Somerset,89,564,Junction 19 M5,TM,17,30,5/9/2008,107,350670,4658,16,24,N,LA Boundary,0,3705,351940,2008,81,175620,176830,,,351300,46019,M5,23
+9,South West,E06000024,176000,291,North Somerset,79,602,Junction 19 M5,TM,19,55,5/9/2008,80,350670,6156,16,11,S,LA Boundary,0,5189,351940,2008,101,175620,176830,,,351300,46019,M5,11
+0,South West,E06000025,186410,0,South Gloucestershire,0,2,,CR,0,0,5/9/2008,0,,16,16,0,N,,2,14,,2008,0,,,GREENDITCH STREET,"north of Awkley Lane, Olveston",359152,947498,C,0
+0,South West,E06000025,186410,0,South Gloucestershire,0,5,,CR,0,2,5/9/2008,0,,25,16,0,S,,0,18,,2008,0,,,GREENDITCH STREET,"north of Awkley Lane, Olveston",359152,947498,C,0
+0,South West,E06000025,187461,1,South Gloucestershire,0,3,,CR,0,0,5/9/2008,0,,5,16,1,E,,0,1,,2008,0,,,HAZEL LANE,"east of The Inner Down, Old Down",362114,947501,C,0
+0,South West,E06000025,187461,0,South Gloucestershire,0,7,,CR,0,0,5/9/2008,0,,14,16,0,W,,0,7,,2008,0,,,HAZEL LANE,"east of The Inner Down, Old Down",362114,947501,C,0
+0,South West,E06000025,190000,4,South Gloucestershire,0,7,,CU,1,0,5/9/2008,4,,86,16,0,E,,2,74,,2008,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0
+0,South West,E06000025,190000,0,South Gloucestershire,0,6,,CU,0,0,5/9/2008,0,,75,16,0,W,,0,69,,2008,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0

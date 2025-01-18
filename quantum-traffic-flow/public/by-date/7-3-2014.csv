@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+145,20,E06000025,,361812,35,4793,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,17,56015,142,493,N,889,7/3/2014,2014,181500,30,127,3361,M4,364185,27,TM,363100,0,183775,Junction 19 M4/M32,7
+109,12,E06000025,,361812,37,4361,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,11,56015,131,399,N,515,7/3/2014,2014,181500,24,90,3411,M4,364185,21,TM,363100,0,183775,Junction 19 M4/M32,8
+114,30,E06000025,,361812,28,3945,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,28,56015,102,437,N,526,7/3/2014,2014,181500,23,136,2929,M4,364185,29,TM,363100,0,183775,Junction 19 M4/M32,9
+92,20,E06000025,,361812,25,3356,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,17,56015,86,381,N,486,7/3/2014,2014,181500,17,129,2452,M4,364185,32,TM,363100,0,183775,Junction 19 M4/M32,10
+141,11,E06000025,,361812,33,3393,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,22,56015,126,519,N,514,7/3/2014,2014,181500,26,160,2323,M4,364185,37,TM,363100,0,183775,Junction 19 M4/M32,11
+101,5,E06000025,,361812,21,2565,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,21,56015,162,468,N,332,7/3/2014,2014,181500,6,127,1754,M4,364185,36,TM,363100,0,183775,Junction 19 M4/M32,12
+130,12,E06000025,,361812,24,3731,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,31,56015,107,486,N,641,7/3/2014,2014,181500,29,162,2563,M4,364185,32,TM,363100,0,183775,Junction 19 M4/M32,13
+130,19,E06000025,,361812,30,3938,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,17,56015,112,463,N,737,7/3/2014,2014,181500,21,151,2698,M4,364185,23,TM,363100,0,183775,Junction 19 M4/M32,14
+141,16,E06000025,,361812,28,4592,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,23,56015,94,481,N,795,7/3/2014,2014,181500,30,167,3270,M4,364185,28,TM,363100,0,183775,Junction 19 M4/M32,15
+118,11,E06000025,,361812,9,5410,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,10,56015,121,409,N,697,7/3/2014,2014,181500,48,125,4245,M4,364185,26,TM,363100,0,183775,Junction 19 M4/M32,16
+93,23,E06000025,,361812,8,5854,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,25,56015,93,331,N,654,7/3/2014,2014,181500,57,93,4789,M4,364185,19,TM,363100,0,183775,Junction 19 M4/M32,17
+42,25,E06000025,,361812,9,4611,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,17,56015,63,215,N,571,7/3/2014,2014,181500,34,78,3766,M4,364185,6,TM,363100,0,183775,Junction 19 M4/M32,18
+133,13,E06000025,,361812,25,4626,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,29,56015,99,395,S,802,7/3/2014,2014,181500,59,78,3357,M4,364185,31,TM,363100,0,183775,Junction 19 M4/M32,7
+118,24,E06000025,,361812,19,4773,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,20,56015,152,473,S,749,7/3/2014,2014,181500,37,123,3490,M4,364185,41,TM,363100,0,183775,Junction 19 M4/M32,8
+61,24,E06000025,,361812,16,3915,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,24,56015,198,425,S,599,7/3/2014,2014,181500,32,106,2835,M4,364185,20,TM,363100,0,183775,Junction 19 M4/M32,9
+117,21,E06000025,,361812,9,3557,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,31,56015,135,479,S,542,7/3/2014,2014,181500,14,162,2501,M4,364185,25,TM,363100,0,183775,Junction 19 M4/M32,10
+106,22,E06000025,,361812,20,3580,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,35,56015,133,494,S,486,7/3/2014,2014,181500,9,167,2569,M4,364185,33,TM,363100,0,183775,Junction 19 M4/M32,11
+104,25,E06000025,,361812,6,3655,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,15,56015,128,424,S,526,7/3/2014,2014,181500,18,149,2662,M4,364185,22,TM,363100,0,183775,Junction 19 M4/M32,12
+59,11,E06000025,,361812,7,3627,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,11,56015,197,405,S,513,7/3/2014,2014,181500,37,105,2661,M4,364185,26,TM,363100,0,183775,Junction 19 M4/M32,13
+132,24,E06000025,,361812,10,3769,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,20,56015,127,434,S,577,7/3/2014,2014,181500,18,126,2716,M4,364185,19,TM,363100,0,183775,Junction 19 M4/M32,14
+104,14,E06000025,,361812,19,4142,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,15,56015,113,420,S,658,7/3/2014,2014,181500,21,152,3029,M4,364185,17,TM,363100,0,183775,Junction 19 M4/M32,15
+78,12,E06000025,,361812,6,4448,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,20,56015,121,373,S,615,7/3/2014,2014,181500,41,127,3407,M4,364185,21,TM,363100,0,183775,Junction 19 M4/M32,16
+43,17,E06000025,,361812,5,4611,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,21,56015,146,313,S,522,7/3/2014,2014,181500,41,82,3718,M4,364185,16,TM,363100,0,183775,Junction 19 M4/M32,17
+51,21,E06000025,,361812,2,4027,South West,,Junction 20/15 M4/M5,179458,South Gloucestershire,23,56015,90,258,S,340,7/3/2014,2014,181500,38,83,3370,M4,364185,9,TM,363100,0,183775,Junction 19 M4/M32,18
+0,1,E06000023,Entrance to Hengrove Leisure Park,,0,62,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,18,7/3/2014,2014,168927,0,0,42,U,,1,UU,359230,1,,,7
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,56,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,0,7/3/2014,2014,168927,0,0,55,U,,0,UU,359230,2,,,8
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,82,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,12,7/3/2014,2014,168927,1,1,68,U,,0,UU,359230,1,,,9
+5,0,E06000023,Entrance to Hengrove Leisure Park,,0,64,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,5,N,6,7/3/2014,2014,168927,0,0,53,U,,0,UU,359230,0,,,10
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,114,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,13,7/3/2014,2014,168927,0,0,100,U,,0,UU,359230,0,,,11
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,173,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,2,N,15,7/3/2014,2014,168927,2,0,154,U,,1,UU,359230,0,,,12
+5,2,E06000023,Entrance to Hengrove Leisure Park,,1,185,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,7,N,12,7/3/2014,2014,168927,0,0,164,U,,1,UU,359230,0,,,13
+7,1,E06000023,Entrance to Hengrove Leisure Park,,0,191,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,8,N,17,7/3/2014,2014,168927,1,0,164,U,,1,UU,359230,2,,,14
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,150,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,15,7/3/2014,2014,168927,0,0,135,U,,0,UU,359230,1,,,15
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,185,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,20,7/3/2014,2014,168927,1,0,164,U,,0,UU,359230,3,,,16
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,247,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,1,2,N,11,7/3/2014,2014,168927,0,0,234,U,,0,UU,359230,0,,,17
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,249,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,18,7/3/2014,2014,168927,0,0,231,U,,0,UU,359230,0,,,18
+0,1,E06000023,Entrance to Hengrove Leisure Park,,0,69,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,16,7/3/2014,2014,168927,0,0,52,U,,0,UU,359230,0,,,7
+2,0,E06000023,Entrance to Hengrove Leisure Park,,0,81,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,2,S,15,7/3/2014,2014,168927,0,0,64,U,,0,UU,359230,3,,,8
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,104,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,13,7/3/2014,2014,168927,0,1,90,U,,0,UU,359230,1,,,9
+6,0,E06000023,Entrance to Hengrove Leisure Park,,0,129,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,6,S,10,7/3/2014,2014,168927,0,0,113,U,,0,UU,359230,1,,,10
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,124,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,12,7/3/2014,2014,168927,0,0,111,U,,1,UU,359230,3,,,11
+2,1,E06000023,Entrance to Hengrove Leisure Park,,0,207,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,2,S,18,7/3/2014,2014,168927,2,0,184,U,,0,UU,359230,1,,,12
+7,1,E06000023,Entrance to Hengrove Leisure Park,,1,180,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,11,S,12,7/3/2014,2014,168927,0,0,156,U,,3,UU,359230,0,,,13
+3,1,E06000023,Entrance to Hengrove Leisure Park,,0,132,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,3,S,16,7/3/2014,2014,168927,1,0,111,U,,0,UU,359230,0,,,14
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,159,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,15,7/3/2014,2014,168927,1,0,143,U,,0,UU,359230,3,,,15
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,200,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,17,7/3/2014,2014,168927,0,0,183,U,,0,UU,359230,2,,,16
+0,0,E06000023,Entrance to Hengrove Leisure Park,,1,291,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,15,7/3/2014,2014,168927,0,0,275,U,,0,UU,359230,0,,,17
+1,0,E06000023,Entrance to Hengrove Leisure Park,,1,347,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,3,S,24,7/3/2014,2014,168927,0,0,320,U,,1,UU,359230,2,,,18

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000025,172870,21,South Gloucestershire,3,190,A4175,PR,3,10,9/21/2009,10,367961,879,7,2,E,Bath Road,1,655,371023,2009,2,173307,172645,,,370000,37151,A420,0
+2,South West,E06000025,172870,24,South Gloucestershire,2,67,A4175,PR,2,8,9/21/2009,10,367961,493,7,6,W,Bath Road,0,392,371023,2009,3,173307,172645,,,370000,37151,A420,1
+0,South West,E06000025,181243,0,South Gloucestershire,0,6,,UU,0,0,9/21/2009,0,,22,7,0,E,,0,16,,2009,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0
+0,South West,E06000025,181243,0,South Gloucestershire,0,4,,UU,0,1,9/21/2009,0,,30,7,0,W,,1,25,,2009,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0

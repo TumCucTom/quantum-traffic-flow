@@ -1,0 +1,6 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000023,173350,24,"Bristol, City of",0,123,Old Market St,PU,39,17,5/23/2001,15,359806,650,7,5,E,Stapleton Rd,13,447,360030,2001,1,173224,173510,,,359800,47164,A420,2
+2,South West,E06000025,171000,41,South Gloucestershire,2,178,A4,PR,7,19,5/23/2001,30,364390,899,7,4,N,A4174 spur,1,654,365420,2001,2,170170,172170,,,364600,99053,A4174,1
+0,South West,E06000025,171000,32,South Gloucestershire,2,197,A4,PR,1,36,5/23/2001,24,364390,1211,7,2,S,A4174 spur,0,945,365420,2001,2,170170,172170,,,364600,99053,A4174,2
+0,South West,E06000025,177735,1,South Gloucestershire,0,3,,UU,0,0,5/23/2001,1,,22,7,0,E,,0,18,,2001,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0
+0,South West,E06000025,177735,1,South Gloucestershire,0,8,,UU,1,1,5/23/2001,1,,102,7,0,W,,5,91,,2001,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0

@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000023,177000,42,"Bristol, City of",1,205,Junction 2 M32,TM,11,40,5/8/2008,24,361150,2647,18,0,N,LA Boundary,0,2349,363010,2008,11,175250,177670,,,362200,26043,M32,3
+1,South West,E06000023,177000,34,"Bristol, City of",5,206,Junction 2 M32,TM,40,35,5/8/2008,13,361150,3078,18,5,S,LA Boundary,0,2763,363010,2008,9,175250,177670,,,362200,26043,M32,1
+0,South West,E06000023,174504,0,"Bristol, City of",0,7,,CU,0,2,5/8/2008,0,,153,18,0,E,,7,144,,2008,0,,,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+0,South West,E06000023,174504,0,"Bristol, City of",0,10,,CU,0,0,5/8/2008,0,,179,18,0,W,,31,169,,2008,0,,,REDLAND ROAD,East of Elmgrove Road,358756,946760,C,0
+0,South West,E06000025,181368,0,South Gloucestershire,0,8,,CU,4,4,5/8/2008,0,,135,18,0,E,,1,119,,2008,0,,,Heron Way,"east of Scott Way, Yate",371737,966016,C,0
+0,South West,E06000025,181368,1,South Gloucestershire,0,22,,CU,5,2,5/8/2008,0,,219,18,1,W,,4,189,,2008,0,,,Heron Way,"east of Scott Way, Yate",371737,966016,C,0

@@ -1,0 +1,25 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+1,0,E06000024,1,140,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,2,N,26,6/21/2007,2007,161714,0,0,112,C,0,CR,337333,2,Churchland Way,7
+4,2,E06000024,0,217,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,6,N,21,6/21/2007,2007,161714,0,0,188,C,2,CR,337333,0,Churchland Way,8
+0,1,E06000024,0,259,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,3,N,32,6/21/2007,2007,161714,0,1,223,C,2,CR,337333,0,Churchland Way,9
+2,1,E06000024,5,223,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,10,N,29,6/21/2007,2007,161714,0,1,183,C,2,CR,337333,0,Churchland Way,10
+5,0,E06000024,3,152,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,12,N,20,6/21/2007,2007,161714,1,1,119,C,2,CR,337333,0,Churchland Way,11
+1,0,E06000024,1,132,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,3,N,14,6/21/2007,2007,161714,1,0,114,C,0,CR,337333,0,Churchland Way,12
+2,0,E06000024,1,199,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,5,N,28,6/21/2007,2007,161714,3,0,163,C,2,CR,337333,0,Churchland Way,13
+0,2,E06000024,1,231,South West,"West of Summer Lane, W-s-M",North Somerset,2,930447,2,7,N,26,6/21/2007,2007,161714,2,1,194,C,1,CR,337333,0,Churchland Way,14
+5,1,E06000024,6,213,South West,"West of Summer Lane, W-s-M",North Somerset,2,930447,0,16,N,25,6/21/2007,2007,161714,2,1,169,C,2,CR,337333,0,Churchland Way,15
+3,1,E06000024,3,272,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,9,N,41,6/21/2007,2007,161714,2,0,219,C,2,CR,337333,0,Churchland Way,16
+1,0,E06000024,0,301,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,1,N,52,6/21/2007,2007,161714,6,0,242,C,0,CR,337333,1,Churchland Way,17
+0,0,E06000024,0,213,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,0,N,31,6/21/2007,2007,161714,2,0,180,C,0,CR,337333,0,Churchland Way,18
+4,1,E06000024,1,243,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,5,S,62,6/21/2007,2007,161714,2,0,173,C,0,CR,337333,1,Churchland Way,7
+7,2,E06000024,1,244,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,12,S,39,6/21/2007,2007,161714,1,1,190,C,3,CR,337333,1,Churchland Way,8
+3,0,E06000024,2,156,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,7,S,20,6/21/2007,2007,161714,1,0,128,C,1,CR,337333,0,Churchland Way,9
+1,1,E06000024,8,181,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,11,S,31,6/21/2007,2007,161714,0,0,138,C,2,CR,337333,0,Churchland Way,10
+3,0,E06000024,3,137,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,8,S,23,6/21/2007,2007,161714,0,0,106,C,1,CR,337333,0,Churchland Way,11
+0,0,E06000024,2,151,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,4,S,12,6/21/2007,2007,161714,1,0,134,C,1,CR,337333,0,Churchland Way,12
+1,0,E06000024,1,234,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,1,6,S,31,6/21/2007,2007,161714,2,0,195,C,3,CR,337333,0,Churchland Way,13
+3,1,E06000024,0,216,South West,"West of Summer Lane, W-s-M",North Somerset,4,930447,1,10,S,22,6/21/2007,2007,161714,0,1,183,C,1,CR,337333,0,Churchland Way,14
+3,0,E06000024,10,218,South West,"West of Summer Lane, W-s-M",North Somerset,1,930447,0,17,S,20,6/21/2007,2007,161714,0,1,181,C,2,CR,337333,0,Churchland Way,15
+3,1,E06000024,2,236,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,6,S,22,6/21/2007,2007,161714,2,0,205,C,1,CR,337333,0,Churchland Way,16
+3,1,E06000024,0,237,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,3,S,19,6/21/2007,2007,161714,2,0,212,C,0,CR,337333,1,Churchland Way,17
+1,0,E06000024,0,228,South West,"West of Summer Lane, W-s-M",North Somerset,0,930447,0,1,S,17,6/21/2007,2007,161714,3,0,207,C,0,CR,337333,0,Churchland Way,18

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+35,South West,E06000025,181500,493,South Gloucestershire,142,889,Junction 20/15 M4/M5,TM,20,30,7/3/2014,145,361812,4793,7,27,N,Junction 19 M4/M32,0,3361,364185,2014,127,183775,179458,,,363100,56015,M4,17
+25,South West,E06000025,181500,395,South Gloucestershire,99,802,Junction 20/15 M4/M5,TM,13,59,7/3/2014,133,361812,4626,7,31,S,Junction 19 M4/M32,0,3357,364185,2014,78,183775,179458,,,363100,56015,M4,29
+0,South West,E06000023,168927,1,"Bristol, City of",0,18,,UU,1,0,7/3/2014,0,,62,7,1,N,,1,42,,2014,0,,,Entrance to Hengrove Leisure Park,South of Hengrove Way,359230,946799,U,0
+0,South West,E06000023,168927,0,"Bristol, City of",0,16,,UU,1,0,7/3/2014,0,,69,7,0,S,,0,52,,2014,0,,,Entrance to Hengrove Leisure Park,South of Hengrove Way,359230,946799,U,0

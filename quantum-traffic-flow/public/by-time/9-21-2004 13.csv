@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+10,South West,E06000024,162100,74,North Somerset,7,100,A371 Locking Moor  Road,PR,5,4,9/21/2004,40,335210,756,13,5,E,M5 J 21,0,573,337880,2004,8,161050,162600,,,336850,99376,A370,4
+7,South West,E06000024,162100,64,North Somerset,11,106,A371 Locking Moor  Road,PR,2,4,9/21/2004,32,335210,804,13,9,W,M5 J 21,0,628,337880,2004,3,161050,162600,,,336850,99376,A370,2
+0,South West,E06000025,176630,0,South Gloucestershire,0,8,,CR,0,0,9/21/2004,0,,34,13,0,E,,0,26,,2004,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,0
+0,South West,E06000025,176630,2,South Gloucestershire,0,5,,CR,0,0,9/21/2004,2,,34,13,0,W,,1,27,,2004,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,0

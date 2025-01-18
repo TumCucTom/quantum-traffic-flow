@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000024,173270,18,North Somerset,0,96,M5 J 19,PR,11,6,5/19/2004,7,350670,720,15,2,N,B3129,7,589,355220,2004,2,175620,173120,,,355000,56993,A369,3
+2,South West,E06000024,173270,15,North Somerset,2,61,M5 J 19,PR,7,4,5/19/2004,8,350670,649,15,0,S,B3129,2,562,355220,2004,1,175620,173120,,,355000,56993,A369,2
+0,South West,E06000025,177735,0,South Gloucestershire,0,2,,UU,0,0,5/19/2004,0,,50,15,0,E,,0,48,,2004,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0
+0,South West,E06000025,177735,0,South Gloucestershire,0,2,,UU,0,0,5/19/2004,0,,31,15,0,W,,0,29,,2004,0,,,Bromley Heath Avenue,west of Pilgrims Way,364840,990404,U,0

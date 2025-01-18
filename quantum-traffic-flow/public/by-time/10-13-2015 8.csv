@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,169069,10,Bath and North East Somerset,0,131,CR,4,6,10/13/2015,9,1030,8,0,N,0,879,2015,0,LANSDOWN ROAD,"Lansdown, between Hamilton road and college road junctions",372432,946664,C,1
+0,South West,E06000022,169069,4,Bath and North East Somerset,0,30,CR,2,5,10/13/2015,3,488,8,1,S,2,447,2015,0,LANSDOWN ROAD,"Lansdown, between Hamilton road and college road junctions",372432,946664,C,0
+0,South West,E06000023,170896,0,"Bristol, City of",0,11,UU,0,1,10/13/2015,0,36,8,0,N,2,24,2015,0,GORE'S MARSH ROAD,South of Deep Combe Road,357338,946770,U,0
+0,South West,E06000023,170896,0,"Bristol, City of",0,12,UU,0,0,10/13/2015,0,56,8,0,S,2,44,2015,0,GORE'S MARSH ROAD,South of Deep Combe Road,357338,946770,U,0

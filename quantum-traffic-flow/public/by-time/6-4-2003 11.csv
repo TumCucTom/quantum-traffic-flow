@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000022,165000,51,Bath and North East Somerset,6,130,A3062 roundabout,PU,20,6,6/4/2003,30,375490,763,11,5,N,Sydney Place,2,556,375637,2003,5,164250,165209,,,375640,27024,A36,3
+0,South West,E06000022,165000,70,Bath and North East Somerset,9,130,A3062 roundabout,PU,12,8,6/4/2003,51,375490,904,11,5,S,Sydney Place,2,684,375637,2003,3,164250,165209,,,375640,27024,A36,2
+0,South West,E06000025,182841,17,South Gloucestershire,2,70,,CU,3,2,6/4/2003,12,,405,11,1,E,,1,313,,2003,2,,,Aztec West Approach Road,,360727,919472,C,0
+0,South West,E06000025,182841,16,South Gloucestershire,1,69,,CU,5,1,6/4/2003,12,,400,11,2,W,,3,309,,2003,1,,,Aztec West Approach Road,,360727,919472,C,0

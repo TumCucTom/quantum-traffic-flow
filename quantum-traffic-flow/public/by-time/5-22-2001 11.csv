@@ -1,0 +1,4 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000023,170880,66,"Bristol, City of",9,199,A4 Eagle Road,PU,33,12,5/22/2001,44,361560,1155,11,5,E,A4 Bristol Hill,3,845,361690,2001,3,170920,170730,,,361660,74760,A4,1
+0,South West,E06000023,173293,0,"Bristol, City of",0,0,,UU,0,0,5/22/2001,0,,1,11,0,E,,1,1,,2001,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+0,South West,E06000023,173293,1,"Bristol, City of",0,9,,UU,0,0,5/22/2001,1,,55,11,0,W,,2,45,,2001,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0

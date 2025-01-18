@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,181368,0,South Gloucestershire,0,11,CU,4,2,5/10/2007,0,85,13,0,E,1,68,2007,0,Heron Way,"east of Scott Way, Yate",371737,966016,C,0
+0,South West,E06000025,181368,1,South Gloucestershire,0,19,CU,5,2,5/10/2007,1,157,13,0,W,0,130,2007,0,Heron Way,"east of Scott Way, Yate",371737,966016,C,0
+9,South West,E06000024,176146,141,North Somerset,32,63,CU,0,7,5/10/2007,22,558,13,5,N,2,347,2007,57,Royal Portlebury Dock Road,,350602,996472,C,16
+7,South West,E06000024,176146,112,North Somerset,41,67,CU,0,1,5/10/2007,18,422,13,3,S,2,242,2007,39,Royal Portlebury Dock Road,,350602,996472,C,4

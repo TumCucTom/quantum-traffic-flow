@@ -1,0 +1,37 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+43,15,E06000023,,356860,7,1785,South West,,A3029,172520,"Bristol, City of",2,28726,2,62,W,209,5/15/2001,2001,172591,42,1,1457,A4,357170,7,PU,357000,13,172400,A4 split,7
+34,32,E06000023,,356860,13,2495,South West,,A3029,172520,"Bristol, City of",2,28726,1,59,W,180,5/15/2001,2001,172591,59,4,2165,A4,357170,5,PU,357000,23,172400,A4 split,8
+40,22,E06000023,,356860,12,2069,South West,,A3029,172520,"Bristol, City of",2,28726,4,67,W,225,5/15/2001,2001,172591,30,3,1725,A4,357170,6,PU,357000,13,172400,A4 split,9
+62,44,E06000023,,356860,5,1387,South West,,A3029,172520,"Bristol, City of",7,28726,1,93,W,186,5/15/2001,2001,172591,19,8,1045,A4,357170,10,PU,357000,2,172400,A4 split,10
+51,28,E06000023,,356860,11,1361,South West,,A3029,172520,"Bristol, City of",3,28726,3,75,W,184,5/15/2001,2001,172591,16,4,1058,A4,357170,3,PU,357000,2,172400,A4 split,11
+41,23,E06000023,,356860,6,1294,South West,,A3029,172520,"Bristol, City of",1,28726,2,56,W,159,5/15/2001,2001,172591,33,1,1023,A4,357170,5,PU,357000,6,172400,A4 split,12
+61,30,E06000023,,356860,5,1347,South West,,A3029,172520,"Bristol, City of",8,28726,2,84,W,139,5/15/2001,2001,172591,27,3,1067,A4,357170,5,PU,357000,1,172400,A4 split,13
+47,5,E06000023,,356860,5,1092,South West,,A3029,172520,"Bristol, City of",4,28726,3,67,W,154,5/15/2001,2001,172591,16,1,850,A4,357170,7,PU,357000,3,172400,A4 split,14
+29,19,E06000023,,356860,6,1171,South West,,A3029,172520,"Bristol, City of",2,28726,0,40,W,143,5/15/2001,2001,172591,12,1,957,A4,357170,2,PU,357000,2,172400,A4 split,15
+19,34,E06000023,,356860,3,1477,South West,,A3029,172520,"Bristol, City of",0,28726,1,25,W,197,5/15/2001,2001,172591,29,0,1192,A4,357170,2,PU,357000,8,172400,A4 split,16
+5,29,E06000023,,356860,0,1342,South West,,A3029,172520,"Bristol, City of",1,28726,0,7,W,128,5/15/2001,2001,172591,22,1,1156,A4,357170,0,PU,357000,12,172400,A4 split,17
+7,19,E06000023,,356860,1,1157,South West,,A3029,172520,"Bristol, City of",0,28726,0,10,W,63,5/15/2001,2001,172591,18,1,1047,A4,357170,1,PU,357000,3,172400,A4 split,18
+2,7,E06000022,Cynthia Road,,0,302,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,63,5/15/2001,2001,164204,5,0,225,C,,0,CU,373491,3,,,7
+6,14,E06000022,Cynthia Road,,0,493,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,6,E,68,5/15/2001,2001,164204,5,0,400,C,,0,CU,373491,10,,,8
+2,17,E06000022,Cynthia Road,,0,289,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,45,5/15/2001,2001,164204,5,0,220,C,,0,CU,373491,3,,,9
+5,13,E06000022,Cynthia Road,,0,234,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,5,E,31,5/15/2001,2001,164204,4,0,181,C,,0,CU,373491,0,,,10
+2,14,E06000022,Cynthia Road,,0,215,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,29,5/15/2001,2001,164204,4,0,166,C,,0,CU,373491,0,,,11
+2,14,E06000022,Cynthia Road,,0,212,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,39,5/15/2001,2001,164204,3,0,154,C,,0,CU,373491,7,,,12
+0,11,E06000022,Cynthia Road,,0,215,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,29,5/15/2001,2001,164204,7,0,168,C,,0,CU,373491,3,,,13
+3,14,E06000022,Cynthia Road,,0,211,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,4,E,19,5/15/2001,2001,164204,2,0,172,C,,1,CU,373491,2,,,14
+0,18,E06000022,Cynthia Road,,0,234,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,36,5/15/2001,2001,164204,2,0,178,C,,0,CU,373491,2,,,15
+2,11,E06000022,Cynthia Road,,0,232,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,21,5/15/2001,2001,164204,1,0,197,C,,0,CU,373491,4,,,16
+0,10,E06000022,Cynthia Road,,0,239,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,26,5/15/2001,2001,164204,4,0,199,C,,0,CU,373491,2,,,17
+0,9,E06000022,Cynthia Road,,0,180,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,10,5/15/2001,2001,164204,0,0,161,C,,0,CU,373491,3,,,18
+2,8,E06000022,Cynthia Road,,0,63,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,W,11,5/15/2001,2001,164204,0,0,42,C,,0,CU,373491,0,,,7
+5,15,E06000022,Cynthia Road,,0,144,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,5,W,18,5/15/2001,2001,164204,1,0,105,C,,0,CU,373491,1,,,8
+3,14,E06000022,Cynthia Road,,0,168,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,3,W,32,5/15/2001,2001,164204,6,0,113,C,,0,CU,373491,0,,,9
+2,13,E06000022,Cynthia Road,,0,139,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,W,24,5/15/2001,2001,164204,2,0,98,C,,0,CU,373491,0,,,10
+1,13,E06000022,Cynthia Road,,0,185,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,24,5/15/2001,2001,164204,0,0,147,C,,0,CU,373491,0,,,11
+2,14,E06000022,Cynthia Road,,0,180,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,W,20,5/15/2001,2001,164204,4,0,140,C,,0,CU,373491,0,,,12
+4,10,E06000022,Cynthia Road,,0,172,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,5,W,26,5/15/2001,2001,164204,4,0,127,C,,1,CU,373491,0,,,13
+0,13,E06000022,Cynthia Road,,0,181,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,24,5/15/2001,2001,164204,5,1,138,C,,0,CU,373491,1,,,14
+1,14,E06000022,Cynthia Road,,0,229,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,27,5/15/2001,2001,164204,0,0,187,C,,0,CU,373491,7,,,15
+5,11,E06000022,Cynthia Road,,0,307,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,5,W,46,5/15/2001,2001,164204,6,0,239,C,,0,CU,373491,2,,,16
+3,9,E06000022,Cynthia Road,,0,387,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,3,W,42,5/15/2001,2001,164204,8,0,325,C,,0,CU,373491,9,,,17
+2,7,E06000022,Cynthia Road,,0,226,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,W,12,5/15/2001,2001,164204,3,0,202,C,,0,CU,373491,8,,,18

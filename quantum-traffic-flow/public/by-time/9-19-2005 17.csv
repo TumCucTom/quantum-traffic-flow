@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,168100,12,North Somerset,0,102,B3130 Barrow Lane,PR,8,10,9/19/2005,9,353281,655,17,2,N,LA Boundary,8,523,356110,2005,0,167124,169240,,,355000,56376,A38,1
+0,South West,E06000024,168100,4,North Somerset,1,60,B3130 Barrow Lane,PR,4,13,9/19/2005,1,353281,961,17,1,S,LA Boundary,5,880,356110,2005,1,167124,169240,,,355000,56376,A38,0
+0,South West,E06000025,181243,0,South Gloucestershire,0,12,,UU,0,3,9/19/2005,0,,102,17,0,E,,0,87,,2005,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0
+0,South West,E06000025,181243,0,South Gloucestershire,0,5,,UU,0,0,9/19/2005,0,,35,17,0,W,,0,30,,2005,0,,,Sycamore Drive,"west of Birch Close, Patchway,",359427,952434,U,0

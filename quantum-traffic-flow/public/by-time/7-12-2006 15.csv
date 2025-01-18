@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,165236,8,Bath and North East Somerset,0,16,Darlington St,PU,2,1,7/12/2006,8,375637,228,15,0,E,Warminster Rd,5,201,375948,2006,0,165209,165429,,,375856,74521,A36,0
+0,South West,E06000022,165236,1,Bath and North East Somerset,0,21,Darlington St,PU,0,2,7/12/2006,1,375637,264,15,0,W,Warminster Rd,6,240,375948,2006,0,165209,165429,,,375856,74521,A36,0
+0,South West,E06000024,170390,0,North Somerset,0,25,,UU,4,2,7/12/2006,0,,239,15,0,N,,5,208,,2006,0,,,SOUTHERN WAY,"South of Ashley Avenue, Clevedon",339720,930452,U,0
+1,South West,E06000024,170390,2,North Somerset,0,25,,UU,4,2,7/12/2006,1,,205,15,0,S,,4,172,,2006,0,,,SOUTHERN WAY,"South of Ashley Avenue, Clevedon",339720,930452,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164050,0,Bath and North East Somerset,0,2,UU,0,0,9/6/2013,0,13,17,0,E,0,11,2013,0,HAYCOMBE DRIVE,"Whiteway, between North Way rbt and Kelston view jcn",372098,946676,U,0
+0,South West,E06000022,164050,0,Bath and North East Somerset,0,1,UU,0,0,9/6/2013,0,9,17,0,W,0,8,2013,0,HAYCOMBE DRIVE,"Whiteway, between North Way rbt and Kelston view jcn",372098,946676,U,0
+0,South West,E06000023,170240,5,"Bristol, City of",1,42,CU,0,7,9/6/2013,4,432,17,0,N,3,378,2013,0,EMERY ROAD,North of Bath Road,362674,946763,C,0
+0,South West,E06000023,170240,4,"Bristol, City of",0,60,CU,0,13,9/6/2013,3,531,17,1,S,6,454,2013,0,EMERY ROAD,North of Bath Road,362674,946763,C,0

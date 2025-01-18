@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+27,South West,E06000025,179700,386,South Gloucestershire,79,394,LA Boundary,TM,21,15,7/10/2008,101,354850,3278,9,25,N,Junction 17 M5,0,2462,357747,2008,128,179550,181250,,,355000,16020,M5,26
+35,South West,E06000025,179700,406,South Gloucestershire,95,347,LA Boundary,TM,13,10,7/10/2008,122,354850,2798,9,19,S,Junction 17 M5,0,2022,357747,2008,125,179550,181250,,,355000,16020,M5,10
+0,South West,E06000023,174260,2,"Bristol, City of",0,37,,UU,2,1,7/10/2008,2,,216,9,0,N,,2,174,,2008,0,,,HAMPTON ROAD,North of Waverley Road,357950,930430,U,0
+0,South West,E06000023,174260,3,"Bristol, City of",0,38,,UU,1,5,7/10/2008,3,,294,9,0,S,,26,247,,2008,0,,,HAMPTON ROAD,North of Waverley Road,357950,930430,U,0
+2,South West,E06000024,171508,14,North Somerset,1,69,,BR,3,3,7/10/2008,7,,384,9,1,E,,0,295,,2008,2,,,Tickenham Road,"East of Court Lane, Clevedon",342472,947244,B3130,1
+0,South West,E06000024,171508,11,North Somerset,0,51,,BR,12,0,7/10/2008,10,,453,9,0,W,,3,379,,2008,0,,,Tickenham Road,"East of Court Lane, Clevedon",342472,947244,B3130,1

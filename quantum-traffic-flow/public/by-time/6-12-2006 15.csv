@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000024,170000,36,North Somerset,6,69,B3130 Barrow Street,PR,7,5,6/12/2006,20,352100,632,15,2,E,LA Boundary,3,515,356290,2006,2,169290,171360,,,354900,47034,A370,2
+13,South West,E06000024,170000,43,North Somerset,6,91,B3130 Barrow Street,PR,11,10,6/12/2006,12,352100,839,15,3,W,LA Boundary,1,684,356290,2006,6,169290,171360,,,354900,47034,A370,3
+0,South West,E06000022,158350,0,Bath and North East Somerset,0,2,,UR,1,1,6/12/2006,0,,34,15,0,E,,0,30,,2006,0,,,High Street,Wellow,374300,952475,U,0
+0,South West,E06000022,158350,0,Bath and North East Somerset,0,9,,UR,1,2,6/12/2006,0,,42,15,0,W,,0,30,,2006,0,,,High Street,Wellow,374300,952475,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000023,172360,82,"Bristol, City of",8,235,A3029 Brunel Lock Road/McAdam Way,PU,34,58,6/24/2009,36,356790,1767,8,15,N,A4 midpoint,25,1358,356860,2009,12,172270,172400,,,356840,58285,A3029,5
+5,South West,E06000023,172360,79,"Bristol, City of",17,208,A3029 Brunel Lock Road/McAdam Way,PU,12,29,6/24/2009,35,356790,2120,8,7,S,A4 midpoint,6,1792,356860,2009,12,172270,172400,,,356840,58285,A3029,3
+5,South West,E06000025,180790,36,South Gloucestershire,8,133,,UU,8,15,6/24/2009,19,,1152,8,2,E,,9,960,,2009,2,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,0
+2,South West,E06000025,180790,22,South Gloucestershire,3,161,,UU,4,9,6/24/2009,13,,1140,8,2,W,,4,944,,2009,1,,,MERLIN ROAD,"east of Lysander Road, Cribbs Causeway",358330,930461,C,1

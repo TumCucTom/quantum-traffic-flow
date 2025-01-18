@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,158311,0,Bath and North East Somerset,0,4,CR,0,0,5/12/2008,0,15,15,0,N,0,11,2008,0,CALLINGCOTT,50m downhill from Stonage lane junction,369854,946665,C,0
+0,South West,E06000022,158311,0,Bath and North East Somerset,0,6,CR,0,1,5/12/2008,0,16,15,0,S,0,9,2008,0,CALLINGCOTT,50m downhill from Stonage lane junction,369854,946665,C,0
+0,South West,E06000022,161887,2,Bath and North East Somerset,0,21,CR,1,0,5/12/2008,1,74,15,1,E,1,50,2008,0,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000022,161887,0,Bath and North East Somerset,0,11,CR,1,0,5/12/2008,0,70,15,0,W,0,58,2008,0,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000025,188491,2,South Gloucestershire,0,70,BU,7,7,5/12/2008,2,622,15,0,N,2,536,2008,0,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,0
+0,South West,E06000025,188491,3,South Gloucestershire,0,62,BU,11,11,5/12/2008,2,563,15,0,S,2,476,2008,1,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,175137,0,"Bristol, City of",0,3,UU,0,0,5/12/2014,0,40,8,0,E,0,37,2014,0,WESTMORELAND ROAD,West of Redland Road,357522,946814,U,0
+0,South West,E06000023,175137,1,"Bristol, City of",0,4,UU,0,0,5/12/2014,1,50,8,0,W,7,45,2014,0,WESTMORELAND ROAD,West of Redland Road,357522,946814,U,0
+0,South West,E06000025,188491,7,South Gloucestershire,0,64,BU,10,6,5/12/2014,6,963,8,1,N,3,876,2014,0,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,0
+0,South West,E06000025,188491,7,South Gloucestershire,0,65,BU,5,5,5/12/2014,6,616,8,1,S,8,534,2014,0,ALVESTON HILL,"north of Old Gloucester Road, Alveston",363505,947494,B4061,0

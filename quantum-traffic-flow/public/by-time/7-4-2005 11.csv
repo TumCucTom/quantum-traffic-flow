@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,170600,0,"Bristol, City of",0,0,Bedminster Down Rd,PU,6,0,7/4/2005,0,357950,6,11,0,N,Bedminster Rd,3,0,357810,2005,0,170530,170690,,,357900,8390,A38,0
+11,South West,E06000023,170600,94,"Bristol, City of",10,287,Bedminster Down Rd,PU,24,7,7/4/2005,52,357950,1535,11,7,S,Bedminster Rd,5,1123,357810,2005,11,170530,170690,,,357900,8390,A38,3
+0,South West,E06000024,162853,0,North Somerset,0,3,,CR,1,0,7/4/2005,0,,29,11,0,E,,0,25,,2005,0,,,Long Lane,"East of School Lane, Wrington",348438,945731,C,0
+0,South West,E06000024,162853,1,North Somerset,0,4,,CR,1,0,7/4/2005,1,,36,11,0,W,,0,30,,2005,0,,,Long Lane,"East of School Lane, Wrington",348438,945731,C,0

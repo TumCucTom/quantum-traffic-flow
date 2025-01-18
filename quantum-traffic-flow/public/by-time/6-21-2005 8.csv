@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,165300,17,Bath and North East Somerset,2,69,A368,PR,4,12,6/21/2005,7,366380,844,8,2,E,A4,2,742,370150,2005,4,162120,165330,,,370000,36423,A39,1
+1,South West,E06000022,165300,26,Bath and North East Somerset,3,54,A368,PR,4,2,6/21/2005,12,366380,360,8,6,W,A4,0,274,370150,2005,4,162120,165330,,,370000,36423,A39,0
+0,South West,E06000024,175587,6,North Somerset,0,22,,UU,5,3,6/21/2005,5,,239,8,1,N,,7,203,,2005,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0
+2,South West,E06000024,175587,7,North Somerset,0,20,,UU,3,6,6/21/2005,3,,258,8,2,S,,17,222,,2005,0,,,Ham Green Road,"Adjancent to Anchor Pub, Ham Green",352786,952420,U,0

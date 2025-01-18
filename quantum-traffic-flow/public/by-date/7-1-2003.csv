@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+20,0,E06000025,,354680,12,177,South West,,Unclassified Road,185355,South Gloucestershire,8,73298,14,73,N,45,7/1/2003,2003,184500,3,13,56,A403,355222,6,PR,354790,0,184270,B4064,7
+18,2,E06000025,,354680,4,225,South West,,Unclassified Road,185355,South Gloucestershire,2,73298,10,49,N,39,7/1/2003,2003,184500,3,10,132,A403,355222,5,PR,354790,0,184270,B4064,8
+14,2,E06000025,,354680,6,141,South West,,Unclassified Road,185355,South Gloucestershire,2,73298,3,32,N,23,7/1/2003,2003,184500,1,6,83,A403,355222,1,PR,354790,1,184270,B4064,9
+15,0,E06000025,,354680,2,139,South West,,Unclassified Road,185355,South Gloucestershire,1,73298,7,42,N,30,7/1/2003,2003,184500,0,16,67,A403,355222,1,PR,354790,1,184270,B4064,10
+21,0,E06000025,,354680,4,157,South West,,Unclassified Road,185355,South Gloucestershire,3,73298,13,53,N,32,7/1/2003,2003,184500,0,10,72,A403,355222,2,PR,354790,1,184270,B4064,11
+14,1,E06000025,,354680,7,189,South West,,Unclassified Road,185355,South Gloucestershire,2,73298,11,45,N,40,7/1/2003,2003,184500,1,10,102,A403,355222,1,PR,354790,1,184270,B4064,12
+14,1,E06000025,,354680,7,203,South West,,Unclassified Road,185355,South Gloucestershire,3,73298,4,49,N,31,7/1/2003,2003,184500,3,15,119,A403,355222,6,PR,354790,0,184270,B4064,13
+16,2,E06000025,,354680,11,228,South West,,Unclassified Road,185355,South Gloucestershire,4,73298,10,58,N,24,7/1/2003,2003,184500,4,16,140,A403,355222,1,PR,354790,1,184270,B4064,14
+8,1,E06000025,,354680,14,285,South West,,Unclassified Road,185355,South Gloucestershire,1,73298,14,51,N,36,7/1/2003,2003,184500,5,13,192,A403,355222,1,PR,354790,1,184270,B4064,15
+13,2,E06000025,,354680,9,424,South West,,Unclassified Road,185355,South Gloucestershire,1,73298,22,60,N,45,7/1/2003,2003,184500,11,13,306,A403,355222,2,PR,354790,3,184270,B4064,16
+3,2,E06000025,,354680,1,393,South West,,Unclassified Road,185355,South Gloucestershire,5,73298,8,35,N,31,7/1/2003,2003,184500,10,18,315,A403,355222,0,PR,354790,0,184270,B4064,17
+11,0,E06000025,,354680,1,233,South West,,Unclassified Road,185355,South Gloucestershire,5,73298,11,43,N,20,7/1/2003,2003,184500,8,14,162,A403,355222,1,PR,354790,1,184270,B4064,18
+10,0,E06000025,,354680,6,373,South West,,Unclassified Road,185355,South Gloucestershire,0,73298,11,41,S,41,7/1/2003,2003,184500,11,7,280,A403,355222,7,PR,354790,1,184270,B4064,7
+10,3,E06000025,,354680,8,442,South West,,Unclassified Road,185355,South Gloucestershire,0,73298,10,36,S,57,7/1/2003,2003,184500,8,7,338,A403,355222,1,PR,354790,1,184270,B4064,8
+15,2,E06000025,,354680,5,210,South West,,Unclassified Road,185355,South Gloucestershire,2,73298,11,37,S,29,7/1/2003,2003,184500,3,3,139,A403,355222,1,PR,354790,0,184270,B4064,9
+22,0,E06000025,,354680,4,182,South West,,Unclassified Road,185355,South Gloucestershire,2,73298,16,51,S,32,7/1/2003,2003,184500,0,4,99,A403,355222,3,PR,354790,0,184270,B4064,10
+17,0,E06000025,,354680,3,155,South West,,Unclassified Road,185355,South Gloucestershire,1,73298,8,44,S,29,7/1/2003,2003,184500,0,9,82,A403,355222,6,PR,354790,0,184270,B4064,11
+24,1,E06000025,,354680,4,189,South West,,Unclassified Road,185355,South Gloucestershire,4,73298,10,64,S,27,7/1/2003,2003,184500,1,16,96,A403,355222,6,PR,354790,2,184270,B4064,12
+22,6,E06000025,,354680,7,235,South West,,Unclassified Road,185355,South Gloucestershire,5,73298,16,68,S,32,7/1/2003,2003,184500,8,12,121,A403,355222,6,PR,354790,2,184270,B4064,13
+22,0,E06000025,,354680,12,194,South West,,Unclassified Road,185355,South Gloucestershire,5,73298,11,77,S,29,7/1/2003,2003,184500,0,19,88,A403,355222,8,PR,354790,1,184270,B4064,14
+21,1,E06000025,,354680,14,226,South West,,Unclassified Road,185355,South Gloucestershire,1,73298,16,66,S,38,7/1/2003,2003,184500,4,9,117,A403,355222,5,PR,354790,2,184270,B4064,15
+12,2,E06000025,,354680,10,199,South West,,Unclassified Road,185355,South Gloucestershire,3,73298,11,56,S,31,7/1/2003,2003,184500,1,13,109,A403,355222,7,PR,354790,1,184270,B4064,16
+21,0,E06000025,,354680,5,210,South West,,Unclassified Road,185355,South Gloucestershire,3,73298,11,56,S,30,7/1/2003,2003,184500,6,14,118,A403,355222,2,PR,354790,3,184270,B4064,17
+7,0,E06000025,,354680,0,135,South West,,Unclassified Road,185355,South Gloucestershire,0,73298,4,22,S,15,7/1/2003,2003,184500,3,10,95,A403,355222,1,PR,354790,1,184270,B4064,18
+1,0,E06000025,Down Road,,0,237,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,34,7/1/2003,2003,179740,5,0,197,U,,0,UU,365090,3,,,7
+2,0,E06000025,Down Road,,0,201,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,20,7/1/2003,2003,179740,2,0,177,U,,0,UU,365090,1,,,8
+1,0,E06000025,Down Road,,0,191,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,18,7/1/2003,2003,179740,1,0,171,U,,0,UU,365090,0,,,9
+2,0,E06000025,Down Road,,0,95,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,12,7/1/2003,2003,179740,1,0,80,U,,0,UU,365090,2,,,10
+2,1,E06000025,Down Road,,0,90,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,12,7/1/2003,2003,179740,0,0,75,U,,0,UU,365090,0,,,11
+2,0,E06000025,Down Road,,0,91,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,13,7/1/2003,2003,179740,3,0,73,U,,0,UU,365090,1,,,12
+1,0,E06000025,Down Road,,0,116,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,3,N,12,7/1/2003,2003,179740,2,0,99,U,,2,UU,365090,1,,,13
+1,0,E06000025,Down Road,,0,126,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,16,7/1/2003,2003,179740,1,0,108,U,,0,UU,365090,0,,,14
+2,0,E06000025,Down Road,,0,115,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,N,18,7/1/2003,2003,179740,0,0,95,U,,0,UU,365090,0,,,15
+1,1,E06000025,Down Road,,0,145,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,N,32,7/1/2003,2003,179740,3,0,108,U,,0,UU,365090,0,,,16
+0,0,E06000025,Down Road,,0,174,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,19,7/1/2003,2003,179740,4,0,151,U,,0,UU,365090,0,,,17
+0,0,E06000025,Down Road,,0,137,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,N,11,7/1/2003,2003,179740,5,0,121,U,,0,UU,365090,0,,,18
+1,0,E06000025,Down Road,,0,109,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,1,979275,0,3,S,17,7/1/2003,2003,179740,4,0,85,U,,1,UU,365090,2,,,7
+4,0,E06000025,Down Road,,0,150,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,4,S,23,7/1/2003,2003,179740,0,0,123,U,,0,UU,365090,0,,,8
+1,0,E06000025,Down Road,,0,119,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,11,7/1/2003,2003,179740,1,0,106,U,,0,UU,365090,1,,,9
+0,0,E06000025,Down Road,,0,102,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,16,7/1/2003,2003,179740,0,1,85,U,,0,UU,365090,1,,,10
+2,0,E06000025,Down Road,,0,93,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,2,S,8,7/1/2003,2003,179740,0,0,83,U,,0,UU,365090,2,,,11
+0,0,E06000025,Down Road,,0,125,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,10,7/1/2003,2003,179740,5,0,110,U,,0,UU,365090,0,,,12
+1,0,E06000025,Down Road,,0,96,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,13,7/1/2003,2003,179740,1,0,81,U,,0,UU,365090,1,,,13
+1,0,E06000025,Down Road,,0,107,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,14,7/1/2003,2003,179740,1,0,91,U,,0,UU,365090,1,,,14
+0,0,E06000025,Down Road,,0,150,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,16,7/1/2003,2003,179740,4,0,130,U,,0,UU,365090,2,,,15
+1,0,E06000025,Down Road,,0,200,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,23,7/1/2003,2003,179740,7,0,169,U,,0,UU,365090,6,,,16
+1,0,E06000025,Down Road,,0,196,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,1,S,17,7/1/2003,2003,179740,3,0,175,U,,0,UU,365090,5,,,17
+0,0,E06000025,Down Road,,0,161,South West,"north of Sandstone Rise, Winterbourne",,,South Gloucestershire,0,979275,0,0,S,14,7/1/2003,2003,179740,4,0,143,U,,0,UU,365090,1,,,18

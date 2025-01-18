@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+1,1,E06000025,0,190,South West,,South Gloucestershire,0,919476,0,1,N,26,3/18/2005,2005,174362,6,0,156,C,0,CR,368399,0,Siston Lane,7
+1,0,E06000025,0,194,South West,,South Gloucestershire,0,919476,0,1,N,30,3/18/2005,2005,174362,1,0,162,C,0,CR,368399,0,Siston Lane,8
+0,3,E06000025,0,111,South West,,South Gloucestershire,0,919476,0,0,N,13,3/18/2005,2005,174362,0,0,95,C,0,CR,368399,1,Siston Lane,9
+0,0,E06000025,0,101,South West,,South Gloucestershire,0,919476,0,0,N,22,3/18/2005,2005,174362,2,0,77,C,0,CR,368399,0,Siston Lane,10
+0,0,E06000025,0,79,South West,,South Gloucestershire,0,919476,0,0,N,13,3/18/2005,2005,174362,0,0,66,C,0,CR,368399,0,Siston Lane,11
+0,0,E06000025,0,106,South West,,South Gloucestershire,0,919476,0,0,N,24,3/18/2005,2005,174362,1,0,81,C,0,CR,368399,0,Siston Lane,12
+2,0,E06000025,0,101,South West,,South Gloucestershire,0,919476,0,2,N,15,3/18/2005,2005,174362,3,0,81,C,0,CR,368399,1,Siston Lane,13
+2,0,E06000025,0,115,South West,,South Gloucestershire,0,919476,0,2,N,22,3/18/2005,2005,174362,2,0,89,C,0,CR,368399,2,Siston Lane,14
+2,0,E06000025,0,113,South West,,South Gloucestershire,0,919476,0,2,N,22,3/18/2005,2005,174362,3,0,86,C,0,CR,368399,0,Siston Lane,15
+0,1,E06000025,0,156,South West,,South Gloucestershire,0,919476,0,0,N,22,3/18/2005,2005,174362,3,0,130,C,0,CR,368399,0,Siston Lane,16
+0,0,E06000025,0,121,South West,,South Gloucestershire,0,919476,0,0,N,20,3/18/2005,2005,174362,5,0,96,C,0,CR,368399,1,Siston Lane,17
+1,0,E06000025,0,95,South West,,South Gloucestershire,0,919476,0,1,N,8,3/18/2005,2005,174362,1,0,85,C,0,CR,368399,1,Siston Lane,18
+1,2,E06000025,0,110,South West,,South Gloucestershire,0,919476,0,1,S,25,3/18/2005,2005,174362,3,0,79,C,0,CR,368399,0,Siston Lane,7
+1,0,E06000025,0,134,South West,,South Gloucestershire,0,919476,0,1,S,29,3/18/2005,2005,174362,0,0,104,C,0,CR,368399,0,Siston Lane,8
+1,3,E06000025,0,78,South West,,South Gloucestershire,0,919476,0,1,S,11,3/18/2005,2005,174362,0,0,63,C,0,CR,368399,1,Siston Lane,9
+2,1,E06000025,0,76,South West,,South Gloucestershire,0,919476,0,2,S,10,3/18/2005,2005,174362,0,0,63,C,0,CR,368399,0,Siston Lane,10
+1,0,E06000025,0,91,South West,,South Gloucestershire,0,919476,0,1,S,15,3/18/2005,2005,174362,1,0,74,C,0,CR,368399,1,Siston Lane,11
+1,0,E06000025,0,100,South West,,South Gloucestershire,0,919476,0,1,S,13,3/18/2005,2005,174362,1,0,85,C,0,CR,368399,0,Siston Lane,12
+0,0,E06000025,0,117,South West,,South Gloucestershire,0,919476,0,0,S,13,3/18/2005,2005,174362,5,0,99,C,0,CR,368399,0,Siston Lane,13
+1,1,E06000025,0,98,South West,,South Gloucestershire,0,919476,0,1,S,20,3/18/2005,2005,174362,0,0,76,C,0,CR,368399,1,Siston Lane,14
+3,0,E06000025,0,161,South West,,South Gloucestershire,0,919476,0,3,S,21,3/18/2005,2005,174362,6,0,131,C,0,CR,368399,1,Siston Lane,15
+1,1,E06000025,0,236,South West,,South Gloucestershire,0,919476,0,1,S,30,3/18/2005,2005,174362,7,0,197,C,0,CR,368399,3,Siston Lane,16
+0,0,E06000025,0,247,South West,,South Gloucestershire,0,919476,0,0,S,25,3/18/2005,2005,174362,6,0,216,C,0,CR,368399,2,Siston Lane,17
+0,0,E06000025,0,121,South West,,South Gloucestershire,0,919476,0,0,S,12,3/18/2005,2005,174362,1,0,108,C,0,CR,368399,0,Siston Lane,18
+2,4,E06000025,0,469,South West,north of Cornfield Close,South Gloucestershire,1,952441,0,4,N,47,3/18/2005,2005,182301,6,1,408,U,0,UU,361306,6,Brook Way,7
+4,10,E06000025,0,633,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,5,N,31,3/18/2005,2005,182301,6,1,581,U,0,UU,361306,8,Brook Way,8
+2,4,E06000025,0,307,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,4,N,13,3/18/2005,2005,182301,4,0,282,U,2,UU,361306,1,Brook Way,9
+10,6,E06000025,0,264,South West,north of Cornfield Close,South Gloucestershire,1,952441,0,11,N,26,3/18/2005,2005,182301,5,0,216,U,0,UU,361306,2,Brook Way,10
+5,5,E06000025,1,291,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,9,N,31,3/18/2005,2005,182301,1,1,245,U,2,UU,361306,0,Brook Way,11
+4,5,E06000025,1,303,South West,north of Cornfield Close,South Gloucestershire,0,952441,5,12,N,26,3/18/2005,2005,182301,0,1,260,U,1,UU,361306,6,Brook Way,12
+7,4,E06000025,0,463,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,7,N,23,3/18/2005,2005,182301,5,0,424,U,0,UU,361306,2,Brook Way,13
+4,6,E06000025,0,385,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,5,N,28,3/18/2005,2005,182301,5,0,341,U,1,UU,361306,1,Brook Way,14
+2,3,E06000025,0,446,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,2,N,16,3/18/2005,2005,182301,4,0,421,U,0,UU,361306,1,Brook Way,15
+0,6,E06000025,0,450,South West,north of Cornfield Close,South Gloucestershire,0,952441,1,1,N,17,3/18/2005,2005,182301,9,0,417,U,0,UU,361306,14,Brook Way,16
+1,6,E06000025,0,447,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,2,N,11,3/18/2005,2005,182301,4,0,424,U,1,UU,361306,6,Brook Way,17
+0,4,E06000025,0,381,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,2,N,12,3/18/2005,2005,182301,4,1,359,U,1,UU,361306,1,Brook Way,18
+2,8,E06000025,0,184,South West,north of Cornfield Close,South Gloucestershire,1,952441,0,6,S,21,3/18/2005,2005,182301,5,0,144,U,3,UU,361306,7,Brook Way,7
+4,6,E06000025,1,355,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,6,S,37,3/18/2005,2005,182301,2,0,304,U,1,UU,361306,4,Brook Way,8
+7,7,E06000025,0,268,South West,north of Cornfield Close,South Gloucestershire,1,952441,0,9,S,27,3/18/2005,2005,182301,2,0,223,U,1,UU,361306,0,Brook Way,9
+7,6,E06000025,0,243,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,7,S,38,3/18/2005,2005,182301,1,0,191,U,0,UU,361306,0,Brook Way,10
+5,6,E06000025,1,259,South West,north of Cornfield Close,South Gloucestershire,0,952441,1,9,S,23,3/18/2005,2005,182301,2,0,219,U,2,UU,361306,1,Brook Way,11
+5,7,E06000025,0,420,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,5,S,12,3/18/2005,2005,182301,4,0,392,U,0,UU,361306,2,Brook Way,12
+2,5,E06000025,0,419,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,3,S,12,3/18/2005,2005,182301,1,0,398,U,1,UU,361306,5,Brook Way,13
+3,7,E06000025,0,347,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,3,S,34,3/18/2005,2005,182301,9,0,294,U,0,UU,361306,2,Brook Way,14
+2,5,E06000025,0,427,South West,north of Cornfield Close,South Gloucestershire,0,952441,1,3,S,29,3/18/2005,2005,182301,7,0,383,U,0,UU,361306,3,Brook Way,15
+0,8,E06000025,0,495,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,0,S,32,3/18/2005,2005,182301,8,0,447,U,0,UU,361306,6,Brook Way,16
+0,5,E06000025,0,562,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,0,S,29,3/18/2005,2005,182301,8,0,520,U,0,UU,361306,9,Brook Way,17
+1,6,E06000025,0,430,South West,north of Cornfield Close,South Gloucestershire,0,952441,0,1,S,21,3/18/2005,2005,182301,4,0,398,U,0,UU,361306,10,Brook Way,18

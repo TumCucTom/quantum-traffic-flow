@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,178000,47,"Bristol, City of",6,147,A4,TM,17,4,7/13/2011,25,352180,788,15,2,N,merge of feeder roads,0,573,352500,2011,10,177900,178100,,,352200,70103,M5,4
+1,South West,E06000023,178000,38,"Bristol, City of",6,137,A4,TM,8,2,7/13/2011,16,352180,755,15,3,S,merge of feeder roads,0,570,352500,2011,7,177900,178100,,,352200,70103,M5,5
+0,South West,E06000022,153818,0,Bath and North East Somerset,0,4,,UU,0,0,7/13/2011,0,,23,15,0,E,,0,19,,2011,0,,,LABURNUM GROVE,Midsomer Norton.,365821,946685,U,0
+0,South West,E06000022,153818,2,Bath and North East Somerset,0,2,,UU,0,0,7/13/2011,2,,31,15,0,W,,1,27,,2011,0,,,LABURNUM GROVE,Midsomer Norton.,365821,946685,U,0

@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000023,171770,48,"Bristol, City of",4,152,A37,PU,30,4,6/5/2003,30,359880,724,9,3,E,A4320,3,490,361100,2003,5,171900,171600,,,359980,16123,A4,0
+4,South West,E06000023,171770,37,"Bristol, City of",1,116,A37,PU,19,26,6/5/2003,16,359880,805,9,13,W,A4320,9,607,361100,2003,1,171900,171600,,,359980,16123,A4,2
+1,South West,E06000025,181780,4,South Gloucestershire,0,31,,UU,2,0,6/5/2003,3,,246,9,0,E,,1,209,,2003,0,,,CHURCH ROAD,"west of Ryecroft Road, Frampton Cotterell",367030,930453,U,0
+0,South West,E06000025,181780,4,South Gloucestershire,0,28,,UU,0,0,6/5/2003,3,,302,9,1,W,,5,270,,2003,0,,,CHURCH ROAD,"west of Ryecroft Road, Frampton Cotterell",367030,930453,U,0

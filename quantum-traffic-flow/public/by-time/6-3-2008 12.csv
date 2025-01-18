@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+2,South West,E06000022,160820,23,Bath and North East Somerset,5,88,B3115,PR,4,5,6/3/2008,13,371980,600,12,3,N,Sulis Manor Rd roundabout,2,480,373350,2008,0,160780,161640,,,372050,16957,A367,0
+3,South West,E06000022,160820,33,Bath and North East Somerset,6,73,B3115,PR,6,2,6/3/2008,17,371980,695,12,4,S,Sulis Manor Rd roundabout,1,581,373350,2008,3,160780,161640,,,372050,16957,A367,0
+2,South West,E06000023,176670,11,"Bristol, City of",0,43,,BU,5,1,6/3/2008,8,,405,12,1,N,,8,345,,2008,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0
+0,South West,E06000023,176670,2,"Bristol, City of",0,34,,BU,4,1,6/3/2008,2,,347,12,0,S,,4,306,,2008,0,,,Henleaze Road,South of Henleaze Park Drive,357800,990069,B4056,0

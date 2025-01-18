@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164240,15,Bath and North East Somerset,5,59,A367 roundabout,PU,14,12,9/15/2003,5,375000,980,17,1,E,A3062 roundabout,12,880,375490,2003,3,164300,164250,,,375300,6990,A36,1
+1,South West,E06000022,164240,18,Bath and North East Somerset,3,79,A367 roundabout,PU,10,32,9/15/2003,13,375000,1176,17,0,W,A3062 roundabout,10,1037,375490,2003,1,164300,164250,,,375300,6990,A36,0
+0,South West,E06000024,174800,4,North Somerset,0,28,,BR,4,11,9/15/2003,4,,399,17,0,E,,6,352,,2003,0,,,Cleveland Road,"East of Valley Road, North Weston",346000,990021,B3124,0
+0,South West,E06000024,174800,2,North Somerset,0,33,,BR,1,9,9/15/2003,2,,446,17,0,W,,2,401,,2003,0,,,Cleveland Road,"East of Valley Road, North Weston",346000,990021,B3124,0

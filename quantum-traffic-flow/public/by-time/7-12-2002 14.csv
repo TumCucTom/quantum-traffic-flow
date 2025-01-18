@@ -1,0 +1,4 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,165000,30,Bath and North East Somerset,5,40,A4(T),PR,2,5,7/12/2002,18,371367,397,14,2,E,Connection Rd,0,320,372440,2002,1,165575,164810,,,372200,16122,A36,3
+2,South West,E06000022,165000,24,Bath and North East Somerset,3,85,A4(T),PR,4,13,7/12/2002,16,371367,560,14,0,W,Connection Rd,1,434,372440,2002,1,165575,164810,,,372200,16122,A36,2
+0,South West,E06000022,168000,0,Bath and North East Somerset,0,3,,UU,3,0,7/12/2002,0,,18,14,0,S,,0,12,,2002,0,,,Catherine Way,,378100,964896,U,0

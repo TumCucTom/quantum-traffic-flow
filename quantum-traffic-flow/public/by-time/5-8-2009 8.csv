@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000025,182240,41,South Gloucestershire,3,98,"Church Rd, Coalpit Heath",PR,9,6,5/8/2009,19,367960,861,8,4,E,"roundabout leading to Woodward Avenue, Yate",5,707,369600,2009,6,181410,182440,,,369000,99083,A432,6
+1,South West,E06000025,182240,20,South Gloucestershire,2,84,"Church Rd, Coalpit Heath",PR,13,14,5/8/2009,11,367960,666,8,0,W,"roundabout leading to Woodward Avenue, Yate",4,535,369600,2009,5,181410,182440,,,369000,99083,A432,1
+0,South West,E06000025,179850,7,South Gloucestershire,0,64,,UU,18,4,5/8/2009,5,,575,8,2,N,,22,482,,2009,0,,,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0
+0,South West,E06000025,179850,3,South Gloucestershire,0,53,,UU,20,14,5/8/2009,2,,896,8,1,S,,23,806,,2009,0,,,HATCHET ROAD,"north of North Road, Stoke Gifford",362170,930455,U,0

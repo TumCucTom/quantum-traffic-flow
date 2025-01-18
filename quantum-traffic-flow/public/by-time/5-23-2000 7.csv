@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000024,162100,58,North Somerset,4,206,A371 Locking Moor  Road,PR,21,23,5/23/2000,24,335210,1936,7,10,E,M5 J 21,0,1628,337880,2000,10,161050,162600,,,336850,99376,A370,4
+4,South West,E06000024,162100,52,North Somerset,12,128,A371 Locking Moor  Road,PR,8,12,5/23/2000,21,335210,892,7,10,W,M5 J 21,0,692,337880,2000,5,161050,162600,,,336850,99376,A370,0
+0,South West,E06000023,173293,0,"Bristol, City of",0,0,,UU,0,0,5/23/2000,0,,1,7,0,E,,0,1,,2000,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0
+0,South West,E06000023,173293,6,"Bristol, City of",0,40,,UU,0,6,5/23/2000,6,,366,7,0,W,,10,314,,2000,0,,,Victoria Avenue,East of Howett Road,361294,966010,U,0

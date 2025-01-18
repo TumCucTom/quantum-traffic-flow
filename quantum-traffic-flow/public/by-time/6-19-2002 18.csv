@@ -1,0 +1,9 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,174700,214,North Somerset,53,212,20,TM,37,16,6/19/2002,44,341771,2021,18,4,N,19,0,1542,350670,2002,87,170680,175620,,,348700,56021,M5,26
+1,South West,E06000024,174700,181,North Somerset,65,277,20,TM,9,39,6/19/2002,52,341771,3133,18,10,S,19,0,2627,350670,2002,34,170680,175620,,,348700,56021,M5,19
+2,South West,E06000025,176100,30,South Gloucestershire,10,68,Station Road Link,PR,3,17,6/19/2002,11,366580,1062,18,0,N,B4465,0,944,367490,2002,4,174740,176520,,,367330,77050,A4174,3
+1,South West,E06000025,176100,20,South Gloucestershire,6,111,Station Road Link,PR,6,48,6/19/2002,8,366580,1399,18,2,S,B4465,2,1214,367490,2002,2,174740,176520,,,367330,77050,A4174,1
+0,South West,E06000022,158350,0,Bath and North East Somerset,0,3,,UR,0,1,6/19/2002,0,,36,18,0,E,,0,32,,2002,0,,,High Street,Wellow,374300,952475,U,0
+0,South West,E06000022,158350,0,Bath and North East Somerset,0,4,,UR,0,2,6/19/2002,0,,67,18,0,W,,0,61,,2002,0,,,High Street,Wellow,374300,952475,U,0
+0,South West,E06000022,161220,3,Bath and North East Somerset,0,16,,CR,1,2,6/19/2002,3,,146,18,0,E,,10,124,,2002,0,,,Walley Lane,Chew Magna - please find a safe place to park,357650,990295,C,0
+0,South West,E06000022,161220,1,Bath and North East Somerset,0,6,,CR,1,2,6/19/2002,1,,101,18,0,W,,0,91,,2002,0,,,Walley Lane,Chew Magna - please find a safe place to park,357650,990295,C,0

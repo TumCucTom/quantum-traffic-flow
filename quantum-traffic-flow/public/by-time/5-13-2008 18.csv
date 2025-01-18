@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,174921,0,"Bristol, City of",0,1,UU,0,0,5/13/2008,0,20,18,0,E,1,19,2008,0,WOODSTOCK ROAD,West of Huntington Park,357907,946818,U,0
+0,South West,E06000023,174921,0,"Bristol, City of",0,0,UU,0,0,5/13/2008,0,9,18,0,W,1,9,2008,0,WOODSTOCK ROAD,West of Huntington Park,357907,946818,U,0
+0,South West,E06000022,164204,0,Bath and North East Somerset,0,15,CU,8,1,5/13/2008,0,249,18,0,E,4,225,2008,0,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0
+0,South West,E06000022,164204,1,Bath and North East Somerset,0,14,CU,7,5,5/13/2008,1,279,18,0,W,8,252,2008,0,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0

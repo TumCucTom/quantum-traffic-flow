@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164000,1,Bath and North East Somerset,0,27,A36 roundabout,PU,4,4,5/21/2010,1,375490,255,15,0,N,North Rd/The Avenue,3,219,376054,2010,0,164250,162640,,,375630,17552,A3062,0
+0,South West,E06000022,164000,0,Bath and North East Somerset,0,13,A36 roundabout,PU,4,0,5/21/2010,0,375490,253,15,0,S,North Rd/The Avenue,4,236,376054,2010,0,164250,162640,,,375630,17552,A3062,0
+0,South West,E06000025,181754,0,South Gloucestershire,0,6,,UU,1,1,5/21/2010,0,,54,15,0,E,,5,46,,2010,0,,,STOKEMEAD,"west of Stoke Lane, Little Stoke",361069,947543,U,0
+0,South West,E06000025,181754,0,South Gloucestershire,0,7,,UU,0,0,5/21/2010,0,,42,15,0,W,,2,35,,2010,0,,,STOKEMEAD,"west of Stoke Lane, Little Stoke",361069,947543,U,0

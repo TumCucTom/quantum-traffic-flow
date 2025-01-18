@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,165640,13,Bath and North East Somerset,0,143,A4 Trunk,PR,7,7,3/21/2002,11,371680,973,7,1,E,Old Newbridge Hill,0,803,372080,2002,0,165780,165610,,,372000,7937,A4,0
+1,South West,E06000022,165640,8,Bath and North East Somerset,1,56,A4 Trunk,PR,8,10,3/21/2002,6,371680,411,7,0,W,Old Newbridge Hill,0,329,372080,2002,0,165780,165610,,,372000,7937,A4,0
+0,South West,E06000023,174898,0,"Bristol, City of",0,2,,UU,0,0,3/21/2002,0,,54,7,0,N,,0,52,,2002,0,,,East Park,North of east Park Drive,361318,966011,U,0
+0,South West,E06000023,174898,0,"Bristol, City of",0,3,,UU,0,0,3/21/2002,0,,24,7,0,S,,0,21,,2002,0,,,East Park,North of east Park Drive,361318,966011,U,0

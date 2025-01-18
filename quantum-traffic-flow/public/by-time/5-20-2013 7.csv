@@ -1,0 +1,8 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+13,South West,E06000023,170550,60,"Bristol, City of",6,505,Bedminster Rd,PU,25,47,5/20/2013,27,357556,2095,7,9,N,A3029,27,1458,357680,2013,5,170467,170620,,,357600,58068,A38,0
+0,South West,E06000022,161887,0,Bath and North East Somerset,0,14,,CR,0,0,5/20/2013,0,,73,7,0,N,,0,59,,2013,0,,,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000022,161887,0,Bath and North East Somerset,0,16,,CR,0,0,5/20/2013,0,,66,7,0,S,,0,50,,2013,0,,,MOORLEDGE ROAD, 1m south of Chew magna (300m south of Moorledge lane jcn),358471,946668,C,0
+0,South West,E06000023,174780,4,"Bristol, City of",0,122,,BU,3,8,5/20/2013,3,,596,7,1,N,,10,459,,2013,0,,,ASHLEY HILL,South of Briavals Grove,359779,946747,B4052,0
+0,South West,E06000023,174780,2,"Bristol, City of",0,68,,BU,1,8,5/20/2013,2,,829,7,0,S,,21,750,,2013,0,,,ASHLEY HILL,South of Briavals Grove,359779,946747,B4052,0
+0,South West,E06000025,180939,1,South Gloucestershire,0,14,,BR,1,1,5/20/2013,1,,85,7,0,N,,1,68,,2013,0,,,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0
+0,South West,E06000025,180939,1,South Gloucestershire,0,7,,BR,1,2,5/20/2013,1,,124,7,0,S,,0,113,,2013,0,,,The Street,"north of Littleton Drew Lane, Acton Turville",380927,947491,B4039,0

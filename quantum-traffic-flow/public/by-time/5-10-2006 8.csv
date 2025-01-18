@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+19,South West,E06000025,181000,52,South Gloucestershire,1,102,B4057,PU,16,19,5/10/2006,19,360465,1530,8,6,N,M5/Aztec West,46,1341,360686,2006,6,180663,183284,,,360440,36408,A38,1
+10,South West,E06000025,181000,48,South Gloucestershire,4,120,B4057,PU,11,47,5/10/2006,20,360465,1535,8,6,S,M5/Aztec West,19,1309,360686,2006,6,180663,183284,,,360440,36408,A38,2
+0,South West,E06000024,163780,5,North Somerset,0,4,,UR,0,2,5/10/2006,4,,62,8,0,E,,1,51,,2006,0,,,Lower Norton Lane,"North of Kewside, Kewstoke",333810,952398,U,1
+0,South West,E06000024,163780,2,North Somerset,0,9,,UR,1,1,5/10/2006,2,,86,8,0,W,,1,73,,2006,0,,,Lower Norton Lane,"North of Kewside, Kewstoke",333810,952398,U,0

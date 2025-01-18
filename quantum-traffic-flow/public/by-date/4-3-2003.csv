@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+0,8,E06000022,0,344,South West,Bath,Bath and North East Somerset,0,930445,0,1,N,25,4/3/2003,2003,166480,1,0,309,U,1,UU,374560,0,LANSDOWN ROAD,7
+3,12,E06000022,1,362,South West,Bath,Bath and North East Somerset,0,930445,0,5,N,30,4/3/2003,2003,166480,4,0,311,U,1,UU,374560,2,LANSDOWN ROAD,8
+4,8,E06000022,0,237,South West,Bath,Bath and North East Somerset,0,930445,0,5,N,27,4/3/2003,2003,166480,1,0,196,U,1,UU,374560,0,LANSDOWN ROAD,9
+5,7,E06000022,0,181,South West,Bath,Bath and North East Somerset,0,930445,0,5,N,24,4/3/2003,2003,166480,1,0,144,U,0,UU,374560,0,LANSDOWN ROAD,10
+13,6,E06000022,0,211,South West,Bath,Bath and North East Somerset,0,930445,0,13,N,30,4/3/2003,2003,166480,1,0,161,U,0,UU,374560,0,LANSDOWN ROAD,11
+3,6,E06000022,1,191,South West,Bath,Bath and North East Somerset,1,930445,0,5,N,15,4/3/2003,2003,166480,1,0,164,U,0,UU,374560,0,LANSDOWN ROAD,12
+4,6,E06000022,0,211,South West,Bath,Bath and North East Somerset,1,930445,0,5,N,23,4/3/2003,2003,166480,1,0,176,U,0,UU,374560,2,LANSDOWN ROAD,13
+2,7,E06000022,0,198,South West,Bath,Bath and North East Somerset,1,930445,0,3,N,23,4/3/2003,2003,166480,3,0,162,U,0,UU,374560,0,LANSDOWN ROAD,14
+5,9,E06000022,0,210,South West,Bath,Bath and North East Somerset,0,930445,0,5,N,24,4/3/2003,2003,166480,0,0,172,U,0,UU,374560,0,LANSDOWN ROAD,15
+2,6,E06000022,0,269,South West,Bath,Bath and North East Somerset,0,930445,0,2,N,26,4/3/2003,2003,166480,3,0,232,U,0,UU,374560,1,LANSDOWN ROAD,16
+1,7,E06000022,0,305,South West,Bath,Bath and North East Somerset,0,930445,0,1,N,24,4/3/2003,2003,166480,4,0,269,U,0,UU,374560,0,LANSDOWN ROAD,17
+0,5,E06000022,0,248,South West,Bath,Bath and North East Somerset,0,930445,0,0,N,23,4/3/2003,2003,166480,5,0,215,U,0,UU,374560,0,LANSDOWN ROAD,18
+1,5,E06000022,0,199,South West,Bath,Bath and North East Somerset,0,930445,0,1,S,27,4/3/2003,2003,166480,0,0,166,U,0,UU,374560,0,LANSDOWN ROAD,7
+1,10,E06000022,0,315,South West,Bath,Bath and North East Somerset,0,930445,0,2,S,41,4/3/2003,2003,166480,1,0,261,U,1,UU,374560,0,LANSDOWN ROAD,8
+3,7,E06000022,0,318,South West,Bath,Bath and North East Somerset,0,930445,0,3,S,45,4/3/2003,2003,166480,4,0,259,U,0,UU,374560,0,LANSDOWN ROAD,9
+6,5,E06000022,0,242,South West,Bath,Bath and North East Somerset,0,930445,0,6,S,29,4/3/2003,2003,166480,0,0,202,U,0,UU,374560,0,LANSDOWN ROAD,10
+8,4,E06000022,0,244,South West,Bath,Bath and North East Somerset,0,930445,0,8,S,41,4/3/2003,2003,166480,1,0,190,U,0,UU,374560,0,LANSDOWN ROAD,11
+4,7,E06000022,0,222,South West,Bath,Bath and North East Somerset,0,930445,0,4,S,32,4/3/2003,2003,166480,0,0,179,U,0,UU,374560,0,LANSDOWN ROAD,12
+1,6,E06000022,0,229,South West,Bath,Bath and North East Somerset,0,930445,0,1,S,28,4/3/2003,2003,166480,3,0,191,U,0,UU,374560,0,LANSDOWN ROAD,13
+3,8,E06000022,0,254,South West,Bath,Bath and North East Somerset,0,930445,0,3,S,24,4/3/2003,2003,166480,2,0,217,U,0,UU,374560,2,LANSDOWN ROAD,14
+1,7,E06000022,0,274,South West,Bath,Bath and North East Somerset,0,930445,0,1,S,25,4/3/2003,2003,166480,2,0,239,U,0,UU,374560,1,LANSDOWN ROAD,15
+0,8,E06000022,0,357,South West,Bath,Bath and North East Somerset,0,930445,0,0,S,40,4/3/2003,2003,166480,5,0,304,U,0,UU,374560,0,LANSDOWN ROAD,16
+1,6,E06000022,0,375,South West,Bath,Bath and North East Somerset,0,930445,0,2,S,22,4/3/2003,2003,166480,3,0,342,U,1,UU,374560,0,LANSDOWN ROAD,17
+0,6,E06000022,0,369,South West,Bath,Bath and North East Somerset,0,930445,0,0,S,13,4/3/2003,2003,166480,3,0,347,U,0,UU,374560,1,LANSDOWN ROAD,18
+1,0,E06000024,1,107,South West,"East of North Lane, Yatton",North Somerset,0,966003,1,3,E,8,4/3/2003,2003,166350,1,0,95,U,0,UR,342400,0,Wemberham Lane,7
+5,0,E06000024,0,181,South West,"East of North Lane, Yatton",North Somerset,1,966003,0,6,E,14,4/3/2003,2003,166350,1,0,160,U,0,UR,342400,0,Wemberham Lane,8
+1,1,E06000024,0,86,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,E,9,4/3/2003,2003,166350,0,0,75,U,0,UR,342400,1,Wemberham Lane,9
+4,0,E06000024,0,60,South West,"East of North Lane, Yatton",North Somerset,0,966003,1,6,E,3,4/3/2003,2003,166350,0,0,51,U,1,UR,342400,0,Wemberham Lane,10
+2,0,E06000024,1,53,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,4,E,9,4/3/2003,2003,166350,0,0,40,U,1,UR,342400,0,Wemberham Lane,11
+0,0,E06000024,0,73,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,E,6,4/3/2003,2003,166350,0,1,66,U,0,UR,342400,1,Wemberham Lane,12
+0,0,E06000024,0,63,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,E,8,4/3/2003,2003,166350,2,1,52,U,0,UR,342400,0,Wemberham Lane,13
+2,0,E06000024,0,69,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,2,E,5,4/3/2003,2003,166350,2,0,60,U,0,UR,342400,1,Wemberham Lane,14
+3,1,E06000024,0,78,South West,"East of North Lane, Yatton",North Somerset,0,966003,1,4,E,9,4/3/2003,2003,166350,0,0,64,U,0,UR,342400,0,Wemberham Lane,15
+1,0,E06000024,0,84,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,E,10,4/3/2003,2003,166350,2,0,71,U,0,UR,342400,2,Wemberham Lane,16
+1,0,E06000024,0,113,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,E,7,4/3/2003,2003,166350,2,0,103,U,0,UR,342400,1,Wemberham Lane,17
+0,0,E06000024,0,107,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,0,E,7,4/3/2003,2003,166350,0,0,100,U,0,UR,342400,5,Wemberham Lane,18
+2,0,E06000024,1,34,South West,"East of North Lane, Yatton",North Somerset,0,966003,1,4,W,1,4/3/2003,2003,166350,1,0,28,U,0,UR,342400,1,Wemberham Lane,7
+3,2,E06000024,0,77,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,3,W,5,4/3/2003,2003,166350,1,0,66,U,0,UR,342400,1,Wemberham Lane,8
+1,1,E06000024,0,52,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,W,8,4/3/2003,2003,166350,0,0,42,U,0,UR,342400,2,Wemberham Lane,9
+3,0,E06000024,1,52,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,5,W,5,4/3/2003,2003,166350,0,0,42,U,1,UR,342400,0,Wemberham Lane,10
+2,0,E06000024,0,56,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,3,W,12,4/3/2003,2003,166350,0,1,41,U,0,UR,342400,0,Wemberham Lane,11
+0,0,E06000024,0,66,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,W,8,4/3/2003,2003,166350,0,1,57,U,0,UR,342400,1,Wemberham Lane,12
+0,0,E06000024,0,81,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,0,W,8,4/3/2003,2003,166350,1,0,72,U,0,UR,342400,1,Wemberham Lane,13
+3,0,E06000024,0,58,South West,"East of North Lane, Yatton",North Somerset,0,966003,1,4,W,3,4/3/2003,2003,166350,1,0,50,U,0,UR,342400,0,Wemberham Lane,14
+1,1,E06000024,0,103,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,2,W,14,4/3/2003,2003,166350,0,0,86,U,1,UR,342400,1,Wemberham Lane,15
+1,0,E06000024,0,120,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,W,8,4/3/2003,2003,166350,3,0,108,U,0,UR,342400,1,Wemberham Lane,16
+1,0,E06000024,0,172,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,W,16,4/3/2003,2003,166350,3,0,152,U,0,UR,342400,3,Wemberham Lane,17
+1,0,E06000024,0,140,South West,"East of North Lane, Yatton",North Somerset,0,966003,0,1,W,10,4/3/2003,2003,166350,3,0,126,U,0,UR,342400,1,Wemberham Lane,18

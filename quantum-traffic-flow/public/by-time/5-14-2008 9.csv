@@ -1,0 +1,11 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000023,172000,44,"Bristol, City of",5,145,A3029/B3120,PU,9,8,5/14/2008,23,357230,837,9,6,N,A38 roundabout,14,631,359017,2008,3,171890,172014,,,357400,16961,A370,3
+5,South West,E06000023,172000,41,"Bristol, City of",5,106,A3029/B3120,PU,5,2,5/14/2008,19,357230,530,9,6,S,A38 roundabout,2,376,359017,2008,5,171890,172014,,,357400,16961,A370,1
+1,South West,E06000022,165443,9,Bath and North East Somerset,1,30,Bathwick St,PU,3,2,5/14/2008,4,375640,272,9,2,E,Warminster Rd,9,228,375948,2008,1,165350,165429,,,375783,28320,A36,0
+0,South West,E06000022,165443,8,Bath and North East Somerset,1,18,Bathwick St,PU,4,2,5/14/2008,4,375640,161,9,2,W,Warminster Rd,11,129,375948,2008,1,165350,165429,,,375783,28320,A36,0
+0,South West,E06000024,171190,1,North Somerset,0,10,,BR,0,1,5/14/2008,0,,121,9,1,N,,1,109,,2008,0,,,Weston Road,"South of B3128 Clevedon Road, Failand",352050,940260,B3129,0
+0,South West,E06000024,171190,1,North Somerset,0,8,,BR,0,0,5/14/2008,0,,52,9,1,S,,0,43,,2008,0,,,Weston Road,"South of B3128 Clevedon Road, Failand",352050,940260,B3129,0
+0,South West,E06000023,176698,1,"Bristol, City of",0,4,,UU,0,0,5/14/2008,1,,51,9,0,E,,0,46,,2008,0,,,HENLEAZE PARK DRIVE,West of Oakwood Road,357853,946816,U,0
+1,South West,E06000023,176698,3,"Bristol, City of",0,10,,UU,0,3,5/14/2008,2,,50,9,0,W,,0,34,,2008,0,,,HENLEAZE PARK DRIVE,West of Oakwood Road,357853,946816,U,0
+0,South West,E06000025,180024,2,South Gloucestershire,0,4,,CU,0,0,5/14/2008,1,,11,9,0,N,,0,5,,2008,0,,,FISHPOOL HILL,"north of Charlton Lane, Brentry",358118,947510,C,1
+1,South West,E06000025,180024,2,South Gloucestershire,0,4,,CU,0,0,5/14/2008,1,,10,9,0,S,,0,4,,2008,0,,,FISHPOOL HILL,"north of Charlton Lane, Brentry",358118,947510,C,0

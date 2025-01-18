@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+16,30,E06000022,,373913,1,834,South West,,A3062,164300,Bath and North East Somerset,0,37050,0,21,N,122,6/9/2004,2004,164300,17,0,644,A367,375000,4,PU,374800,8,162211,A36/A3064 roundabout,7
+11,41,E06000022,,373913,1,736,South West,,A3062,164300,Bath and North East Somerset,1,37050,3,20,N,70,6/9/2004,2004,164300,25,0,580,A367,375000,4,PU,374800,6,162211,A36/A3064 roundabout,8
+13,24,E06000022,,373913,2,731,South West,,A3062,164300,Bath and North East Somerset,1,37050,6,25,N,54,6/9/2004,2004,164300,13,1,615,A367,375000,2,PU,374800,7,162211,A36/A3064 roundabout,9
+13,31,E06000022,,373913,2,595,South West,,A3062,164300,Bath and North East Somerset,0,37050,1,18,N,74,6/9/2004,2004,164300,10,1,462,A367,375000,1,PU,374800,1,162211,A36/A3064 roundabout,10
+25,28,E06000022,,373913,3,637,South West,,A3062,164300,Bath and North East Somerset,1,37050,1,36,N,72,6/9/2004,2004,164300,11,3,490,A367,375000,3,PU,374800,3,162211,A36/A3064 roundabout,11
+19,25,E06000022,,373913,1,587,South West,,A3062,164300,Bath and North East Somerset,0,37050,2,27,N,81,6/9/2004,2004,164300,6,1,448,A367,375000,4,PU,374800,3,162211,A36/A3064 roundabout,12
+19,28,E06000022,,373913,0,620,South West,,A3062,164300,Bath and North East Somerset,1,37050,4,28,N,79,6/9/2004,2004,164300,7,2,478,A367,375000,2,PU,374800,1,162211,A36/A3064 roundabout,13
+14,26,E06000022,,373913,0,594,South West,,A3062,164300,Bath and North East Somerset,0,37050,2,19,N,71,6/9/2004,2004,164300,13,0,465,A367,375000,3,PU,374800,5,162211,A36/A3064 roundabout,14
+7,35,E06000022,,373913,0,675,South West,,A3062,164300,Bath and North East Somerset,1,37050,3,11,N,61,6/9/2004,2004,164300,8,0,560,A367,375000,0,PU,374800,4,162211,A36/A3064 roundabout,15
+10,35,E06000022,,373913,1,620,South West,,A3062,164300,Bath and North East Somerset,0,37050,0,11,N,61,6/9/2004,2004,164300,4,0,509,A367,375000,0,PU,374800,0,162211,A36/A3064 roundabout,16
+5,28,E06000022,,373913,0,597,South West,,A3062,164300,Bath and North East Somerset,0,37050,2,7,N,43,6/9/2004,2004,164300,7,0,512,A367,375000,0,PU,374800,3,162211,A36/A3064 roundabout,17
+2,25,E06000022,,373913,0,616,South West,,A3062,164300,Bath and North East Somerset,0,37050,1,3,N,40,6/9/2004,2004,164300,3,0,545,A367,375000,0,PU,374800,2,162211,A36/A3064 roundabout,18
+18,20,E06000022,,373913,1,397,South West,,A3062,164300,Bath and North East Somerset,2,37050,0,27,S,62,6/9/2004,2004,164300,5,0,283,A367,375000,6,PU,374800,1,162211,A36/A3064 roundabout,7
+8,36,E06000022,,373913,2,632,South West,,A3062,164300,Bath and North East Somerset,2,37050,0,16,S,68,6/9/2004,2004,164300,7,1,505,A367,375000,3,PU,374800,3,162211,A36/A3064 roundabout,8
+19,33,E06000022,,373913,1,532,South West,,A3062,164300,Bath and North East Somerset,0,37050,5,30,S,72,6/9/2004,2004,164300,4,2,393,A367,375000,3,PU,374800,2,162211,A36/A3064 roundabout,9
+12,29,E06000022,,373913,0,512,South West,,A3062,164300,Bath and North East Somerset,1,37050,2,20,S,62,6/9/2004,2004,164300,4,1,397,A367,375000,4,PU,374800,1,162211,A36/A3064 roundabout,10
+20,24,E06000022,,373913,2,600,South West,,A3062,164300,Bath and North East Somerset,2,37050,4,30,S,62,6/9/2004,2004,164300,5,0,479,A367,375000,2,PU,374800,1,162211,A36/A3064 roundabout,11
+16,27,E06000022,,373913,5,622,South West,,A3062,164300,Bath and North East Somerset,1,37050,1,24,S,59,6/9/2004,2004,164300,20,1,492,A367,375000,0,PU,374800,3,162211,A36/A3064 roundabout,12
+18,34,E06000022,,373913,0,655,South West,,A3062,164300,Bath and North East Somerset,0,37050,4,27,S,68,6/9/2004,2004,164300,11,3,515,A367,375000,2,PU,374800,1,162211,A36/A3064 roundabout,13
+20,31,E06000022,,373913,2,704,South West,,A3062,164300,Bath and North East Somerset,0,37050,2,26,S,73,6/9/2004,2004,164300,7,0,567,A367,375000,2,PU,374800,1,162211,A36/A3064 roundabout,14
+17,42,E06000022,,373913,0,782,South West,,A3062,164300,Bath and North East Somerset,0,37050,2,24,S,77,6/9/2004,2004,164300,12,0,627,A367,375000,5,PU,374800,2,162211,A36/A3064 roundabout,15
+9,36,E06000022,,373913,1,789,South West,,A3062,164300,Bath and North East Somerset,0,37050,1,12,S,88,6/9/2004,2004,164300,10,1,643,A367,375000,0,PU,374800,1,162211,A36/A3064 roundabout,16
+3,29,E06000022,,373913,0,758,South West,,A3062,164300,Bath and North East Somerset,0,37050,0,4,S,60,6/9/2004,2004,164300,24,0,641,A367,375000,1,PU,374800,2,162211,A36/A3064 roundabout,17
+4,30,E06000022,,373913,0,837,South West,,A3062,164300,Bath and North East Somerset,0,37050,0,4,S,34,6/9/2004,2004,164300,16,0,753,A367,375000,0,PU,374800,3,162211,A36/A3064 roundabout,18
+1,1,E06000025,Horton Hill,,0,26,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,3,6/9/2004,2004,184220,1,0,20,U,,0,UR,376450,0,,,7
+3,2,E06000025,Horton Hill,,0,62,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,3,E,4,6/9/2004,2004,184220,0,0,53,U,,0,UR,376450,0,,,8
+0,0,E06000025,Horton Hill,,0,22,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,2,6/9/2004,2004,184220,0,0,19,U,,1,UR,376450,0,,,9
+1,1,E06000025,Horton Hill,,0,24,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,3,6/9/2004,2004,184220,0,0,19,U,,0,UR,376450,1,,,10
+0,0,E06000025,Horton Hill,,2,18,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,E,3,6/9/2004,2004,184220,0,0,13,U,,0,UR,376450,0,,,11
+0,1,E06000025,Horton Hill,,0,18,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,6,6/9/2004,2004,184220,0,0,11,U,,0,UR,376450,1,,,12
+0,0,E06000025,Horton Hill,,0,24,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,4,6/9/2004,2004,184220,0,0,20,U,,0,UR,376450,0,,,13
+0,1,E06000025,Horton Hill,,0,30,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,5,6/9/2004,2004,184220,0,0,23,U,,1,UR,376450,0,,,14
+1,0,E06000025,Horton Hill,,0,32,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,E,4,6/9/2004,2004,184220,0,0,27,U,,0,UR,376450,1,,,15
+1,1,E06000025,Horton Hill,,0,45,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,E,11,6/9/2004,2004,184220,0,0,31,U,,1,UR,376450,1,,,16
+0,0,E06000025,Horton Hill,,0,46,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,9,6/9/2004,2004,184220,0,0,37,U,,0,UR,376450,0,,,17
+0,0,E06000025,Horton Hill,,0,36,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,E,1,6/9/2004,2004,184220,0,0,35,U,,0,UR,376450,0,,,18
+1,1,E06000025,Horton Hill,,0,30,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,5,6/9/2004,2004,184220,0,0,23,U,,0,UR,376450,1,,,7
+1,0,E06000025,Horton Hill,,0,44,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,9,6/9/2004,2004,184220,0,0,34,U,,0,UR,376450,0,,,8
+1,0,E06000025,Horton Hill,,0,24,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,4,6/9/2004,2004,184220,0,0,19,U,,0,UR,376450,0,,,9
+0,1,E06000025,Horton Hill,,0,27,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,3,6/9/2004,2004,184220,0,0,22,U,,1,UR,376450,0,,,10
+1,0,E06000025,Horton Hill,,0,23,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,1,W,1,6/9/2004,2004,184220,0,0,21,U,,0,UR,376450,0,,,11
+0,1,E06000025,Horton Hill,,0,40,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,5,6/9/2004,2004,184220,0,0,34,U,,0,UR,376450,0,,,12
+0,0,E06000025,Horton Hill,,0,26,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,5,6/9/2004,2004,184220,0,0,21,U,,0,UR,376450,0,,,13
+2,1,E06000025,Horton Hill,,0,30,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,3,W,7,6/9/2004,2004,184220,1,0,18,U,,1,UR,376450,2,,,14
+0,1,E06000025,Horton Hill,,0,34,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,8,6/9/2004,2004,184220,0,0,25,U,,0,UR,376450,0,,,15
+2,0,E06000025,Horton Hill,,0,37,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,2,W,3,6/9/2004,2004,184220,0,0,32,U,,0,UR,376450,0,,,16
+0,0,E06000025,Horton Hill,,0,36,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,4,6/9/2004,2004,184220,0,0,32,U,,0,UR,376450,0,,,17
+0,1,E06000025,Horton Hill,,0,30,South West,"west of New Tyning lane, Horton",,,South Gloucestershire,0,942481,0,0,W,2,6/9/2004,2004,184220,0,0,27,U,,0,UR,376450,0,,,18

@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,164870,2,Bath and North East Somerset,0,23,CR,0,2,5/22/2008,2,111,14,0,N,0,84,2008,0,WELLS ROAD,North of Chew Magna - please find a safe place to park,356770,930444,C,0
+0,South West,E06000022,164870,1,Bath and North East Somerset,0,22,CR,0,1,5/22/2008,0,141,14,1,S,0,117,2008,0,WELLS ROAD,North of Chew Magna - please find a safe place to park,356770,930444,C,0
+0,South West,E06000023,175179,5,"Bristol, City of",0,23,CU,0,2,5/22/2008,3,134,14,1,E,6,104,2008,1,RIDGEWAY ROAD,West of Abbingdon Road,363100,946756,C,0
+0,South West,E06000023,175179,0,"Bristol, City of",0,14,CU,3,2,5/22/2008,0,92,14,0,W,0,73,2008,0,RIDGEWAY ROAD,West of Abbingdon Road,363100,946756,C,0
+2,South West,E06000025,189513,25,South Gloucestershire,9,30,UR,0,1,5/22/2008,9,143,14,1,N,0,87,2008,3,N/A,north od A403 rbt,357356,947516,U,1
+1,South West,E06000025,189513,29,South Gloucestershire,12,24,UR,0,2,5/22/2008,7,132,14,3,S,0,77,2008,6,N/A,north od A403 rbt,357356,947516,U,0

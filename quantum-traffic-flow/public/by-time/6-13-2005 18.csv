@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,172000,0,South Gloucestershire,0,78,A4174,PU,15,7,6/13/2005,0,365520,756,18,0,N,LA Boundary,10,656,363920,2005,0,171490,172570,,,364850,37184,A431,0
+0,South West,E06000025,172000,1,South Gloucestershire,0,87,A4174,PU,10,14,6/13/2005,1,365520,947,18,0,S,LA Boundary,6,835,363920,2005,0,171490,172570,,,364850,37184,A431,0
+0,South West,E06000023,171123,0,"Bristol, City of",0,5,,UU,0,0,6/13/2005,0,,44,18,0,E,,4,39,,2005,0,,,British Road,South of South Road,358020,966007,U,0
+0,South West,E06000023,171123,0,"Bristol, City of",0,2,,UU,0,0,6/13/2005,0,,26,18,0,W,,12,24,,2005,0,,,British Road,South of South Road,358020,966007,U,0

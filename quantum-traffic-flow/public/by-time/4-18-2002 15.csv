@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,176318,0,"Bristol, City of",0,3,UU,0,0,4/18/2002,0,46,15,0,N,2,43,2002,0,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+0,South West,E06000023,176318,0,"Bristol, City of",0,5,UU,0,0,4/18/2002,0,70,15,0,S,2,65,2002,0,Oldbury Court Road,North of Elfin Road,363471,942449,U,0
+0,South West,E06000024,166350,2,North Somerset,0,11,UR,0,0,4/18/2002,1,77,15,0,E,1,64,2002,1,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+0,South West,E06000024,166350,2,North Somerset,0,15,UR,0,1,4/18/2002,2,110,15,0,W,0,92,2002,0,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0

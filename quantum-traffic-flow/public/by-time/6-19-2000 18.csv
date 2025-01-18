@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,161170,15,North Somerset,0,12,A370 Francis Fox Road,PU,19,5,6/19/2000,14,332110,381,18,0,E,Walliscote Rd,9,330,332400,2000,1,161180,161160,,,332170,70097,A370,0
+0,South West,E06000024,161170,5,North Somerset,0,33,A370 Francis Fox Road,PU,7,1,6/19/2000,2,332110,341,18,1,W,Walliscote Rd,2,295,332400,2000,0,161180,161160,,,332170,70097,A370,2
+0,South West,E06000023,171123,0,"Bristol, City of",0,10,,UU,1,1,6/19/2000,0,,46,18,0,N,,3,34,,2000,0,,,British Road,South of South Road,358020,966007,U,0
+0,South West,E06000023,171123,0,"Bristol, City of",0,2,,UU,0,2,6/19/2000,0,,21,18,0,S,,8,17,,2000,0,,,British Road,South of South Road,358020,966007,U,0

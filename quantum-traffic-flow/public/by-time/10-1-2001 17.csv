@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000025,180000,11,South Gloucestershire,2,146,A4174,PU,28,116,10/1/2001,5,360131,2581,17,1,N,B4057,56,2280,360465,2001,2,178978,180663,,,360460,16374,A38,0
+1,South West,E06000025,180000,16,South Gloucestershire,2,71,A4174,PU,14,68,10/1/2001,6,360131,1807,17,4,S,B4057,80,1638,360465,2001,2,178978,180663,,,360460,16374,A38,1
+0,South West,E06000025,178882,3,South Gloucestershire,0,11,,UR,0,3,10/1/2001,3,,137,17,0,E,,0,120,,2001,0,,,Unamed,"south of Compass Inn, Tormarton",376465,979270,U,0
+0,South West,E06000025,178882,0,South Gloucestershire,0,5,,UR,0,0,10/1/2001,0,,67,17,0,W,,0,62,,2001,0,,,Unamed,"south of Compass Inn, Tormarton",376465,979270,U,0

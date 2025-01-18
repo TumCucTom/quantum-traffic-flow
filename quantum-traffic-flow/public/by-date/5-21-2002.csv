@@ -1,0 +1,73 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+15,5,E06000022,,362935,1,820,South West,,A39,161884,Bath and North East Somerset,0,16354,8,32,N,96,5/21/2002,2002,160000,18,5,669,A37,362468,3,PR,361900,0,156853,A368,7
+20,6,E06000022,,362935,1,658,South West,,A39,161884,Bath and North East Somerset,0,16354,9,37,N,76,5/21/2002,2002,160000,16,4,523,A37,362468,3,PR,361900,0,156853,A368,8
+27,8,E06000022,,362935,1,461,South West,,A39,161884,Bath and North East Somerset,1,16354,24,63,N,52,5/21/2002,2002,160000,2,7,336,A37,362468,3,PR,361900,0,156853,A368,9
+28,1,E06000022,,362935,3,369,South West,,A39,161884,Bath and North East Somerset,3,16354,10,59,N,52,5/21/2002,2002,160000,3,8,254,A37,362468,7,PR,361900,0,156853,A368,10
+21,3,E06000022,,362935,2,326,South West,,A39,161884,Bath and North East Somerset,2,16354,14,52,N,62,5/21/2002,2002,160000,2,8,207,A37,362468,5,PR,361900,0,156853,A368,11
+30,1,E06000022,,362935,3,350,South West,,A39,161884,Bath and North East Somerset,0,16354,13,56,N,63,5/21/2002,2002,160000,0,8,230,A37,362468,2,PR,361900,0,156853,A368,12
+26,2,E06000022,,362935,2,384,South West,,A39,161884,Bath and North East Somerset,4,16354,12,56,N,65,5/21/2002,2002,160000,1,8,260,A37,362468,4,PR,361900,0,156853,A368,13
+27,3,E06000022,,362935,6,411,South West,,A39,161884,Bath and North East Somerset,0,16354,17,61,N,84,5/21/2002,2002,160000,3,7,260,A37,362468,4,PR,361900,0,156853,A368,14
+30,4,E06000022,,362935,0,396,South West,,A39,161884,Bath and North East Somerset,3,16354,11,52,N,91,5/21/2002,2002,160000,0,7,249,A37,362468,1,PR,361900,0,156853,A368,15
+29,9,E06000022,,362935,2,446,South West,,A39,161884,Bath and North East Somerset,2,16354,15,56,N,74,5/21/2002,2002,160000,4,4,303,A37,362468,4,PR,361900,0,156853,A368,16
+17,3,E06000022,,362935,0,489,South West,,A39,161884,Bath and North East Somerset,0,16354,11,32,N,84,5/21/2002,2002,160000,4,3,366,A37,362468,1,PR,361900,0,156853,A368,17
+8,3,E06000022,,362935,1,391,South West,,A39,161884,Bath and North East Somerset,2,16354,13,30,N,50,5/21/2002,2002,160000,2,6,306,A37,362468,0,PR,361900,0,156853,A368,18
+39,9,E06000022,,362935,0,438,South West,,A39,161884,Bath and North East Somerset,0,16354,16,61,S,108,5/21/2002,2002,160000,4,2,256,A37,362468,4,PR,361900,0,156853,A368,7
+27,6,E06000022,,362935,3,458,South West,,A39,161884,Bath and North East Somerset,1,16354,8,46,S,109,5/21/2002,2002,160000,2,5,295,A37,362468,2,PR,361900,0,156853,A368,8
+34,6,E06000022,,362935,2,383,South West,,A39,161884,Bath and North East Somerset,3,16354,11,59,S,79,5/21/2002,2002,160000,2,4,237,A37,362468,5,PR,361900,0,156853,A368,9
+15,2,E06000022,,362935,0,304,South West,,A39,161884,Bath and North East Somerset,6,16354,16,48,S,72,5/21/2002,2002,160000,2,5,180,A37,362468,6,PR,361900,0,156853,A368,10
+18,3,E06000022,,362935,2,250,South West,,A39,161884,Bath and North East Somerset,0,16354,14,42,S,46,5/21/2002,2002,160000,1,6,158,A37,362468,2,PR,361900,1,156853,A368,11
+20,1,E06000022,,362935,1,356,South West,,A39,161884,Bath and North East Somerset,1,16354,12,43,S,74,5/21/2002,2002,160000,3,4,235,A37,362468,5,PR,361900,1,156853,A368,12
+21,1,E06000022,,362935,2,321,South West,,A39,161884,Bath and North East Somerset,1,16354,20,48,S,51,5/21/2002,2002,160000,7,3,214,A37,362468,1,PR,361900,0,156853,A368,13
+23,10,E06000022,,362935,2,402,South West,,A39,161884,Bath and North East Somerset,2,16354,10,51,S,75,5/21/2002,2002,160000,1,10,265,A37,362468,4,PR,361900,0,156853,A368,14
+18,3,E06000022,,362935,2,393,South West,,A39,161884,Bath and North East Somerset,1,16354,13,43,S,54,5/21/2002,2002,160000,2,6,291,A37,362468,3,PR,361900,0,156853,A368,15
+19,6,E06000022,,362935,3,560,South West,,A39,161884,Bath and North East Somerset,4,16354,9,43,S,96,5/21/2002,2002,160000,8,6,407,A37,362468,2,PR,361900,0,156853,A368,16
+11,2,E06000022,,362935,3,666,South West,,A39,161884,Bath and North East Somerset,1,16354,10,32,S,53,5/21/2002,2002,160000,12,3,567,A37,362468,4,PR,361900,0,156853,A368,17
+5,5,E06000022,,362935,1,662,South West,,A39,161884,Bath and North East Somerset,1,16354,7,22,S,32,5/21/2002,2002,160000,11,6,592,A37,362468,2,PR,361900,0,156853,A368,18
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,0,U,,0,UU,361294,0,,,7
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,0,U,,0,UU,361294,0,,,8
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,0,U,,0,UU,361294,2,,,9
+0,0,E06000023,Victoria Avenue,,0,5,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/21/2002,2002,173293,0,0,4,U,,0,UU,361294,2,,,10
+0,0,E06000023,Victoria Avenue,,0,2,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/21/2002,2002,173293,0,0,1,U,,0,UU,361294,1,,,11
+0,0,E06000023,Victoria Avenue,,0,5,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/21/2002,2002,173293,1,0,3,U,,0,UU,361294,0,,,12
+0,0,E06000023,Victoria Avenue,,0,1,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,1,0,0,U,,0,UU,361294,4,,,13
+0,0,E06000023,Victoria Avenue,,0,5,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/21/2002,2002,173293,3,0,1,U,,0,UU,361294,3,,,14
+0,0,E06000023,Victoria Avenue,,0,5,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,5,U,,0,UU,361294,4,,,15
+0,0,E06000023,Victoria Avenue,,0,3,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,3,U,,0,UU,361294,8,,,16
+0,0,E06000023,Victoria Avenue,,0,3,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,1,5/21/2002,2002,173293,0,0,2,U,,0,UU,361294,6,,,17
+0,0,E06000023,Victoria Avenue,,0,0,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,E,0,5/21/2002,2002,173293,0,0,0,U,,0,UU,361294,4,,,18
+0,0,E06000023,Victoria Avenue,,0,406,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,40,5/21/2002,2002,173293,1,0,365,U,,0,UU,361294,6,,,7
+0,0,E06000023,Victoria Avenue,,0,511,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,30,5/21/2002,2002,173293,4,0,477,U,,0,UU,361294,12,,,8
+0,0,E06000023,Victoria Avenue,,0,164,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,13,5/21/2002,2002,173293,1,0,150,U,,0,UU,361294,2,,,9
+1,0,E06000023,Victoria Avenue,,0,66,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,1,W,13,5/21/2002,2002,173293,0,0,52,U,,0,UU,361294,5,,,10
+0,0,E06000023,Victoria Avenue,,0,75,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,13,5/21/2002,2002,173293,1,0,61,U,,0,UU,361294,2,,,11
+0,0,E06000023,Victoria Avenue,,0,84,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,1,W,14,5/21/2002,2002,173293,2,0,67,U,,1,UU,361294,1,,,12
+3,0,E06000023,Victoria Avenue,,0,79,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,3,W,14,5/21/2002,2002,173293,2,0,60,U,,0,UU,361294,0,,,13
+0,0,E06000023,Victoria Avenue,,0,73,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,1,W,9,5/21/2002,2002,173293,2,0,61,U,,1,UU,361294,0,,,14
+0,0,E06000023,Victoria Avenue,,0,85,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,12,5/21/2002,2002,173293,2,0,71,U,,0,UU,361294,2,,,15
+0,0,E06000023,Victoria Avenue,,0,74,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,14,5/21/2002,2002,173293,0,0,60,U,,0,UU,361294,0,,,16
+0,0,E06000023,Victoria Avenue,,0,70,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,12,5/21/2002,2002,173293,1,0,57,U,,0,UU,361294,0,,,17
+0,0,E06000023,Victoria Avenue,,0,75,South West,East of Howett Road,,,"Bristol, City of",0,966010,0,0,W,9,5/21/2002,2002,173293,0,0,66,U,,0,UU,361294,0,,,18
+6,8,E06000023,Henleaze Road,,1,449,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,7,N,21,5/21/2002,2002,176670,17,0,396,B4056,,0,BU,357800,20,,,7
+7,8,E06000023,Henleaze Road,,5,597,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,13,N,40,5/21/2002,2002,176670,4,0,532,B4056,,1,BU,357800,20,,,8
+11,8,E06000023,Henleaze Road,,0,473,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,13,N,49,5/21/2002,2002,176670,5,0,398,B4056,,1,BU,357800,9,,,9
+9,8,E06000023,Henleaze Road,,0,436,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,12,N,52,5/21/2002,2002,176670,7,0,357,B4056,,3,BU,357800,1,,,10
+12,7,E06000023,Henleaze Road,,0,427,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,14,N,56,5/21/2002,2002,176670,11,0,339,B4056,,1,BU,357800,3,,,11
+7,7,E06000023,Henleaze Road,,0,491,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,7,N,52,5/21/2002,2002,176670,6,0,419,B4056,,0,BU,357800,4,,,12
+9,8,E06000023,Henleaze Road,,1,497,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,12,N,36,5/21/2002,2002,176670,6,0,435,B4056,,2,BU,357800,7,,,13
+4,8,E06000023,Henleaze Road,,0,480,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,4,N,28,5/21/2002,2002,176670,9,0,431,B4056,,0,BU,357800,10,,,14
+3,6,E06000023,Henleaze Road,,1,529,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,5,N,50,5/21/2002,2002,176670,9,0,459,B4056,,1,BU,357800,3,,,15
+2,8,E06000023,Henleaze Road,,0,608,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,3,N,60,5/21/2002,2002,176670,8,0,529,B4056,,0,BU,357800,4,,,16
+0,4,E06000023,Henleaze Road,,0,701,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,1,N,45,5/21/2002,2002,176670,16,0,635,B4056,,0,BU,357800,8,,,17
+0,5,E06000023,Henleaze Road,,0,498,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,0,N,32,5/21/2002,2002,176670,1,0,460,B4056,,0,BU,357800,10,,,18
+10,9,E06000023,Henleaze Road,,1,496,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,14,S,46,5/21/2002,2002,176670,9,1,418,B4056,,2,BU,357800,10,,,7
+7,8,E06000023,Henleaze Road,,1,758,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,12,S,59,5/21/2002,2002,176670,13,0,666,B4056,,3,BU,357800,15,,,8
+11,7,E06000023,Henleaze Road,,0,456,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,14,S,52,5/21/2002,2002,176670,6,0,377,B4056,,2,BU,357800,6,,,9
+7,5,E06000023,Henleaze Road,,0,387,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,9,S,43,5/21/2002,2002,176670,4,0,326,B4056,,1,BU,357800,2,,,10
+13,11,E06000023,Henleaze Road,,0,388,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,14,S,46,5/21/2002,2002,176670,4,0,313,B4056,,1,BU,357800,2,,,11
+11,11,E06000023,Henleaze Road,,0,471,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,12,S,69,5/21/2002,2002,176670,8,0,371,B4056,,1,BU,357800,5,,,12
+4,10,E06000023,Henleaze Road,,0,458,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,4,S,37,5/21/2002,2002,176670,4,0,403,B4056,,0,BU,357800,5,,,13
+5,8,E06000023,Henleaze Road,,0,475,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,7,S,45,5/21/2002,2002,176670,13,0,402,B4056,,2,BU,357800,1,,,14
+2,10,E06000023,Henleaze Road,,0,524,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,2,S,41,5/21/2002,2002,176670,9,0,462,B4056,,0,BU,357800,5,,,15
+2,11,E06000023,Henleaze Road,,0,600,South West,South of Henleaze Park Drive,,,"Bristol, City of",1,990069,0,3,S,44,5/21/2002,2002,176670,12,0,530,B4056,,0,BU,357800,20,,,16
+0,7,E06000023,Henleaze Road,,0,643,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,0,S,22,5/21/2002,2002,176670,7,0,607,B4056,,0,BU,357800,19,,,17
+0,5,E06000023,Henleaze Road,,0,576,South West,South of Henleaze Park Drive,,,"Bristol, City of",0,990069,0,0,S,20,5/21/2002,2002,176670,11,0,540,B4056,,0,BU,357800,3,,,18

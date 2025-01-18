@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000022,164000,39,Bath and North East Somerset,8,35,"Hanton Hill, Bathampton",TR,5,4,5/16/2003,16,377730,466,9,0,N,B3108,0,383,378101,2003,8,165920,162093,,,378950,77951,A36,4
+1,South West,E06000022,164000,31,Bath and North East Somerset,2,32,"Hanton Hill, Bathampton",TR,9,0,5/16/2003,16,377730,254,9,4,S,B3108,0,182,378101,2003,6,165920,162093,,,378950,77951,A36,2
+0,South West,E06000023,175150,1,"Bristol, City of",0,62,,UU,4,5,5/16/2003,1,,703,9,0,E,,23,631,,2003,0,,,STOKE ROAD,East of Saville Road,356840,930426,U,0
+0,South West,E06000023,175150,4,"Bristol, City of",0,44,,UU,6,3,5/16/2003,4,,365,9,0,W,,3,308,,2003,0,,,STOKE ROAD,East of Saville Road,356840,930426,U,0

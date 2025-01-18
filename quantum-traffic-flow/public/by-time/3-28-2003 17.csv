@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,171700,31,"Bristol, City of",3,148,A370,PU,28,28,3/28/2003,18,356530,2088,17,3,N,A369,12,1853,356820,2003,5,171490,171860,,,356780,48003,A3029,2
+3,South West,E06000023,171700,28,"Bristol, City of",3,239,A370,PU,30,79,3/28/2003,15,356530,2965,17,1,S,A369,5,2589,356820,2003,5,171490,171860,,,356780,48003,A3029,1
+0,South West,E06000025,190000,0,South Gloucestershire,0,5,,CU,1,0,3/28/2003,0,,100,17,0,E,,1,94,,2003,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0
+0,South West,E06000025,190000,1,South Gloucestershire,0,6,,CU,0,3,3/28/2003,1,,79,17,0,W,,4,69,,2003,0,,,Knapp Road,"west of The Paddocks, Thornbury",364430,966013,C,0

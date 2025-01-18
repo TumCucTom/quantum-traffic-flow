@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000024,170000,19,North Somerset,0,79,B3130 Barrow Street,PR,12,6,4/1/2004,12,352100,584,16,1,E,LA Boundary,1,468,356290,2004,2,169290,171360,,,354900,47034,A370,1
+8,South West,E06000024,170000,25,North Somerset,2,103,B3130 Barrow Street,PR,8,28,4/1/2004,7,352100,1224,16,2,W,LA Boundary,1,1060,356290,2004,4,169290,171360,,,354900,47034,A370,2
+0,South West,E06000024,166350,6,North Somerset,2,8,,UR,1,2,4/1/2004,3,,86,16,0,E,,2,69,,2004,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,1
+0,South West,E06000024,166350,4,North Somerset,0,7,,UR,1,2,4/1/2004,2,,129,16,2,W,,4,115,,2004,0,,,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0

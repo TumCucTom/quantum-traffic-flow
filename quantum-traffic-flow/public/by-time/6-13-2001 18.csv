@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,187563,24,South Gloucestershire,14,17,B4055,PR,0,16,6/13/2001,2,355222,236,18,2,N,M48,5,179,357334,2001,6,185355,189333,,,356000,27077,A403,0
+0,South West,E06000025,187563,22,South Gloucestershire,4,8,B4055,PR,0,3,6/13/2001,6,355222,115,18,1,S,M48,3,82,357334,2001,11,185355,189333,,,356000,27077,A403,0
+0,South West,E06000025,184220,0,South Gloucestershire,0,1,,UR,0,0,6/13/2001,0,,31,18,0,E,,1,30,,2001,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000025,184220,0,South Gloucestershire,0,6,,UR,0,0,6/13/2001,0,,29,18,0,W,,3,23,,2001,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0

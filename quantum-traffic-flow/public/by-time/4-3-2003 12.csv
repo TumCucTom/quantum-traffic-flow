@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,166480,5,Bath and North East Somerset,0,15,UU,6,1,4/3/2003,3,191,12,0,N,0,164,2003,0,LANSDOWN ROAD,Bath,374560,930445,U,1
+0,South West,E06000022,166480,4,Bath and North East Somerset,0,32,UU,7,0,4/3/2003,4,222,12,0,S,0,179,2003,0,LANSDOWN ROAD,Bath,374560,930445,U,0
+0,South West,E06000024,166350,1,North Somerset,0,6,UR,0,0,4/3/2003,0,73,12,0,E,1,66,2003,1,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0
+0,South West,E06000024,166350,1,North Somerset,0,8,UR,0,0,4/3/2003,0,66,12,0,W,1,57,2003,1,Wemberham Lane,"East of North Lane, Yatton",342400,966003,U,0

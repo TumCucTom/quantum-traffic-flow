@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+1,South West,E06000022,154500,25,Bath and North East Somerset,2,70,LA boundary,PU,6,8,6/16/2006,20,367050,495,14,1,E,A362,3,386,368884,2006,1,153310,154946,,,368000,27025,A367,0
+1,South West,E06000022,154500,41,Bath and North East Somerset,3,54,LA boundary,PU,10,10,6/16/2006,20,367050,491,14,8,W,A362,1,376,368884,2006,6,153310,154946,,,368000,27025,A367,3
+0,South West,E06000025,174250,8,South Gloucestershire,0,5,,UU,5,4,6/16/2006,8,,85,14,0,N,,1,63,,2006,0,,,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0
+0,South West,E06000025,174250,1,South Gloucestershire,0,9,,UU,4,1,6/16/2006,1,,72,14,0,S,,1,57,,2006,0,,,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0

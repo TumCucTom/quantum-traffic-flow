@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+4,9,E06000022,,375070,0,71,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,4,N,11,7/1/2010,2010,165290,0,0,47,A3039,375120,0,PU,375070,1,165110,A4 London Rd,7
+2,11,E06000022,,375070,0,85,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,2,N,12,7/1/2010,2010,165290,0,0,60,A3039,375120,0,PU,375070,10,165110,A4 London Rd,8
+4,12,E06000022,,375070,0,120,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,5,N,29,7/1/2010,2010,165290,0,0,74,A3039,375120,1,PU,375070,6,165110,A4 London Rd,9
+6,11,E06000022,,375070,0,151,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,6,N,18,7/1/2010,2010,165290,1,0,115,A3039,375120,0,PU,375070,8,165110,A4 London Rd,10
+5,12,E06000022,,375070,0,202,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,5,N,23,7/1/2010,2010,165290,4,0,158,A3039,375120,0,PU,375070,5,165110,A4 London Rd,11
+4,12,E06000022,,375070,0,199,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,5,N,19,7/1/2010,2010,165290,4,0,159,A3039,375120,1,PU,375070,9,165110,A4 London Rd,12
+0,15,E06000022,,375070,0,235,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,0,N,19,7/1/2010,2010,165290,3,0,198,A3039,375120,0,PU,375070,9,165110,A4 London Rd,13
+3,12,E06000022,,375070,0,221,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,3,N,18,7/1/2010,2010,165290,4,0,184,A3039,375120,0,PU,375070,10,165110,A4 London Rd,14
+1,11,E06000022,,375070,0,220,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,2,N,19,7/1/2010,2010,165290,3,0,185,A3039,375120,1,PU,375070,14,165110,A4 London Rd,15
+6,12,E06000022,,375070,0,238,South West,,Saracen St,165630,Bath and North East Somerset,1,57774,0,7,N,21,7/1/2010,2010,165290,5,0,193,A3039,375120,0,PU,375070,18,165110,A4 London Rd,16
+1,15,E06000022,,375070,0,226,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,2,N,9,7/1/2010,2010,165290,8,0,192,A3039,375120,1,PU,375070,25,165110,A4 London Rd,17
+1,12,E06000022,,375070,0,165,South West,,Saracen St,165630,Bath and North East Somerset,2,57774,0,3,N,7,7/1/2010,2010,165290,3,0,140,A3039,375120,0,PU,375070,16,165110,A4 London Rd,18
+4,9,E06000022,,375070,0,111,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,5,S,24,7/1/2010,2010,165290,6,0,67,A3039,375120,1,PU,375070,18,165110,A4 London Rd,7
+7,11,E06000022,,375070,0,171,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,7,S,23,7/1/2010,2010,165290,6,0,124,A3039,375120,0,PU,375070,33,165110,A4 London Rd,8
+3,9,E06000022,,375070,0,290,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,3,S,33,7/1/2010,2010,165290,4,0,241,A3039,375120,0,PU,375070,23,165110,A4 London Rd,9
+8,9,E06000022,,375070,0,287,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,8,S,32,7/1/2010,2010,165290,1,0,237,A3039,375120,0,PU,375070,12,165110,A4 London Rd,10
+3,9,E06000022,,375070,0,281,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,3,S,36,7/1/2010,2010,165290,1,0,232,A3039,375120,0,PU,375070,5,165110,A4 London Rd,11
+6,10,E06000022,,375070,0,217,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,6,S,24,7/1/2010,2010,165290,2,0,175,A3039,375120,0,PU,375070,7,165110,A4 London Rd,12
+4,9,E06000022,,375070,0,261,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,4,S,21,7/1/2010,2010,165290,4,0,223,A3039,375120,0,PU,375070,10,165110,A4 London Rd,13
+3,7,E06000022,,375070,0,225,South West,,Saracen St,165630,Bath and North East Somerset,1,57774,0,4,S,16,7/1/2010,2010,165290,3,0,195,A3039,375120,0,PU,375070,5,165110,A4 London Rd,14
+4,10,E06000022,,375070,0,189,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,5,S,12,7/1/2010,2010,165290,0,0,162,A3039,375120,1,PU,375070,19,165110,A4 London Rd,15
+2,11,E06000022,,375070,0,205,South West,,Saracen St,165630,Bath and North East Somerset,0,57774,0,2,S,21,7/1/2010,2010,165290,5,0,166,A3039,375120,0,PU,375070,12,165110,A4 London Rd,16
+1,6,E06000022,,375070,0,156,South West,,Saracen St,165630,Bath and North East Somerset,1,57774,0,2,S,6,7/1/2010,2010,165290,0,0,142,A3039,375120,0,PU,375070,29,165110,A4 London Rd,17
+1,8,E06000022,,375070,0,172,South West,,Saracen St,165630,Bath and North East Somerset,1,57774,0,2,S,6,7/1/2010,2010,165290,2,0,154,A3039,375120,0,PU,375070,6,165110,A4 London Rd,18
+4,0,E06000023,Entrance to Hengrove Leisure Park,,0,53,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,8,N,20,7/1/2010,2010,168927,0,0,25,U,,4,UU,359230,0,,,7
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,42,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,5,7/1/2010,2010,168927,1,0,35,U,,0,UU,359230,1,,,8
+2,0,E06000023,Entrance to Hengrove Leisure Park,,0,67,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,2,N,8,7/1/2010,2010,168927,0,0,57,U,,0,UU,359230,1,,,9
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,56,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,10,7/1/2010,2010,168927,1,0,44,U,,0,UU,359230,0,,,10
+0,1,E06000023,Entrance to Hengrove Leisure Park,,0,60,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,15,7/1/2010,2010,168927,0,0,44,U,,0,UU,359230,1,,,11
+0,1,E06000023,Entrance to Hengrove Leisure Park,,0,168,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,15,7/1/2010,2010,168927,0,0,152,U,,0,UU,359230,0,,,12
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,175,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,13,7/1/2010,2010,168927,1,0,160,U,,0,UU,359230,0,,,13
+0,1,E06000023,Entrance to Hengrove Leisure Park,,0,154,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,14,7/1/2010,2010,168927,0,0,139,U,,0,UU,359230,1,,,14
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,182,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,8,7/1/2010,2010,168927,2,0,172,U,,0,UU,359230,6,,,15
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,164,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,N,10,7/1/2010,2010,168927,3,0,151,U,,0,UU,359230,3,,,16
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,201,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,21,7/1/2010,2010,168927,4,0,175,U,,0,UU,359230,3,,,17
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,232,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,N,19,7/1/2010,2010,168927,2,1,210,U,,0,UU,359230,1,,,18
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,43,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,11,7/1/2010,2010,168927,0,0,31,U,,1,UU,359230,0,,,7
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,33,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,3,7/1/2010,2010,168927,0,0,29,U,,0,UU,359230,1,,,8
+2,0,E06000023,Entrance to Hengrove Leisure Park,,0,89,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,2,S,9,7/1/2010,2010,168927,0,0,78,U,,0,UU,359230,0,,,9
+1,1,E06000023,Entrance to Hengrove Leisure Park,,0,75,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,15,7/1/2010,2010,168927,0,0,58,U,,0,UU,359230,1,,,10
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,108,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,13,7/1/2010,2010,168927,0,0,95,U,,0,UU,359230,0,,,11
+1,2,E06000023,Entrance to Hengrove Leisure Park,,0,242,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,14,7/1/2010,2010,168927,0,0,225,U,,0,UU,359230,0,,,12
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,175,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,13,7/1/2010,2010,168927,0,0,162,U,,0,UU,359230,1,,,13
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,106,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,15,7/1/2010,2010,168927,1,0,90,U,,0,UU,359230,2,,,14
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,135,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,7,7/1/2010,2010,168927,2,0,126,U,,0,UU,359230,1,,,15
+1,0,E06000023,Entrance to Hengrove Leisure Park,,0,180,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,7,7/1/2010,2010,168927,3,0,169,U,,0,UU,359230,2,,,16
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,245,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,1,S,29,7/1/2010,2010,168927,6,1,209,U,,0,UU,359230,2,,,17
+0,0,E06000023,Entrance to Hengrove Leisure Park,,0,337,South West,South of Hengrove Way,,,"Bristol, City of",0,946799,0,0,S,24,7/1/2010,2010,168927,2,0,311,U,,0,UU,359230,1,,,18

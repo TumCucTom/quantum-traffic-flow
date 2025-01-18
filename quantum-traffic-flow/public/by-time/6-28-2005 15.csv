@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000025,178700,46,South Gloucestershire,8,115,A38,PU,4,26,6/28/2005,23,360131,1315,15,4,E,M32,1,1124,363490,2005,5,178978,178640,,,363000,37768,A4174,3
+1,South West,E06000025,178700,17,South Gloucestershire,4,85,A38,PU,8,5,6/28/2005,8,360131,805,15,1,W,M32,6,690,363490,2005,1,178978,178640,,,363000,37768,A4174,2
+0,South West,E06000025,179740,3,South Gloucestershire,0,14,,UU,0,2,6/28/2005,2,,142,15,1,N,,2,123,,2005,0,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0
+0,South West,E06000025,179740,4,South Gloucestershire,1,15,,UU,1,0,6/28/2005,1,,175,15,1,S,,6,155,,2005,1,,,Down Road,"north of Sandstone Rise, Winterbourne",365090,979275,U,0

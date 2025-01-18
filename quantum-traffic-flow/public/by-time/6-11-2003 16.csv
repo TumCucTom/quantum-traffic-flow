@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,165290,4,Bath and North East Somerset,0,14,Saracen St,PU,21,5,6/11/2003,4,375070,233,16,0,N,A4 London Rd,6,189,375120,2003,0,165110,165630,,,375070,57774,A3039,0
+0,South West,E06000022,165290,4,Bath and North East Somerset,0,29,Saracen St,PU,13,2,6/11/2003,3,375070,328,16,0,S,A4 London Rd,9,280,375120,2003,0,165110,165630,,,375070,57774,A3039,1
+0,South West,E06000024,161170,7,North Somerset,0,62,Carlton street,PU,34,11,6/11/2003,6,331800,771,16,0,N,Oxford St,3,657,331800,2003,1,161120,161230,,,331800,70101,A370,0
+0,South West,E06000024,161170,5,North Somerset,0,50,Carlton street,PU,16,8,6/11/2003,3,331800,641,16,0,S,Oxford St,8,562,331800,2003,1,161120,161230,,,331800,70101,A370,1
+0,South West,E06000025,184220,1,South Gloucestershire,0,2,,UR,1,0,6/11/2003,1,,26,16,0,E,,0,22,,2003,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0
+0,South West,E06000025,184220,2,South Gloucestershire,0,9,,UR,2,0,6/11/2003,2,,49,16,0,W,,0,36,,2003,0,,,Horton Hill,"west of New Tyning lane, Horton",376450,942481,U,0

@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,HGVR4,AMV,Region Name (GO),CP Location,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,HGVR3,RCat,S Ref E,PC,Road Name,Hour
+1,0,E06000023,0,258,South West,West of York Place,"Bristol, City of",0,946804,0,1,E,20,5/8/2014,2014,172619,8,0,229,U,0,UU,357986,33,ST GEORGE'S ROAD,7
+1,0,E06000023,0,419,South West,West of York Place,"Bristol, City of",0,946804,0,1,E,30,5/8/2014,2014,172619,11,0,377,U,0,UU,357986,50,ST GEORGE'S ROAD,8
+4,0,E06000023,0,257,South West,West of York Place,"Bristol, City of",0,946804,0,4,E,31,5/8/2014,2014,172619,5,0,217,U,0,UU,357986,21,ST GEORGE'S ROAD,9
+1,0,E06000023,0,193,South West,West of York Place,"Bristol, City of",0,946804,0,1,E,30,5/8/2014,2014,172619,3,0,159,U,0,UU,357986,12,ST GEORGE'S ROAD,10
+5,0,E06000023,0,197,South West,West of York Place,"Bristol, City of",0,946804,0,6,E,32,5/8/2014,2014,172619,3,0,156,U,1,UU,357986,2,ST GEORGE'S ROAD,11
+4,0,E06000023,1,191,South West,West of York Place,"Bristol, City of",0,946804,0,5,E,22,5/8/2014,2014,172619,2,0,162,U,0,UU,357986,7,ST GEORGE'S ROAD,12
+1,0,E06000023,1,215,South West,West of York Place,"Bristol, City of",0,946804,0,2,E,25,5/8/2014,2014,172619,2,0,186,U,0,UU,357986,15,ST GEORGE'S ROAD,13
+1,0,E06000023,0,160,South West,West of York Place,"Bristol, City of",0,946804,0,2,E,15,5/8/2014,2014,172619,0,0,143,U,1,UU,357986,9,ST GEORGE'S ROAD,14
+1,0,E06000023,0,230,South West,West of York Place,"Bristol, City of",0,946804,0,1,E,34,5/8/2014,2014,172619,3,0,192,U,0,UU,357986,9,ST GEORGE'S ROAD,15
+0,0,E06000023,2,196,South West,West of York Place,"Bristol, City of",0,946804,0,2,E,21,5/8/2014,2014,172619,4,0,169,U,0,UU,357986,33,ST GEORGE'S ROAD,16
+0,0,E06000023,0,264,South West,West of York Place,"Bristol, City of",0,946804,0,0,E,34,5/8/2014,2014,172619,7,0,223,U,0,UU,357986,22,ST GEORGE'S ROAD,17
+0,0,E06000023,0,246,South West,West of York Place,"Bristol, City of",0,946804,0,0,E,21,5/8/2014,2014,172619,3,0,222,U,0,UU,357986,13,ST GEORGE'S ROAD,18
+2,0,E06000023,0,97,South West,West of York Place,"Bristol, City of",0,946804,0,2,W,7,5/8/2014,2014,172619,1,0,87,U,0,UU,357986,5,ST GEORGE'S ROAD,7
+1,1,E06000023,0,159,South West,West of York Place,"Bristol, City of",0,946804,0,1,W,13,5/8/2014,2014,172619,10,0,134,U,0,UU,357986,29,ST GEORGE'S ROAD,8
+2,0,E06000023,0,124,South West,West of York Place,"Bristol, City of",0,946804,0,2,W,12,5/8/2014,2014,172619,3,0,107,U,0,UU,357986,17,ST GEORGE'S ROAD,9
+1,0,E06000023,0,110,South West,West of York Place,"Bristol, City of",0,946804,0,1,W,23,5/8/2014,2014,172619,2,0,84,U,0,UU,357986,8,ST GEORGE'S ROAD,10
+0,0,E06000023,0,135,South West,West of York Place,"Bristol, City of",1,946804,0,3,W,32,5/8/2014,2014,172619,2,0,98,U,2,UU,357986,9,ST GEORGE'S ROAD,11
+1,0,E06000023,0,160,South West,West of York Place,"Bristol, City of",0,946804,0,1,W,21,5/8/2014,2014,172619,1,0,137,U,0,UU,357986,4,ST GEORGE'S ROAD,12
+2,0,E06000023,1,139,South West,West of York Place,"Bristol, City of",0,946804,0,3,W,16,5/8/2014,2014,172619,1,0,119,U,0,UU,357986,8,ST GEORGE'S ROAD,13
+3,0,E06000023,1,174,South West,West of York Place,"Bristol, City of",0,946804,0,4,W,25,5/8/2014,2014,172619,2,0,143,U,0,UU,357986,9,ST GEORGE'S ROAD,14
+2,0,E06000023,0,192,South West,West of York Place,"Bristol, City of",0,946804,0,3,W,25,5/8/2014,2014,172619,2,0,162,U,1,UU,357986,13,ST GEORGE'S ROAD,15
+1,0,E06000023,1,207,South West,West of York Place,"Bristol, City of",0,946804,0,2,W,18,5/8/2014,2014,172619,5,0,182,U,0,UU,357986,22,ST GEORGE'S ROAD,16
+0,0,E06000023,0,181,South West,West of York Place,"Bristol, City of",0,946804,0,0,W,13,5/8/2014,2014,172619,13,0,155,U,0,UU,357986,44,ST GEORGE'S ROAD,17
+0,0,E06000023,0,180,South West,West of York Place,"Bristol, City of",0,946804,0,0,W,17,5/8/2014,2014,172619,7,0,156,U,0,UU,357986,20,ST GEORGE'S ROAD,18
+0,0,E06000025,0,9,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,8,U,0,UU,373035,1,GAUNTS ROAD,7
+0,0,E06000025,0,16,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,15,U,0,UU,373035,0,GAUNTS ROAD,8
+0,0,E06000025,0,14,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,13,U,0,UU,373035,0,GAUNTS ROAD,9
+0,0,E06000025,0,13,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,12,U,0,UU,373035,0,GAUNTS ROAD,10
+0,0,E06000025,0,8,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,0,5/8/2014,2014,181683,0,0,8,U,0,UU,373035,0,GAUNTS ROAD,11
+0,0,E06000025,0,9,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,4,5/8/2014,2014,181683,0,0,5,U,0,UU,373035,0,GAUNTS ROAD,12
+0,0,E06000025,0,11,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,10,U,0,UU,373035,1,GAUNTS ROAD,13
+0,0,E06000025,0,12,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,3,5/8/2014,2014,181683,0,0,9,U,0,UU,373035,0,GAUNTS ROAD,14
+0,0,E06000025,0,14,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,13,U,0,UU,373035,0,GAUNTS ROAD,15
+0,0,E06000025,0,7,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,6,U,0,UU,373035,1,GAUNTS ROAD,16
+0,0,E06000025,0,13,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,2,5/8/2014,2014,181683,0,0,11,U,0,UU,373035,0,GAUNTS ROAD,17
+0,0,E06000025,0,14,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,E,1,5/8/2014,2014,181683,0,0,13,U,0,UU,373035,1,GAUNTS ROAD,18
+0,0,E06000025,0,6,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,0,5/8/2014,2014,181683,0,0,6,U,0,UU,373035,0,GAUNTS ROAD,7
+0,0,E06000025,0,9,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,0,5/8/2014,2014,181683,0,0,9,U,0,UU,373035,0,GAUNTS ROAD,8
+0,0,E06000025,0,14,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,2,5/8/2014,2014,181683,0,0,12,U,0,UU,373035,1,GAUNTS ROAD,9
+0,0,E06000025,0,9,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,2,5/8/2014,2014,181683,0,0,7,U,0,UU,373035,0,GAUNTS ROAD,10
+0,0,E06000025,0,4,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,0,5/8/2014,2014,181683,0,0,4,U,0,UU,373035,0,GAUNTS ROAD,11
+0,0,E06000025,0,9,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,2,5/8/2014,2014,181683,0,0,7,U,0,UU,373035,0,GAUNTS ROAD,12
+0,0,E06000025,0,8,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,1,5/8/2014,2014,181683,0,0,7,U,0,UU,373035,0,GAUNTS ROAD,13
+0,0,E06000025,0,12,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,2,5/8/2014,2014,181683,0,0,10,U,0,UU,373035,0,GAUNTS ROAD,14
+0,0,E06000025,0,20,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,0,5/8/2014,2014,181683,0,0,20,U,0,UU,373035,0,GAUNTS ROAD,15
+0,0,E06000025,0,14,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,1,5/8/2014,2014,181683,0,0,13,U,0,UU,373035,1,GAUNTS ROAD,16
+0,0,E06000025,0,18,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,3,5/8/2014,2014,181683,0,0,15,U,0,UU,373035,0,GAUNTS ROAD,17
+0,0,E06000025,0,19,South West,junction with Kingrove Lane,South Gloucestershire,0,947538,0,0,W,2,5/8/2014,2014,181683,0,0,17,U,0,UU,373035,0,GAUNTS ROAD,18

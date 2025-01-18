@@ -1,0 +1,97 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+105,8,E06000024,,350670,9,5186,South West,,Junction 19 M5,176830,North Somerset,32,46019,120,361,N,745,5/9/2008,2008,176000,65,67,4007,M5,351940,28,TM,351300,0,175620,LA Boundary,7
+88,14,E06000024,,350670,23,4956,South West,,Junction 19 M5,176830,North Somerset,32,46019,98,358,N,574,5/9/2008,2008,176000,48,96,3962,M5,351940,21,TM,351300,0,175620,LA Boundary,8
+127,19,E06000024,,350670,17,3980,South West,,Junction 19 M5,176830,North Somerset,39,46019,112,461,N,436,5/9/2008,2008,176000,30,145,3034,M5,351940,21,TM,351300,0,175620,LA Boundary,9
+137,57,E06000024,,350670,15,4184,South West,,Junction 19 M5,176830,North Somerset,38,46019,115,496,N,510,5/9/2008,2008,176000,11,176,3110,M5,351940,15,TM,351300,0,175620,LA Boundary,10
+116,55,E06000024,,350670,15,4547,South West,,Junction 19 M5,176830,North Somerset,49,46019,111,487,N,508,5/9/2008,2008,176000,16,171,3481,M5,351940,25,TM,351300,0,175620,LA Boundary,11
+103,28,E06000024,,350670,18,3924,South West,,Junction 19 M5,176830,North Somerset,24,46019,76,364,N,475,5/9/2008,2008,176000,30,121,3027,M5,351940,22,TM,351300,0,175620,LA Boundary,12
+107,7,E06000024,,350670,14,3896,South West,,Junction 19 M5,176830,North Somerset,37,46019,93,405,N,534,5/9/2008,2008,176000,25,127,2925,M5,351940,27,TM,351300,0,175620,LA Boundary,13
+127,22,E06000024,,350670,18,4968,South West,,Junction 19 M5,176830,North Somerset,41,46019,95,476,N,647,5/9/2008,2008,176000,33,169,3790,M5,351940,26,TM,351300,0,175620,LA Boundary,14
+143,35,E06000024,,350670,9,4201,South West,,Junction 19 M5,176830,North Somerset,32,46019,97,414,N,544,5/9/2008,2008,176000,33,119,3175,M5,351940,14,TM,351300,0,175620,LA Boundary,15
+107,17,E06000024,,350670,18,4658,South West,,Junction 19 M5,176830,North Somerset,23,46019,89,342,N,564,5/9/2008,2008,176000,30,81,3705,M5,351940,24,TM,351300,0,175620,LA Boundary,16
+51,8,E06000024,,350670,5,4040,South West,,Junction 19 M5,176830,North Somerset,26,46019,66,245,N,401,5/9/2008,2008,176000,32,87,3354,M5,351940,10,TM,351300,0,175620,LA Boundary,17
+63,17,E06000024,,350670,1,3643,South West,,Junction 19 M5,176830,North Somerset,21,46019,58,211,N,338,5/9/2008,2008,176000,15,63,3062,M5,351940,5,TM,351300,0,175620,LA Boundary,18
+161,12,E06000024,,350670,37,3391,South West,,Junction 19 M5,176830,North Somerset,39,46019,127,552,S,716,5/9/2008,2008,176000,19,152,2092,M5,351940,36,TM,351300,0,175620,LA Boundary,7
+89,4,E06000024,,350670,3,3583,South West,,Junction 19 M5,176830,North Somerset,23,46019,103,311,S,545,5/9/2008,2008,176000,12,73,2711,M5,351940,20,TM,351300,0,175620,LA Boundary,8
+76,19,E06000024,,350670,11,3097,South West,,Junction 19 M5,176830,North Somerset,24,46019,97,328,S,461,5/9/2008,2008,176000,10,94,2279,M5,351940,26,TM,351300,0,175620,LA Boundary,9
+87,34,E06000024,,350670,17,3530,South West,,Junction 19 M5,176830,North Somerset,29,46019,93,362,S,372,5/9/2008,2008,176000,16,116,2746,M5,351940,20,TM,351300,0,175620,LA Boundary,10
+82,29,E06000024,,350670,15,4298,South West,,Junction 19 M5,176830,North Somerset,28,46019,127,388,S,450,5/9/2008,2008,176000,20,114,3411,M5,351940,22,TM,351300,0,175620,LA Boundary,11
+112,32,E06000024,,350670,23,4907,South West,,Junction 19 M5,176830,North Somerset,38,46019,112,427,S,358,5/9/2008,2008,176000,18,125,4072,M5,351940,17,TM,351300,0,175620,LA Boundary,12
+139,33,E06000024,,350670,14,4890,South West,,Junction 19 M5,176830,North Somerset,30,46019,98,396,S,519,5/9/2008,2008,176000,44,92,3898,M5,351940,23,TM,351300,0,175620,LA Boundary,13
+60,39,E06000024,,350670,33,4407,South West,,Junction 19 M5,176830,North Somerset,18,46019,91,309,S,394,5/9/2008,2008,176000,31,88,3634,M5,351940,19,TM,351300,0,175620,LA Boundary,14
+52,16,E06000024,,350670,7,3263,South West,,Junction 19 M5,176830,North Somerset,10,46019,49,183,S,333,5/9/2008,2008,176000,33,61,2698,M5,351940,4,TM,351300,0,175620,LA Boundary,15
+80,19,E06000024,,350670,9,6156,South West,,Junction 19 M5,176830,North Somerset,11,46019,79,291,S,602,5/9/2008,2008,176000,55,101,5189,M5,351940,11,TM,351300,0,175620,LA Boundary,16
+33,13,E06000024,,350670,4,6010,South West,,Junction 19 M5,176830,North Somerset,17,46019,59,189,S,479,5/9/2008,2008,176000,61,69,5268,M5,351940,7,TM,351300,0,175620,LA Boundary,17
+23,17,E06000024,,350670,7,5336,South West,,Junction 19 M5,176830,North Somerset,8,46019,59,148,S,372,5/9/2008,2008,176000,49,48,4750,M5,351940,3,TM,351300,0,175620,LA Boundary,18
+1,0,E06000025,GREENDITCH STREET,,0,7,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,N,2,5/9/2008,2008,186410,0,0,4,C,,0,CR,359152,0,,,7
+1,0,E06000025,GREENDITCH STREET,,0,11,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,N,2,5/9/2008,2008,186410,2,0,6,C,,0,CR,359152,1,,,8
+1,0,E06000025,GREENDITCH STREET,,0,13,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,N,1,5/9/2008,2008,186410,0,0,11,C,,0,CR,359152,0,,,9
+0,0,E06000025,GREENDITCH STREET,,0,8,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,2,5/9/2008,2008,186410,0,0,6,C,,0,CR,359152,0,,,10
+0,0,E06000025,GREENDITCH STREET,,0,11,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,2,5/9/2008,2008,186410,0,0,9,C,,0,CR,359152,0,,,11
+0,0,E06000025,GREENDITCH STREET,,0,12,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,3,5/9/2008,2008,186410,0,0,9,C,,0,CR,359152,0,,,12
+1,0,E06000025,GREENDITCH STREET,,0,12,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,N,3,5/9/2008,2008,186410,0,0,8,C,,0,CR,359152,0,,,13
+1,0,E06000025,GREENDITCH STREET,,0,13,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,N,1,5/9/2008,2008,186410,1,0,10,C,,0,CR,359152,0,,,14
+0,0,E06000025,GREENDITCH STREET,,0,17,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,2,5/9/2008,2008,186410,0,0,15,C,,0,CR,359152,0,,,15
+0,0,E06000025,GREENDITCH STREET,,0,16,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,2,5/9/2008,2008,186410,0,0,14,C,,0,CR,359152,2,,,16
+0,0,E06000025,GREENDITCH STREET,,0,23,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,4,5/9/2008,2008,186410,0,0,19,C,,0,CR,359152,5,,,17
+0,0,E06000025,GREENDITCH STREET,,0,15,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,N,1,5/9/2008,2008,186410,0,0,14,C,,0,CR,359152,2,,,18
+1,0,E06000025,GREENDITCH STREET,,0,20,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,1,S,3,5/9/2008,2008,186410,0,0,16,C,,0,CR,359152,3,,,7
+2,0,E06000025,GREENDITCH STREET,,0,19,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,2,S,3,5/9/2008,2008,186410,0,0,14,C,,0,CR,359152,1,,,8
+0,0,E06000025,GREENDITCH STREET,,0,10,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,3,5/9/2008,2008,186410,0,0,7,C,,0,CR,359152,2,,,9
+0,0,E06000025,GREENDITCH STREET,,0,11,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,1,5/9/2008,2008,186410,0,0,10,C,,0,CR,359152,0,,,10
+0,0,E06000025,GREENDITCH STREET,,0,10,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,4,5/9/2008,2008,186410,0,0,6,C,,0,CR,359152,0,,,11
+0,0,E06000025,GREENDITCH STREET,,0,11,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,2,5/9/2008,2008,186410,0,0,9,C,,0,CR,359152,0,,,12
+0,0,E06000025,GREENDITCH STREET,,0,13,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,3,5/9/2008,2008,186410,0,0,10,C,,0,CR,359152,0,,,13
+1,0,E06000025,GREENDITCH STREET,,0,19,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,2,S,2,5/9/2008,2008,186410,0,1,15,C,,0,CR,359152,0,,,14
+0,0,E06000025,GREENDITCH STREET,,0,15,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,4,5/9/2008,2008,186410,1,0,10,C,,0,CR,359152,0,,,15
+0,0,E06000025,GREENDITCH STREET,,0,25,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,5,5/9/2008,2008,186410,2,0,18,C,,0,CR,359152,0,,,16
+0,0,E06000025,GREENDITCH STREET,,0,17,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,4,5/9/2008,2008,186410,0,0,13,C,,0,CR,359152,0,,,17
+0,0,E06000025,GREENDITCH STREET,,0,14,South West,"north of Awkley Lane, Olveston",,,South Gloucestershire,0,947498,0,0,S,1,5/9/2008,2008,186410,0,0,13,C,,0,CR,359152,1,,,18
+0,0,E06000025,HAZEL LANE,,0,15,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,1,5/9/2008,2008,187461,0,0,14,C,,0,CR,362114,0,,,7
+1,0,E06000025,HAZEL LANE,,0,12,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,1,E,1,5/9/2008,2008,187461,0,0,10,C,,0,CR,362114,0,,,8
+2,0,E06000025,HAZEL LANE,,0,8,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,3,E,1,5/9/2008,2008,187461,0,0,4,C,,1,CR,362114,0,,,9
+0,0,E06000025,HAZEL LANE,,0,6,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,0,5/9/2008,2008,187461,0,0,6,C,,0,CR,362114,0,,,10
+2,0,E06000025,HAZEL LANE,,0,13,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,2,E,3,5/9/2008,2008,187461,0,0,8,C,,0,CR,362114,0,,,11
+1,0,E06000025,HAZEL LANE,,0,10,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,1,E,3,5/9/2008,2008,187461,0,0,6,C,,0,CR,362114,0,,,12
+0,0,E06000025,HAZEL LANE,,0,12,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,1,5/9/2008,2008,187461,0,0,11,C,,0,CR,362114,0,,,13
+0,0,E06000025,HAZEL LANE,,0,9,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,2,5/9/2008,2008,187461,0,0,7,C,,0,CR,362114,0,,,14
+0,0,E06000025,HAZEL LANE,,0,13,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,4,5/9/2008,2008,187461,0,0,9,C,,0,CR,362114,0,,,15
+0,0,E06000025,HAZEL LANE,,0,5,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,1,E,3,5/9/2008,2008,187461,0,0,1,C,,1,CR,362114,0,,,16
+0,0,E06000025,HAZEL LANE,,0,14,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,0,5/9/2008,2008,187461,0,0,14,C,,0,CR,362114,1,,,17
+0,0,E06000025,HAZEL LANE,,0,10,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,E,0,5/9/2008,2008,187461,0,0,10,C,,0,CR,362114,0,,,18
+0,0,E06000025,HAZEL LANE,,0,4,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,1,5/9/2008,2008,187461,0,0,3,C,,0,CR,362114,0,,,7
+0,0,E06000025,HAZEL LANE,,0,12,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,1,5/9/2008,2008,187461,0,0,11,C,,0,CR,362114,1,,,8
+0,0,E06000025,HAZEL LANE,,0,8,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,1,5/9/2008,2008,187461,0,0,7,C,,0,CR,362114,0,,,9
+1,0,E06000025,HAZEL LANE,,0,6,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,2,W,3,5/9/2008,2008,187461,0,0,1,C,,1,CR,362114,0,,,10
+0,0,E06000025,HAZEL LANE,,0,8,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,1,5/9/2008,2008,187461,0,0,7,C,,0,CR,362114,1,,,11
+1,0,E06000025,HAZEL LANE,,0,21,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,1,W,5,5/9/2008,2008,187461,0,0,15,C,,0,CR,362114,1,,,12
+0,0,E06000025,HAZEL LANE,,0,18,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,2,5/9/2008,2008,187461,0,0,16,C,,0,CR,362114,0,,,13
+0,0,E06000025,HAZEL LANE,,0,14,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,4,5/9/2008,2008,187461,0,0,10,C,,0,CR,362114,0,,,14
+0,0,E06000025,HAZEL LANE,,0,15,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,3,W,3,5/9/2008,2008,187461,0,3,9,C,,0,CR,362114,0,,,15
+0,0,E06000025,HAZEL LANE,,0,14,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,7,5/9/2008,2008,187461,0,0,7,C,,0,CR,362114,0,,,16
+0,0,E06000025,HAZEL LANE,,0,12,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,0,5/9/2008,2008,187461,0,0,12,C,,0,CR,362114,1,,,17
+0,0,E06000025,HAZEL LANE,,0,17,South West,"east of The Inner Down, Old Down",,,South Gloucestershire,0,947501,0,0,W,1,5/9/2008,2008,187461,0,0,16,C,,0,CR,362114,0,,,18
+2,0,E06000025,Knapp Road,,0,43,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,2,E,8,5/9/2008,2008,190000,2,0,31,C,,0,CU,364430,4,,,7
+2,0,E06000025,Knapp Road,,0,70,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,2,E,6,5/9/2008,2008,190000,0,0,62,C,,0,CU,364430,3,,,8
+0,1,E06000025,Knapp Road,,0,66,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,E,11,5/9/2008,2008,190000,0,0,54,C,,0,CU,364430,1,,,9
+6,0,E06000025,Knapp Road,,0,76,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,7,E,7,5/9/2008,2008,190000,1,0,61,C,,1,CU,364430,0,,,10
+0,0,E06000025,Knapp Road,,0,51,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,E,5,5/9/2008,2008,190000,0,0,46,C,,0,CU,364430,1,,,11
+3,0,E06000025,Knapp Road,,0,71,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,3,E,3,5/9/2008,2008,190000,0,0,65,C,,0,CU,364430,2,,,12
+0,1,E06000025,Knapp Road,,0,49,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,E,6,5/9/2008,2008,190000,0,0,42,C,,0,CU,364430,0,,,13
+1,1,E06000025,Knapp Road,,0,64,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,E,6,5/9/2008,2008,190000,2,0,54,C,,0,CU,364430,1,,,14
+1,2,E06000025,Knapp Road,,0,98,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,E,6,5/9/2008,2008,190000,1,0,88,C,,0,CU,364430,2,,,15
+4,1,E06000025,Knapp Road,,0,86,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,4,E,7,5/9/2008,2008,190000,0,0,74,C,,0,CU,364430,2,,,16
+0,2,E06000025,Knapp Road,,0,103,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,E,6,5/9/2008,2008,190000,3,0,92,C,,0,CU,364430,6,,,17
+1,0,E06000025,Knapp Road,,0,58,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,E,4,5/9/2008,2008,190000,1,0,52,C,,0,CU,364430,0,,,18
+0,2,E06000025,Knapp Road,,0,56,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,W,5,5/9/2008,2008,190000,3,0,45,C,,1,CU,364430,2,,,7
+0,0,E06000025,Knapp Road,,0,78,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,W,5,5/9/2008,2008,190000,0,0,73,C,,0,CU,364430,2,,,8
+2,1,E06000025,Knapp Road,,0,78,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,2,W,9,5/9/2008,2008,190000,0,0,66,C,,0,CU,364430,2,,,9
+3,0,E06000025,Knapp Road,,0,60,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,3,W,7,5/9/2008,2008,190000,0,0,50,C,,0,CU,364430,0,,,10
+1,0,E06000025,Knapp Road,,0,61,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,W,6,5/9/2008,2008,190000,0,0,54,C,,0,CU,364430,1,,,11
+1,1,E06000025,Knapp Road,,0,70,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,1,W,11,5/9/2008,2008,190000,1,0,56,C,,0,CU,364430,2,,,12
+0,0,E06000025,Knapp Road,,0,71,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,1,966013,0,1,W,2,5/9/2008,2008,190000,0,0,68,C,,0,CU,364430,1,,,13
+0,0,E06000025,Knapp Road,,0,61,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,W,5,5/9/2008,2008,190000,1,0,55,C,,0,CU,364430,2,,,14
+0,0,E06000025,Knapp Road,,0,90,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,W,8,5/9/2008,2008,190000,3,0,79,C,,0,CU,364430,6,,,15
+0,0,E06000025,Knapp Road,,0,75,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,W,6,5/9/2008,2008,190000,0,0,69,C,,0,CU,364430,0,,,16
+0,0,E06000025,Knapp Road,,0,55,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,0,966013,0,0,W,3,5/9/2008,2008,190000,0,0,52,C,,0,CU,364430,0,,,17
+0,0,E06000025,Knapp Road,,0,50,South West,"west of The Paddocks, Thornbury",,,South Gloucestershire,1,966013,0,1,W,1,5/9/2008,2008,190000,1,0,47,C,,0,CU,364430,1,,,18

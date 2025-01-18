@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+13,9,E06000022,,364160,1,561,South West,,A4174 roundabout,168950,Bath and North East Somerset,1,57290,1,18,E,103,3/20/2009,2009,169000,16,2,415,A4175,364790,0,PR,364728,8,169700,road from Stockwood Hill,7
+5,15,E06000022,,364160,0,642,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,2,10,E,63,3/20/2009,2009,169000,18,1,536,A4175,364790,2,PR,364728,12,169700,road from Stockwood Hill,8
+7,9,E06000022,,364160,0,509,South West,,A4174 roundabout,168950,Bath and North East Somerset,1,57290,1,12,E,65,3/20/2009,2009,169000,1,2,422,A4175,364790,1,PR,364728,5,169700,road from Stockwood Hill,9
+12,6,E06000022,,364160,0,516,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,0,16,E,84,3/20/2009,2009,169000,6,1,404,A4175,364790,3,PR,364728,5,169700,road from Stockwood Hill,10
+10,4,E06000022,,364160,2,524,South West,,A4174 roundabout,168950,Bath and North East Somerset,1,57290,0,15,E,83,3/20/2009,2009,169000,9,0,413,A4175,364790,2,PR,364728,3,169700,road from Stockwood Hill,11
+13,5,E06000022,,364160,0,525,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,3,20,E,61,3/20/2009,2009,169000,9,1,430,A4175,364790,3,PR,364728,8,169700,road from Stockwood Hill,12
+9,7,E06000022,,364160,0,469,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,12,E,75,3/20/2009,2009,169000,4,0,371,A4175,364790,2,PR,364728,14,169700,road from Stockwood Hill,13
+9,6,E06000022,,364160,1,514,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,12,E,83,3/20/2009,2009,169000,13,0,400,A4175,364790,1,PR,364728,2,169700,road from Stockwood Hill,14
+12,12,E06000022,,364160,0,548,South West,,A4174 roundabout,168950,Bath and North East Somerset,1,57290,0,13,E,91,3/20/2009,2009,169000,10,0,422,A4175,364790,0,PR,364728,16,169700,road from Stockwood Hill,15
+7,4,E06000022,,364160,0,513,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,8,E,66,3/20/2009,2009,169000,8,0,427,A4175,364790,0,PR,364728,5,169700,road from Stockwood Hill,16
+6,7,E06000022,,364160,0,534,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,0,6,E,57,3/20/2009,2009,169000,5,0,459,A4175,364790,0,PR,364728,9,169700,road from Stockwood Hill,17
+0,6,E06000022,,364160,0,431,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,1,E,47,3/20/2009,2009,169000,4,0,373,A4175,364790,0,PR,364728,5,169700,road from Stockwood Hill,18
+14,7,E06000022,,364160,1,433,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,18,W,104,3/20/2009,2009,169000,7,1,297,A4175,364790,1,PR,364728,17,169700,road from Stockwood Hill,7
+15,8,E06000022,,364160,1,606,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,19,W,80,3/20/2009,2009,169000,1,0,498,A4175,364790,2,PR,364728,18,169700,road from Stockwood Hill,8
+9,8,E06000022,,364160,0,392,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,13,W,80,3/20/2009,2009,169000,3,1,288,A4175,364790,2,PR,364728,1,169700,road from Stockwood Hill,9
+9,6,E06000022,,364160,0,365,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,2,12,W,67,3/20/2009,2009,169000,1,0,279,A4175,364790,1,PR,364728,1,169700,road from Stockwood Hill,10
+9,9,E06000022,,364160,1,446,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,0,11,W,70,3/20/2009,2009,169000,4,0,352,A4175,364790,1,PR,364728,3,169700,road from Stockwood Hill,11
+9,6,E06000022,,364160,0,441,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,2,14,W,62,3/20/2009,2009,169000,10,1,349,A4175,364790,2,PR,364728,1,169700,road from Stockwood Hill,12
+9,6,E06000022,,364160,0,518,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,0,11,W,57,3/20/2009,2009,169000,10,0,434,A4175,364790,2,PR,364728,9,169700,road from Stockwood Hill,13
+10,8,E06000022,,364160,0,545,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,11,W,73,3/20/2009,2009,169000,11,0,442,A4175,364790,0,PR,364728,7,169700,road from Stockwood Hill,14
+4,9,E06000022,,364160,0,643,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,2,8,W,86,3/20/2009,2009,169000,10,0,530,A4175,364790,2,PR,364728,9,169700,road from Stockwood Hill,15
+2,7,E06000022,,364160,1,712,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,1,4,W,108,3/20/2009,2009,169000,15,0,578,A4175,364790,0,PR,364728,15,169700,road from Stockwood Hill,16
+1,7,E06000022,,364160,0,699,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,2,3,W,61,3/20/2009,2009,169000,10,0,618,A4175,364790,0,PR,364728,19,169700,road from Stockwood Hill,17
+0,5,E06000022,,364160,1,554,South West,,A4174 roundabout,168950,Bath and North East Somerset,0,57290,0,1,W,32,3/20/2009,2009,169000,14,0,502,A4175,364790,0,PR,364728,5,169700,road from Stockwood Hill,18
+0,4,E06000025,Brook Way,,0,368,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,1,N,36,3/20/2009,2009,182301,4,0,323,U,,1,UU,361306,11,,,7
+0,6,E06000025,Brook Way,,0,508,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,2,N,29,3/20/2009,2009,182301,3,0,468,U,,2,UU,361306,27,,,8
+4,7,E06000025,Brook Way,,0,312,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,4,N,23,3/20/2009,2009,182301,4,0,274,U,,0,UU,361306,8,,,9
+1,8,E06000025,Brook Way,,1,271,South West,north of Cornfield Close,,,South Gloucestershire,1,952441,0,4,N,46,3/20/2009,2009,182301,3,0,210,U,,1,UU,361306,1,,,10
+3,7,E06000025,Brook Way,,0,264,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,4,N,31,3/20/2009,2009,182301,9,0,213,U,,1,UU,361306,5,,,11
+5,6,E06000025,Brook Way,,0,301,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,8,N,30,3/20/2009,2009,182301,3,1,254,U,,2,UU,361306,2,,,12
+5,6,E06000025,Brook Way,,0,281,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,7,N,20,3/20/2009,2009,182301,3,0,245,U,,2,UU,361306,7,,,13
+2,7,E06000025,Brook Way,,0,304,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,3,N,27,3/20/2009,2009,182301,5,0,262,U,,1,UU,361306,1,,,14
+2,12,E06000025,Brook Way,,0,412,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,2,N,23,3/20/2009,2009,182301,8,0,367,U,,0,UU,361306,6,,,15
+1,12,E06000025,Brook Way,,0,503,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,1,N,37,3/20/2009,2009,182301,7,0,446,U,,0,UU,361306,4,,,16
+0,17,E06000025,Brook Way,,0,479,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,0,N,28,3/20/2009,2009,182301,3,0,431,U,,0,UU,361306,11,,,17
+0,6,E06000025,Brook Way,,0,343,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,0,N,20,3/20/2009,2009,182301,6,0,311,U,,0,UU,361306,3,,,18
+1,11,E06000025,Brook Way,,0,127,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,1,S,9,3/20/2009,2009,182301,4,0,102,U,,0,UU,361306,7,,,7
+2,12,E06000025,Brook Way,,0,275,South West,north of Cornfield Close,,,South Gloucestershire,1,952441,0,3,S,18,3/20/2009,2009,182301,2,0,240,U,,0,UU,361306,5,,,8
+2,7,E06000025,Brook Way,,0,213,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,3,S,19,3/20/2009,2009,182301,4,0,180,U,,1,UU,361306,3,,,9
+2,7,E06000025,Brook Way,,0,194,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,4,S,21,3/20/2009,2009,182301,3,0,159,U,,2,UU,361306,3,,,10
+3,9,E06000025,Brook Way,,0,203,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,3,S,26,3/20/2009,2009,182301,3,0,162,U,,0,UU,361306,3,,,11
+6,6,E06000025,Brook Way,,0,280,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,6,S,16,3/20/2009,2009,182301,3,0,249,U,,0,UU,361306,2,,,12
+3,7,E06000025,Brook Way,,0,212,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,4,S,15,3/20/2009,2009,182301,5,0,181,U,,1,UU,361306,1,,,13
+4,7,E06000025,Brook Way,,0,250,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,5,S,20,3/20/2009,2009,182301,2,0,216,U,,1,UU,361306,4,,,14
+1,7,E06000025,Brook Way,,0,307,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,1,S,20,3/20/2009,2009,182301,6,0,273,U,,0,UU,361306,5,,,15
+4,9,E06000025,Brook Way,,0,412,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,4,S,18,3/20/2009,2009,182301,3,0,378,U,,0,UU,361306,8,,,16
+5,7,E06000025,Brook Way,,0,325,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,5,S,29,3/20/2009,2009,182301,5,0,279,U,,0,UU,361306,13,,,17
+2,3,E06000025,Brook Way,,0,286,South West,north of Cornfield Close,,,South Gloucestershire,0,952441,0,2,S,30,3/20/2009,2009,182301,9,0,242,U,,0,UU,361306,5,,,18

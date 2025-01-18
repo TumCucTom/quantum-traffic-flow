@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000022,167400,1,Bath and North East Somerset,0,20,"Penn Hill Rd, Bath",PR,4,2,6/18/2004,1,372110,231,17,0,E,LA boundary,3,204,369260,2004,0,165860,168910,,,370000,47162,A431,0
+0,South West,E06000022,167400,0,Bath and North East Somerset,0,34,"Penn Hill Rd, Bath",PR,2,16,6/18/2004,0,372110,500,17,0,W,LA boundary,0,448,369260,2004,0,165860,168910,,,370000,47162,A431,0
+0,South West,E06000023,172990,0,"Bristol, City of",0,5,,UU,0,0,6/18/2004,0,,154,17,0,N,,0,149,,2004,0,,,SION HILL,North of Caledonia Place,356640,930431,U,0
+0,South West,E06000023,172990,0,"Bristol, City of",0,11,,UU,0,1,6/18/2004,0,,87,17,0,S,,2,75,,2004,0,,,SION HILL,North of Caledonia Place,356640,930431,U,0
+0,South West,E06000025,174250,4,South Gloucestershire,0,15,,UU,5,4,6/18/2004,4,,110,17,0,N,,3,82,,2004,0,,,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0
+0,South West,E06000025,174250,0,South Gloucestershire,0,16,,UU,3,1,6/18/2004,0,,88,17,0,S,,1,68,,2004,0,,,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0

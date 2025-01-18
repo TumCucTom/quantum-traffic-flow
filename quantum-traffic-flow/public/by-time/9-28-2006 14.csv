@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+25,South West,E06000025,183482,413,South Gloucestershire,90,456,16,TM,17,29,9/28/2006,151,360686,4897,14,22,E,15 / M4,0,3982,361812,2006,95,183284,183775,,,361000,99607,M5,30
+27,South West,E06000025,183482,346,South Gloucestershire,60,483,16,TM,12,20,9/28/2006,111,360686,4400,14,22,W,15 / M4,0,3539,361812,2006,106,183284,183775,,,361000,99607,M5,20
+0,South West,E06000022,154069,4,Bath and North East Somerset,0,32,,UU,5,2,9/28/2006,4,,239,14,0,N,,0,196,,2006,0,,,Paulton Road,Midsomer Norton. Park in a safe location,365838,952454,U,0
+1,South West,E06000022,154069,3,Bath and North East Somerset,0,21,,UU,3,1,9/28/2006,2,,188,14,0,S,,3,160,,2006,0,,,Paulton Road,Midsomer Norton. Park in a safe location,365838,952454,U,0

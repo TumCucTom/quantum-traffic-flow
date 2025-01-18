@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+27,South West,E06000025,182900,502,South Gloucestershire,107,428,Junction 17 M5,TM,11,28,9/18/2007,143,357747,3688,14,27,N,Junction 16 M5,0,2719,360686,2007,150,181250,183284,,,360000,99619,M5,48
+37,South West,E06000025,182900,437,South Gloucestershire,111,425,Junction 17 M5,TM,29,9,9/18/2007,110,357747,3225,14,23,S,Junction 16 M5,0,2325,360686,2007,134,181250,183284,,,360000,99619,M5,22
+0,South West,E06000025,176630,2,South Gloucestershire,0,3,,CR,0,1,9/18/2007,2,,35,14,0,E,,2,29,,2007,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,0
+0,South West,E06000025,176630,4,South Gloucestershire,0,8,,CR,0,2,9/18/2007,2,,46,14,1,W,,0,32,,2007,0,,,FELTHAM ROAD,"east of Castle Road, Pucklechurch",370520,930458,C,1
+0,South West,E06000022,164020,1,Bath and North East Somerset,0,23,,BU,2,8,9/18/2007,1,,182,14,0,E,,4,148,,2007,0,,,Oldfield Road,Park in a safe location,374270,990072,B3111,0
+0,South West,E06000022,164020,2,Bath and North East Somerset,0,26,,BU,2,1,9/18/2007,2,,187,14,0,W,,1,156,,2007,0,,,Oldfield Road,Park in a safe location,374270,990072,B3111,0

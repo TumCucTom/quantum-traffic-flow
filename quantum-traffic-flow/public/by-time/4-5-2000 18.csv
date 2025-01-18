@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,161240,2,North Somerset,0,15,A370 Beach Road,PU,21,2,4/5/2000,2,331800,169,18,0,E,Walliscote  Road,6,129,332110,2000,0,161230,161180,,,332000,70098,A370,0
+0,South West,E06000024,161240,0,North Somerset,0,9,A370 Beach Road,PU,3,0,4/5/2000,0,331800,70,18,0,W,Walliscote  Road,3,58,332110,2000,0,161230,161180,,,332000,70098,A370,0
+0,South West,E06000023,168000,3,"Bristol, City of",0,16,,CU,2,3,4/5/2000,3,,172,18,0,N,,3,148,,2000,0,,,Stockwood Road,,362000,963478,C,0
+0,South West,E06000023,168000,5,"Bristol, City of",0,43,,CU,1,3,4/5/2000,3,,357,18,2,S,,4,305,,2000,0,,,Stockwood Road,,362000,963478,C,0

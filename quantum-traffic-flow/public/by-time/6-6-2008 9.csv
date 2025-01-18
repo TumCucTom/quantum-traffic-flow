@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,174250,1,South Gloucestershire,0,14,UU,4,0,6/6/2008,1,78,9,0,N,0,59,2008,0,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0
+0,South West,E06000025,174250,0,South Gloucestershire,0,11,UU,8,1,6/6/2008,0,76,9,0,S,0,56,2008,0,HOLLY HILL ROAD,"north of Dawn Rise, Kingswood",365960,930457,U,0
+0,South West,E06000023,176317,0,"Bristol, City of",0,1,UU,0,0,6/6/2008,0,2,9,0,E,0,1,2008,0,HIGHFIELD GROVE,North of Maple Road,358775,946812,U,0
+0,South West,E06000023,176317,0,"Bristol, City of",0,1,UU,0,0,6/6/2008,0,7,9,0,W,0,6,2008,0,HIGHFIELD GROVE,North of Maple Road,358775,946812,U,0
+1,South West,E06000024,170336,3,North Somerset,0,47,UU,1,1,6/6/2008,2,145,9,0,E,0,93,2008,0,TWEED ROAD,"East of Strode Road, Clevedon",340041,947290,U,0
+0,South West,E06000024,170336,7,North Somerset,0,46,UU,0,0,6/6/2008,5,122,9,0,W,0,69,2008,2,TWEED ROAD,"East of Strode Road, Clevedon",340041,947290,U,0

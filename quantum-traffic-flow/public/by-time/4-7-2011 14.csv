@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+6,South West,E06000023,169470,34,"Bristol, City of",3,120,Hartcliffe Way roundabout,PU,9,10,4/7/2011,18,358757,751,14,4,E,A37,5,578,360895,2011,3,168569,169989,,,360000,7841,A4174,0
+5,South West,E06000023,169470,37,"Bristol, City of",4,93,Hartcliffe Way roundabout,PU,7,14,4/7/2011,20,358757,616,14,5,W,A37,3,465,360895,2011,2,168569,169989,,,360000,7841,A4174,1
+0,South West,E06000024,166588,14,North Somerset,4,43,,BU,3,2,4/7/2011,7,,257,14,2,N,,2,195,,2011,0,,,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,1
+1,South West,E06000024,166588,21,North Somerset,2,38,,BU,4,4,4/7/2011,9,,372,14,3,S,,2,305,,2011,0,,,NORTH END,"East of Arnolds Way, Yatton",342284,947248,B3133,6

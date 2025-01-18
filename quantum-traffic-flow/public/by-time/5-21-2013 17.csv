@@ -1,0 +1,7 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,168941,0,North Somerset,0,3,CU,0,0,5/21/2013,0,19,17,0,N,0,16,2013,0,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000024,168941,0,North Somerset,0,2,CU,0,0,5/21/2013,0,41,17,0,S,1,39,2013,0,CHURCH LANE,"South of Uncombe Close, Backwell Farleigh",349549,947262,C,0
+0,South West,E06000025,183516,0,South Gloucestershire,0,5,UU,1,4,5/21/2013,0,78,17,0,E,3,68,2013,0,HALIFAX ROAD,"east of Greenways Road, Yate",370712,947531,U,0
+0,South West,E06000025,183516,0,South Gloucestershire,0,10,UU,1,0,5/21/2013,0,60,17,0,W,2,49,2013,0,HALIFAX ROAD,"east of Greenways Road, Yate",370712,947531,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,1,UU,0,0,5/21/2013,0,15,17,0,N,0,14,2013,0,Claverham Road,North of Manor Road,363128,951879,U,0
+0,South West,E06000023,176155,0,"Bristol, City of",0,2,UU,0,0,5/21/2013,0,10,17,0,S,0,8,2013,0,Claverham Road,North of Manor Road,363128,951879,U,0

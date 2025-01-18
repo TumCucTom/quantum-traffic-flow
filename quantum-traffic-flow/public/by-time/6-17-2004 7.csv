@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+3,South West,E06000025,178500,16,South Gloucestershire,1,60,LA Boundary,PU,16,24,6/17/2004,11,359900,662,7,1,N,A4174,57,546,360131,2004,0,178150,178978,,,360000,46407,A38,0
+5,South West,E06000025,178500,21,South Gloucestershire,2,122,LA Boundary,PU,23,21,6/17/2004,9,359900,758,7,3,S,A4174,16,571,360131,2004,1,178150,178978,,,360000,46407,A38,1
+0,South West,E06000024,161770,0,North Somerset,0,33,,CR,1,3,6/17/2004,0,,211,7,0,E,,0,174,,2004,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0
+0,South West,E06000024,161770,1,North Somerset,0,12,,CR,0,0,6/17/2004,1,,86,7,0,W,,0,73,,2004,0,,,Churchland Way,"West of Summer Lane, W-s-M",337360,930447,C,0

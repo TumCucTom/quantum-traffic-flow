@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000024,175670,38,North Somerset,3,56,Portishead  B3124,PR,7,5,6/19/2001,27,347660,663,9,3,E,M5 J 19,3,557,350670,2001,4,175680,175620,,,350000,57052,A369,1
+0,South West,E06000024,175670,49,North Somerset,4,85,Portishead  B3124,PR,6,0,6/19/2001,37,347660,526,9,4,W,M5 J 19,0,386,350670,2001,3,175680,175620,,,350000,57052,A369,1
+0,South West,E06000024,171526,1,North Somerset,0,13,,UU,0,0,6/19/2001,0,,116,9,1,N,,0,102,,2001,0,,,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0
+0,South West,E06000024,171526,3,North Somerset,0,9,,UU,0,1,6/19/2001,2,,247,9,1,S,,2,234,,2001,0,,,Park Road,"East of Chaple Hill, Clevedon",340957,966002,U,0

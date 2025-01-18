@@ -1,0 +1,4 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+13,South West,E06000023,172591,59,"Bristol, City of",1,180,A3029,PU,32,59,5/15/2001,34,356860,2495,8,5,W,A4 split,23,2165,357170,2001,4,172400,172520,,,357000,28726,A4,2
+0,South West,E06000022,164204,6,Bath and North East Somerset,0,68,,CU,14,5,5/15/2001,6,,493,8,0,E,,10,400,,2001,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0
+0,South West,E06000022,164204,5,Bath and North East Somerset,0,18,,CU,15,1,5/15/2001,5,,144,8,0,W,,1,105,,2001,0,,,Cynthia Road,Positioned on Cynthia Road between Mayfield Road and Herbert Road,373491,966018,C,0

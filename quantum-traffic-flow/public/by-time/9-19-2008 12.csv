@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,RCat,BUS,2WMV,dCount,HGVR2,AMV,Hour,HGVR3,iDir,PC,CAR,Year,HGVA5,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000023,177858,1,"Bristol, City of",0,2,UU,0,0,9/19/2008,1,41,12,0,N,2,38,2008,0,ATLANTIC ROAD,North of Avonmouth Road,352373,946786,U,0
+0,South West,E06000023,177858,0,"Bristol, City of",0,4,UU,0,0,9/19/2008,0,34,12,0,S,0,30,2008,0,ATLANTIC ROAD,North of Avonmouth Road,352373,946786,U,0
+0,South West,E06000023,174000,8,"Bristol, City of",0,56,UU,0,5,9/19/2008,7,281,12,1,N,3,212,2008,0,Pennywell Road,,360100,968105,U,0
+0,South West,E06000023,174000,1,"Bristol, City of",0,8,UU,0,0,9/19/2008,0,34,12,1,S,3,25,2008,0,Pennywell Road,,360100,968105,U,0

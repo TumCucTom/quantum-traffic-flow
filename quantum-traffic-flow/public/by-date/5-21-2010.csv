@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+2,2,E06000022,,375490,0,150,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,2,N,20,5/21/2010,2010,164000,1,0,125,A3062,376054,0,PU,375630,5,164250,North Rd/The Avenue,7
+2,3,E06000022,,375490,0,276,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,3,N,24,5/21/2010,2010,164000,4,0,242,A3062,376054,1,PU,375630,11,164250,North Rd/The Avenue,8
+5,2,E06000022,,375490,0,256,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,1,6,N,20,5/21/2010,2010,164000,0,0,228,A3062,376054,0,PU,375630,4,164250,North Rd/The Avenue,9
+3,2,E06000022,,375490,0,248,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,4,N,33,5/21/2010,2010,164000,3,0,206,A3062,376054,1,PU,375630,3,164250,North Rd/The Avenue,10
+4,5,E06000022,,375490,0,212,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,5,N,25,5/21/2010,2010,164000,5,1,172,A3062,376054,0,PU,375630,0,164250,North Rd/The Avenue,11
+2,4,E06000022,,375490,0,209,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,3,N,30,5/21/2010,2010,164000,2,0,170,A3062,376054,1,PU,375630,5,164250,North Rd/The Avenue,12
+3,6,E06000022,,375490,0,214,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,4,N,36,5/21/2010,2010,164000,2,0,166,A3062,376054,1,PU,375630,4,164250,North Rd/The Avenue,13
+6,4,E06000022,,375490,0,204,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,6,N,21,5/21/2010,2010,164000,1,0,172,A3062,376054,0,PU,375630,5,164250,North Rd/The Avenue,14
+1,4,E06000022,,375490,0,255,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,1,N,27,5/21/2010,2010,164000,4,0,219,A3062,376054,0,PU,375630,3,164250,North Rd/The Avenue,15
+0,4,E06000022,,375490,0,249,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,N,24,5/21/2010,2010,164000,4,0,217,A3062,376054,0,PU,375630,2,164250,North Rd/The Avenue,16
+0,6,E06000022,,375490,0,236,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,N,16,5/21/2010,2010,164000,3,0,211,A3062,376054,0,PU,375630,4,164250,North Rd/The Avenue,17
+0,6,E06000022,,375490,0,180,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,N,13,5/21/2010,2010,164000,1,0,160,A3062,376054,0,PU,375630,1,164250,North Rd/The Avenue,18
+2,3,E06000022,,375490,0,151,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,2,S,14,5/21/2010,2010,164000,1,0,131,A3062,376054,0,PU,375630,3,164250,North Rd/The Avenue,7
+2,3,E06000022,,375490,0,263,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,3,S,23,5/21/2010,2010,164000,5,0,229,A3062,376054,1,PU,375630,2,164250,North Rd/The Avenue,8
+2,3,E06000022,,375490,0,168,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,1,4,S,19,5/21/2010,2010,164000,3,0,139,A3062,376054,1,PU,375630,0,164250,North Rd/The Avenue,9
+5,3,E06000022,,375490,0,201,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,5,S,30,5/21/2010,2010,164000,0,0,163,A3062,376054,0,PU,375630,0,164250,North Rd/The Avenue,10
+7,2,E06000022,,375490,0,248,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,10,S,38,5/21/2010,2010,164000,1,1,197,A3062,376054,2,PU,375630,2,164250,North Rd/The Avenue,11
+1,0,E06000022,,375490,0,199,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,2,S,27,5/21/2010,2010,164000,1,0,169,A3062,376054,1,PU,375630,2,164250,North Rd/The Avenue,12
+2,3,E06000022,,375490,0,190,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,3,S,17,5/21/2010,2010,164000,3,0,164,A3062,376054,1,PU,375630,0,164250,North Rd/The Avenue,13
+3,2,E06000022,,375490,0,218,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,3,S,13,5/21/2010,2010,164000,3,0,197,A3062,376054,0,PU,375630,4,164250,North Rd/The Avenue,14
+0,4,E06000022,,375490,0,253,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,S,13,5/21/2010,2010,164000,0,0,236,A3062,376054,0,PU,375630,4,164250,North Rd/The Avenue,15
+0,2,E06000022,,375490,0,252,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,S,17,5/21/2010,2010,164000,5,0,228,A3062,376054,0,PU,375630,3,164250,North Rd/The Avenue,16
+0,3,E06000022,,375490,0,186,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,S,12,5/21/2010,2010,164000,1,0,170,A3062,376054,0,PU,375630,8,164250,North Rd/The Avenue,17
+0,2,E06000022,,375490,0,164,South West,,A36 roundabout,162640,Bath and North East Somerset,0,17552,0,0,S,9,5/21/2010,2010,164000,2,0,151,A3062,376054,0,PU,375630,8,164250,North Rd/The Avenue,18
+0,0,E06000025,STOKEMEAD,,0,35,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,6,5/21/2010,2010,181754,0,0,29,U,,0,UU,361069,5,,,7
+1,0,E06000025,STOKEMEAD,,0,43,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,1,E,14,5/21/2010,2010,181754,1,0,27,U,,0,UU,361069,0,,,8
+1,0,E06000025,STOKEMEAD,,0,38,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,1,E,3,5/21/2010,2010,181754,0,0,34,U,,0,UU,361069,3,,,9
+0,0,E06000025,STOKEMEAD,,0,35,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,1,E,5,5/21/2010,2010,181754,0,1,29,U,,0,UU,361069,0,,,10
+0,0,E06000025,STOKEMEAD,,0,30,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,3,5/21/2010,2010,181754,0,0,27,U,,0,UU,361069,0,,,11
+0,0,E06000025,STOKEMEAD,,0,31,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,5,5/21/2010,2010,181754,0,0,26,U,,0,UU,361069,2,,,12
+0,0,E06000025,STOKEMEAD,,0,26,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,2,5/21/2010,2010,181754,0,0,24,U,,0,UU,361069,0,,,13
+0,0,E06000025,STOKEMEAD,,0,41,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,6,5/21/2010,2010,181754,0,0,35,U,,0,UU,361069,2,,,14
+0,1,E06000025,STOKEMEAD,,0,54,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,6,5/21/2010,2010,181754,1,0,46,U,,0,UU,361069,5,,,15
+0,0,E06000025,STOKEMEAD,,0,47,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,1,5/21/2010,2010,181754,1,0,45,U,,0,UU,361069,2,,,16
+0,0,E06000025,STOKEMEAD,,0,26,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,3,5/21/2010,2010,181754,0,0,23,U,,0,UU,361069,1,,,17
+0,0,E06000025,STOKEMEAD,,0,40,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,E,3,5/21/2010,2010,181754,1,0,36,U,,0,UU,361069,0,,,18
+0,0,E06000025,STOKEMEAD,,0,22,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,0,5/21/2010,2010,181754,0,0,22,U,,0,UU,361069,3,,,7
+1,0,E06000025,STOKEMEAD,,0,37,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,1,W,6,5/21/2010,2010,181754,0,0,30,U,,0,UU,361069,1,,,8
+0,0,E06000025,STOKEMEAD,,0,30,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,3,5/21/2010,2010,181754,0,0,27,U,,0,UU,361069,1,,,9
+0,0,E06000025,STOKEMEAD,,0,26,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,1,5/21/2010,2010,181754,2,0,23,U,,0,UU,361069,0,,,10
+0,0,E06000025,STOKEMEAD,,0,31,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,2,5/21/2010,2010,181754,0,0,29,U,,0,UU,361069,0,,,11
+0,0,E06000025,STOKEMEAD,,0,25,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,5,5/21/2010,2010,181754,0,0,20,U,,0,UU,361069,1,,,12
+0,0,E06000025,STOKEMEAD,,0,19,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,2,5/21/2010,2010,181754,0,0,17,U,,0,UU,361069,1,,,13
+0,0,E06000025,STOKEMEAD,,0,46,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,4,5/21/2010,2010,181754,0,0,42,U,,0,UU,361069,3,,,14
+0,0,E06000025,STOKEMEAD,,0,42,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,7,5/21/2010,2010,181754,0,0,35,U,,0,UU,361069,2,,,15
+0,1,E06000025,STOKEMEAD,,0,54,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,5,5/21/2010,2010,181754,3,0,45,U,,0,UU,361069,3,,,16
+1,0,E06000025,STOKEMEAD,,0,40,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,1,W,5,5/21/2010,2010,181754,0,0,34,U,,0,UU,361069,5,,,17
+0,0,E06000025,STOKEMEAD,,0,32,South West,"west of Stoke Lane, Little Stoke",,,South Gloucestershire,0,947543,0,0,W,3,5/21/2010,2010,181754,1,0,28,U,,0,UU,361069,3,,,18

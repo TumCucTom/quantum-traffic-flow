@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+0,South West,E06000025,177000,1,South Gloucestershire,0,40,LA Boundary,PU,3,0,9/22/2009,1,364220,336,18,0,N,Cleeve Wood Road,6,292,364725,2009,0,176370,177204,,,364662,8057,A4017,0
+0,South West,E06000025,177000,2,South Gloucestershire,0,39,LA Boundary,PU,2,6,9/22/2009,2,364220,401,18,0,S,Cleeve Wood Road,9,352,364725,2009,0,176370,177204,,,364662,8057,A4017,0
+0,South West,E06000024,175970,0,North Somerset,0,15,,UU,6,2,9/22/2009,0,,211,18,0,E,,5,188,,2009,0,,,DOWN ROAD,"West of Tower Road, Portishead",345170,930451,U,0
+0,South West,E06000024,175970,0,North Somerset,0,6,,UU,3,2,9/22/2009,0,,244,18,0,W,,4,233,,2009,0,,,DOWN ROAD,"West of Tower Road, Portishead",345170,930451,U,0

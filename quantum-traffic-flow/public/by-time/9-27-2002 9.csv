@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+4,South West,E06000023,171000,24,"Bristol, City of",1,61,Parson St,PU,21,14,9/27/2002,0,357810,527,9,16,E,A370 roundabout,5,407,359017,2002,2,170690,172014,,,358000,6401,A38,1
+1,South West,E06000023,171000,14,"Bristol, City of",3,58,Parson St,PU,16,0,9/27/2002,0,357810,308,9,10,W,A370 roundabout,5,220,359017,2002,0,170690,172014,,,358000,6401,A38,0
+0,South West,E06000023,176956,0,"Bristol, City of",0,1,,UU,0,0,9/27/2002,0,,13,9,0,E,,0,12,,2002,0,,,Hill Grove,West of the Crescent,358333,966008,U,0
+0,South West,E06000023,176956,0,"Bristol, City of",0,0,,UU,0,0,9/27/2002,0,,15,9,0,W,,1,15,,2002,0,,,Hill Grove,West of the Crescent,358333,966008,U,0

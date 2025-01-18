@@ -1,0 +1,49 @@
+HGVR2,BUS,ONS LACode,Road Name,A Ref E,HGVR4,AMV,Region Name (GO),CP Location,A-Junction,B Ref N,ONS LA Name,HGVA3,CP,HGVA6,HGV,iDir,LGV,dCount,Year,S Ref N,2WMV,HGVA5,CAR,Road,B Ref E,HGVR3,RCat,S Ref E,PC,A Ref N,B-Junction,Hour
+34,12,E06000023,,362650,7,1123,South West,,Emery Rd,169810,"Bristol, City of",2,36132,5,53,E,222,5/12/2009,2009,170000,15,0,821,A4,363720,5,PR,363100,20,170180,LA Boundary,7
+41,17,E06000023,,362650,5,1230,South West,,Emery Rd,169810,"Bristol, City of",0,36132,5,64,E,227,5/12/2009,2009,170000,37,2,885,A4,363720,11,PR,363100,37,170180,LA Boundary,8
+43,19,E06000023,,362650,14,946,South West,,Emery Rd,169810,"Bristol, City of",2,36132,9,80,E,171,5/12/2009,2009,170000,14,4,662,A4,363720,8,PR,363100,5,170180,LA Boundary,9
+46,14,E06000023,,362650,11,1051,South West,,Emery Rd,169810,"Bristol, City of",2,36132,7,76,E,189,5/12/2009,2009,170000,14,6,758,A4,363720,4,PR,363100,1,170180,LA Boundary,10
+33,12,E06000023,,362650,14,1110,South West,,Emery Rd,169810,"Bristol, City of",2,36132,9,70,E,205,5/12/2009,2009,170000,15,4,808,A4,363720,8,PR,363100,2,170180,LA Boundary,11
+40,12,E06000023,,362650,9,1257,South West,,Emery Rd,169810,"Bristol, City of",0,36132,3,67,E,183,5/12/2009,2009,170000,22,8,973,A4,363720,7,PR,363100,7,170180,LA Boundary,12
+23,13,E06000023,,362650,6,1175,South West,,Emery Rd,169810,"Bristol, City of",3,36132,8,47,E,168,5/12/2009,2009,170000,22,5,925,A4,363720,2,PR,363100,5,170180,LA Boundary,13
+33,17,E06000023,,362650,15,1253,South West,,Emery Rd,169810,"Bristol, City of",1,36132,1,58,E,185,5/12/2009,2009,170000,25,5,968,A4,363720,3,PR,363100,15,170180,LA Boundary,14
+19,12,E06000023,,362650,5,1266,South West,,Emery Rd,169810,"Bristol, City of",1,36132,3,37,E,172,5/12/2009,2009,170000,25,6,1020,A4,363720,3,PR,363100,24,170180,LA Boundary,15
+9,21,E06000023,,362650,1,1538,South West,,Emery Rd,169810,"Bristol, City of",3,36132,1,19,E,173,5/12/2009,2009,170000,60,4,1265,A4,363720,1,PR,363100,36,170180,LA Boundary,16
+13,9,E06000023,,362650,1,1627,South West,,Emery Rd,169810,"Bristol, City of",1,36132,2,20,E,112,5/12/2009,2009,170000,73,2,1413,A4,363720,1,PR,363100,48,170180,LA Boundary,17
+5,15,E06000023,,362650,0,1433,South West,,Emery Rd,169810,"Bristol, City of",0,36132,0,7,E,108,5/12/2009,2009,170000,39,2,1264,A4,363720,0,PR,363100,16,170180,LA Boundary,18
+25,16,E06000023,,362650,8,1467,South West,,Emery Rd,169810,"Bristol, City of",1,36132,5,45,W,200,5/12/2009,2009,170000,44,4,1162,A4,363720,2,PR,363100,36,170180,LA Boundary,7
+27,22,E06000023,,362650,7,1490,South West,,Emery Rd,169810,"Bristol, City of",0,36132,5,46,W,128,5/12/2009,2009,170000,69,5,1225,A4,363720,2,PR,363100,58,170180,LA Boundary,8
+56,26,E06000023,,362650,14,1445,South West,,Emery Rd,169810,"Bristol, City of",4,36132,8,95,W,166,5/12/2009,2009,170000,23,5,1135,A4,363720,8,PR,363100,7,170180,LA Boundary,9
+46,13,E06000023,,362650,8,1265,South West,,Emery Rd,169810,"Bristol, City of",3,36132,11,83,W,178,5/12/2009,2009,170000,20,7,971,A4,363720,8,PR,363100,16,170180,LA Boundary,10
+39,11,E06000023,,362650,16,1194,South West,,Emery Rd,169810,"Bristol, City of",3,36132,8,74,W,196,5/12/2009,2009,170000,13,3,900,A4,363720,5,PR,363100,10,170180,LA Boundary,11
+36,19,E06000023,,362650,8,1101,South West,,Emery Rd,169810,"Bristol, City of",4,36132,6,66,W,183,5/12/2009,2009,170000,28,4,805,A4,363720,8,PR,363100,4,170180,LA Boundary,12
+39,14,E06000023,,362650,8,1175,South West,,Emery Rd,169810,"Bristol, City of",5,36132,4,70,W,180,5/12/2009,2009,170000,13,6,898,A4,363720,8,PR,363100,7,170180,LA Boundary,13
+35,15,E06000023,,362650,6,969,South West,,Emery Rd,169810,"Bristol, City of",0,36132,6,60,W,153,5/12/2009,2009,170000,6,8,735,A4,363720,5,PR,363100,5,170180,LA Boundary,14
+43,12,E06000023,,362650,7,1145,South West,,Emery Rd,169810,"Bristol, City of",1,36132,5,67,W,156,5/12/2009,2009,170000,17,8,893,A4,363720,3,PR,363100,24,170180,LA Boundary,15
+20,18,E06000023,,362650,3,1304,South West,,Emery Rd,169810,"Bristol, City of",0,36132,1,31,W,195,5/12/2009,2009,170000,18,4,1042,A4,363720,3,PR,363100,11,170180,LA Boundary,16
+11,10,E06000023,,362650,1,1342,South West,,Emery Rd,169810,"Bristol, City of",0,36132,0,14,W,121,5/12/2009,2009,170000,19,2,1178,A4,363720,0,PR,363100,20,170180,LA Boundary,17
+7,12,E06000023,,362650,0,1324,South West,,Emery Rd,169810,"Bristol, City of",0,36132,0,11,W,114,5/12/2009,2009,170000,19,4,1168,A4,363720,0,PR,363100,17,170180,LA Boundary,18
+0,1,E06000022,Cynthia Road,,0,38,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,E,6,5/12/2009,2009,164166,0,0,30,C,,1,CU,373543,2,,,7
+0,0,E06000022,Cynthia Road,,0,82,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,11,5/12/2009,2009,164166,0,0,71,C,,0,CU,373543,1,,,8
+0,0,E06000022,Cynthia Road,,0,46,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,8,5/12/2009,2009,164166,0,0,38,C,,0,CU,373543,1,,,9
+0,0,E06000022,Cynthia Road,,0,51,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,E,18,5/12/2009,2009,164166,0,0,32,C,,1,CU,373543,0,,,10
+0,0,E06000022,Cynthia Road,,0,58,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,10,5/12/2009,2009,164166,4,0,44,C,,0,CU,373543,0,,,11
+0,0,E06000022,Cynthia Road,,0,58,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,14,5/12/2009,2009,164166,0,0,44,C,,0,CU,373543,2,,,12
+3,1,E06000022,Cynthia Road,,0,88,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,3,E,21,5/12/2009,2009,164166,0,0,63,C,,0,CU,373543,0,,,13
+1,0,E06000022,Cynthia Road,,0,79,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,E,14,5/12/2009,2009,164166,3,0,61,C,,0,CU,373543,1,,,14
+0,1,E06000022,Cynthia Road,,0,108,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,18,5/12/2009,2009,164166,0,0,89,C,,0,CU,373543,0,,,15
+0,0,E06000022,Cynthia Road,,0,84,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,13,5/12/2009,2009,164166,4,0,67,C,,0,CU,373543,2,,,16
+2,0,E06000022,Cynthia Road,,0,103,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,2,E,11,5/12/2009,2009,164166,3,0,87,C,,0,CU,373543,6,,,17
+0,0,E06000022,Cynthia Road,,0,83,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,E,4,5/12/2009,2009,164166,1,0,78,C,,0,CU,373543,5,,,18
+1,0,E06000022,Cynthia Road,,0,39,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,6,5/12/2009,2009,164166,0,0,32,C,,0,CU,373543,3,,,7
+0,0,E06000022,Cynthia Road,,0,52,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,3,5/12/2009,2009,164166,1,0,48,C,,0,CU,373543,7,,,8
+1,0,E06000022,Cynthia Road,,0,38,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,3,5/12/2009,2009,164166,0,0,34,C,,0,CU,373543,0,,,9
+0,0,E06000022,Cynthia Road,,0,33,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,3,5/12/2009,2009,164166,2,0,28,C,,0,CU,373543,0,,,10
+0,0,E06000022,Cynthia Road,,0,30,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,6,5/12/2009,2009,164166,0,0,24,C,,0,CU,373543,0,,,11
+0,0,E06000022,Cynthia Road,,0,38,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,8,5/12/2009,2009,164166,1,0,29,C,,0,CU,373543,1,,,12
+1,0,E06000022,Cynthia Road,,0,33,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,3,5/12/2009,2009,164166,2,0,27,C,,0,CU,373543,0,,,13
+0,0,E06000022,Cynthia Road,,0,27,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,5,5/12/2009,2009,164166,0,0,22,C,,0,CU,373543,0,,,14
+0,0,E06000022,Cynthia Road,,0,45,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,8,5/12/2009,2009,164166,0,0,37,C,,0,CU,373543,2,,,15
+0,0,E06000022,Cynthia Road,,0,35,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,3,5/12/2009,2009,164166,1,0,30,C,,1,CU,373543,1,,,16
+1,0,E06000022,Cynthia Road,,0,47,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,1,W,9,5/12/2009,2009,164166,0,0,37,C,,0,CU,373543,2,,,17
+0,0,E06000022,Cynthia Road,,0,33,South West,Positioned on Cynthia Road between Mayfield Road and Herbert Road,,,Bath and North East Somerset,0,966018,0,0,W,3,5/12/2009,2009,164166,0,0,30,C,,0,CU,373543,3,,,18

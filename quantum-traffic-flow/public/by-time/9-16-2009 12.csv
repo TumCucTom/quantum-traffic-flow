@@ -1,0 +1,5 @@
+HGVR4,Region Name (GO),ONS LACode,S Ref N,HGV,ONS LA Name,HGVA6,LGV,A-Junction,RCat,BUS,2WMV,dCount,HGVR2,A Ref E,AMV,Hour,HGVR3,iDir,B-Junction,PC,CAR,B Ref E,Year,HGVA5,A Ref N,B Ref N,Road Name,CP Location,S Ref E,CP,Road,HGVA3
+5,South West,E06000023,171000,84,"Bristol, City of",3,181,A4320,PU,22,15,9/16/2009,57,361100,1092,12,6,N,Eagle Rd,10,790,361560,2009,10,171600,170920,,,361450,99508,A4,3
+5,South West,E06000023,171000,51,"Bristol, City of",2,134,A4320,PU,21,12,9/16/2009,30,361100,832,12,11,S,Eagle Rd,1,614,361560,2009,2,171600,170920,,,361450,99508,A4,1
+0,South West,E06000023,175210,0,"Bristol, City of",0,1,,UU,0,0,9/16/2009,0,,24,12,0,N,,1,23,,2009,0,,,Effingham Road,North of Grenville Road,359243,969256,U,0
+0,South West,E06000023,175210,0,"Bristol, City of",0,2,,UU,0,0,9/16/2009,0,,23,12,0,S,,1,21,,2009,0,,,Effingham Road,North of Grenville Road,359243,969256,U,0
