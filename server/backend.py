@@ -2,7 +2,9 @@ from flask import Flask, request, jsonify
 import pickle
 import os
 import networkx as nx
-from algorithm import main as run_qaoa
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from QAOA.algorithm import main as run_qaoa
 
 app = Flask(__name__)
 
