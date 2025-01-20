@@ -1,6 +1,6 @@
 # Quantum Traffic Flow Optimization App
 
-This repository contains the **Quantum Traffic Flow Optimization App**, a project leveraging the Quantum Approximate Optimization Algorithm (QAOA) to enhance local traffic management in Bristol, England. The app dynamically optimizes traffic light timings and reroutes vehicles to reduce congestion and improve overall traffic flow. Accident mitigation may also be added.
+This repository contains the **Quantum Traffic Flow Optimization App**, a project leveraging the Quantum Approximate Optimization Algorithm (QAOA) to enhance local traffic management in Bristol, England. The app dynamically optimizes and reroutes vehicles to reduce congestion and improve overall traffic flow. Accident mitigation may also be added.
 
 ---
 
